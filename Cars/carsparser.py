@@ -3,7 +3,7 @@ import random
 import json
 
 # Load the data from the CSV file
-data_path = '/Users/aruzan/Downloads/Cars Dataset 1983.csv'  # Adjust this to the path where your dataset is located
+data_path = 'input.csv'
 data = pd.read_csv(data_path)
 
 # Function to generate a single Chart.js configuration with axis-specific labels and titles
@@ -53,19 +53,19 @@ stats_columns = ['Mileage', 'HP', 'Weight', 'Acceleration', 'Price']
 
 # Generate the chart configurations
 chart_data_axis_specific = []
-for _ in range(120):
-    num_data_points = random.randint(5, 15)
-    selected_rows = data.sample(n=num_data_points)
-    chart_type = random.choice(chart_types)
-    selected_stat = random.sample(stats_columns, 1)
-    labels = selected_rows['Car'].tolist()
-    values = selected_rows[selected_stat].values.flatten().tolist()
-    chart_config = generate_chart_config_axis_specific(selected_rows, chart_type, labels, values, selected_stat)
-    chart_data_axis_specific.append([chart_type, num_data_points, ', '.join(selected_stat), chart_config])
+for chart_type in chart_types:
+    for num_data_points in range(3, 16):
+        for count in range(3):
+            selected_rows = data.sample(n=num_data_points)
+            selected_stat = random.sample(stats_columns, 1)
+            labels = selected_rows['Car'].tolist()
+            values = selected_rows[selected_stat].values.flatten().tolist()
+            chart_config = generate_chart_config_axis_specific(selected_rows, chart_type, labels, values, selected_stat)
+            chart_data_axis_specific.append([chart_type, num_data_points, ', '.join(selected_stat), chart_config])
 
 # Create DataFrame and save to CSV
 charts_df_axis_specific = pd.DataFrame(chart_data_axis_specific, columns=['Chart Type', 'Data Points', 'Statistics', 'Chart Configuration'])
-output_csv_axis_specific_path = 'output_cars_charts.csv'
+output_csv_axis_specific_path = 'output.csv'
 charts_df_axis_specific.to_csv(output_csv_axis_specific_path, index=False)
 
 print(f"Output CSV path: {output_csv_axis_specific_path}")
