@@ -1,2 +1,9 @@
 .DS_Store
 venv
+.git/
+.idea/
+nlp/
+secret.py
+__pycache__
+translation_vertex.py
+chart_test.html

@@ -60,15 +60,15 @@ stats_columns = ['pts', 'reb', 'ast', 'net_rating', 'oreb_pct', 'dreb_pct', 'usg
 
 # Generate the chart configurations
 chart_data_axis_specific = []
-for _ in range(120):
-    num_data_points = random.randint(5, 20)
-    selected_rows = data.sample(n=num_data_points)
-    chart_type = random.choice(chart_types)
-    selected_stat = random.sample(stats_columns, 1)
-    labels = selected_rows['player_name'].tolist()
-    values = selected_rows[selected_stat].values.flatten().tolist()
-    chart_config = generate_chart_config_axis_specific(selected_rows, chart_type, labels, values, selected_stat)
-    chart_data_axis_specific.append([chart_type, num_data_points, ', '.join(selected_stat), chart_config])
+for chart_type in chart_types:
+    for num_data_points in range(3, 16):
+        for count in range(3):
+            selected_rows = data.sample(n=num_data_points)
+            selected_stat = random.sample(stats_columns, 1)
+            labels = selected_rows['player_name'].tolist()
+            values = selected_rows[selected_stat].values.flatten().tolist()
+            chart_config = generate_chart_config_axis_specific(selected_rows, chart_type, labels, values, selected_stat)
+            chart_data_axis_specific.append([chart_type, num_data_points, ', '.join(selected_stat), chart_config])
 
 # Create DataFrame and save to CSV
 charts_df_axis_specific = pd.DataFrame(chart_data_axis_specific, columns=['Chart Type', 'Data Points', 'Statistics', 'Chart Configuration'])
