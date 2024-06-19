@@ -43,17 +43,17 @@ movie_stats_columns = ['Opening', 'Total Gross', 'Theaters', 'Average']
 
 # Generate the chart configurations for the movie dataset
 movie_chart_data = []
-for _ in range(120):
-    num_data_points = random.randint(5, 20)
-    selected_rows = data.sample(n=num_data_points)
-    chart_type = random.choice(chart_types)
-    selected_stat = random.sample(movie_stats_columns, 1)[0]  # Selecting one statistic for simplicity
-    labels = selected_rows['Release'].tolist()
-    values = selected_rows[selected_stat].tolist()
+for chart_type in chart_types:
+    for num_data_points in range(3, 16):
+        for count in range(3):
+            selected_rows = data.sample(n=num_data_points)
+            selected_stat = random.sample(movie_stats_columns, 1)[0]  # Selecting one statistic for simplicity
+            labels = selected_rows['Release'].tolist()
+            values = selected_rows[selected_stat].tolist()
     
-    # Generate the chart configuration with detailed labels and titles
-    chart_config = generate_chart_config_movies(selected_rows, chart_type, labels, values, selected_stat)
-    movie_chart_data.append([chart_type, num_data_points, selected_stat, chart_config])
+            # Generate the chart configuration with detailed labels and titles
+            chart_config = generate_chart_config_movies(selected_rows, chart_type, labels, values, selected_stat)
+            movie_chart_data.append([chart_type, num_data_points, selected_stat, chart_config])
 
 # Create DataFrame and save to CSV for the new dataset charts
 movies_charts_df = pd.DataFrame(movie_chart_data, columns=['Chart Type', 'Data Points', 'Statistics', 'Chart Configuration'])
