@@ -1,0 +1,1670 @@
+[
+    {
+        "label": "Facebook",
+        "value": "599"
+    },
+    {
+        "label": "Uber",
+        "value": "408"
+    },
+    {
+        "label": "Amazon",
+        "value": "1324"
+    },
+    {
+        "label": "Google",
+        "value": "1202"
+    },
+    {
+        "label": "Microsoft",
+        "value": "619"
+    },
+    {
+        "label": "TikTok",
+        "value": "317"
+    },
+    {
+        "label": "Apple",
+        "value": "583"
+    },
+    {
+        "label": "Salesforce",
+        "value": "106"
+    },
+    {
+        "label": "Oracle",
+        "value": "195"
+    },
+    {
+        "label": "Bloomberg",
+        "value": "536"
+    },
+    {
+        "label": "Goldman Sachs",
+        "value": "125"
+    },
+    {
+        "label": "Adobe",
+        "value": "524"
+    },
+    {
+        "label": "Airbnb",
+        "value": "51"
+    },
+    {
+        "label": "LinkedIn",
+        "value": "119"
+    },
+    {
+        "label": "Citadel",
+        "value": "59"
+    },
+    {
+        "label": "Walmart Labs",
+        "value": "101"
+    },
+    {
+        "label": "DE Shaw",
+        "value": "61"
+    },
+    {
+        "label": "DoorDash",
+        "value": "71"
+    },
+    {
+        "label": "Infosys",
+        "value": "40"
+    },
+    {
+        "label": "JPMorgan",
+        "value": "64"
+    },
+    {
+        "label": "Atlassian",
+        "value": "43"
+    },
+    {
+        "label": "Pinterest",
+        "value": "30"
+    },
+    {
+        "label": "Snapchat",
+        "value": "71"
+    },
+    {
+        "label": "Nvidia",
+        "value": "65"
+    },
+    {
+        "label": "Intuit",
+        "value": "46"
+    },
+    {
+        "label": "Yandex",
+        "value": "115"
+    },
+    {
+        "label": "Cisco",
+        "value": "57"
+    },
+    {
+        "label": "Snowflake",
+        "value": "48"
+    },
+    {
+        "label": "PayPal",
+        "value": "59"
+    },
+    {
+        "label": "tcs",
+        "value": "53"
+    },
+    {
+        "label": "Netflix",
+        "value": "17"
+    },
+    {
+        "label": "Zoho",
+        "value": "57"
+    },
+    {
+        "label": "Capital One",
+        "value": "16"
+    },
+    {
+        "label": "Tesla",
+        "value": "34"
+    },
+    {
+        "label": "Databricks",
+        "value": "20"
+    },
+    {
+        "label": "ByteDance",
+        "value": "55"
+    },
+    {
+        "label": "Yahoo",
+        "value": "206"
+    },
+    {
+        "label": "eBay",
+        "value": "60"
+    },
+    {
+        "label": "IBM",
+        "value": "50"
+    },
+    {
+        "label": "ServiceNow",
+        "value": "47"
+    },
+    {
+        "label": "Accenture",
+        "value": "52"
+    },
+    {
+        "label": "Visa",
+        "value": "33"
+    },
+    {
+        "label": "Samsung",
+        "value": "37"
+    },
+    {
+        "label": "Lyft",
+        "value": "18"
+    },
+    {
+        "label": "Palantir Technologies",
+        "value": "25"
+    },
+    {
+        "label": "SAP",
+        "value": "17"
+    },
+    {
+        "label": "Coupang",
+        "value": "21"
+    },
+    {
+        "label": "Square",
+        "value": "21"
+    },
+    {
+        "label": "Flipkart",
+        "value": "60"
+    },
+    {
+        "label": "Qualcomm",
+        "value": "16"
+    },
+    {
+        "label": "Roblox",
+        "value": "26"
+    },
+    {
+        "label": "Datadog",
+        "value": "6"
+    },
+    {
+        "label": "Twitter",
+        "value": "52"
+    },
+    {
+        "label": "Morgan Stanley",
+        "value": "20"
+    },
+    {
+        "label": "Expedia",
+        "value": "47"
+    },
+    {
+        "label": "Nutanix",
+        "value": "23"
+    },
+    {
+        "label": "BlackRock",
+        "value": "8"
+    },
+    {
+        "label": "Docusign",
+        "value": "13"
+    },
+    {
+        "label": "Rippling",
+        "value": "9"
+    },
+    {
+        "label": "Rubrik",
+        "value": "19"
+    },
+    {
+        "label": "Jane Street",
+        "value": "4"
+    },
+    {
+        "label": "Two Sigma",
+        "value": "16"
+    },
+    {
+        "label": "Wayfair",
+        "value": "18"
+    },
+    {
+        "label": "Coinbase",
+        "value": "7"
+    },
+    {
+        "label": "Stripe",
+        "value": "2"
+    },
+    {
+        "label": "Robinhood",
+        "value": "9"
+    },
+    {
+        "label": "American Express",
+        "value": "19"
+    },
+    {
+        "label": "Booking.com",
+        "value": "18"
+    },
+    {
+        "label": "PhonePe",
+        "value": "46"
+    },
+    {
+        "label": "Reddit",
+        "value": "6"
+    },
+    {
+        "label": "Spotify",
+        "value": "19"
+    },
+    {
+        "label": "Zillow",
+        "value": "15"
+    },
+    {
+        "label": "Agoda",
+        "value": "12"
+    },
+    {
+        "label": "Pure Storage",
+        "value": "4"
+    },
+    {
+        "label": "Splunk",
+        "value": "7"
+    },
+    {
+        "label": "VMware",
+        "value": "18"
+    },
+    {
+        "label": "Intel",
+        "value": "10"
+    },
+    {
+        "label": "Wix",
+        "value": "41"
+    },
+    {
+        "label": "Anduril",
+        "value": "8"
+    },
+    {
+        "label": "Arcesium",
+        "value": "14"
+    },
+    {
+        "label": "Alibaba",
+        "value": "5"
+    },
+    {
+        "label": "Confluent",
+        "value": "7"
+    },
+    {
+        "label": "Qualtrics",
+        "value": "4"
+    },
+    {
+        "label": "Affirm",
+        "value": "6"
+    },
+    {
+        "label": "Workday",
+        "value": "5"
+    },
+    {
+        "label": "Cruise Automation",
+        "value": "12"
+    },
+    {
+        "label": "Epic Systems",
+        "value": "9"
+    },
+    {
+        "label": "Hudson River Trading",
+        "value": "8"
+    },
+    {
+        "label": "Waymo",
+        "value": "3"
+    },
+    {
+        "label": "Deutsche Bank",
+        "value": "23"
+    },
+    {
+        "label": "Karat",
+        "value": "15"
+    },
+    {
+        "label": "MathWorks",
+        "value": "32"
+    },
+    {
+        "label": "Grab",
+        "value": "7"
+    },
+    {
+        "label": "Yelp",
+        "value": "27"
+    },
+    {
+        "label": "Huawei",
+        "value": "6"
+    },
+    {
+        "label": "HRT",
+        "value": "13"
+    },
+    {
+        "label": "Dropbox",
+        "value": "23"
+    },
+    {
+        "label": "Quora",
+        "value": "15"
+    },
+    {
+        "label": "Tencent",
+        "value": "2"
+    },
+    {
+        "label": "Arista Networks",
+        "value": "20"
+    },
+    {
+        "label": "Twilio",
+        "value": "11"
+    },
+    {
+        "label": "Deloitte",
+        "value": "4"
+    },
+    {
+        "label": "Sprinklr",
+        "value": "43"
+    },
+    {
+        "label": "CrowdStrike",
+        "value": "3"
+    },
+    {
+        "label": "Shopee",
+        "value": "4"
+    },
+    {
+        "label": "instacart",
+        "value": "2"
+    },
+    {
+        "label": "Akuna Capital",
+        "value": "22"
+    },
+    {
+        "label": "Palo Alto Networks",
+        "value": "6"
+    },
+    {
+        "label": "EPAM Systems",
+        "value": "20"
+    },
+    {
+        "label": "Mastercard",
+        "value": "2"
+    },
+    {
+        "label": "MakeMyTrip",
+        "value": "19"
+    },
+    {
+        "label": "Disney",
+        "value": "3"
+    },
+    {
+        "label": "Tinkoff",
+        "value": "17"
+    },
+    {
+        "label": "turing",
+        "value": "17"
+    },
+    {
+        "label": "Indeed",
+        "value": "12"
+    },
+    {
+        "label": "Wells Fargo",
+        "value": "5"
+    },
+    {
+        "label": "MongoDB",
+        "value": "2"
+    },
+    {
+        "label": "C3 IoT",
+        "value": "7"
+    },
+    {
+        "label": "Verkada",
+        "value": "4"
+    },
+    {
+        "label": "Cognizant",
+        "value": "11"
+    },
+    {
+        "label": "AMD",
+        "value": "5"
+    },
+    {
+        "label": "Cohesity",
+        "value": "3"
+    },
+    {
+        "label": "Siemens",
+        "value": "10"
+    },
+    {
+        "label": "Myntra",
+        "value": "1"
+    },
+    {
+        "label": "Optiver",
+        "value": "3"
+    },
+    {
+        "label": "Cloudflare",
+        "value": "4"
+    },
+    {
+        "label": "Nordstrom",
+        "value": "5"
+    },
+    {
+        "label": "Swiggy",
+        "value": "8"
+    },
+    {
+        "label": "Grammarly",
+        "value": "9"
+    },
+    {
+        "label": "GoDaddy",
+        "value": "3"
+    },
+    {
+        "label": "Paytm",
+        "value": "12"
+    },
+    {
+        "label": "Media.net",
+        "value": "39"
+    },
+    {
+        "label": "Audible",
+        "value": "5"
+    },
+    {
+        "label": "Barclays",
+        "value": "9"
+    },
+    {
+        "label": "SoFi",
+        "value": "5"
+    },
+    {
+        "label": "Roku",
+        "value": "6"
+    },
+    {
+        "label": "Zoox",
+        "value": "2"
+    },
+    {
+        "label": "zeta",
+        "value": "6"
+    },
+    {
+        "label": "SIG",
+        "value": "3"
+    },
+    {
+        "label": "Autodesk",
+        "value": "10"
+    },
+    {
+        "label": "Millennium",
+        "value": "1"
+    },
+    {
+        "label": "Jump Trading",
+        "value": "2"
+    },
+    {
+        "label": "Capgemini",
+        "value": "5"
+    },
+    {
+        "label": "Box",
+        "value": "4"
+    },
+    {
+        "label": "ZScaler",
+        "value": "13"
+    },
+    {
+        "label": "Okta",
+        "value": "2"
+    },
+    {
+        "label": "Akamai",
+        "value": "7"
+    },
+    {
+        "label": "Squarepoint Capital",
+        "value": "1"
+    },
+    {
+        "label": "FactSet",
+        "value": "5"
+    },
+    {
+        "label": "Moveworks",
+        "value": "4"
+    },
+    {
+        "label": "warnermedia",
+        "value": "7"
+    },
+    {
+        "label": "IMC",
+        "value": "8"
+    },
+    {
+        "label": "Nagarro",
+        "value": "14"
+    },
+    {
+        "label": "Bolt",
+        "value": "7"
+    },
+    {
+        "label": "Dell",
+        "value": "7"
+    },
+    {
+        "label": "IXL",
+        "value": "15"
+    },
+    {
+        "label": "UBS",
+        "value": "2"
+    },
+    {
+        "label": "Rivian",
+        "value": "1"
+    },
+    {
+        "label": "TripAdvisor",
+        "value": "4"
+    },
+    {
+        "label": "wipro",
+        "value": "4"
+    },
+    {
+        "label": "Avito",
+        "value": "5"
+    },
+    {
+        "label": "FreshWorks",
+        "value": "4"
+    },
+    {
+        "label": "Veeva",
+        "value": "3"
+    },
+    {
+        "label": "PornHub",
+        "value": "2"
+    },
+    {
+        "label": "The Trade Desk",
+        "value": "1"
+    },
+    {
+        "label": "Juspay",
+        "value": "4"
+    },
+    {
+        "label": "Zoom",
+        "value": "5"
+    },
+    {
+        "label": "LiveRamp",
+        "value": "5"
+    },
+    {
+        "label": "Tower Research",
+        "value": "2"
+    },
+    {
+        "label": "Zomato",
+        "value": "11"
+    },
+    {
+        "label": "Meesho",
+        "value": "8"
+    },
+    {
+        "label": "DRW",
+        "value": "7"
+    },
+    {
+        "label": "Patreon",
+        "value": "4"
+    },
+    {
+        "label": "BNY Mellon",
+        "value": "13"
+    },
+    {
+        "label": "Shopify",
+        "value": "1"
+    },
+    {
+        "label": "Riot Games",
+        "value": "4"
+    },
+    {
+        "label": "Point72",
+        "value": "5"
+    },
+    {
+        "label": "Coursera",
+        "value": "11"
+    },
+    {
+        "label": "Ripple",
+        "value": "1"
+    },
+    {
+        "label": "Zalando",
+        "value": "1"
+    },
+    {
+        "label": "GE Healthcare",
+        "value": "7"
+    },
+    {
+        "label": "Nuro",
+        "value": "2"
+    },
+    {
+        "label": "Asana",
+        "value": "3"
+    },
+    {
+        "label": "Hulu",
+        "value": "7"
+    },
+    {
+        "label": "Flexport",
+        "value": "3"
+    },
+    {
+        "label": "Ozon",
+        "value": "6"
+    },
+    {
+        "label": "Remitly",
+        "value": "3"
+    },
+    {
+        "label": "Duolingo",
+        "value": "4"
+    },
+    {
+        "label": "Fidelity",
+        "value": "1"
+    },
+    {
+        "label": "NetApp",
+        "value": "1"
+    },
+    {
+        "label": "Lowe",
+        "value": "2"
+    },
+    {
+        "label": "Mercari",
+        "value": "6"
+    },
+    {
+        "label": "UiPath",
+        "value": "4"
+    },
+    {
+        "label": "Chewy",
+        "value": "2"
+    },
+    {
+        "label": "HPE",
+        "value": "1"
+    },
+    {
+        "label": "Rakuten",
+        "value": "5"
+    },
+    {
+        "label": "Bank of America",
+        "value": "1"
+    },
+    {
+        "label": "Miro",
+        "value": "4"
+    },
+    {
+        "label": "thoughtspot",
+        "value": "5"
+    },
+    {
+        "label": "Verily",
+        "value": "2"
+    },
+    {
+        "label": "BitGo",
+        "value": "5"
+    },
+    {
+        "label": "Virtu Financial",
+        "value": "8"
+    },
+    {
+        "label": "HashedIn",
+        "value": "1"
+    },
+    {
+        "label": "athenahealth",
+        "value": "3"
+    },
+    {
+        "label": "Deliveroo",
+        "value": "2"
+    },
+    {
+        "label": "Activision",
+        "value": "1"
+    },
+    {
+        "label": "PayPay",
+        "value": "2"
+    },
+    {
+        "label": "Axon",
+        "value": "2"
+    },
+    {
+        "label": "Amdocs",
+        "value": "2"
+    },
+    {
+        "label": "Grubhub",
+        "value": "1"
+    },
+    {
+        "label": "Gusto",
+        "value": "3"
+    },
+    {
+        "label": "McKinsey",
+        "value": "5"
+    },
+    {
+        "label": "Fortinet",
+        "value": "1"
+    },
+    {
+        "label": "tekion",
+        "value": "5"
+    },
+    {
+        "label": "General Motors",
+        "value": "5"
+    },
+    {
+        "label": "razorpay",
+        "value": "3"
+    },
+    {
+        "label": "josh technology",
+        "value": "6"
+    },
+    {
+        "label": "Samsara",
+        "value": "1"
+    },
+    {
+        "label": "Netskope",
+        "value": "2"
+    },
+    {
+        "label": "DP world",
+        "value": "2"
+    },
+    {
+        "label": "Pwc",
+        "value": "1"
+    },
+    {
+        "label": "CRED",
+        "value": "2"
+    },
+    {
+        "label": "Quip (Salesforce)",
+        "value": "4"
+    },
+    {
+        "label": "Citi",
+        "value": "2"
+    },
+    {
+        "label": "mitsogo",
+        "value": "8"
+    },
+    {
+        "label": "Cadence",
+        "value": "1"
+    },
+    {
+        "label": "Dream11",
+        "value": "1"
+    },
+    {
+        "label": "HSBC",
+        "value": "1"
+    },
+    {
+        "label": "Altimetrik",
+        "value": "5"
+    },
+    {
+        "label": "Bosch",
+        "value": "1"
+    },
+    {
+        "label": "WorldQuant",
+        "value": "1"
+    },
+    {
+        "label": "RBC",
+        "value": "2"
+    },
+    {
+        "label": "Upstart",
+        "value": "1"
+    },
+    {
+        "label": "sabre",
+        "value": "1"
+    },
+    {
+        "label": "Twitch",
+        "value": "6"
+    },
+    {
+        "label": "Hubspot",
+        "value": "2"
+    },
+    {
+        "label": "Zopsmart",
+        "value": "5"
+    },
+    {
+        "label": "Tiger Analytics",
+        "value": "2"
+    },
+    {
+        "label": "Smartsheet",
+        "value": "2"
+    },
+    {
+        "label": "Airtel",
+        "value": "3"
+    },
+    {
+        "label": "AQR Capital Management LLC",
+        "value": "2"
+    },
+    {
+        "label": "smartnews",
+        "value": "2"
+    },
+    {
+        "label": "Opendoor",
+        "value": "2"
+    },
+    {
+        "label": "Cloudera",
+        "value": "5"
+    },
+    {
+        "label": "Optum",
+        "value": "2"
+    },
+    {
+        "label": "Avalara",
+        "value": "2"
+    },
+    {
+        "label": "citibank",
+        "value": "1"
+    },
+    {
+        "label": "jio",
+        "value": "1"
+    },
+    {
+        "label": "Hotstar",
+        "value": "2"
+    },
+    {
+        "label": "Mindtickle",
+        "value": "5"
+    },
+    {
+        "label": "Careem",
+        "value": "1"
+    },
+    {
+        "label": "Thomson Reuters",
+        "value": "2"
+    },
+    {
+        "label": "Citrix",
+        "value": "5"
+    },
+    {
+        "label": "Sigmoid",
+        "value": "1"
+    },
+    {
+        "label": "Amadeus",
+        "value": "2"
+    },
+    {
+        "label": "Luxoft",
+        "value": "3"
+    },
+    {
+        "label": "Pony.ai",
+        "value": "4"
+    },
+    {
+        "label": "Honeywell",
+        "value": "1"
+    },
+    {
+        "label": "Clari",
+        "value": "3"
+    },
+    {
+        "label": "Zynga",
+        "value": "1"
+    },
+    {
+        "label": "Whatfix",
+        "value": "1"
+    },
+    {
+        "label": "Groupon",
+        "value": "2"
+    },
+    {
+        "label": "persistent systems",
+        "value": "2"
+    },
+    {
+        "label": "InMobi",
+        "value": "2"
+    },
+    {
+        "label": "Dataminr",
+        "value": "2"
+    },
+    {
+        "label": "ShareChat",
+        "value": "2"
+    },
+    {
+        "label": "Info Edge",
+        "value": "2"
+    },
+    {
+        "label": "Synology",
+        "value": "3"
+    },
+    {
+        "label": "observe.ai",
+        "value": "1"
+    },
+    {
+        "label": "Sumologic",
+        "value": "1"
+    },
+    {
+        "label": "F5 Networks",
+        "value": "1"
+    },
+    {
+        "label": "Accolite",
+        "value": "7"
+    },
+    {
+        "label": "Sony",
+        "value": "1"
+    },
+    {
+        "label": "Directi",
+        "value": "8"
+    },
+    {
+        "label": "MindTree",
+        "value": "1"
+    },
+    {
+        "label": "Toast",
+        "value": "2"
+    },
+    {
+        "label": "Addepar",
+        "value": "1"
+    },
+    {
+        "label": "Druva",
+        "value": "2"
+    },
+    {
+        "label": "carwale",
+        "value": "5"
+    },
+    {
+        "label": "AppDynamics",
+        "value": "3"
+    },
+    {
+        "label": "Navi",
+        "value": "6"
+    },
+    {
+        "label": "Freecharge",
+        "value": "1"
+    },
+    {
+        "label": "CVENT",
+        "value": "1"
+    },
+    {
+        "label": "Canonical",
+        "value": "2"
+    },
+    {
+        "label": "Garena",
+        "value": "1"
+    },
+    {
+        "label": "general electric",
+        "value": "1"
+    },
+    {
+        "label": "FPT",
+        "value": "2"
+    },
+    {
+        "label": "Slice",
+        "value": "2"
+    },
+    {
+        "label": "opentext",
+        "value": "2"
+    },
+    {
+        "label": "Tesco",
+        "value": "1"
+    },
+    {
+        "label": "Zendesk",
+        "value": "3"
+    },
+    {
+        "label": "Publicis Sapient",
+        "value": "2"
+    },
+    {
+        "label": "payu",
+        "value": "1"
+    },
+    {
+        "label": "Chime",
+        "value": "1"
+    },
+    {
+        "label": "ThousandEyes",
+        "value": "2"
+    },
+    {
+        "label": "United Health Group",
+        "value": "2"
+    },
+    {
+        "label": "PubMatic",
+        "value": "1"
+    },
+    {
+        "label": "Valve",
+        "value": "1"
+    },
+    {
+        "label": "Squarespace",
+        "value": "1"
+    },
+    {
+        "label": "Veritas",
+        "value": "3"
+    },
+    {
+        "label": "Thumbtack",
+        "value": "1"
+    },
+    {
+        "label": "Cashfree",
+        "value": "3"
+    },
+    {
+        "label": "zeta suite",
+        "value": "2"
+    },
+    {
+        "label": "Lucid",
+        "value": "4"
+    },
+    {
+        "label": "Gap",
+        "value": "1"
+    },
+    {
+        "label": "WeRide",
+        "value": "1"
+    },
+    {
+        "label": "oyo",
+        "value": "1"
+    },
+    {
+        "label": "CureFit",
+        "value": "2"
+    },
+    {
+        "label": "Moengage",
+        "value": "2"
+    },
+    {
+        "label": "Poshmark",
+        "value": "3"
+    },
+    {
+        "label": "Urban Company",
+        "value": "2"
+    },
+    {
+        "label": "fourkites",
+        "value": "4"
+    },
+    {
+        "label": "Sapient",
+        "value": "2"
+    },
+    {
+        "label": "Virtusa",
+        "value": "4"
+    },
+    {
+        "label": "Houzz",
+        "value": "3"
+    },
+    {
+        "label": "Societe Generale",
+        "value": "3"
+    },
+    {
+        "label": "Baidu",
+        "value": "10"
+    },
+    {
+        "label": "Yext",
+        "value": "2"
+    },
+    {
+        "label": "Aetion",
+        "value": "1"
+    },
+    {
+        "label": "Microstrategy",
+        "value": "1"
+    },
+    {
+        "label": "Quince",
+        "value": "1"
+    },
+    {
+        "label": "ericsson",
+        "value": "1"
+    },
+    {
+        "label": "Criteo",
+        "value": "2"
+    },
+    {
+        "label": "NetEase",
+        "value": "2"
+    },
+    {
+        "label": "Wealthfront",
+        "value": "2"
+    },
+    {
+        "label": "Discord",
+        "value": "1"
+    },
+    {
+        "label": "Wayve",
+        "value": "1"
+    },
+    {
+        "label": "Wish",
+        "value": "5"
+    },
+    {
+        "label": "Strava",
+        "value": "1"
+    },
+    {
+        "label": "Airbus",
+        "value": "2"
+    },
+    {
+        "label": "GE Digital",
+        "value": "1"
+    },
+    {
+        "label": "Zappos",
+        "value": "1"
+    },
+    {
+        "label": "Postmates",
+        "value": "3"
+    },
+    {
+        "label": "instagram",
+        "value": "1"
+    },
+    {
+        "label": "GSN Games",
+        "value": "5"
+    },
+    {
+        "label": "Toptal",
+        "value": "2"
+    },
+    {
+        "label": "Zenefits",
+        "value": "21"
+    },
+    {
+        "label": "Groww",
+        "value": "2"
+    },
+    {
+        "label": "TripleByte",
+        "value": "1"
+    },
+    {
+        "label": "National Instruments",
+        "value": "3"
+    },
+    {
+        "label": "ForUsAll",
+        "value": "1"
+    },
+    {
+        "label": "Fallible",
+        "value": "1"
+    },
+    {
+        "label": "IIT Bombay",
+        "value": "1"
+    },
+    {
+        "label": "Pocket Gems",
+        "value": "15"
+    },
+    {
+        "label": "Snapdeal",
+        "value": "1"
+    },
+    {
+        "label": "Gameskraft",
+        "value": "1"
+    },
+    {
+        "label": "Turvo",
+        "value": "2"
+    },
+    {
+        "label": "Hive",
+        "value": "1"
+    },
+    {
+        "label": "Yatra",
+        "value": "1"
+    },
+    {
+        "label": "Kakao",
+        "value": "2"
+    },
+    {
+        "label": "Bloomreach",
+        "value": "1"
+    },
+    {
+        "label": "Newzera",
+        "value": "1"
+    },
+    {
+        "label": "Works Applications",
+        "value": "4"
+    },
+    {
+        "label": "Bridgewater Associates",
+        "value": "1"
+    },
+    {
+        "label": "TuSimple",
+        "value": "5"
+    },
+    {
+        "label": "HiLabs",
+        "value": "1"
+    },
+    {
+        "label": "Redfin",
+        "value": "2"
+    },
+    {
+        "label": "MAQ Software",
+        "value": "2"
+    },
+    {
+        "label": "Dunzo",
+        "value": "9"
+    },
+    {
+        "label": "DailyHunt",
+        "value": "1"
+    },
+    {
+        "label": "TIAA",
+        "value": "1"
+    },
+    {
+        "label": "Meituan",
+        "value": "1"
+    },
+    {
+        "label": "Commvault",
+        "value": "7"
+    },
+    {
+        "label": "Radius",
+        "value": "1"
+    },
+    {
+        "label": "Affinity",
+        "value": "1"
+    },
+    {
+        "label": "Drawbridge",
+        "value": "1"
+    },
+    {
+        "label": "WePay",
+        "value": "2"
+    },
+    {
+        "label": "Gilt Groupe",
+        "value": "1"
+    },
+    {
+        "label": "Trilogy",
+        "value": "5"
+    },
+    {
+        "label": "Machine Zone",
+        "value": "2"
+    },
+    {
+        "label": "Rackspace",
+        "value": "1"
+    },
+    {
+        "label": "Netsuite",
+        "value": "2"
+    },
+    {
+        "label": "Helix",
+        "value": "1"
+    },
+    {
+        "label": "spinny",
+        "value": "2"
+    },
+    {
+        "label": "SoundHound",
+        "value": "3"
+    },
+    {
+        "label": "Vimeo",
+        "value": "1"
+    },
+    {
+        "label": "Code Studio",
+        "value": "1"
+    },
+    {
+        "label": "ASUS",
+        "value": "1"
+    },
+    {
+        "label": "Jingchi",
+        "value": "1"
+    },
+    {
+        "label": "Poynt",
+        "value": "1"
+    },
+    {
+        "label": "National Payments Corporation of India",
+        "value": "2"
+    },
+    {
+        "label": "Delhivery",
+        "value": "1"
+    },
+    {
+        "label": "Fleetx",
+        "value": "1"
+    },
+    {
+        "label": "alphonso",
+        "value": "1"
+    },
+    {
+        "label": "Softwire",
+        "value": "1"
+    },
+    {
+        "label": "Larsen & Toubro",
+        "value": "2"
+    },
+    {
+        "label": "Pickrr",
+        "value": "1"
+    },
+    {
+        "label": "T-mobile",
+        "value": "1"
+    },
+    {
+        "label": "MoneyLion",
+        "value": "1"
+    },
+    {
+        "label": "Analytics quotient",
+        "value": "2"
+    },
+    {
+        "label": "1Kosmos",
+        "value": "1"
+    },
+    {
+        "label": "Accelya",
+        "value": "1"
+    },
+    {
+        "label": "Leap Motion",
+        "value": "1"
+    },
+    {
+        "label": "Mobisy",
+        "value": "1"
+    },
+    {
+        "label": "BT Group",
+        "value": "1"
+    },
+    {
+        "label": "Xing",
+        "value": "1"
+    },
+    {
+        "label": "TA Digital",
+        "value": "1"
+    },
+    {
+        "label": "RetailMeNot",
+        "value": "1"
+    },
+    {
+        "label": "Polar",
+        "value": "1"
+    },
+    {
+        "label": "Flexera",
+        "value": "2"
+    },
+    {
+        "label": "AllinCall",
+        "value": "1"
+    },
+    {
+        "label": "NextJump",
+        "value": "1"
+    },
+    {
+        "label": "DTCC",
+        "value": "1"
+    },
+    {
+        "label": "MishiPay",
+        "value": "1"
+    },
+    {
+        "label": "Unbxd",
+        "value": "1"
+    },
+    {
+        "label": "MachineZone",
+        "value": "1"
+    },
+    {
+        "label": "Ascend",
+        "value": "1"
+    },
+    {
+        "label": "Edelweiss",
+        "value": "1"
+    },
+    {
+        "label": "Qumulo",
+        "value": "1"
+    },
+    {
+        "label": "T System",
+        "value": "1"
+    },
+    {
+        "label": "Auriga",
+        "value": "1"
+    },
+    {
+        "label": "Jeavio",
+        "value": "1"
+    },
+    {
+        "label": "ION",
+        "value": "2"
+    },
+    {
+        "label": "Unstop",
+        "value": "1"
+    },
+    {
+        "label": "edabit",
+        "value": "1"
+    },
+    {
+        "label": "Clutter",
+        "value": "1"
+    },
+    {
+        "label": "purplle",
+        "value": "1"
+    }
+]

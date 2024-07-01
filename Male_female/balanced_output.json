@@ -1,0 +1,4032 @@
+[
+    {
+        "chart_type": "bar",
+        "chart_title": "Total male in 2008 in USA",
+        "data": [
+            {
+                "label": "55 to 64 years",
+                "value": 16251184,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 102321823,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Total female in 2008 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10671352,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 113709048,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Married male in 2008 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 9998381,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 51368965,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Married female in 2008 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 11725067,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 47770346,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Widowed male in 2008 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 2959338,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Widowed female in 2008 in USA",
+        "data": [
+            {
+                "label": "65 years and over",
+                "value": 9538328,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 2583023,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Divorced male in 2008 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 1159687,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 9952030,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Divorced female in 2008 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 1589331,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 13206381,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Separated male in 2008 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 438800,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 1659711,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Separated female in 2008 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10671,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 3085943,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Never Married male in 2008 in USA",
+        "data": [
+            {
+                "label": "35 to 44 years",
+                "value": 4799493,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 36204971,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Never Married female in 2008 in USA",
+        "data": [
+            {
+                "label": "45 to 54 years",
+                "value": 2592796,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 32297985,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Total male in 2010 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 11352610,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 109389999,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Total female in 2010 in USA",
+        "data": [
+            {
+                "label": "35 to 44 years",
+                "value": 20697730,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 106615607,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Married male in 2010 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 79468,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 60946071,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Married female in 2010 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 11375736,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 48539394,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Widowed male in 2010 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 31638,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 3029869,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Widowed female in 2010 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 11867867,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Divorced male in 2010 in USA",
+        "data": [
+            {
+                "label": "55 to 64 years",
+                "value": 2871175,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 8767157,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Divorced female in 2010 in USA",
+        "data": [
+            {
+                "label": "65 years and over",
+                "value": 2828985,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 12583982,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Separated male in 2010 in USA",
+        "data": [
+            {
+                "label": "55 to 64 years",
+                "value": 389913,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 1894073,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Separated female in 2010 in USA",
+        "data": [
+            {
+                "label": "45 to 54 years",
+                "value": 844671,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 2400672,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Never Married male in 2010 in USA",
+        "data": [
+            {
+                "label": "55 to 64 years",
+                "value": 1630544,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 41102989,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Never Married female in 2010 in USA",
+        "data": [
+            {
+                "label": "55 to 64 years",
+                "value": 1523093,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 35371767,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Total male in 2009 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 11184083,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 108531861,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Total female in 2009 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10599681,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 114840218,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Married male in 2009 in USA",
+        "data": [
+            {
+                "label": "55 to 64 years",
+                "value": 11940998,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 49291391,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Married female in 2009 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 169595,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 59340671,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Widowed male in 2009 in USA",
+        "data": [
+            {
+                "label": "65 years and over",
+                "value": 2215115,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 737971,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Widowed female in 2009 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 12008128,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Divorced male in 2009 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 11132642,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Divorced female in 2009 in USA",
+        "data": [
+            {
+                "label": "45 to 54 years",
+                "value": 4183654,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 1564488,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 9160807,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Separated male in 2009 in USA",
+        "data": [
+            {
+                "label": "35 to 44 years",
+                "value": 584630,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 218155,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 1406554,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Separated female in 2009 in USA",
+        "data": [
+            {
+                "label": "45 to 54 years",
+                "value": 814116,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 873371,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 1468148,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Never Married male in 2009 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 11083426,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 788715,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 30266409,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Never Married female in 2009 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10398287,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 3680637,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 21767398,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Total male in 2007 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 31122576,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 11253038,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 75083525,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Total female in 2007 in USA",
+        "data": [
+            {
+                "label": "45 to 54 years",
+                "value": 22290974,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 29809957,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 71163948,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Married male in 2007 in USA",
+        "data": [
+            {
+                "label": "45 to 54 years",
+                "value": 14430051,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 10301573,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 36700018,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Married female in 2007 in USA",
+        "data": [
+            {
+                "label": "55 to 64 years",
+                "value": 10476560,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 14199350,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 34825571,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Widowed male in 2007 in USA",
+        "data": [
+            {
+                "label": "55 to 64 years",
+                "value": 394419,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 11253,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 2549671,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Widowed female in 2007 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 21266,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 9549888,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 2617736,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Divorced male in 2007 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 11253,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 1151535,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 9739992,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Divorced female in 2007 in USA",
+        "data": [
+            {
+                "label": "35 to 44 years",
+                "value": 3099531,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 4146121,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 7165181,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Separated male in 2007 in USA",
+        "data": [
+            {
+                "label": "45 to 54 years",
+                "value": 562491,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 608591,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 1016587,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Separated female in 2007 in USA",
+        "data": [
+            {
+                "label": "55 to 64 years",
+                "value": 423809,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 219034,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 2517287,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Never Married male in 2007 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 19171507,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 3028796,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 17781565,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Never Married female in 2007 in USA",
+        "data": [
+            {
+                "label": "45 to 54 years",
+                "value": 2452007,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 15411748,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 16219476,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Total male in 2006 in USA",
+        "data": [
+            {
+                "label": "35 to 44 years",
+                "value": 21948874,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 11145950,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 83232408,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Total female in 2006 in USA",
+        "data": [
+            {
+                "label": "35 to 44 years",
+                "value": 21943757,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 22004157,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 78310536,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Married male in 2006 in USA",
+        "data": [
+            {
+                "label": "65 years and over",
+                "value": 11158773,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 11029181,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 38785781,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Married female in 2006 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 211027,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 10158423,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 48848880,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Widowed male in 2006 in USA",
+        "data": [
+            {
+                "label": "65 years and over",
+                "value": 2200541,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 213212,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 522000,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Widowed female in 2006 in USA",
+        "data": [
+            {
+                "label": "45 to 54 years",
+                "value": 704133,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 21103,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 11487111,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Divorced male in 2006 in USA",
+        "data": [
+            {
+                "label": "55 to 64 years",
+                "value": 2330752,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 1211763,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 7274481,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Divorced female in 2006 in USA",
+        "data": [
+            {
+                "label": "65 years and over",
+                "value": 2158433,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 4092773,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 7968158,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Separated male in 2006 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 11146,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 319907,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 1862598,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Separated female in 2006 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 863918,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 237428,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 2128180,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Never Married male in 2006 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 18891079,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 1157759,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 19348455,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Never Married female in 2006 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 15044092,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 992879,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 17343506,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Total male in 2005 in USA",
+        "data": [
+            {
+                "label": "65 years and over",
+                "value": 14844129,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 14458723,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 80995841,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Total female in 2005 in USA",
+        "data": [
+            {
+                "label": "55 to 64 years",
+                "value": 15663084,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 21493584,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 80343130,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Married male in 2005 in USA",
+        "data": [
+            {
+                "label": "55 to 64 years",
+                "value": 10829584,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 130754,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 11041945,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 39666566,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Married female in 2005 in USA",
+        "data": [
+            {
+                "label": "55 to 64 years",
+                "value": 9914732,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 12831508,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 14350586,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 22818194,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Widowed male in 2005 in USA",
+        "data": [
+            {
+                "label": "35 to 44 years",
+                "value": 85313,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 361468,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 205518,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 2008599,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Widowed female in 2005 in USA",
+        "data": [
+            {
+                "label": "35 to 44 years",
+                "value": 262912,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 18974,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 709288,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 10075134,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Divorced male in 2005 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 1133252,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 1172686,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 10058,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 7518581,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Divorced female in 2005 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 1625711,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 3890339,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 3133029,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 4846205,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Separated male in 2005 in USA",
+        "data": [
+            {
+                "label": "65 years and over",
+                "value": 192974,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 435866,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 554536,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 813026,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Separated female in 2005 in USA",
+        "data": [
+            {
+                "label": "45 to 54 years",
+                "value": 752275,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 199164,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 898281,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 1207744,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Never Married male in 2005 in USA",
+        "data": [
+            {
+                "label": "35 to 44 years",
+                "value": 4009721,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 564077,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 2363454,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 27225617,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Never Married female in 2005 in USA",
+        "data": [
+            {
+                "label": "55 to 64 years",
+                "value": 924122,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 2084878,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 796656,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 26140152,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Total male in 2013 in USA",
+        "data": [
+            {
+                "label": "45 to 54 years",
+                "value": 21520450,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 18950470,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 20214767,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 63694332,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Total female in 2013 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10427332,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 22154533,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 20386382,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 77668900,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Married male in 2013 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 9019739,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 13799823,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 12270364,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 26601579,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Married female in 2013 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 10943124,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 12501196,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 145983,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 36744466,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Widowed male in 2013 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 33161,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 236725,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 2942675,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Widowed female in 2013 in USA",
+        "data": [
+            {
+                "label": "65 years and over",
+                "value": 9308306,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 1610524,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 203935,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 706852,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Divorced male in 2013 in USA",
+        "data": [
+            {
+                "label": "45 to 54 years",
+                "value": 3464792,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 1027985,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 3126828,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 4409243,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Divorced female in 2013 in USA",
+        "data": [
+            {
+                "label": "65 years and over",
+                "value": 3462389,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 4165052,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 10427,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 8392523,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Separated male in 2013 in USA",
+        "data": [
+            {
+                "label": "55 to 64 years",
+                "value": 454811,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 545799,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 10959,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 1254968,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Separated female in 2013 in USA",
+        "data": [
+            {
+                "label": "55 to 64 years",
+                "value": 550432,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 10427,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 301077,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 2406482,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Never Married male in 2013 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 22681990,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 998285,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 3572395,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 17929846,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Never Married female in 2013 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10260495,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 2880089,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 1834774,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 24168175,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Total male in 2012 in USA",
+        "data": [
+            {
+                "label": "65 years and over",
+                "value": 18805263,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 18582087,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 21762309,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 64024878,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Total female in 2012 in USA",
+        "data": [
+            {
+                "label": "55 to 64 years",
+                "value": 20005050,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 24335214,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 20429983,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 64800365,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Married male in 2012 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 9093581,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 13819066,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 12691565,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 25736186,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Married female in 2012 in USA",
+        "data": [
+            {
+                "label": "35 to 44 years",
+                "value": 12605300,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 13824668,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 11053097,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 22557743,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Widowed male in 2012 in USA",
+        "data": [
+            {
+                "label": "45 to 54 years",
+                "value": 217623,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 2331853,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 464552,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 113783,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Widowed female in 2012 in USA",
+        "data": [
+            {
+                "label": "65 years and over",
+                "value": 9296052,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 63707,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 2497988,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Divorced male in 2012 in USA",
+        "data": [
+            {
+                "label": "35 to 44 years",
+                "value": 2351100,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 1112165,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 3547256,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 5115594,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Divorced female in 2012 in USA",
+        "data": [
+            {
+                "label": "35 to 44 years",
+                "value": 2921488,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 1528959,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 4021015,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 7533632,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Separated male in 2012 in USA",
+        "data": [
+            {
+                "label": "65 years and over",
+                "value": 244468,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 408806,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 425239,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 1209660,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Separated female in 2012 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10504,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 540136,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 267687,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 875263,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 1611115,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Never Married male in 2012 in USA",
+        "data": [
+            {
+                "label": "35 to 44 years",
+                "value": 4904881,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 1913955,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 3547256,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 22047027,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 11879142,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Never Married female in 2012 in USA",
+        "data": [
+            {
+                "label": "65 years and over",
+                "value": 1192425,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 10346851,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 18474917,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 3820407,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 4503322,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Total male in 2011 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 32206358,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 17916246,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 18346272,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 21990093,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 31529203,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Total female in 2011 in USA",
+        "data": [
+            {
+                "label": "55 to 64 years",
+                "value": 19718929,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 22663294,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 20519475,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 31432625,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 34070286,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Married male in 2011 in USA",
+        "data": [
+            {
+                "label": "35 to 44 years",
+                "value": 12428640,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 13985699,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 9211018,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 12677274,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 12799082,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Married female in 2011 in USA",
+        "data": [
+            {
+                "label": "45 to 54 years",
+                "value": 14028579,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 12008828,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 9856888,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 148421,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 23787665,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Widowed male in 2011 in USA",
+        "data": [
+            {
+                "label": "45 to 54 years",
+                "value": 241891,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 32206,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 81233,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 2769853,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Widowed female in 2011 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 94298,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 205195,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 679899,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 10930308,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Divorced male in 2011 in USA",
+        "data": [
+            {
+                "label": "35 to 44 years",
+                "value": 2355755,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 3008789,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 3540405,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 11221,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 2890267,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Divorced female in 2011 in USA",
+        "data": [
+            {
+                "label": "65 years and over",
+                "value": 2957066,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 3943786,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 2954804,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 1540199,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 4271301,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Separated male in 2011 in USA",
+        "data": [
+            {
+                "label": "45 to 54 years",
+                "value": 637713,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 11221,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 250827,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 403618,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 1039828,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Separated female in 2011 in USA",
+        "data": [
+            {
+                "label": "65 years and over",
+                "value": 258157,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 882337,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 861205,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 785816,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 523294,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Never Married male in 2011 in USA",
+        "data": [
+            {
+                "label": "45 to 54 years",
+                "value": 3606375,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 4833360,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 11131200,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 824147,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 23265715,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Never Married female in 2011 in USA",
+        "data": [
+            {
+                "label": "35 to 44 years",
+                "value": 3816622,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 10442483,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 1636671,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 1103033,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 20726844,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Total male in 2017 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 34024468,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 20890889,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 20471735,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 20274405,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 33524311,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Total female in 2017 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10493304,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 32891322,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 28295263,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 20646170,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 43185437,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Married male in 2017 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 99035,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 15696753,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 8880386,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 13381107,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 25631900,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Married female in 2017 in USA",
+        "data": [
+            {
+                "label": "65 years and over",
+                "value": 12647983,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 13112459,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 10919919,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 13271401,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 12854454,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Widowed male in 2017 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 34024,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 527135,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 2499770,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 290796,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Widowed female in 2017 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 65783,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 557442,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 1609157,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 9551548,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Divorced male in 2017 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 2724974,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 3426374,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 3217197,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 2986306,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Divorced female in 2017 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 1249870,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 3966412,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 4305583,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 4357471,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 2591264,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Separated male in 2017 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 11004,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 292766,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 491322,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 306220,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 1009474,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Separated female in 2017 in USA",
+        "data": [
+            {
+                "label": "55 to 64 years",
+                "value": 587125,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 750402,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 743262,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 339543,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 569645,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Never Married male in 2017 in USA",
+        "data": [
+            {
+                "label": "45 to 54 years",
+                "value": 3593233,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 2473477,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 1306186,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 5527368,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 34744975,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Never Married female in 2017 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10335904,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 2152792,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 20063706,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 2894409,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 5982169,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Total male in 2015 in USA",
+        "data": [
+            {
+                "label": "55 to 64 years",
+                "value": 19710301,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 10966719,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 21272990,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 20308787,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 54754609,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Total female in 2015 in USA",
+        "data": [
+            {
+                "label": "65 years and over",
+                "value": 26677825,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 21166840,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 20495343,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 21862590,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 43199148,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Married male in 2015 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 8930488,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 13087640,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 14738259,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 87734,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 25651075,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Married female in 2015 in USA",
+        "data": [
+            {
+                "label": "20 to 34 years",
+                "value": 10934811,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 12700104,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 12481664,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "15 to 19 years",
+                "value": 125522,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 25050347,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Widowed male in 2015 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 33700,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 81235,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 234003,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 512468,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 2421285,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Widowed female in 2015 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 98217,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 204953,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 612153,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 1608680,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 9390594,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Divorced male in 2015 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 1010999,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 2193349,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 3339859,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 3331041,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 2463395,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Divorced female in 2015 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 1375036,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 2766871,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 4110167,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 4233368,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 3948318,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Separated male in 2015 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10967,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 370699,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 528028,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 574371,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 453337,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 294765,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Separated female in 2015 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10460,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 622040,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 799318,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 808916,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 571505,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 320134,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Never Married male in 2015 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10857052,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 23387768,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 5300593,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 3658954,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 2325816,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 1136951,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Never Married female in 2015 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10313750,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 19741590,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 4242536,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 2885862,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 2032017,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 1413925,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Total male in 2016 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10991723,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 33804063,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 20215641,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 21101370,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 19990313,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 21760438,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Total female in 2016 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10500178,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 32758858,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 20439951,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 21654220,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 21468572,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 27454727,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Married male in 2016 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 98926,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 8822860,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 12129385,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 13378269,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 13193607,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 15123504,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Married female in 2016 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 136502,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 10843182,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 12488810,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 13339000,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 12902612,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 12052625,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Widowed male in 2016 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 33804,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 80863,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 232115,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 519748,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 2524211,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Widowed female in 2016 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 65518,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 183960,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 606318,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 1588674,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 9389517,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Divorced male in 2016 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 946514,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 2142858,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 3312915,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 3378363,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 2589492,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Divorced female in 2016 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10500,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 1310354,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 2657194,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 4027685,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 4293714,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 4145664,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Separated male in 2016 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10992,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 338041,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 525607,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 569737,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 439787,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 304646,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Separated female in 2016 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10500,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 589659,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 776718,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 779552,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 579651,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 329457,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Never Married male in 2016 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10881806,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 23662844,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 5357145,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 3629436,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 2438818,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 1218585,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Never Married female in 2016 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10342675,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 19917386,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 4333270,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 2923320,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 2103920,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 1537465,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Total male in 2014 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10940814,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 33458456,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 20274781,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 21359250,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 19319150,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 20312472,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Total female in 2014 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10406203,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 32562672,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 20476578,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 21994027,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 20763846,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 25902421,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Married male in 2014 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 87527,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 8966866,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 12286517,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 13520405,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 13021107,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 14279668,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Married female in 2014 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 124874,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 10973620,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 12490713,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 13526327,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 12562127,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 11189846,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Widowed male in 2014 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 33458,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 60824,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 234952,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 482979,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 2417184,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Widowed female in 2014 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 65125,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 204766,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 615833,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 1598816,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 9376676,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Divorced male in 2014 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 1003754,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 2270775,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 3396121,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 3206979,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 2274997,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Divorced female in 2014 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10406,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 1432758,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 2825768,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 4156871,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 4111242,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 3729949,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Separated male in 2014 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10941,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 368043,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 547419,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 598059,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 444340,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 284375,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Separated female in 2014 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10406,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 651253,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 839540,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 813779,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 560624,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 284927,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Never Married male in 2014 in USA",
+        "data": [
+            {
+                "label": "15 to 19 years",
+                "value": 10831406,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "20 to 34 years",
+                "value": 23052876,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "35 to 44 years",
+                "value": 5109245,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "45 to 54 years",
+                "value": 3631073,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "55 to 64 years",
+                "value": 2183064,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "65 years and over",
+                "value": 1056249,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    }
+]
