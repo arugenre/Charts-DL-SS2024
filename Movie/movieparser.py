@@ -8,7 +8,7 @@ data = pd.read_csv(data_path)
 
 # Function to generate a single Chart.js configuration with axis-specific labels and titles
 def generate_chart_config_movies(data, chart_type, labels, values, stat_name):
-    detailed_label = f'Movie {stat_name.capitalize()}'
+    detailed_label = f"Movie {stat_name.capitalize()}"
     config = {
         'type': chart_type,
         'data': {

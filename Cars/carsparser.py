@@ -16,7 +16,7 @@ def generate_chart_config_axis_specific(data, chart_type, labels, values, select
         'Acceleration': 'Acceleration (time to speed)',
         'Price': 'Price (USD)'
     }
-    detailed_label = f"Cars’ {stat_narrative[selected_stats[0]]}" if len(selected_stats) == 1 else 'Cars’ Performance Metrics'
+    detailed_label = f"Cars' {stat_narrative[selected_stats[0]]}" if len(selected_stats) == 1 else "Cars' performance Metrics"
 
     # Configuration for Chart.js
     config = {

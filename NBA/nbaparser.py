@@ -21,9 +21,9 @@ def generate_chart_config_axis_specific(data, chart_type, labels, values, select
             'ts_pct': 'True Shooting Percentage',
             'ast_pct': 'Assist Percentage'
         }
-        detailed_label = f'NBA Players’ {stat_narrative[selected_stats[0]]}'
+        detailed_label = f"NBA' Players {stat_narrative[selected_stats[0]]}"
     else:
-        detailed_label = 'NBA Players’ Performance Metrics'
+        detailed_label = "NBA' Players Performance Metrics"
 
     # Configuration for Chart.js
     config = {
