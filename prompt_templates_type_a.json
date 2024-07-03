@@ -1,0 +1,22 @@
+[
+  "Create a {chart_type} chart in ChartsJS for {chart_title} using data: {labels_values}",
+  "Produce a {chart_type} chart in ChartsJS displaying {chart_title} with the following data: {labels_values}",
+  "Develop a {chart_type} chart in ChartsJS illustrating {chart_title} with data points: {labels_values}",
+  "Construct a {chart_type} chart in ChartsJS representing {chart_title} with data: {labels_values}",
+  "Design a {chart_type} chart in ChartsJS for the topic {chart_title} using the data: {labels_values}",
+  "Generate a {chart_type} chart in ChartsJS showcasing {chart_title} with this data: {labels_values}",
+  "Build a {chart_type} chart in ChartsJS to visualize {chart_title} with the dataset: {labels_values}",
+  "Render a {chart_type} chart in ChartsJS to depict {chart_title} using the following data: {labels_values}",
+  "Form a {chart_type} chart in ChartsJS illustrating {chart_title} with the data provided: {labels_values}",
+  "Compose a {chart_type} chart in ChartsJS detailing {chart_title} using data: {labels_values}",
+  "Could you provide a {chart_type} chart for ChartJS illustrating {chart_title} with the data {labels_values}?",
+  "Would you be able to create a {chart_type} chart in ChartJS for {chart_title} that shows the data {labels_values}?",
+  "Can you generate a {chart_type} chart using ChartJS to represent {chart_title} with the data {labels_values}?",
+  "Please give me a {chart_type} chart for ChartJS depicting {chart_title} using the data {labels_values}.",
+  "Is it possible for you to make a {chart_type} chart in ChartJS about {chart_title} that includes the data {labels_values}?",
+  "I'd like a {chart_type} chart in ChartJS for {chart_title} that represents the data {labels_values}; can you help?",
+  "Can you create a {chart_type} chart using ChartJS to illustrate {chart_title} with data {labels_values}?",
+  "Could you construct a {chart_type} chart for ChartJS regarding {chart_title} with the provided data {labels_values}?",
+  "Can you produce a {chart_type} chart in ChartJS showing {chart_title} and representing the data {labels_values}?",
+  "Would you be able to design a {chart_type} chart for ChartJS to display {chart_title} with the data {labels_values}?"
+]
