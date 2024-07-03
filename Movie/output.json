@@ -1,0 +1,5969 @@
+[
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Opening",
+        "data": [
+            {
+                "label": "Harry Potter and the Deathly Hallows: Part 1",
+                "value": 125017372,
+                "color": "rgba(17, 203, 131, 0.2)"
+            },
+            {
+                "label": "Venom",
+                "value": 80255756,
+                "color": "rgba(150, 103, 7, 0.2)"
+            },
+            {
+                "label": "Superman Returns",
+                "value": 52535096,
+                "color": "rgba(170, 244, 135, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Opening",
+        "data": [
+            {
+                "label": "The Nun",
+                "value": 53807379,
+                "color": "rgba(152, 126, 200, 0.2)"
+            },
+            {
+                "label": "Harry Potter and the Prisoner of Azkaban",
+                "value": 93687367,
+                "color": "rgba(43, 52, 233, 0.2)"
+            },
+            {
+                "label": "Ghostbusters: Afterlife",
+                "value": 44008406,
+                "color": "rgba(250, 217, 250, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Bram Stoker's Dracula",
+                "value": 82522790,
+                "color": "rgba(147, 21, 188, 0.2)"
+            },
+            {
+                "label": "Bedtime Stories",
+                "value": 110101975,
+                "color": "rgba(164, 75, 78, 0.2)"
+            },
+            {
+                "label": "Fast Five",
+                "value": 209837675,
+                "color": "rgba(85, 62, 179, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Average",
+        "data": [
+            {
+                "label": "The Invisible Man",
+                "value": 7813,
+                "color": "rgba(186, 27, 34, 0.2)"
+            },
+            {
+                "label": "F9: The Fast Saga",
+                "value": 16760,
+                "color": "rgba(163, 211, 97, 0.2)"
+            },
+            {
+                "label": "The Hobbit: An Unexpected Journey",
+                "value": 20918,
+                "color": "rgba(183, 223, 95, 0.2)"
+            },
+            {
+                "label": "Saw 3D",
+                "value": 8023,
+                "color": "rgba(15, 127, 81, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "Unknown",
+                "value": 3043,
+                "color": "rgba(2, 91, 182, 0.2)"
+            },
+            {
+                "label": "Fifty Shades Freed",
+                "value": 3768,
+                "color": "rgba(155, 225, 108, 0.2)"
+            },
+            {
+                "label": "The Other Guys",
+                "value": 3651,
+                "color": "rgba(179, 163, 138, 0.2)"
+            },
+            {
+                "label": "42",
+                "value": 3003,
+                "color": "rgba(18, 115, 253, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Opening",
+        "data": [
+            {
+                "label": "Jackass Presents: Bad Grandpa",
+                "value": 32055177,
+                "color": "rgba(106, 240, 247, 0.2)"
+            },
+            {
+                "label": "The Little Mermaid",
+                "value": 95578040,
+                "color": "rgba(96, 105, 191, 0.2)"
+            },
+            {
+                "label": "The Lost World: Jurassic Park",
+                "value": 72132785,
+                "color": "rgba(75, 58, 77, 0.2)"
+            },
+            {
+                "label": "The Hangover Part II",
+                "value": 85946294,
+                "color": "rgba(139, 234, 78, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Average",
+        "data": [
+            {
+                "label": "Twilight",
+                "value": 20367,
+                "color": "rgba(87, 131, 94, 0.2)"
+            },
+            {
+                "label": "Taken 2",
+                "value": 13524,
+                "color": "rgba(34, 87, 110, 0.2)"
+            },
+            {
+                "label": "Bram Stoker's Dracula",
+                "value": 12252,
+                "color": "rgba(117, 123, 124, 0.2)"
+            },
+            {
+                "label": "Godzilla",
+                "value": 13307,
+                "color": "rgba(206, 130, 213, 0.2)"
+            },
+            {
+                "label": "Paranormal Activity 3",
+                "value": 15829,
+                "color": "rgba(87, 38, 50, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "A Christmas Carol",
+                "value": 137855863,
+                "color": "rgba(252, 63, 13, 0.2)"
+            },
+            {
+                "label": "Madagascar",
+                "value": 193595521,
+                "color": "rgba(243, 209, 38, 0.2)"
+            },
+            {
+                "label": "The Longest Yard",
+                "value": 158119460,
+                "color": "rgba(90, 221, 185, 0.2)"
+            },
+            {
+                "label": "Hellboy II: The Golden Army",
+                "value": 75986503,
+                "color": "rgba(42, 155, 251, 0.2)"
+            },
+            {
+                "label": "Goosebumps",
+                "value": 80080379,
+                "color": "rgba(22, 71, 241, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Average",
+        "data": [
+            {
+                "label": "The World Is Not Enough",
+                "value": 11229,
+                "color": "rgba(136, 11, 204, 0.2)"
+            },
+            {
+                "label": "Daddy Day Care",
+                "value": 8196,
+                "color": "rgba(39, 193, 170, 0.2)"
+            },
+            {
+                "label": "Flight",
+                "value": 13216,
+                "color": "rgba(34, 8, 217, 0.2)"
+            },
+            {
+                "label": "The Purge",
+                "value": 13429,
+                "color": "rgba(27, 89, 129, 0.2)"
+            },
+            {
+                "label": "Magic Mike",
+                "value": 13353,
+                "color": "rgba(240, 203, 96, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Beowulf",
+                "value": 82280579,
+                "color": "rgba(238, 239, 244, 0.2)"
+            },
+            {
+                "label": "Men in Black: International",
+                "value": 80001807,
+                "color": "rgba(194, 46, 84, 0.2)"
+            },
+            {
+                "label": "Tron: Legacy",
+                "value": 172062763,
+                "color": "rgba(39, 161, 5, 0.2)"
+            },
+            {
+                "label": "About Last Night",
+                "value": 48637684,
+                "color": "rgba(22, 163, 68, 0.2)"
+            },
+            {
+                "label": "Magic Mike",
+                "value": 113721571,
+                "color": "rgba(197, 80, 219, 0.2)"
+            },
+            {
+                "label": "True Grit",
+                "value": 171243005,
+                "color": "rgba(19, 211, 120, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Grown Ups 2",
+                "value": 133668525,
+                "color": "rgba(142, 56, 6, 0.2)"
+            },
+            {
+                "label": "Patch Adams",
+                "value": 135026902,
+                "color": "rgba(67, 87, 141, 0.2)"
+            },
+            {
+                "label": "Renaissance: A Film by Beyonc\u00e9",
+                "value": 33889684,
+                "color": "rgba(83, 179, 113, 0.2)"
+            },
+            {
+                "label": "Anchorman: The Legend of Ron Burgundy",
+                "value": 85288303,
+                "color": "rgba(92, 161, 151, 0.2)"
+            },
+            {
+                "label": "Safe Haven",
+                "value": 71349120,
+                "color": "rgba(173, 111, 74, 0.2)"
+            },
+            {
+                "label": "Ice Age",
+                "value": 176387405,
+                "color": "rgba(21, 193, 40, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Venom: Let There Be Carnage",
+                "value": 213550366,
+                "color": "rgba(135, 40, 102, 0.2)"
+            },
+            {
+                "label": "Cinderella",
+                "value": 201151353,
+                "color": "rgba(157, 192, 13, 0.2)"
+            },
+            {
+                "label": "Immortals",
+                "value": 83504017,
+                "color": "rgba(171, 158, 197, 0.2)"
+            },
+            {
+                "label": "Home Alone 2: Lost in New York",
+                "value": 173585516,
+                "color": "rgba(33, 14, 223, 0.2)"
+            },
+            {
+                "label": "Unbreakable",
+                "value": 95011339,
+                "color": "rgba(114, 198, 98, 0.2)"
+            },
+            {
+                "label": "Killers of the Flower Moon",
+                "value": 68026901,
+                "color": "rgba(116, 209, 60, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Training Day",
+                "value": 76631907,
+                "color": "rgba(107, 83, 176, 0.2)"
+            },
+            {
+                "label": "Paranormal Activity 3",
+                "value": 104028807,
+                "color": "rgba(92, 58, 156, 0.2)"
+            },
+            {
+                "label": "Pitch Perfect 2",
+                "value": 184296230,
+                "color": "rgba(205, 222, 154, 0.2)"
+            },
+            {
+                "label": "Think Like a Man Too",
+                "value": 65182182,
+                "color": "rgba(187, 212, 118, 0.2)"
+            },
+            {
+                "label": "The Passion of the Christ",
+                "value": 370274604,
+                "color": "rgba(109, 92, 72, 0.2)"
+            },
+            {
+                "label": "Diary of a Wimpy Kid",
+                "value": 64003625,
+                "color": "rgba(198, 139, 118, 0.2)"
+            },
+            {
+                "label": "How to Train Your Dragon",
+                "value": 217581231,
+                "color": "rgba(148, 22, 48, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Average",
+        "data": [
+            {
+                "label": "War of the Worlds",
+                "value": 16601,
+                "color": "rgba(141, 69, 123, 0.2)"
+            },
+            {
+                "label": "Paranormal Activity 4",
+                "value": 8500,
+                "color": "rgba(247, 170, 89, 0.2)"
+            },
+            {
+                "label": "2012",
+                "value": 19164,
+                "color": "rgba(60, 246, 194, 0.2)"
+            },
+            {
+                "label": "What Women Want",
+                "value": 11160,
+                "color": "rgba(99, 225, 16, 0.2)"
+            },
+            {
+                "label": "Men in Black II",
+                "value": 14660,
+                "color": "rgba(101, 6, 11, 0.2)"
+            },
+            {
+                "label": "Bohemian Rhapsody",
+                "value": 12765,
+                "color": "rgba(102, 199, 14, 0.2)"
+            },
+            {
+                "label": "Star Wars: Episode II - Attack of the Clones",
+                "value": 25317,
+                "color": "rgba(137, 108, 126, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Average",
+        "data": [
+            {
+                "label": "Bee Movie",
+                "value": 9679,
+                "color": "rgba(24, 142, 163, 0.2)"
+            },
+            {
+                "label": "Miami Vice",
+                "value": 8515,
+                "color": "rgba(145, 208, 186, 0.2)"
+            },
+            {
+                "label": "Minority Report",
+                "value": 11888,
+                "color": "rgba(160, 0, 226, 0.2)"
+            },
+            {
+                "label": "Bumblebee",
+                "value": 6099,
+                "color": "rgba(151, 129, 115, 0.2)"
+            },
+            {
+                "label": "Spy Game",
+                "value": 7830,
+                "color": "rgba(130, 61, 58, 0.2)"
+            },
+            {
+                "label": "A Wrinkle in Time",
+                "value": 8322,
+                "color": "rgba(86, 82, 200, 0.2)"
+            },
+            {
+                "label": "Epic",
+                "value": 8637,
+                "color": "rgba(156, 135, 204, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "Boo! A Madea Halloween",
+                "value": 2260,
+                "color": "rgba(148, 183, 11, 0.2)"
+            },
+            {
+                "label": "Crazy Rich Asians",
+                "value": 3384,
+                "color": "rgba(150, 143, 15, 0.2)"
+            },
+            {
+                "label": "Ratatouille",
+                "value": 3940,
+                "color": "rgba(86, 52, 197, 0.2)"
+            },
+            {
+                "label": "The Bourne Supremacy",
+                "value": 3165,
+                "color": "rgba(106, 35, 83, 0.2)"
+            },
+            {
+                "label": "The Twilight Saga: Breaking Dawn - Part 2",
+                "value": 4070,
+                "color": "rgba(88, 22, 211, 0.2)"
+            },
+            {
+                "label": "Act of Valor",
+                "value": 3039,
+                "color": "rgba(6, 12, 34, 0.2)"
+            },
+            {
+                "label": "Star Trek Into Darkness",
+                "value": 3868,
+                "color": "rgba(138, 33, 5, 0.2)"
+            },
+            {
+                "label": "Catch Me If You Can",
+                "value": 3156,
+                "color": "rgba(39, 60, 201, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "The Accountant",
+                "value": 3332,
+                "color": "rgba(154, 47, 98, 0.2)"
+            },
+            {
+                "label": "London Has Fallen",
+                "value": 3490,
+                "color": "rgba(221, 76, 32, 0.2)"
+            },
+            {
+                "label": "Brave",
+                "value": 4164,
+                "color": "rgba(198, 118, 59, 0.2)"
+            },
+            {
+                "label": "Avengers: Age of Ultron",
+                "value": 4276,
+                "color": "rgba(83, 79, 152, 0.2)"
+            },
+            {
+                "label": "The Mummy",
+                "value": 4035,
+                "color": "rgba(189, 204, 21, 0.2)"
+            },
+            {
+                "label": "Cloudy with a Chance of Meatballs",
+                "value": 3119,
+                "color": "rgba(182, 19, 47, 0.2)"
+            },
+            {
+                "label": "The Karate Kid",
+                "value": 3663,
+                "color": "rgba(209, 20, 0, 0.2)"
+            },
+            {
+                "label": "Erin Brockovich",
+                "value": 2848,
+                "color": "rgba(62, 244, 124, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Opening",
+        "data": [
+            {
+                "label": "Back to the Future Part II",
+                "value": 27835125,
+                "color": "rgba(43, 103, 173, 0.2)"
+            },
+            {
+                "label": "Ghost Rider: Spirit of Vengeance",
+                "value": 22115334,
+                "color": "rgba(148, 215, 237, 0.2)"
+            },
+            {
+                "label": "The Hunger Games: The Ballad of Songbirds & Snakes",
+                "value": 44607143,
+                "color": "rgba(77, 8, 14, 0.2)"
+            },
+            {
+                "label": "Eyes Wide Shut",
+                "value": 21706163,
+                "color": "rgba(12, 69, 142, 0.2)"
+            },
+            {
+                "label": "Diary of a Wimpy Kid: Rodrick Rules",
+                "value": 23751502,
+                "color": "rgba(233, 44, 210, 0.2)"
+            },
+            {
+                "label": "He's Just Not That Into You",
+                "value": 27785487,
+                "color": "rgba(225, 149, 152, 0.2)"
+            },
+            {
+                "label": "Signs",
+                "value": 60117080,
+                "color": "rgba(17, 91, 204, 0.2)"
+            },
+            {
+                "label": "Alvin and the Chipmunks",
+                "value": 44307417,
+                "color": "rgba(30, 197, 20, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Average",
+        "data": [
+            {
+                "label": "Happy Feet",
+                "value": 10918,
+                "color": "rgba(250, 129, 74, 0.2)"
+            },
+            {
+                "label": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+                "value": 8675,
+                "color": "rgba(157, 22, 149, 0.2)"
+            },
+            {
+                "label": "Batman Forever",
+                "value": 18572,
+                "color": "rgba(196, 30, 241, 0.2)"
+            },
+            {
+                "label": "Scream VI",
+                "value": 12094,
+                "color": "rgba(161, 163, 205, 0.2)"
+            },
+            {
+                "label": "Bram Stoker's Dracula",
+                "value": 12252,
+                "color": "rgba(240, 101, 99, 0.2)"
+            },
+            {
+                "label": "The Nutty Professor",
+                "value": 12015,
+                "color": "rgba(14, 16, 79, 0.2)"
+            },
+            {
+                "label": "Lethal Weapon 3",
+                "value": 13244,
+                "color": "rgba(135, 170, 62, 0.2)"
+            },
+            {
+                "label": "Rio",
+                "value": 10252,
+                "color": "rgba(215, 24, 42, 0.2)"
+            },
+            {
+                "label": "Green Lantern",
+                "value": 13934,
+                "color": "rgba(167, 191, 123, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "The Lost World: Jurassic Park",
+                "value": 229086679,
+                "color": "rgba(254, 192, 72, 0.2)"
+            },
+            {
+                "label": "Live Free or Die Hard",
+                "value": 134529403,
+                "color": "rgba(228, 226, 242, 0.2)"
+            },
+            {
+                "label": "Friday the 13th",
+                "value": 65002019,
+                "color": "rgba(6, 230, 57, 0.2)"
+            },
+            {
+                "label": "The World Is Not Enough",
+                "value": 126943684,
+                "color": "rgba(109, 14, 82, 0.2)"
+            },
+            {
+                "label": "Harry Potter and the Deathly Hallows: Part 1",
+                "value": 295983305,
+                "color": "rgba(171, 172, 67, 0.2)"
+            },
+            {
+                "label": "Bob Marley: One Love",
+                "value": 96456635,
+                "color": "rgba(86, 72, 152, 0.2)"
+            },
+            {
+                "label": "Boo! A Madea Halloween",
+                "value": 73206343,
+                "color": "rgba(141, 84, 191, 0.2)"
+            },
+            {
+                "label": "Shrek",
+                "value": 267851831,
+                "color": "rgba(51, 72, 20, 0.2)"
+            },
+            {
+                "label": "Rugrats in Paris",
+                "value": 76507756,
+                "color": "rgba(101, 86, 107, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Average",
+        "data": [
+            {
+                "label": "Hotel Transylvania 3: Summer Vacation",
+                "value": 10329,
+                "color": "rgba(251, 91, 104, 0.2)"
+            },
+            {
+                "label": "Captain Underpants: The First Epic Movie",
+                "value": 6945,
+                "color": "rgba(27, 75, 165, 0.2)"
+            },
+            {
+                "label": "Rocketman",
+                "value": 7126,
+                "color": "rgba(230, 110, 208, 0.2)"
+            },
+            {
+                "label": "Ghostbusters: Afterlife",
+                "value": 10198,
+                "color": "rgba(197, 43, 228, 0.2)"
+            },
+            {
+                "label": "White Noise",
+                "value": 10665,
+                "color": "rgba(84, 144, 211, 0.2)"
+            },
+            {
+                "label": "High School Musical 3: Senior Year",
+                "value": 11600,
+                "color": "rgba(172, 25, 112, 0.2)"
+            },
+            {
+                "label": "The Exorcism of Emily Rose",
+                "value": 10081,
+                "color": "rgba(12, 46, 202, 0.2)"
+            },
+            {
+                "label": "Doctor Strange in the Multiverse of Madness",
+                "value": 41336,
+                "color": "rgba(141, 15, 99, 0.2)"
+            },
+            {
+                "label": "Neighbors 2: Sorority Rising",
+                "value": 6430,
+                "color": "rgba(255, 56, 203, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Average",
+        "data": [
+            {
+                "label": "The Hobbit: The Battle of the Five Armies",
+                "value": 14122,
+                "color": "rgba(92, 177, 39, 0.2)"
+            },
+            {
+                "label": "Super 8",
+                "value": 10491,
+                "color": "rgba(226, 73, 103, 0.2)"
+            },
+            {
+                "label": "Br\u00fcno",
+                "value": 11109,
+                "color": "rgba(11, 26, 242, 0.2)"
+            },
+            {
+                "label": "Harry Potter and the Chamber of Secrets",
+                "value": 23997,
+                "color": "rgba(183, 101, 224, 0.2)"
+            },
+            {
+                "label": "Eraser",
+                "value": 10193,
+                "color": "rgba(19, 132, 134, 0.2)"
+            },
+            {
+                "label": "Zombieland: Double Tap",
+                "value": 7728,
+                "color": "rgba(252, 171, 1, 0.2)"
+            },
+            {
+                "label": "Godzilla: King of the Monsters",
+                "value": 11630,
+                "color": "rgba(163, 130, 32, 0.2)"
+            },
+            {
+                "label": "X-Men: First Class",
+                "value": 15133,
+                "color": "rgba(91, 51, 3, 0.2)"
+            },
+            {
+                "label": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+                "value": 8675,
+                "color": "rgba(22, 134, 231, 0.2)"
+            },
+            {
+                "label": "Armageddon",
+                "value": 11541,
+                "color": "rgba(217, 8, 176, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Iron Man 2",
+                "value": 312433331,
+                "color": "rgba(153, 165, 200, 0.2)"
+            },
+            {
+                "label": "Harry Potter and the Prisoner of Azkaban",
+                "value": 249541069,
+                "color": "rgba(63, 70, 194, 0.2)"
+            },
+            {
+                "label": "Jumanji: Welcome to the Jungle",
+                "value": 404515480,
+                "color": "rgba(98, 179, 127, 0.2)"
+            },
+            {
+                "label": "Dumb and Dumber To",
+                "value": 86208010,
+                "color": "rgba(233, 84, 20, 0.2)"
+            },
+            {
+                "label": "Back to the Future Part II",
+                "value": 118450002,
+                "color": "rgba(145, 131, 160, 0.2)"
+            },
+            {
+                "label": "Now You See Me 2",
+                "value": 65075540,
+                "color": "rgba(79, 234, 54, 0.2)"
+            },
+            {
+                "label": "Fahrenheit 9/11",
+                "value": 119194771,
+                "color": "rgba(197, 1, 148, 0.2)"
+            },
+            {
+                "label": "How to Train Your Dragon 2",
+                "value": 177002924,
+                "color": "rgba(39, 77, 116, 0.2)"
+            },
+            {
+                "label": "The Ring Two",
+                "value": 76231249,
+                "color": "rgba(194, 161, 238, 0.2)"
+            },
+            {
+                "label": "X-Men: Apocalypse",
+                "value": 155442489,
+                "color": "rgba(200, 78, 76, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Gravity",
+                "value": 274092705,
+                "color": "rgba(149, 179, 153, 0.2)"
+            },
+            {
+                "label": "You, Me and Dupree",
+                "value": 75628110,
+                "color": "rgba(52, 74, 231, 0.2)"
+            },
+            {
+                "label": "The Amazing Spider-Man",
+                "value": 262030663,
+                "color": "rgba(145, 79, 81, 0.2)"
+            },
+            {
+                "label": "Dinosaur",
+                "value": 137748063,
+                "color": "rgba(147, 144, 249, 0.2)"
+            },
+            {
+                "label": "The Twilight Saga: Eclipse",
+                "value": 300531751,
+                "color": "rgba(217, 139, 192, 0.2)"
+            },
+            {
+                "label": "The Bourne Identity",
+                "value": 121661683,
+                "color": "rgba(186, 149, 166, 0.2)"
+            },
+            {
+                "label": "London Has Fallen",
+                "value": 62524260,
+                "color": "rgba(187, 72, 66, 0.2)"
+            },
+            {
+                "label": "Alita: Battle Angel",
+                "value": 85838210,
+                "color": "rgba(177, 160, 150, 0.2)"
+            },
+            {
+                "label": "Horrible Bosses",
+                "value": 117538559,
+                "color": "rgba(78, 160, 14, 0.2)"
+            },
+            {
+                "label": "Turbo",
+                "value": 83028128,
+                "color": "rgba(23, 135, 85, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "Transformers: Revenge of the Fallen",
+                "value": 4234,
+                "color": "rgba(193, 247, 89, 0.2)"
+            },
+            {
+                "label": "Teenage Mutant Ninja Turtles",
+                "value": 3845,
+                "color": "rgba(112, 101, 12, 0.2)"
+            },
+            {
+                "label": "The Town",
+                "value": 2861,
+                "color": "rgba(224, 80, 84, 0.2)"
+            },
+            {
+                "label": "Beverly Hills Cop II",
+                "value": 2326,
+                "color": "rgba(98, 183, 219, 0.2)"
+            },
+            {
+                "label": "Constantine",
+                "value": 3006,
+                "color": "rgba(36, 38, 32, 0.2)"
+            },
+            {
+                "label": "Spider-Man 2",
+                "value": 4152,
+                "color": "rgba(99, 127, 103, 0.2)"
+            },
+            {
+                "label": "The Fate of the Furious",
+                "value": 4310,
+                "color": "rgba(154, 243, 122, 0.2)"
+            },
+            {
+                "label": "Pok\u00e9mon: The First Movie - Mewtwo Strikes Back",
+                "value": 3043,
+                "color": "rgba(241, 93, 15, 0.2)"
+            },
+            {
+                "label": "The Flash",
+                "value": 4234,
+                "color": "rgba(192, 175, 131, 0.2)"
+            },
+            {
+                "label": "Ice Age: Continental Drift",
+                "value": 3881,
+                "color": "rgba(188, 221, 101, 0.2)"
+            },
+            {
+                "label": "Charlie and the Chocolate Factory",
+                "value": 3770,
+                "color": "rgba(225, 219, 52, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "Iron Man 3",
+                "value": 4253,
+                "color": "rgba(33, 1, 92, 0.2)"
+            },
+            {
+                "label": "Downton Abbey",
+                "value": 3079,
+                "color": "rgba(136, 85, 227, 0.2)"
+            },
+            {
+                "label": "Nacho Libre",
+                "value": 3070,
+                "color": "rgba(6, 83, 26, 0.2)"
+            },
+            {
+                "label": "Ratatouille",
+                "value": 3940,
+                "color": "rgba(73, 78, 210, 0.2)"
+            },
+            {
+                "label": "Norbit",
+                "value": 3136,
+                "color": "rgba(55, 208, 38, 0.2)"
+            },
+            {
+                "label": "Ghost Rider: Spirit of Vengeance",
+                "value": 3174,
+                "color": "rgba(223, 146, 176, 0.2)"
+            },
+            {
+                "label": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+                "value": 3616,
+                "color": "rgba(250, 174, 74, 0.2)"
+            },
+            {
+                "label": "Mamma Mia!",
+                "value": 2976,
+                "color": "rgba(176, 119, 215, 0.2)"
+            },
+            {
+                "label": "How the Grinch Stole Christmas",
+                "value": 3127,
+                "color": "rgba(105, 173, 39, 0.2)"
+            },
+            {
+                "label": "Dawn of the Planet of the Apes",
+                "value": 3967,
+                "color": "rgba(13, 185, 128, 0.2)"
+            },
+            {
+                "label": "Jurassic World: Fallen Kingdom",
+                "value": 4475,
+                "color": "rgba(190, 184, 13, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Average",
+        "data": [
+            {
+                "label": "The Avengers",
+                "value": 47698,
+                "color": "rgba(81, 138, 254, 0.2)"
+            },
+            {
+                "label": "Fool's Gold",
+                "value": 6908,
+                "color": "rgba(189, 215, 163, 0.2)"
+            },
+            {
+                "label": "The House with a Clock in Its Walls",
+                "value": 7407,
+                "color": "rgba(251, 78, 195, 0.2)"
+            },
+            {
+                "label": "Ride Along",
+                "value": 15590,
+                "color": "rgba(146, 205, 196, 0.2)"
+            },
+            {
+                "label": "Oz the Great and Powerful",
+                "value": 20222,
+                "color": "rgba(173, 23, 216, 0.2)"
+            },
+            {
+                "label": "Inside Out",
+                "value": 22919,
+                "color": "rgba(69, 44, 97, 0.2)"
+            },
+            {
+                "label": "The Secret Life of Pets 2",
+                "value": 10228,
+                "color": "rgba(236, 30, 144, 0.2)"
+            },
+            {
+                "label": "300",
+                "value": 22844,
+                "color": "rgba(124, 132, 50, 0.2)"
+            },
+            {
+                "label": "Jurassic World",
+                "value": 48855,
+                "color": "rgba(215, 213, 152, 0.2)"
+            },
+            {
+                "label": "Back to the Future Part II",
+                "value": 14925,
+                "color": "rgba(218, 202, 105, 0.2)"
+            },
+            {
+                "label": "Interview with the Vampire: The Vampire Chronicles",
+                "value": 13974,
+                "color": "rgba(237, 92, 160, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Opening",
+        "data": [
+            {
+                "label": "Crazy Rich Asians",
+                "value": 26510140,
+                "color": "rgba(66, 48, 213, 0.2)"
+            },
+            {
+                "label": "Godzilla x Kong: The New Empire",
+                "value": 80006561,
+                "color": "rgba(184, 22, 231, 0.2)"
+            },
+            {
+                "label": "The Wolfman",
+                "value": 31479235,
+                "color": "rgba(250, 110, 34, 0.2)"
+            },
+            {
+                "label": "Ladder 49",
+                "value": 22088204,
+                "color": "rgba(68, 33, 133, 0.2)"
+            },
+            {
+                "label": "The Day After Tomorrow",
+                "value": 68743584,
+                "color": "rgba(137, 196, 177, 0.2)"
+            },
+            {
+                "label": "The Suicide Squad",
+                "value": 26205415,
+                "color": "rgba(136, 70, 65, 0.2)"
+            },
+            {
+                "label": "Alice in Wonderland",
+                "value": 116101023,
+                "color": "rgba(13, 223, 195, 0.2)"
+            },
+            {
+                "label": "Sherlock Holmes",
+                "value": 62304277,
+                "color": "rgba(157, 201, 228, 0.2)"
+            },
+            {
+                "label": "Harry Potter and the Goblet of Fire",
+                "value": 102685961,
+                "color": "rgba(67, 110, 19, 0.2)"
+            },
+            {
+                "label": "Austin Powers in Goldmember",
+                "value": 73071188,
+                "color": "rgba(62, 53, 238, 0.2)"
+            },
+            {
+                "label": "The Nutty Professor",
+                "value": 25411725,
+                "color": "rgba(212, 108, 96, 0.2)"
+            },
+            {
+                "label": "Tangled",
+                "value": 48767052,
+                "color": "rgba(125, 137, 38, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "Gladiator",
+                "value": 2938,
+                "color": "rgba(124, 100, 135, 0.2)"
+            },
+            {
+                "label": "Candyman",
+                "value": 3569,
+                "color": "rgba(252, 177, 198, 0.2)"
+            },
+            {
+                "label": "Madagascar: Escape 2 Africa",
+                "value": 4056,
+                "color": "rgba(115, 4, 65, 0.2)"
+            },
+            {
+                "label": "Sin City",
+                "value": 3230,
+                "color": "rgba(138, 47, 217, 0.2)"
+            },
+            {
+                "label": "Ice Age",
+                "value": 3316,
+                "color": "rgba(5, 84, 239, 0.2)"
+            },
+            {
+                "label": "Inception",
+                "value": 3792,
+                "color": "rgba(221, 172, 153, 0.2)"
+            },
+            {
+                "label": "Ant-Man",
+                "value": 3856,
+                "color": "rgba(96, 240, 1, 0.2)"
+            },
+            {
+                "label": "Diary of a Wimpy Kid: Rodrick Rules",
+                "value": 3167,
+                "color": "rgba(208, 237, 165, 0.2)"
+            },
+            {
+                "label": "Cruella",
+                "value": 3892,
+                "color": "rgba(195, 12, 80, 0.2)"
+            },
+            {
+                "label": "The Secret Life of Pets",
+                "value": 4370,
+                "color": "rgba(216, 62, 255, 0.2)"
+            },
+            {
+                "label": "True Grit",
+                "value": 3047,
+                "color": "rgba(157, 205, 92, 0.2)"
+            },
+            {
+                "label": "Batman Returns",
+                "value": 2644,
+                "color": "rgba(179, 158, 192, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Opening",
+        "data": [
+            {
+                "label": "Safe House",
+                "value": 40172720,
+                "color": "rgba(189, 229, 29, 0.2)"
+            },
+            {
+                "label": "Alita: Battle Angel",
+                "value": 28525613,
+                "color": "rgba(175, 186, 13, 0.2)"
+            },
+            {
+                "label": "The Predator",
+                "value": 24632284,
+                "color": "rgba(80, 65, 230, 0.2)"
+            },
+            {
+                "label": "Clash of the Titans",
+                "value": 61235105,
+                "color": "rgba(165, 246, 100, 0.2)"
+            },
+            {
+                "label": "Independence Day",
+                "value": 50228264,
+                "color": "rgba(193, 213, 142, 0.2)"
+            },
+            {
+                "label": "Knocked Up",
+                "value": 30690990,
+                "color": "rgba(223, 82, 148, 0.2)"
+            },
+            {
+                "label": "Oblivion",
+                "value": 37054485,
+                "color": "rgba(226, 132, 167, 0.2)"
+            },
+            {
+                "label": "Monsters vs. Aliens",
+                "value": 59321095,
+                "color": "rgba(154, 92, 216, 0.2)"
+            },
+            {
+                "label": "The Karate Kid",
+                "value": 55665805,
+                "color": "rgba(153, 96, 49, 0.2)"
+            },
+            {
+                "label": "S.W.A.T.",
+                "value": 37062535,
+                "color": "rgba(220, 0, 223, 0.2)"
+            },
+            {
+                "label": "The Call of the Wild",
+                "value": 24791624,
+                "color": "rgba(4, 199, 253, 0.2)"
+            },
+            {
+                "label": "The Mummy: Tomb of the Dragon Emperor",
+                "value": 40457770,
+                "color": "rgba(117, 75, 223, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Opening",
+        "data": [
+            {
+                "label": "Hop",
+                "value": 37543710,
+                "color": "rgba(213, 66, 190, 0.2)"
+            },
+            {
+                "label": "Hercules",
+                "value": 29800263,
+                "color": "rgba(10, 169, 35, 0.2)"
+            },
+            {
+                "label": "Bullet Train",
+                "value": 30030156,
+                "color": "rgba(220, 245, 111, 0.2)"
+            },
+            {
+                "label": "Rio 2",
+                "value": 39327869,
+                "color": "rgba(178, 62, 232, 0.2)"
+            },
+            {
+                "label": "Top Gun: Maverick",
+                "value": 126707459,
+                "color": "rgba(233, 231, 26, 0.2)"
+            },
+            {
+                "label": "Now You See Me",
+                "value": 29350389,
+                "color": "rgba(54, 30, 93, 0.2)"
+            },
+            {
+                "label": "Lilo & Stitch",
+                "value": 35260212,
+                "color": "rgba(248, 1, 216, 0.2)"
+            },
+            {
+                "label": "Black Panther",
+                "value": 202003951,
+                "color": "rgba(92, 101, 17, 0.2)"
+            },
+            {
+                "label": "300: Rise of an Empire",
+                "value": 45038460,
+                "color": "rgba(127, 111, 173, 0.2)"
+            },
+            {
+                "label": "Furious 7",
+                "value": 147187040,
+                "color": "rgba(197, 144, 254, 0.2)"
+            },
+            {
+                "label": "Bad Boys for Life",
+                "value": 62504105,
+                "color": "rgba(202, 80, 128, 0.2)"
+            },
+            {
+                "label": "Garfield: The Movie",
+                "value": 21727611,
+                "color": "rgba(14, 164, 204, 0.2)"
+            },
+            {
+                "label": "The Mummy",
+                "value": 31688375,
+                "color": "rgba(8, 63, 73, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "Shang-Chi and the Legend of the Ten Rings",
+                "value": 4300,
+                "color": "rgba(34, 80, 41, 0.2)"
+            },
+            {
+                "label": "Minions",
+                "value": 4301,
+                "color": "rgba(152, 24, 13, 0.2)"
+            },
+            {
+                "label": "Dr. Dolittle 2",
+                "value": 3049,
+                "color": "rgba(133, 33, 240, 0.2)"
+            },
+            {
+                "label": "Charlie's Angels",
+                "value": 3037,
+                "color": "rgba(248, 116, 252, 0.2)"
+            },
+            {
+                "label": "Harry Potter and the Goblet of Fire",
+                "value": 3858,
+                "color": "rgba(72, 107, 70, 0.2)"
+            },
+            {
+                "label": "The League of Extraordinary Gentlemen",
+                "value": 3002,
+                "color": "rgba(75, 70, 100, 0.2)"
+            },
+            {
+                "label": "Venom",
+                "value": 4250,
+                "color": "rgba(149, 88, 44, 0.2)"
+            },
+            {
+                "label": "The Hunger Games: The Ballad of Songbirds & Snakes",
+                "value": 3776,
+                "color": "rgba(172, 192, 81, 0.2)"
+            },
+            {
+                "label": "John Wick: Chapter 4",
+                "value": 3855,
+                "color": "rgba(183, 211, 133, 0.2)"
+            },
+            {
+                "label": "Hotel Transylvania 3: Summer Vacation",
+                "value": 4267,
+                "color": "rgba(4, 126, 130, 0.2)"
+            },
+            {
+                "label": "Ice Age: Dawn of the Dinosaurs",
+                "value": 4099,
+                "color": "rgba(59, 144, 249, 0.2)"
+            },
+            {
+                "label": "Fast X",
+                "value": 4046,
+                "color": "rgba(147, 121, 209, 0.2)"
+            },
+            {
+                "label": "Rio",
+                "value": 3826,
+                "color": "rgba(103, 61, 205, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Harry Potter and the Chamber of Secrets",
+                "value": 261988482,
+                "color": "rgba(29, 228, 15, 0.2)"
+            },
+            {
+                "label": "Fantastic Four",
+                "value": 56117548,
+                "color": "rgba(8, 195, 120, 0.2)"
+            },
+            {
+                "label": "Jurassic World Dominion",
+                "value": 376851080,
+                "color": "rgba(145, 4, 205, 0.2)"
+            },
+            {
+                "label": "Texas Chainsaw",
+                "value": 34341945,
+                "color": "rgba(144, 125, 24, 0.2)"
+            },
+            {
+                "label": "Bringing Down the House",
+                "value": 132716677,
+                "color": "rgba(83, 19, 137, 0.2)"
+            },
+            {
+                "label": "Despicable Me 3",
+                "value": 264624300,
+                "color": "rgba(238, 223, 141, 0.2)"
+            },
+            {
+                "label": "Godzilla vs. Kong",
+                "value": 100916094,
+                "color": "rgba(87, 65, 16, 0.2)"
+            },
+            {
+                "label": "Ready Player One",
+                "value": 137690172,
+                "color": "rgba(185, 158, 49, 0.2)"
+            },
+            {
+                "label": "Fantastic Beasts: The Secrets of Dumbledore",
+                "value": 95850844,
+                "color": "rgba(215, 41, 150, 0.2)"
+            },
+            {
+                "label": "Shaft",
+                "value": 70334258,
+                "color": "rgba(209, 136, 82, 0.2)"
+            },
+            {
+                "label": "Spider-Man: Homecoming",
+                "value": 334201140,
+                "color": "rgba(48, 58, 188, 0.2)"
+            },
+            {
+                "label": "Men in Black",
+                "value": 250690539,
+                "color": "rgba(220, 234, 134, 0.2)"
+            },
+            {
+                "label": "We're the Millers",
+                "value": 150394119,
+                "color": "rgba(88, 125, 138, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Average",
+        "data": [
+            {
+                "label": "Madea's Witness Protection",
+                "value": 11749,
+                "color": "rgba(243, 51, 12, 0.2)"
+            },
+            {
+                "label": "The Twilight Saga: Breaking Dawn - Part 2",
+                "value": 34660,
+                "color": "rgba(149, 38, 199, 0.2)"
+            },
+            {
+                "label": "The Lost City",
+                "value": 7160,
+                "color": "rgba(74, 161, 51, 0.2)"
+            },
+            {
+                "label": "Meet the Fockers",
+                "value": 13110,
+                "color": "rgba(90, 194, 187, 0.2)"
+            },
+            {
+                "label": "Horrible Bosses",
+                "value": 9309,
+                "color": "rgba(246, 106, 243, 0.2)"
+            },
+            {
+                "label": "Harry Potter and the Chamber of Secrets",
+                "value": 23997,
+                "color": "rgba(233, 173, 178, 0.2)"
+            },
+            {
+                "label": "Creed",
+                "value": 8705,
+                "color": "rgba(85, 236, 228, 0.2)"
+            },
+            {
+                "label": "The Amazing Spider-Man",
+                "value": 14359,
+                "color": "rgba(38, 253, 216, 0.2)"
+            },
+            {
+                "label": "The Lucky One",
+                "value": 7137,
+                "color": "rgba(9, 190, 72, 0.2)"
+            },
+            {
+                "label": "Bad Moms",
+                "value": 7408,
+                "color": "rgba(236, 235, 72, 0.2)"
+            },
+            {
+                "label": "Poseidon",
+                "value": 6232,
+                "color": "rgba(10, 30, 32, 0.2)"
+            },
+            {
+                "label": "21 Jump Street",
+                "value": 11631,
+                "color": "rgba(133, 213, 103, 0.2)"
+            },
+            {
+                "label": "I Now Pronounce You Chuck & Larry",
+                "value": 9795,
+                "color": "rgba(124, 13, 252, 0.2)"
+            },
+            {
+                "label": "The Mask of Zorro",
+                "value": 8956,
+                "color": "rgba(9, 196, 195, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "Miami Vice",
+                "value": 3021,
+                "color": "rgba(66, 19, 28, 0.2)"
+            },
+            {
+                "label": "RoboCop",
+                "value": 3372,
+                "color": "rgba(225, 253, 162, 0.2)"
+            },
+            {
+                "label": "Alvin and the Chipmunks: Chipwrecked",
+                "value": 3723,
+                "color": "rgba(213, 71, 124, 0.2)"
+            },
+            {
+                "label": "Inception",
+                "value": 3792,
+                "color": "rgba(89, 28, 156, 0.2)"
+            },
+            {
+                "label": "Deadpool",
+                "value": 3558,
+                "color": "rgba(210, 110, 253, 0.2)"
+            },
+            {
+                "label": "The Visit",
+                "value": 3069,
+                "color": "rgba(211, 203, 25, 0.2)"
+            },
+            {
+                "label": "Rango",
+                "value": 3917,
+                "color": "rgba(248, 113, 39, 0.2)"
+            },
+            {
+                "label": "National Treasure",
+                "value": 3017,
+                "color": "rgba(72, 48, 62, 0.2)"
+            },
+            {
+                "label": "Bumblebee",
+                "value": 3550,
+                "color": "rgba(216, 71, 118, 0.2)"
+            },
+            {
+                "label": "Justin Bieber: Never Say Never",
+                "value": 3105,
+                "color": "rgba(94, 218, 67, 0.2)"
+            },
+            {
+                "label": "Be Cool",
+                "value": 3216,
+                "color": "rgba(246, 70, 19, 0.2)"
+            },
+            {
+                "label": "Public Enemies",
+                "value": 3334,
+                "color": "rgba(16, 78, 203, 0.2)"
+            },
+            {
+                "label": "Beverly Hills Chihuahua",
+                "value": 3215,
+                "color": "rgba(244, 143, 243, 0.2)"
+            },
+            {
+                "label": "San Andreas",
+                "value": 3777,
+                "color": "rgba(3, 10, 170, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "xXx",
+                "value": 142109382,
+                "color": "rgba(103, 250, 131, 0.2)"
+            },
+            {
+                "label": "Star Trek Beyond",
+                "value": 158848340,
+                "color": "rgba(99, 97, 94, 0.2)"
+            },
+            {
+                "label": "The Equalizer 3",
+                "value": 92373751,
+                "color": "rgba(58, 33, 62, 0.2)"
+            },
+            {
+                "label": "Harry Potter and the Half-Blood Prince",
+                "value": 301959197,
+                "color": "rgba(234, 133, 26, 0.2)"
+            },
+            {
+                "label": "The Haunting in Connecticut",
+                "value": 55389516,
+                "color": "rgba(160, 109, 4, 0.2)"
+            },
+            {
+                "label": "The Emoji Movie",
+                "value": 86089513,
+                "color": "rgba(103, 10, 223, 0.2)"
+            },
+            {
+                "label": "Batman & Robin",
+                "value": 107325195,
+                "color": "rgba(169, 240, 223, 0.2)"
+            },
+            {
+                "label": "Wonder",
+                "value": 132422809,
+                "color": "rgba(137, 239, 219, 0.2)"
+            },
+            {
+                "label": "Happy Feet",
+                "value": 198000317,
+                "color": "rgba(2, 193, 23, 0.2)"
+            },
+            {
+                "label": "When a Stranger Calls",
+                "value": 47860214,
+                "color": "rgba(17, 97, 1, 0.2)"
+            },
+            {
+                "label": "Godzilla: King of the Monsters",
+                "value": 110500138,
+                "color": "rgba(108, 11, 66, 0.2)"
+            },
+            {
+                "label": "The Conjuring 2",
+                "value": 102470008,
+                "color": "rgba(37, 233, 213, 0.2)"
+            },
+            {
+                "label": "Megamind",
+                "value": 148415853,
+                "color": "rgba(186, 26, 28, 0.2)"
+            },
+            {
+                "label": "Unbroken",
+                "value": 115637895,
+                "color": "rgba(77, 42, 186, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "The Heat",
+                "value": 3181,
+                "color": "rgba(49, 12, 155, 0.2)"
+            },
+            {
+                "label": "10 Cloverfield Lane",
+                "value": 3391,
+                "color": "rgba(118, 239, 248, 0.2)"
+            },
+            {
+                "label": "Mulan",
+                "value": 2888,
+                "color": "rgba(54, 127, 110, 0.2)"
+            },
+            {
+                "label": "The Smurfs",
+                "value": 3395,
+                "color": "rgba(249, 156, 213, 0.2)"
+            },
+            {
+                "label": "The Emoji Movie",
+                "value": 4075,
+                "color": "rgba(232, 24, 76, 0.2)"
+            },
+            {
+                "label": "National Treasure",
+                "value": 3017,
+                "color": "rgba(8, 11, 9, 0.2)"
+            },
+            {
+                "label": "Captain America: The First Avenger",
+                "value": 3715,
+                "color": "rgba(28, 44, 54, 0.2)"
+            },
+            {
+                "label": "Underworld: Evolution",
+                "value": 3207,
+                "color": "rgba(27, 48, 128, 0.2)"
+            },
+            {
+                "label": "How to Lose a Guy in 10 Days",
+                "value": 2923,
+                "color": "rgba(190, 203, 191, 0.2)"
+            },
+            {
+                "label": "No Time to Die",
+                "value": 4407,
+                "color": "rgba(33, 79, 181, 0.2)"
+            },
+            {
+                "label": "X-Men: First Class",
+                "value": 3641,
+                "color": "rgba(240, 161, 121, 0.2)"
+            },
+            {
+                "label": "Wreck-It Ralph",
+                "value": 3752,
+                "color": "rgba(255, 175, 113, 0.2)"
+            },
+            {
+                "label": "Fahrenheit 9/11",
+                "value": 868,
+                "color": "rgba(51, 85, 29, 0.2)"
+            },
+            {
+                "label": "Daddy's Home 2",
+                "value": 3575,
+                "color": "rgba(45, 153, 68, 0.2)"
+            },
+            {
+                "label": "Mortal Kombat",
+                "value": 2421,
+                "color": "rgba(254, 156, 146, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Average",
+        "data": [
+            {
+                "label": "Dumb and Dumber To",
+                "value": 11449,
+                "color": "rgba(124, 110, 158, 0.2)"
+            },
+            {
+                "label": "Think Like a Man Too",
+                "value": 13142,
+                "color": "rgba(67, 137, 158, 0.2)"
+            },
+            {
+                "label": "Doctor Strange in the Multiverse of Madness",
+                "value": 41336,
+                "color": "rgba(4, 107, 73, 0.2)"
+            },
+            {
+                "label": "Night School",
+                "value": 9055,
+                "color": "rgba(116, 217, 89, 0.2)"
+            },
+            {
+                "label": "Avatar",
+                "value": 22313,
+                "color": "rgba(42, 210, 92, 0.2)"
+            },
+            {
+                "label": "Jack and Jill",
+                "value": 7272,
+                "color": "rgba(39, 172, 161, 0.2)"
+            },
+            {
+                "label": "Star Wars: Episode IV - A New Hope1997 Special Edition",
+                "value": 17065,
+                "color": "rgba(35, 194, 248, 0.2)"
+            },
+            {
+                "label": "Fast & Furious 6",
+                "value": 26619,
+                "color": "rgba(204, 15, 243, 0.2)"
+            },
+            {
+                "label": "Allegiant",
+                "value": 7761,
+                "color": "rgba(184, 100, 150, 0.2)"
+            },
+            {
+                "label": "Beauty and the Beast",
+                "value": 41508,
+                "color": "rgba(8, 244, 94, 0.2)"
+            },
+            {
+                "label": "M3GAN",
+                "value": 8671,
+                "color": "rgba(141, 225, 17, 0.2)"
+            },
+            {
+                "label": "Magic Mike",
+                "value": 13353,
+                "color": "rgba(58, 119, 167, 0.2)"
+            },
+            {
+                "label": "Skyfall",
+                "value": 25211,
+                "color": "rgba(247, 232, 89, 0.2)"
+            },
+            {
+                "label": "Miami Vice",
+                "value": 8515,
+                "color": "rgba(139, 221, 255, 0.2)"
+            },
+            {
+                "label": "Hannah Montana and Miley Cyrus: Best of Both Worlds Concert",
+                "value": 45560,
+                "color": "rgba(143, 124, 149, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Bar Chart of Movie Average",
+        "data": [
+            {
+                "label": "50 First Dates",
+                "value": 11097,
+                "color": "rgba(128, 240, 86, 0.2)"
+            },
+            {
+                "label": "Ocean's Thirteen",
+                "value": 10135,
+                "color": "rgba(68, 243, 198, 0.2)"
+            },
+            {
+                "label": "Hannah Montana and Miley Cyrus: Best of Both Worlds Concert",
+                "value": 45560,
+                "color": "rgba(35, 65, 178, 0.2)"
+            },
+            {
+                "label": "About Last Night",
+                "value": 11384,
+                "color": "rgba(110, 188, 242, 0.2)"
+            },
+            {
+                "label": "The Ring Two",
+                "value": 10523,
+                "color": "rgba(158, 184, 31, 0.2)"
+            },
+            {
+                "label": "Epic",
+                "value": 8637,
+                "color": "rgba(93, 18, 92, 0.2)"
+            },
+            {
+                "label": "Deadpool 2",
+                "value": 28858,
+                "color": "rgba(182, 213, 239, 0.2)"
+            },
+            {
+                "label": "The Mummy",
+                "value": 13510,
+                "color": "rgba(29, 224, 205, 0.2)"
+            },
+            {
+                "label": "Men in Black",
+                "value": 16910,
+                "color": "rgba(24, 58, 101, 0.2)"
+            },
+            {
+                "label": "Fantastic Four",
+                "value": 15563,
+                "color": "rgba(86, 254, 119, 0.2)"
+            },
+            {
+                "label": "The X Files",
+                "value": 11463,
+                "color": "rgba(103, 62, 170, 0.2)"
+            },
+            {
+                "label": "Quantum of Solace",
+                "value": 19567,
+                "color": "rgba(213, 189, 254, 0.2)"
+            },
+            {
+                "label": "American Gangster",
+                "value": 14264,
+                "color": "rgba(191, 116, 130, 0.2)"
+            },
+            {
+                "label": "Sex and the City",
+                "value": 17363,
+                "color": "rgba(167, 17, 131, 0.2)"
+            },
+            {
+                "label": "The Haunting in Connecticut",
+                "value": 8420,
+                "color": "rgba(35, 91, 201, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "Live Free or Die Hard",
+                "value": 3408,
+                "color": "rgba(22, 180, 7, 0.2)"
+            },
+            {
+                "label": "The Twilight Saga: Eclipse",
+                "value": 4468,
+                "color": "rgba(151, 189, 232, 0.2)"
+            },
+            {
+                "label": "The Amazing Spider-Man",
+                "value": 4318,
+                "color": "rgba(152, 1, 214, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Opening",
+        "data": [
+            {
+                "label": "Space Jam: A New Legacy",
+                "value": 31053362,
+                "color": "rgba(80, 143, 188, 0.2)"
+            },
+            {
+                "label": "Mortal Kombat",
+                "value": 23302503,
+                "color": "rgba(20, 109, 106, 0.2)"
+            },
+            {
+                "label": "Taken 2",
+                "value": 49514769,
+                "color": "rgba(251, 36, 219, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "Eragon",
+                "value": 3020,
+                "color": "rgba(168, 53, 172, 0.2)"
+            },
+            {
+                "label": "The Fast and the Furious",
+                "value": 2628,
+                "color": "rgba(124, 52, 67, 0.2)"
+            },
+            {
+                "label": "Mission: Impossible II",
+                "value": 3653,
+                "color": "rgba(134, 249, 195, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "Knives Out",
+                "value": 3461,
+                "color": "rgba(47, 56, 185, 0.2)"
+            },
+            {
+                "label": "Harry Potter and the Deathly Hallows: Part 1",
+                "value": 4125,
+                "color": "rgba(50, 251, 86, 0.2)"
+            },
+            {
+                "label": "Exodus: Gods and Kings",
+                "value": 3503,
+                "color": "rgba(12, 199, 147, 0.2)"
+            },
+            {
+                "label": "The Hunger Games: Mockingjay - Part 2",
+                "value": 4175,
+                "color": "rgba(172, 205, 161, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Opening",
+        "data": [
+            {
+                "label": "White Noise",
+                "value": 24113565,
+                "color": "rgba(30, 46, 183, 0.2)"
+            },
+            {
+                "label": "Teenage Mutant Ninja Turtles",
+                "value": 65575105,
+                "color": "rgba(247, 221, 130, 0.2)"
+            },
+            {
+                "label": "The Lion King2011 3D Release",
+                "value": 30151614,
+                "color": "rgba(240, 22, 209, 0.2)"
+            },
+            {
+                "label": "GoldenEye",
+                "value": 26205007,
+                "color": "rgba(201, 74, 236, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "Spy Game",
+                "value": 2770,
+                "color": "rgba(86, 121, 6, 0.2)"
+            },
+            {
+                "label": "The Secret Life of Pets 2",
+                "value": 4561,
+                "color": "rgba(208, 144, 72, 0.2)"
+            },
+            {
+                "label": "Killers of the Flower Moon",
+                "value": 3628,
+                "color": "rgba(23, 16, 240, 0.2)"
+            },
+            {
+                "label": "Flight",
+                "value": 1884,
+                "color": "rgba(79, 183, 55, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "Shang-Chi and the Legend of the Ten Rings",
+                "value": 4300,
+                "color": "rgba(175, 205, 7, 0.2)"
+            },
+            {
+                "label": "Sing",
+                "value": 4022,
+                "color": "rgba(105, 88, 237, 0.2)"
+            },
+            {
+                "label": "The Final Destination",
+                "value": 3121,
+                "color": "rgba(61, 50, 97, 0.2)"
+            },
+            {
+                "label": "Halloween Kills",
+                "value": 3705,
+                "color": "rgba(93, 241, 69, 0.2)"
+            },
+            {
+                "label": "Eat Pray Love",
+                "value": 3082,
+                "color": "rgba(253, 217, 42, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Opening",
+        "data": [
+            {
+                "label": "V for Vendetta",
+                "value": 25642340,
+                "color": "rgba(80, 209, 90, 0.2)"
+            },
+            {
+                "label": "Skyfall",
+                "value": 88364714,
+                "color": "rgba(41, 119, 235, 0.2)"
+            },
+            {
+                "label": "Cinderella",
+                "value": 67877361,
+                "color": "rgba(166, 184, 26, 0.2)"
+            },
+            {
+                "label": "American Wedding",
+                "value": 33369440,
+                "color": "rgba(199, 131, 173, 0.2)"
+            },
+            {
+                "label": "Mission: Impossible",
+                "value": 45436830,
+                "color": "rgba(158, 128, 174, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Hotel Transylvania 3: Summer Vacation",
+                "value": 167510016,
+                "color": "rgba(93, 46, 50, 0.2)"
+            },
+            {
+                "label": "Ice Age: Continental Drift",
+                "value": 161321843,
+                "color": "rgba(102, 203, 34, 0.2)"
+            },
+            {
+                "label": "Transformers: Age of Extinction",
+                "value": 245439076,
+                "color": "rgba(197, 174, 157, 0.2)"
+            },
+            {
+                "label": "Warcraft",
+                "value": 47365290,
+                "color": "rgba(25, 180, 254, 0.2)"
+            },
+            {
+                "label": "Once Upon a Time... in Hollywood",
+                "value": 142502728,
+                "color": "rgba(89, 171, 190, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Opening",
+        "data": [
+            {
+                "label": "The Equalizer",
+                "value": 34137828,
+                "color": "rgba(72, 58, 205, 0.2)"
+            },
+            {
+                "label": "Sing",
+                "value": 35258145,
+                "color": "rgba(30, 115, 187, 0.2)"
+            },
+            {
+                "label": "The Ugly Truth",
+                "value": 27605576,
+                "color": "rgba(169, 45, 68, 0.2)"
+            },
+            {
+                "label": "27 Dresses",
+                "value": 23007725,
+                "color": "rgba(153, 165, 222, 0.2)"
+            },
+            {
+                "label": "Patch Adams",
+                "value": 25262280,
+                "color": "rgba(19, 93, 139, 0.2)"
+            },
+            {
+                "label": "Elemental",
+                "value": 29602429,
+                "color": "rgba(47, 213, 14, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Opening",
+        "data": [
+            {
+                "label": "Dark Shadows",
+                "value": 29685274,
+                "color": "rgba(70, 1, 32, 0.2)"
+            },
+            {
+                "label": "Hannah Montana and Miley Cyrus: Best of Both Worlds Concert",
+                "value": 31117834,
+                "color": "rgba(231, 211, 109, 0.2)"
+            },
+            {
+                "label": "The Batman",
+                "value": 134008624,
+                "color": "rgba(152, 68, 242, 0.2)"
+            },
+            {
+                "label": "Titanic",
+                "value": 28638131,
+                "color": "rgba(239, 141, 228, 0.2)"
+            },
+            {
+                "label": "Live Free or Die Hard",
+                "value": 33369559,
+                "color": "rgba(216, 156, 203, 0.2)"
+            },
+            {
+                "label": "The Hunger Games: Catching Fire",
+                "value": 158074286,
+                "color": "rgba(190, 81, 47, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Opening",
+        "data": [
+            {
+                "label": "The Secret Life of Pets",
+                "value": 104352905,
+                "color": "rgba(186, 53, 183, 0.2)"
+            },
+            {
+                "label": "Bedtime Stories",
+                "value": 27450296,
+                "color": "rgba(87, 157, 254, 0.2)"
+            },
+            {
+                "label": "Terminator Salvation",
+                "value": 42558390,
+                "color": "rgba(29, 63, 4, 0.2)"
+            },
+            {
+                "label": "Glass",
+                "value": 40328920,
+                "color": "rgba(117, 7, 119, 0.2)"
+            },
+            {
+                "label": "Planes",
+                "value": 22232291,
+                "color": "rgba(71, 236, 191, 0.2)"
+            },
+            {
+                "label": "Immortals",
+                "value": 32206425,
+                "color": "rgba(226, 39, 152, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Opening",
+        "data": [
+            {
+                "label": "Deadpool",
+                "value": 132434639,
+                "color": "rgba(127, 132, 250, 0.2)"
+            },
+            {
+                "label": "Cars",
+                "value": 60119509,
+                "color": "rgba(122, 154, 114, 0.2)"
+            },
+            {
+                "label": "Madea's Witness Protection",
+                "value": 25390575,
+                "color": "rgba(16, 98, 185, 0.2)"
+            },
+            {
+                "label": "Training Day",
+                "value": 22550788,
+                "color": "rgba(174, 175, 85, 0.2)"
+            },
+            {
+                "label": "Dawn of the Dead",
+                "value": 26722575,
+                "color": "rgba(4, 148, 173, 0.2)"
+            },
+            {
+                "label": "Freddy vs. Jason",
+                "value": 36400000,
+                "color": "rgba(132, 78, 133, 0.2)"
+            },
+            {
+                "label": "Enchanted",
+                "value": 34440317,
+                "color": "rgba(19, 19, 74, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Wonder Woman",
+                "value": 412563408,
+                "color": "rgba(15, 148, 99, 0.2)"
+            },
+            {
+                "label": "Terminator Salvation",
+                "value": 125322469,
+                "color": "rgba(219, 38, 75, 0.2)"
+            },
+            {
+                "label": "Legally Blonde 2: Red, White & Blonde",
+                "value": 90186328,
+                "color": "rgba(167, 134, 147, 0.2)"
+            },
+            {
+                "label": "How to Train Your Dragon 2",
+                "value": 177002924,
+                "color": "rgba(151, 127, 9, 0.2)"
+            },
+            {
+                "label": "Fast & Furious",
+                "value": 155064265,
+                "color": "rgba(53, 233, 167, 0.2)"
+            },
+            {
+                "label": "Spectre",
+                "value": 200074609,
+                "color": "rgba(132, 24, 48, 0.2)"
+            },
+            {
+                "label": "Die Hard with a Vengeance",
+                "value": 100012499,
+                "color": "rgba(252, 66, 223, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Prometheus",
+                "value": 126477084,
+                "color": "rgba(240, 43, 199, 0.2)"
+            },
+            {
+                "label": "The Proposal",
+                "value": 163958031,
+                "color": "rgba(104, 115, 52, 0.2)"
+            },
+            {
+                "label": "The Other Woman",
+                "value": 83911193,
+                "color": "rgba(134, 22, 21, 0.2)"
+            },
+            {
+                "label": "Why Did I Get Married?",
+                "value": 55204525,
+                "color": "rgba(89, 153, 137, 0.2)"
+            },
+            {
+                "label": "Godzilla vs. Kong",
+                "value": 100916094,
+                "color": "rgba(177, 146, 244, 0.2)"
+            },
+            {
+                "label": "Halloween Ends",
+                "value": 64079860,
+                "color": "rgba(75, 36, 190, 0.2)"
+            },
+            {
+                "label": "Moana",
+                "value": 248757044,
+                "color": "rgba(2, 196, 210, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "Eyes Wide Shut",
+                "value": 2411,
+                "color": "rgba(28, 103, 236, 0.2)"
+            },
+            {
+                "label": "Harry Potter and the Sorcerer's Stone",
+                "value": 3672,
+                "color": "rgba(138, 39, 65, 0.2)"
+            },
+            {
+                "label": "Rush Hour",
+                "value": 2638,
+                "color": "rgba(153, 228, 240, 0.2)"
+            },
+            {
+                "label": "Home Alone 2: Lost in New York",
+                "value": 2222,
+                "color": "rgba(209, 195, 180, 0.2)"
+            },
+            {
+                "label": "Fast & Furious Presents: Hobbs & Shaw",
+                "value": 4253,
+                "color": "rgba(191, 100, 160, 0.2)"
+            },
+            {
+                "label": "RED",
+                "value": 3255,
+                "color": "rgba(49, 37, 225, 0.2)"
+            },
+            {
+                "label": "Vanilla Sky",
+                "value": 2742,
+                "color": "rgba(120, 51, 94, 0.2)"
+            },
+            {
+                "label": "Unbroken",
+                "value": 3131,
+                "color": "rgba(180, 30, 244, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Opening",
+        "data": [
+            {
+                "label": "Despicable Me 3",
+                "value": 72434025,
+                "color": "rgba(138, 136, 136, 0.2)"
+            },
+            {
+                "label": "John Wick: Chapter 2",
+                "value": 30436123,
+                "color": "rgba(253, 113, 80, 0.2)"
+            },
+            {
+                "label": "Funny People",
+                "value": 22657780,
+                "color": "rgba(114, 153, 136, 0.2)"
+            },
+            {
+                "label": "Spy Kids",
+                "value": 26546881,
+                "color": "rgba(82, 88, 11, 0.2)"
+            },
+            {
+                "label": "Madagascar",
+                "value": 47224594,
+                "color": "rgba(140, 38, 217, 0.2)"
+            },
+            {
+                "label": "The Sum of All Fears",
+                "value": 31178526,
+                "color": "rgba(183, 52, 158, 0.2)"
+            },
+            {
+                "label": "Talladega Nights: The Ballad of Ricky Bobby",
+                "value": 47042215,
+                "color": "rgba(180, 214, 245, 0.2)"
+            },
+            {
+                "label": "Now You See Me",
+                "value": 29350389,
+                "color": "rgba(154, 174, 144, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Alita: Battle Angel",
+                "value": 85838210,
+                "color": "rgba(213, 22, 183, 0.2)"
+            },
+            {
+                "label": "Rampage",
+                "value": 101028233,
+                "color": "rgba(240, 74, 100, 0.2)"
+            },
+            {
+                "label": "Fifty Shades Freed",
+                "value": 100407760,
+                "color": "rgba(53, 164, 234, 0.2)"
+            },
+            {
+                "label": "Cars 3",
+                "value": 152901115,
+                "color": "rgba(173, 73, 231, 0.2)"
+            },
+            {
+                "label": "The Lion King2011 3D Release",
+                "value": 94242001,
+                "color": "rgba(248, 40, 34, 0.2)"
+            },
+            {
+                "label": "The Curious Case of Benjamin Button",
+                "value": 127509326,
+                "color": "rgba(128, 39, 54, 0.2)"
+            },
+            {
+                "label": "The Matrix",
+                "value": 171479930,
+                "color": "rgba(33, 107, 220, 0.2)"
+            },
+            {
+                "label": "Knives Out",
+                "value": 165363234,
+                "color": "rgba(20, 200, 117, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Opening",
+        "data": [
+            {
+                "label": "The Lucky One",
+                "value": 22518358,
+                "color": "rgba(40, 142, 126, 0.2)"
+            },
+            {
+                "label": "Meet the Robinsons",
+                "value": 25123781,
+                "color": "rgba(217, 34, 153, 0.2)"
+            },
+            {
+                "label": "Tropic Thunder",
+                "value": 25812796,
+                "color": "rgba(185, 215, 38, 0.2)"
+            },
+            {
+                "label": "Madagascar: Escape 2 Africa",
+                "value": 63106589,
+                "color": "rgba(43, 75, 42, 0.2)"
+            },
+            {
+                "label": "Jackass Presents: Bad Grandpa",
+                "value": 32055177,
+                "color": "rgba(194, 105, 132, 0.2)"
+            },
+            {
+                "label": "When a Stranger Calls",
+                "value": 21607203,
+                "color": "rgba(51, 79, 139, 0.2)"
+            },
+            {
+                "label": "Dawn of the Planet of the Apes",
+                "value": 72611427,
+                "color": "rgba(162, 152, 30, 0.2)"
+            },
+            {
+                "label": "Jason Bourne",
+                "value": 59215365,
+                "color": "rgba(74, 188, 195, 0.2)"
+            },
+            {
+                "label": "Lightyear",
+                "value": 50577961,
+                "color": "rgba(85, 6, 166, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Opening",
+        "data": [
+            {
+                "label": "Alice Through the Looking Glass",
+                "value": 26858726,
+                "color": "rgba(64, 184, 77, 0.2)"
+            },
+            {
+                "label": "The Divergent Series: Insurgent",
+                "value": 52263680,
+                "color": "rgba(159, 35, 117, 0.2)"
+            },
+            {
+                "label": "Interview with the Vampire: The Vampire Chronicles",
+                "value": 36389705,
+                "color": "rgba(245, 37, 165, 0.2)"
+            },
+            {
+                "label": "Ant-Man and the Wasp: Quantumania",
+                "value": 106109650,
+                "color": "rgba(134, 185, 206, 0.2)"
+            },
+            {
+                "label": "Mary Poppins Returns",
+                "value": 23523121,
+                "color": "rgba(123, 185, 1, 0.2)"
+            },
+            {
+                "label": "Journey 2: The Mysterious Island",
+                "value": 27335363,
+                "color": "rgba(138, 180, 200, 0.2)"
+            },
+            {
+                "label": "The Golden Compass",
+                "value": 26125000,
+                "color": "rgba(229, 79, 92, 0.2)"
+            },
+            {
+                "label": "Erin Brockovich",
+                "value": 28138465,
+                "color": "rgba(80, 147, 245, 0.2)"
+            },
+            {
+                "label": "John Wick: Chapter 4",
+                "value": 73817950,
+                "color": "rgba(152, 208, 36, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Average",
+        "data": [
+            {
+                "label": "The Hangover Part II",
+                "value": 23774,
+                "color": "rgba(26, 221, 68, 0.2)"
+            },
+            {
+                "label": "Norbit",
+                "value": 10904,
+                "color": "rgba(47, 219, 61, 0.2)"
+            },
+            {
+                "label": "I, Robot",
+                "value": 15257,
+                "color": "rgba(156, 122, 28, 0.2)"
+            },
+            {
+                "label": "Oblivion",
+                "value": 9795,
+                "color": "rgba(186, 26, 167, 0.2)"
+            },
+            {
+                "label": "Madea's Big Happy Family",
+                "value": 10956,
+                "color": "rgba(194, 206, 194, 0.2)"
+            },
+            {
+                "label": "The X Files",
+                "value": 11463,
+                "color": "rgba(41, 225, 218, 0.2)"
+            },
+            {
+                "label": "Mission to Mars",
+                "value": 7483,
+                "color": "rgba(113, 180, 77, 0.2)"
+            },
+            {
+                "label": "Bohemian Rhapsody",
+                "value": 12765,
+                "color": "rgba(30, 105, 239, 0.2)"
+            },
+            {
+                "label": "Saw V",
+                "value": 9821,
+                "color": "rgba(136, 126, 157, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Meet the Robinsons",
+                "value": 97822171,
+                "color": "rgba(49, 247, 200, 0.2)"
+            },
+            {
+                "label": "Monsters, Inc.",
+                "value": 255873250,
+                "color": "rgba(89, 18, 193, 0.2)"
+            },
+            {
+                "label": "The Visit",
+                "value": 65206105,
+                "color": "rgba(51, 23, 80, 0.2)"
+            },
+            {
+                "label": "Transformers: Rise of the Beasts",
+                "value": 157066392,
+                "color": "rgba(229, 79, 13, 0.2)"
+            },
+            {
+                "label": "Paul Blart: Mall Cop 2",
+                "value": 71038190,
+                "color": "rgba(240, 26, 152, 0.2)"
+            },
+            {
+                "label": "Star Wars: Episode I - The Phantom Menace",
+                "value": 431088295,
+                "color": "rgba(175, 217, 123, 0.2)"
+            },
+            {
+                "label": "Home",
+                "value": 177397510,
+                "color": "rgba(135, 177, 25, 0.2)"
+            },
+            {
+                "label": "Five Nights at Freddy's",
+                "value": 137275620,
+                "color": "rgba(81, 173, 181, 0.2)"
+            },
+            {
+                "label": "Neighbors",
+                "value": 150157400,
+                "color": "rgba(88, 154, 94, 0.2)"
+            },
+            {
+                "label": "Onward",
+                "value": 61555145,
+                "color": "rgba(75, 102, 19, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Opening",
+        "data": [
+            {
+                "label": "The League of Extraordinary Gentlemen",
+                "value": 23075892,
+                "color": "rgba(183, 22, 154, 0.2)"
+            },
+            {
+                "label": "High School Musical 3: Senior Year",
+                "value": 42030184,
+                "color": "rgba(149, 80, 98, 0.2)"
+            },
+            {
+                "label": "Noah",
+                "value": 43720472,
+                "color": "rgba(96, 21, 64, 0.2)"
+            },
+            {
+                "label": "Hitch",
+                "value": 43142214,
+                "color": "rgba(145, 1, 183, 0.2)"
+            },
+            {
+                "label": "The Meg",
+                "value": 45402195,
+                "color": "rgba(208, 215, 172, 0.2)"
+            },
+            {
+                "label": "Gnomeo & Juliet",
+                "value": 25356909,
+                "color": "rgba(76, 64, 121, 0.2)"
+            },
+            {
+                "label": "Mr. & Mrs. Smith",
+                "value": 50342878,
+                "color": "rgba(62, 132, 199, 0.2)"
+            },
+            {
+                "label": "Sweet Home Alabama",
+                "value": 35648740,
+                "color": "rgba(64, 124, 204, 0.2)"
+            },
+            {
+                "label": "Terminator 2: Judgment Day",
+                "value": 31765506,
+                "color": "rgba(107, 213, 199, 0.2)"
+            },
+            {
+                "label": "Sin City",
+                "value": 28100000,
+                "color": "rgba(162, 103, 126, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Fantastic Beasts: The Secrets of Dumbledore",
+                "value": 95850844,
+                "color": "rgba(224, 195, 2, 0.2)"
+            },
+            {
+                "label": "Star Trek Into Darkness",
+                "value": 228778661,
+                "color": "rgba(0, 10, 185, 0.2)"
+            },
+            {
+                "label": "Sonic the Hedgehog 2",
+                "value": 190872904,
+                "color": "rgba(239, 124, 184, 0.2)"
+            },
+            {
+                "label": "Exodus: Gods and Kings",
+                "value": 65014513,
+                "color": "rgba(90, 137, 22, 0.2)"
+            },
+            {
+                "label": "Borat",
+                "value": 128505958,
+                "color": "rgba(152, 222, 79, 0.2)"
+            },
+            {
+                "label": "The Pacifier",
+                "value": 113086868,
+                "color": "rgba(102, 98, 215, 0.2)"
+            },
+            {
+                "label": "Open Season",
+                "value": 85105259,
+                "color": "rgba(37, 247, 249, 0.2)"
+            },
+            {
+                "label": "Scream 3",
+                "value": 89143175,
+                "color": "rgba(236, 158, 109, 0.2)"
+            },
+            {
+                "label": "Happy Death Day",
+                "value": 55683845,
+                "color": "rgba(1, 25, 175, 0.2)"
+            },
+            {
+                "label": "The Curse of La Llorona",
+                "value": 54733739,
+                "color": "rgba(30, 111, 55, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Average",
+        "data": [
+            {
+                "label": "Evan Almighty",
+                "value": 8654,
+                "color": "rgba(68, 176, 128, 0.2)"
+            },
+            {
+                "label": "Saw III",
+                "value": 10612,
+                "color": "rgba(215, 1, 60, 0.2)"
+            },
+            {
+                "label": "The Marvels",
+                "value": 11441,
+                "color": "rgba(143, 90, 73, 0.2)"
+            },
+            {
+                "label": "Mary Poppins Returns",
+                "value": 5751,
+                "color": "rgba(46, 133, 63, 0.2)"
+            },
+            {
+                "label": "Ocean's Eleven",
+                "value": 12392,
+                "color": "rgba(246, 252, 172, 0.2)"
+            },
+            {
+                "label": "The Hangover Part II",
+                "value": 23774,
+                "color": "rgba(128, 145, 124, 0.2)"
+            },
+            {
+                "label": "Straight Outta Compton",
+                "value": 21835,
+                "color": "rgba(220, 199, 172, 0.2)"
+            },
+            {
+                "label": "X-Men Origins: Wolverine",
+                "value": 20750,
+                "color": "rgba(44, 40, 198, 0.2)"
+            },
+            {
+                "label": "The Da Vinci Code",
+                "value": 20635,
+                "color": "rgba(20, 6, 98, 0.2)"
+            },
+            {
+                "label": "Insidious: The Red Door",
+                "value": 10355,
+                "color": "rgba(242, 36, 60, 0.2)"
+            },
+            {
+                "label": "Shrek",
+                "value": 11805,
+                "color": "rgba(32, 160, 174, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Dracula Untold",
+                "value": 56280355,
+                "color": "rgba(252, 107, 98, 0.2)"
+            },
+            {
+                "label": "John Carter",
+                "value": 73078100,
+                "color": "rgba(165, 83, 61, 0.2)"
+            },
+            {
+                "label": "Starsky & Hutch",
+                "value": 88237754,
+                "color": "rgba(167, 213, 78, 0.2)"
+            },
+            {
+                "label": "It",
+                "value": 327481748,
+                "color": "rgba(235, 175, 33, 0.2)"
+            },
+            {
+                "label": "The Expendables 2",
+                "value": 85028192,
+                "color": "rgba(14, 98, 8, 0.2)"
+            },
+            {
+                "label": "Safe House",
+                "value": 126373434,
+                "color": "rgba(190, 2, 125, 0.2)"
+            },
+            {
+                "label": "Hop",
+                "value": 108085305,
+                "color": "rgba(253, 196, 223, 0.2)"
+            },
+            {
+                "label": "Eagle Eye",
+                "value": 101440743,
+                "color": "rgba(3, 59, 224, 0.2)"
+            },
+            {
+                "label": "Norbit",
+                "value": 95673607,
+                "color": "rgba(8, 106, 230, 0.2)"
+            },
+            {
+                "label": "Wanted",
+                "value": 134508551,
+                "color": "rgba(97, 75, 70, 0.2)"
+            },
+            {
+                "label": "Iron Man 2",
+                "value": 312433331,
+                "color": "rgba(183, 70, 208, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "Indiana Jones and the Kingdom of the Crystal Skull",
+                "value": 4260,
+                "color": "rgba(195, 60, 59, 0.2)"
+            },
+            {
+                "label": "Spy Game",
+                "value": 2770,
+                "color": "rgba(106, 253, 237, 0.2)"
+            },
+            {
+                "label": "Predators",
+                "value": 2669,
+                "color": "rgba(115, 32, 114, 0.2)"
+            },
+            {
+                "label": "The Pacifier",
+                "value": 3131,
+                "color": "rgba(94, 97, 64, 0.2)"
+            },
+            {
+                "label": "RED",
+                "value": 3255,
+                "color": "rgba(77, 236, 253, 0.2)"
+            },
+            {
+                "label": "Eternals",
+                "value": 4090,
+                "color": "rgba(234, 98, 253, 0.2)"
+            },
+            {
+                "label": "Jack Reacher: Never Go Back",
+                "value": 3780,
+                "color": "rgba(16, 16, 166, 0.2)"
+            },
+            {
+                "label": "Rise of the Guardians",
+                "value": 3653,
+                "color": "rgba(135, 184, 235, 0.2)"
+            },
+            {
+                "label": "Fast & Furious Presents: Hobbs & Shaw",
+                "value": 4253,
+                "color": "rgba(100, 8, 15, 0.2)"
+            },
+            {
+                "label": "White Noise",
+                "value": 2261,
+                "color": "rgba(182, 35, 130, 0.2)"
+            },
+            {
+                "label": "Alice in Wonderland",
+                "value": 3728,
+                "color": "rgba(220, 159, 174, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Opening",
+        "data": [
+            {
+                "label": "Scream 3",
+                "value": 34713342,
+                "color": "rgba(28, 129, 92, 0.2)"
+            },
+            {
+                "label": "The Twilight Saga: Breaking Dawn - Part 2",
+                "value": 141067634,
+                "color": "rgba(191, 94, 245, 0.2)"
+            },
+            {
+                "label": "Halloween",
+                "value": 26362367,
+                "color": "rgba(127, 72, 84, 0.2)"
+            },
+            {
+                "label": "The Bourne Legacy",
+                "value": 38142825,
+                "color": "rgba(29, 205, 50, 0.2)"
+            },
+            {
+                "label": "Top Gun: Maverick",
+                "value": 126707459,
+                "color": "rgba(105, 7, 32, 0.2)"
+            },
+            {
+                "label": "Halloween",
+                "value": 76221545,
+                "color": "rgba(6, 105, 39, 0.2)"
+            },
+            {
+                "label": "Notting Hill",
+                "value": 21811180,
+                "color": "rgba(142, 158, 159, 0.2)"
+            },
+            {
+                "label": "Ocean's Eleven",
+                "value": 38107822,
+                "color": "rgba(163, 250, 7, 0.2)"
+            },
+            {
+                "label": "PAW Patrol: The Mighty Movie",
+                "value": 22764354,
+                "color": "rgba(171, 184, 46, 0.2)"
+            },
+            {
+                "label": "Robots",
+                "value": 36045301,
+                "color": "rgba(233, 247, 128, 0.2)"
+            },
+            {
+                "label": "Back to the Future Part II",
+                "value": 27835125,
+                "color": "rgba(41, 75, 42, 0.2)"
+            },
+            {
+                "label": "The Hangover",
+                "value": 44979319,
+                "color": "rgba(165, 229, 15, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Average",
+        "data": [
+            {
+                "label": "Friday the 13th",
+                "value": 13066,
+                "color": "rgba(31, 58, 212, 0.2)"
+            },
+            {
+                "label": "Blades of Glory",
+                "value": 9790,
+                "color": "rgba(130, 66, 33, 0.2)"
+            },
+            {
+                "label": "Rango",
+                "value": 9721,
+                "color": "rgba(214, 199, 216, 0.2)"
+            },
+            {
+                "label": "Face/Off",
+                "value": 8923,
+                "color": "rgba(93, 226, 211, 0.2)"
+            },
+            {
+                "label": "Lara Croft: Tomb Raider",
+                "value": 14430,
+                "color": "rgba(249, 213, 58, 0.2)"
+            },
+            {
+                "label": "Daredevil",
+                "value": 11613,
+                "color": "rgba(27, 47, 223, 0.2)"
+            },
+            {
+                "label": "All Eyez on Me",
+                "value": 10698,
+                "color": "rgba(116, 157, 196, 0.2)"
+            },
+            {
+                "label": "Grown Ups 2",
+                "value": 11890,
+                "color": "rgba(3, 80, 180, 0.2)"
+            },
+            {
+                "label": "22 Jump Street",
+                "value": 17262,
+                "color": "rgba(254, 180, 168, 0.2)"
+            },
+            {
+                "label": "The Matrix",
+                "value": 9753,
+                "color": "rgba(94, 8, 104, 0.2)"
+            },
+            {
+                "label": "Men in Black: International",
+                "value": 7110,
+                "color": "rgba(143, 199, 101, 0.2)"
+            },
+            {
+                "label": "Fury",
+                "value": 7470,
+                "color": "rgba(26, 65, 188, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "The Lone Ranger",
+                "value": 3904,
+                "color": "rgba(214, 75, 47, 0.2)"
+            },
+            {
+                "label": "The Scorpion King",
+                "value": 3444,
+                "color": "rgba(122, 28, 53, 0.2)"
+            },
+            {
+                "label": "Bee Movie",
+                "value": 3928,
+                "color": "rgba(141, 113, 172, 0.2)"
+            },
+            {
+                "label": "Unknown",
+                "value": 3043,
+                "color": "rgba(159, 35, 161, 0.2)"
+            },
+            {
+                "label": "How to Lose a Guy in 10 Days",
+                "value": 2923,
+                "color": "rgba(76, 99, 47, 0.2)"
+            },
+            {
+                "label": "Godzilla",
+                "value": 3310,
+                "color": "rgba(152, 133, 165, 0.2)"
+            },
+            {
+                "label": "Cars 3",
+                "value": 4256,
+                "color": "rgba(186, 122, 203, 0.2)"
+            },
+            {
+                "label": "The Blind Side",
+                "value": 3110,
+                "color": "rgba(166, 197, 84, 0.2)"
+            },
+            {
+                "label": "The Exorcism of Emily Rose",
+                "value": 2981,
+                "color": "rgba(154, 70, 8, 0.2)"
+            },
+            {
+                "label": "Planes",
+                "value": 3702,
+                "color": "rgba(115, 137, 49, 0.2)"
+            },
+            {
+                "label": "The Good Dinosaur",
+                "value": 3749,
+                "color": "rgba(223, 221, 24, 0.2)"
+            },
+            {
+                "label": "The Fault in Our Stars",
+                "value": 3173,
+                "color": "rgba(130, 255, 22, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Average",
+        "data": [
+            {
+                "label": "Maze Runner: The Scorch Trials",
+                "value": 7996,
+                "color": "rgba(108, 162, 200, 0.2)"
+            },
+            {
+                "label": "Godzilla",
+                "value": 23580,
+                "color": "rgba(47, 30, 228, 0.2)"
+            },
+            {
+                "label": "Cloudy with a Chance of Meatballs 2",
+                "value": 8502,
+                "color": "rgba(163, 7, 247, 0.2)"
+            },
+            {
+                "label": "The Flash",
+                "value": 13000,
+                "color": "rgba(90, 206, 194, 0.2)"
+            },
+            {
+                "label": "Wonder",
+                "value": 8897,
+                "color": "rgba(32, 110, 45, 0.2)"
+            },
+            {
+                "label": "Beauty and the Beast",
+                "value": 41508,
+                "color": "rgba(232, 179, 253, 0.2)"
+            },
+            {
+                "label": "Lara Croft: Tomb Raider",
+                "value": 14430,
+                "color": "rgba(153, 125, 209, 0.2)"
+            },
+            {
+                "label": "Alita: Battle Angel",
+                "value": 7526,
+                "color": "rgba(244, 223, 202, 0.2)"
+            },
+            {
+                "label": "Star Trek Beyond",
+                "value": 15084,
+                "color": "rgba(99, 176, 110, 0.2)"
+            },
+            {
+                "label": "Annabelle: Creation",
+                "value": 9996,
+                "color": "rgba(23, 176, 232, 0.2)"
+            },
+            {
+                "label": "The Bad Guys",
+                "value": 5975,
+                "color": "rgba(55, 216, 48, 0.2)"
+            },
+            {
+                "label": "Once Upon a Time in Mexico",
+                "value": 7137,
+                "color": "rgba(213, 11, 199, 0.2)"
+            },
+            {
+                "label": "Die Another Day",
+                "value": 14203,
+                "color": "rgba(226, 40, 201, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+                "value": 3858,
+                "color": "rgba(28, 206, 206, 0.2)"
+            },
+            {
+                "label": "Megamind",
+                "value": 3944,
+                "color": "rgba(58, 222, 222, 0.2)"
+            },
+            {
+                "label": "Quantum of Solace",
+                "value": 3451,
+                "color": "rgba(212, 123, 198, 0.2)"
+            },
+            {
+                "label": "Ride Along 2",
+                "value": 3175,
+                "color": "rgba(13, 42, 222, 0.2)"
+            },
+            {
+                "label": "Spider-Man 2",
+                "value": 4152,
+                "color": "rgba(153, 115, 117, 0.2)"
+            },
+            {
+                "label": "Murder on the Orient Express",
+                "value": 3341,
+                "color": "rgba(96, 78, 96, 0.2)"
+            },
+            {
+                "label": "Pacific Rim: Uprising",
+                "value": 3708,
+                "color": "rgba(80, 124, 72, 0.2)"
+            },
+            {
+                "label": "Toy Story 4",
+                "value": 4575,
+                "color": "rgba(185, 145, 192, 0.2)"
+            },
+            {
+                "label": "The Patriot",
+                "value": 3061,
+                "color": "rgba(211, 243, 36, 0.2)"
+            },
+            {
+                "label": "Ladder 49",
+                "value": 3260,
+                "color": "rgba(22, 197, 218, 0.2)"
+            },
+            {
+                "label": "Ocean's Eleven",
+                "value": 3075,
+                "color": "rgba(116, 26, 113, 0.2)"
+            },
+            {
+                "label": "Avengers: Age of Ultron",
+                "value": 4276,
+                "color": "rgba(140, 210, 186, 0.2)"
+            },
+            {
+                "label": "21",
+                "value": 2648,
+                "color": "rgba(0, 232, 228, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Opening",
+        "data": [
+            {
+                "label": "Godzilla",
+                "value": 44047541,
+                "color": "rgba(199, 79, 12, 0.2)"
+            },
+            {
+                "label": "The Last Samurai",
+                "value": 24271354,
+                "color": "rgba(132, 36, 87, 0.2)"
+            },
+            {
+                "label": "Murder on the Orient Express",
+                "value": 28681472,
+                "color": "rgba(90, 151, 187, 0.2)"
+            },
+            {
+                "label": "Resident Evil: Afterlife",
+                "value": 26650264,
+                "color": "rgba(133, 91, 222, 0.2)"
+            },
+            {
+                "label": "District 9",
+                "value": 37354308,
+                "color": "rgba(216, 9, 56, 0.2)"
+            },
+            {
+                "label": "Charlie and the Chocolate Factory",
+                "value": 56178450,
+                "color": "rgba(237, 191, 235, 0.2)"
+            },
+            {
+                "label": "The Lion King2011 3D Release",
+                "value": 30151614,
+                "color": "rgba(223, 13, 57, 0.2)"
+            },
+            {
+                "label": "Signs",
+                "value": 60117080,
+                "color": "rgba(52, 177, 28, 0.2)"
+            },
+            {
+                "label": "Split",
+                "value": 40010975,
+                "color": "rgba(42, 166, 109, 0.2)"
+            },
+            {
+                "label": "Cars 2",
+                "value": 66135507,
+                "color": "rgba(221, 247, 88, 0.2)"
+            },
+            {
+                "label": "The Equalizer 2",
+                "value": 36011640,
+                "color": "rgba(161, 112, 81, 0.2)"
+            },
+            {
+                "label": "Halloween",
+                "value": 76221545,
+                "color": "rgba(54, 221, 235, 0.2)"
+            },
+            {
+                "label": "Resident Evil: Extinction",
+                "value": 23678580,
+                "color": "rgba(25, 210, 110, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Me, Myself & Irene",
+                "value": 90570999,
+                "color": "rgba(176, 58, 155, 0.2)"
+            },
+            {
+                "label": "I Now Pronounce You Chuck & Larry",
+                "value": 120059556,
+                "color": "rgba(207, 44, 135, 0.2)"
+            },
+            {
+                "label": "Coco",
+                "value": 210460015,
+                "color": "rgba(8, 32, 47, 0.2)"
+            },
+            {
+                "label": "Renaissance: A Film by Beyonc\u00e9",
+                "value": 33889684,
+                "color": "rgba(48, 215, 96, 0.2)"
+            },
+            {
+                "label": "Exodus: Gods and Kings",
+                "value": 65014513,
+                "color": "rgba(53, 24, 251, 0.2)"
+            },
+            {
+                "label": "Logan",
+                "value": 226277068,
+                "color": "rgba(39, 155, 80, 0.2)"
+            },
+            {
+                "label": "Dracula Untold",
+                "value": 56280355,
+                "color": "rgba(253, 27, 52, 0.2)"
+            },
+            {
+                "label": "Home Alone 2: Lost in New York",
+                "value": 173585516,
+                "color": "rgba(184, 34, 64, 0.2)"
+            },
+            {
+                "label": "Eagle Eye",
+                "value": 101440743,
+                "color": "rgba(109, 63, 232, 0.2)"
+            },
+            {
+                "label": "Four Christmases",
+                "value": 120146040,
+                "color": "rgba(242, 214, 206, 0.2)"
+            },
+            {
+                "label": "Inside Man",
+                "value": 88513495,
+                "color": "rgba(152, 153, 240, 0.2)"
+            },
+            {
+                "label": "Pacific Rim",
+                "value": 101802906,
+                "color": "rgba(222, 250, 9, 0.2)"
+            },
+            {
+                "label": "The Town",
+                "value": 92186262,
+                "color": "rgba(197, 25, 203, 0.2)"
+            },
+            {
+                "label": "The Heat",
+                "value": 159582188,
+                "color": "rgba(59, 230, 64, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Average",
+        "data": [
+            {
+                "label": "The Passion of the Christ",
+                "value": 27554,
+                "color": "rgba(145, 190, 175, 0.2)"
+            },
+            {
+                "label": "Hellboy",
+                "value": 7652,
+                "color": "rgba(146, 155, 174, 0.2)"
+            },
+            {
+                "label": "Star Trek: First Contact",
+                "value": 10923,
+                "color": "rgba(183, 143, 181, 0.2)"
+            },
+            {
+                "label": "Mission: Impossible - Dead Reckoning Part One",
+                "value": 12638,
+                "color": "rgba(16, 20, 200, 0.2)"
+            },
+            {
+                "label": "Borat",
+                "value": 31607,
+                "color": "rgba(115, 66, 196, 0.2)"
+            },
+            {
+                "label": "Jarhead",
+                "value": 11499,
+                "color": "rgba(56, 140, 229, 0.2)"
+            },
+            {
+                "label": "Five Nights at Freddy's",
+                "value": 21769,
+                "color": "rgba(14, 133, 221, 0.2)"
+            },
+            {
+                "label": "Scooby-Doo 2: Monsters Unleashed",
+                "value": 8888,
+                "color": "rgba(7, 176, 54, 0.2)"
+            },
+            {
+                "label": "Finding Dory",
+                "value": 31372,
+                "color": "rgba(157, 243, 165, 0.2)"
+            },
+            {
+                "label": "Cheaper by the Dozen",
+                "value": 8355,
+                "color": "rgba(166, 66, 232, 0.2)"
+            },
+            {
+                "label": "Logan",
+                "value": 21717,
+                "color": "rgba(164, 83, 208, 0.2)"
+            },
+            {
+                "label": "Sherlock Holmes",
+                "value": 17182,
+                "color": "rgba(167, 230, 252, 0.2)"
+            },
+            {
+                "label": "The Secret Life of Pets 2",
+                "value": 10228,
+                "color": "rgba(134, 192, 130, 0.2)"
+            },
+            {
+                "label": "Ocean's Eleven",
+                "value": 12392,
+                "color": "rgba(208, 234, 36, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "Ghostbusters: Frozen Empire",
+                "value": 4345,
+                "color": "rgba(251, 67, 112, 0.2)"
+            },
+            {
+                "label": "The Ring Two",
+                "value": 3332,
+                "color": "rgba(173, 62, 101, 0.2)"
+            },
+            {
+                "label": "Couples Retreat",
+                "value": 3000,
+                "color": "rgba(83, 154, 100, 0.2)"
+            },
+            {
+                "label": "It",
+                "value": 4103,
+                "color": "rgba(216, 250, 41, 0.2)"
+            },
+            {
+                "label": "Cruella",
+                "value": 3892,
+                "color": "rgba(245, 239, 143, 0.2)"
+            },
+            {
+                "label": "The Purge",
+                "value": 2536,
+                "color": "rgba(150, 122, 166, 0.2)"
+            },
+            {
+                "label": "WALL\u00b7E",
+                "value": 3992,
+                "color": "rgba(186, 162, 18, 0.2)"
+            },
+            {
+                "label": "Sherlock Holmes: A Game of Shadows",
+                "value": 3703,
+                "color": "rgba(79, 198, 214, 0.2)"
+            },
+            {
+                "label": "The Curse of La Llorona",
+                "value": 3372,
+                "color": "rgba(163, 105, 83, 0.2)"
+            },
+            {
+                "label": "Lucy",
+                "value": 3173,
+                "color": "rgba(248, 154, 144, 0.2)"
+            },
+            {
+                "label": "Casino Royale",
+                "value": 3434,
+                "color": "rgba(9, 104, 181, 0.2)"
+            },
+            {
+                "label": "Tarzan",
+                "value": 3005,
+                "color": "rgba(30, 244, 189, 0.2)"
+            },
+            {
+                "label": "Mission: Impossible III",
+                "value": 4054,
+                "color": "rgba(168, 191, 73, 0.2)"
+            },
+            {
+                "label": "The Lego Batman Movie",
+                "value": 4088,
+                "color": "rgba(27, 141, 82, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Free Guy",
+                "value": 121626598,
+                "color": "rgba(53, 127, 89, 0.2)"
+            },
+            {
+                "label": "Shaft",
+                "value": 70334258,
+                "color": "rgba(60, 246, 250, 0.2)"
+            },
+            {
+                "label": "Disturbia",
+                "value": 80209692,
+                "color": "rgba(41, 190, 13, 0.2)"
+            },
+            {
+                "label": "Spider-Man: No Way Home",
+                "value": 804793477,
+                "color": "rgba(118, 160, 166, 0.2)"
+            },
+            {
+                "label": "The Twilight Saga: Breaking Dawn - Part 2",
+                "value": 292324737,
+                "color": "rgba(219, 214, 93, 0.2)"
+            },
+            {
+                "label": "Happy Death Day",
+                "value": 55683845,
+                "color": "rgba(144, 178, 29, 0.2)"
+            },
+            {
+                "label": "Elf",
+                "value": 173398518,
+                "color": "rgba(9, 212, 42, 0.2)"
+            },
+            {
+                "label": "Borat",
+                "value": 128505958,
+                "color": "rgba(68, 252, 204, 0.2)"
+            },
+            {
+                "label": "Unbreakable",
+                "value": 95011339,
+                "color": "rgba(141, 157, 4, 0.2)"
+            },
+            {
+                "label": "The Matrix Reloaded",
+                "value": 281576461,
+                "color": "rgba(14, 58, 151, 0.2)"
+            },
+            {
+                "label": "American Pie 2",
+                "value": 145103595,
+                "color": "rgba(212, 99, 220, 0.2)"
+            },
+            {
+                "label": "Temptation: Confessions of a Marriage Counselor",
+                "value": 51975354,
+                "color": "rgba(136, 17, 202, 0.2)"
+            },
+            {
+                "label": "How the Grinch Stole Christmas",
+                "value": 260745620,
+                "color": "rgba(33, 50, 209, 0.2)"
+            },
+            {
+                "label": "The Perfect Storm",
+                "value": 182618434,
+                "color": "rgba(142, 25, 108, 0.2)"
+            },
+            {
+                "label": "Freaky Friday",
+                "value": 110230332,
+                "color": "rgba(31, 135, 253, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Opening",
+        "data": [
+            {
+                "label": "Glass",
+                "value": 40328920,
+                "color": "rgba(249, 154, 0, 0.2)"
+            },
+            {
+                "label": "Iron Man 2",
+                "value": 128122480,
+                "color": "rgba(112, 205, 10, 0.2)"
+            },
+            {
+                "label": "Black Adam",
+                "value": 67004323,
+                "color": "rgba(252, 40, 215, 0.2)"
+            },
+            {
+                "label": "Ghost Rider",
+                "value": 45388836,
+                "color": "rgba(171, 31, 192, 0.2)"
+            },
+            {
+                "label": "Taken 3",
+                "value": 39201657,
+                "color": "rgba(36, 231, 62, 0.2)"
+            },
+            {
+                "label": "The Smurfs",
+                "value": 35611637,
+                "color": "rgba(108, 95, 248, 0.2)"
+            },
+            {
+                "label": "Bohemian Rhapsody",
+                "value": 51061119,
+                "color": "rgba(236, 84, 164, 0.2)"
+            },
+            {
+                "label": "The Fast and the Furious",
+                "value": 40089015,
+                "color": "rgba(219, 24, 255, 0.2)"
+            },
+            {
+                "label": "The Jungle Book",
+                "value": 103261464,
+                "color": "rgba(159, 212, 218, 0.2)"
+            },
+            {
+                "label": "The Princess Diaries 2: Royal Engagement",
+                "value": 22956453,
+                "color": "rgba(117, 128, 220, 0.2)"
+            },
+            {
+                "label": "Smallfoot",
+                "value": 23045635,
+                "color": "rgba(218, 80, 17, 0.2)"
+            },
+            {
+                "label": "Snow White and the Huntsman",
+                "value": 56217700,
+                "color": "rgba(184, 21, 167, 0.2)"
+            },
+            {
+                "label": "San Andreas",
+                "value": 54588173,
+                "color": "rgba(87, 130, 192, 0.2)"
+            },
+            {
+                "label": "The Amazing Spider-Man",
+                "value": 62004688,
+                "color": "rgba(117, 254, 58, 0.2)"
+            },
+            {
+                "label": "Trainwreck",
+                "value": 30097040,
+                "color": "rgba(103, 208, 44, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Pie Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Evil Dead",
+                "value": 54239856,
+                "color": "rgba(134, 171, 88, 0.2)"
+            },
+            {
+                "label": "Taken",
+                "value": 145000989,
+                "color": "rgba(75, 121, 151, 0.2)"
+            },
+            {
+                "label": "Jurassic Park III",
+                "value": 181171875,
+                "color": "rgba(228, 196, 122, 0.2)"
+            },
+            {
+                "label": "101 Dalmatians",
+                "value": 136189294,
+                "color": "rgba(210, 249, 26, 0.2)"
+            },
+            {
+                "label": "Jackass Presents: Bad Grandpa",
+                "value": 102003019,
+                "color": "rgba(73, 102, 47, 0.2)"
+            },
+            {
+                "label": "Incredibles 2",
+                "value": 608581744,
+                "color": "rgba(114, 208, 150, 0.2)"
+            },
+            {
+                "label": "The Texas Chainsaw Massacre",
+                "value": 80571655,
+                "color": "rgba(108, 64, 111, 0.2)"
+            },
+            {
+                "label": "Godzilla: King of the Monsters",
+                "value": 110500138,
+                "color": "rgba(140, 51, 20, 0.2)"
+            },
+            {
+                "label": "The Conjuring",
+                "value": 137400141,
+                "color": "rgba(11, 195, 232, 0.2)"
+            },
+            {
+                "label": "Scooby-Doo",
+                "value": 153294164,
+                "color": "rgba(175, 159, 209, 0.2)"
+            },
+            {
+                "label": "Venom: Let There Be Carnage",
+                "value": 213550366,
+                "color": "rgba(137, 71, 244, 0.2)"
+            },
+            {
+                "label": "Us",
+                "value": 175084580,
+                "color": "rgba(40, 101, 30, 0.2)"
+            },
+            {
+                "label": "Birds of Prey",
+                "value": 84158461,
+                "color": "rgba(18, 167, 64, 0.2)"
+            },
+            {
+                "label": "WALL\u00b7E",
+                "value": 223808164,
+                "color": "rgba(180, 57, 87, 0.2)"
+            },
+            {
+                "label": "Rango",
+                "value": 123477607,
+                "color": "rgba(205, 8, 156, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Average",
+        "data": [
+            {
+                "label": "Hotel Transylvania",
+                "value": 12696,
+                "color": "rgba(239, 85, 21, 0.2)"
+            },
+            {
+                "label": "Gnomeo & Juliet",
+                "value": 8469,
+                "color": "rgba(15, 61, 222, 0.2)"
+            },
+            {
+                "label": "Scooby-Doo 2: Monsters Unleashed",
+                "value": 8888,
+                "color": "rgba(76, 134, 181, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "The Fast and the Furious",
+                "value": 2628,
+                "color": "rgba(223, 48, 121, 0.2)"
+            },
+            {
+                "label": "Godzilla",
+                "value": 3310,
+                "color": "rgba(67, 144, 40, 0.2)"
+            },
+            {
+                "label": "Captain Underpants: The First Epic Movie",
+                "value": 3434,
+                "color": "rgba(223, 159, 16, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Average",
+        "data": [
+            {
+                "label": "Black Mass",
+                "value": 7100,
+                "color": "rgba(238, 183, 119, 0.2)"
+            },
+            {
+                "label": "Monsters University",
+                "value": 20586,
+                "color": "rgba(187, 182, 107, 0.2)"
+            },
+            {
+                "label": "Paranormal Activity 4",
+                "value": 8500,
+                "color": "rgba(124, 137, 104, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "War of the Worlds",
+                "value": 3908,
+                "color": "rgba(146, 74, 206, 0.2)"
+            },
+            {
+                "label": "The Day the Earth Stood Still",
+                "value": 3560,
+                "color": "rgba(102, 26, 71, 0.2)"
+            },
+            {
+                "label": "Dune: Part Two",
+                "value": 4071,
+                "color": "rgba(117, 76, 96, 0.2)"
+            },
+            {
+                "label": "Bad Teacher",
+                "value": 3049,
+                "color": "rgba(199, 86, 213, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Average",
+        "data": [
+            {
+                "label": "Master and Commander: The Far Side of the World",
+                "value": 8096,
+                "color": "rgba(43, 10, 170, 0.2)"
+            },
+            {
+                "label": "Once Upon a Time in Mexico",
+                "value": 7137,
+                "color": "rgba(138, 186, 226, 0.2)"
+            },
+            {
+                "label": "Jurassic Park",
+                "value": 19561,
+                "color": "rgba(35, 80, 66, 0.2)"
+            },
+            {
+                "label": "The Green Hornet",
+                "value": 9354,
+                "color": "rgba(241, 159, 224, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "Fifty Shades Freed",
+                "value": 3768,
+                "color": "rgba(250, 112, 212, 0.2)"
+            },
+            {
+                "label": "Hustlers",
+                "value": 3250,
+                "color": "rgba(22, 111, 189, 0.2)"
+            },
+            {
+                "label": "Fast & Furious Presents: Hobbs & Shaw",
+                "value": 4253,
+                "color": "rgba(55, 124, 98, 0.2)"
+            },
+            {
+                "label": "Us",
+                "value": 3741,
+                "color": "rgba(137, 134, 198, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Opening",
+        "data": [
+            {
+                "label": "Harry Potter and the Half-Blood Prince",
+                "value": 77835727,
+                "color": "rgba(125, 230, 50, 0.2)"
+            },
+            {
+                "label": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+                "value": 24005069,
+                "color": "rgba(214, 3, 69, 0.2)"
+            },
+            {
+                "label": "The Hunger Games: The Ballad of Songbirds & Snakes",
+                "value": 44607143,
+                "color": "rgba(89, 242, 68, 0.2)"
+            },
+            {
+                "label": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+                "value": 35316382,
+                "color": "rgba(212, 240, 2, 0.2)"
+            },
+            {
+                "label": "Wedding Crashers",
+                "value": 32200000,
+                "color": "rgba(120, 72, 155, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "The Hunger Games: Mockingjay - Part 2",
+                "value": 4175,
+                "color": "rgba(50, 39, 61, 0.2)"
+            },
+            {
+                "label": "Apollo 13",
+                "value": 2197,
+                "color": "rgba(187, 44, 21, 0.2)"
+            },
+            {
+                "label": "The Mummy: Tomb of the Dragon Emperor",
+                "value": 3760,
+                "color": "rgba(20, 90, 75, 0.2)"
+            },
+            {
+                "label": "How to Train Your Dragon 2",
+                "value": 4253,
+                "color": "rgba(247, 222, 98, 0.2)"
+            },
+            {
+                "label": "Big Daddy",
+                "value": 3027,
+                "color": "rgba(238, 42, 126, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Shrek",
+                "value": 267851831,
+                "color": "rgba(46, 24, 240, 0.2)"
+            },
+            {
+                "label": "Sully",
+                "value": 125070033,
+                "color": "rgba(243, 238, 44, 0.2)"
+            },
+            {
+                "label": "Monsters vs. Aliens",
+                "value": 198351526,
+                "color": "rgba(196, 13, 88, 0.2)"
+            },
+            {
+                "label": "The Ring Two",
+                "value": 76231249,
+                "color": "rgba(10, 125, 2, 0.2)"
+            },
+            {
+                "label": "Transformers",
+                "value": 319246193,
+                "color": "rgba(2, 81, 205, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Opening",
+        "data": [
+            {
+                "label": "Jumper",
+                "value": 27354808,
+                "color": "rgba(223, 155, 92, 0.2)"
+            },
+            {
+                "label": "Gladiator",
+                "value": 34819017,
+                "color": "rgba(192, 127, 15, 0.2)"
+            },
+            {
+                "label": "The Fast and the Furious",
+                "value": 40089015,
+                "color": "rgba(70, 86, 221, 0.2)"
+            },
+            {
+                "label": "Zootopia",
+                "value": 75063401,
+                "color": "rgba(157, 64, 31, 0.2)"
+            },
+            {
+                "label": "The Meg",
+                "value": 45402195,
+                "color": "rgba(192, 129, 192, 0.2)"
+            },
+            {
+                "label": "Venom",
+                "value": 80255756,
+                "color": "rgba(90, 123, 204, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Average",
+        "data": [
+            {
+                "label": "Brave",
+                "value": 15927,
+                "color": "rgba(88, 99, 31, 0.2)"
+            },
+            {
+                "label": "Downton Abbey",
+                "value": 10079,
+                "color": "rgba(251, 255, 84, 0.2)"
+            },
+            {
+                "label": "Robots",
+                "value": 9545,
+                "color": "rgba(98, 165, 78, 0.2)"
+            },
+            {
+                "label": "Walk the Line",
+                "value": 7547,
+                "color": "rgba(179, 191, 222, 0.2)"
+            },
+            {
+                "label": "The Equalizer 3",
+                "value": 8727,
+                "color": "rgba(114, 135, 158, 0.2)"
+            },
+            {
+                "label": "Why Did I Get Married?",
+                "value": 10618,
+                "color": "rgba(20, 138, 199, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Black Panther",
+                "value": 700059566,
+                "color": "rgba(128, 97, 188, 0.2)"
+            },
+            {
+                "label": "Doctor Strange in the Multiverse of Madness",
+                "value": 411331607,
+                "color": "rgba(115, 37, 115, 0.2)"
+            },
+            {
+                "label": "Kung Fu Panda",
+                "value": 215434591,
+                "color": "rgba(255, 203, 210, 0.2)"
+            },
+            {
+                "label": "Planet of the Apes",
+                "value": 180011740,
+                "color": "rgba(134, 54, 174, 0.2)"
+            },
+            {
+                "label": "The Marvels",
+                "value": 84500223,
+                "color": "rgba(206, 194, 102, 0.2)"
+            },
+            {
+                "label": "Charlie and the Chocolate Factory",
+                "value": 206459076,
+                "color": "rgba(40, 135, 44, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Average",
+        "data": [
+            {
+                "label": "The Mummy",
+                "value": 7853,
+                "color": "rgba(80, 114, 253, 0.2)"
+            },
+            {
+                "label": "Get Hard",
+                "value": 10646,
+                "color": "rgba(82, 11, 90, 0.2)"
+            },
+            {
+                "label": "Saw V",
+                "value": 9821,
+                "color": "rgba(167, 20, 211, 0.2)"
+            },
+            {
+                "label": "Hotel Transylvania",
+                "value": 12696,
+                "color": "rgba(217, 119, 22, 0.2)"
+            },
+            {
+                "label": "The Grudge",
+                "value": 12058,
+                "color": "rgba(24, 241, 215, 0.2)"
+            },
+            {
+                "label": "Harry Potter and the Goblet of Fire",
+                "value": 26616,
+                "color": "rgba(43, 172, 43, 0.2)"
+            },
+            {
+                "label": "Night at the Museum: Battle of the Smithsonian",
+                "value": 13225,
+                "color": "rgba(254, 113, 224, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Alita: Battle Angel",
+                "value": 85838210,
+                "color": "rgba(122, 234, 113, 0.2)"
+            },
+            {
+                "label": "X-Men",
+                "value": 157299718,
+                "color": "rgba(114, 80, 147, 0.2)"
+            },
+            {
+                "label": "Signs",
+                "value": 227966634,
+                "color": "rgba(117, 97, 34, 0.2)"
+            },
+            {
+                "label": "Bad Teacher",
+                "value": 100292856,
+                "color": "rgba(73, 72, 53, 0.2)"
+            },
+            {
+                "label": "Fast & Furious 6",
+                "value": 238679850,
+                "color": "rgba(63, 47, 20, 0.2)"
+            },
+            {
+                "label": "Trainwreck",
+                "value": 110212700,
+                "color": "rgba(116, 131, 26, 0.2)"
+            },
+            {
+                "label": "Angels & Demons",
+                "value": 133375846,
+                "color": "rgba(236, 63, 151, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Average",
+        "data": [
+            {
+                "label": "Cats & Dogs",
+                "value": 7140,
+                "color": "rgba(193, 244, 52, 0.2)"
+            },
+            {
+                "label": "Harry Potter and the Deathly Hallows: Part 2",
+                "value": 38671,
+                "color": "rgba(220, 210, 19, 0.2)"
+            },
+            {
+                "label": "Austin Powers: The Spy Who Shagged Me",
+                "value": 16581,
+                "color": "rgba(47, 225, 176, 0.2)"
+            },
+            {
+                "label": "Bram Stoker's Dracula",
+                "value": 12252,
+                "color": "rgba(242, 174, 36, 0.2)"
+            },
+            {
+                "label": "Beowulf",
+                "value": 8726,
+                "color": "rgba(152, 3, 14, 0.2)"
+            },
+            {
+                "label": "Murder on the Orient Express",
+                "value": 8584,
+                "color": "rgba(108, 41, 254, 0.2)"
+            },
+            {
+                "label": "Wild Hogs",
+                "value": 12077,
+                "color": "rgba(234, 205, 28, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Opening",
+        "data": [
+            {
+                "label": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+                "value": 28007544,
+                "color": "rgba(110, 167, 175, 0.2)"
+            },
+            {
+                "label": "Spider-Man: Homecoming",
+                "value": 117027503,
+                "color": "rgba(23, 152, 213, 0.2)"
+            },
+            {
+                "label": "Onward",
+                "value": 39119861,
+                "color": "rgba(180, 60, 43, 0.2)"
+            },
+            {
+                "label": "Bedtime Stories",
+                "value": 27450296,
+                "color": "rgba(183, 108, 50, 0.2)"
+            },
+            {
+                "label": "Diary of a Wimpy Kid: Rodrick Rules",
+                "value": 23751502,
+                "color": "rgba(60, 182, 15, 0.2)"
+            },
+            {
+                "label": "The Lorax",
+                "value": 70217070,
+                "color": "rgba(235, 134, 234, 0.2)"
+            },
+            {
+                "label": "Exodus: Gods and Kings",
+                "value": 24115934,
+                "color": "rgba(183, 94, 111, 0.2)"
+            },
+            {
+                "label": "Indiana Jones and the Dial of Destiny",
+                "value": 60368101,
+                "color": "rgba(14, 89, 35, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Opening",
+        "data": [
+            {
+                "label": "Save the Last Dance",
+                "value": 23444930,
+                "color": "rgba(197, 93, 113, 0.2)"
+            },
+            {
+                "label": "Star Wars: Episode IV - A New Hope1997 Special Edition",
+                "value": 35906661,
+                "color": "rgba(191, 66, 116, 0.2)"
+            },
+            {
+                "label": "Doctor Strange",
+                "value": 85058311,
+                "color": "rgba(161, 26, 72, 0.2)"
+            },
+            {
+                "label": "Resident Evil: Afterlife",
+                "value": 26650264,
+                "color": "rgba(116, 246, 5, 0.2)"
+            },
+            {
+                "label": "The Amazing Spider-Man 2",
+                "value": 91608337,
+                "color": "rgba(37, 100, 191, 0.2)"
+            },
+            {
+                "label": "Guardians of the Galaxy Vol. 2",
+                "value": 146510104,
+                "color": "rgba(90, 183, 106, 0.2)"
+            },
+            {
+                "label": "Little Fockers",
+                "value": 30833665,
+                "color": "rgba(19, 155, 55, 0.2)"
+            },
+            {
+                "label": "Alice Through the Looking Glass",
+                "value": 26858726,
+                "color": "rgba(121, 173, 190, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "Troy",
+                "value": 3411,
+                "color": "rgba(215, 221, 148, 0.2)"
+            },
+            {
+                "label": "John Wick: Chapter 3 - Parabellum",
+                "value": 3850,
+                "color": "rgba(143, 97, 30, 0.2)"
+            },
+            {
+                "label": "The Visit",
+                "value": 3069,
+                "color": "rgba(135, 35, 30, 0.2)"
+            },
+            {
+                "label": "King Kong",
+                "value": 3568,
+                "color": "rgba(5, 198, 29, 0.2)"
+            },
+            {
+                "label": "Zombieland",
+                "value": 3036,
+                "color": "rgba(196, 3, 4, 0.2)"
+            },
+            {
+                "label": "Space Jam: A New Legacy",
+                "value": 3965,
+                "color": "rgba(145, 193, 179, 0.2)"
+            },
+            {
+                "label": "Big Momma's House",
+                "value": 2802,
+                "color": "rgba(189, 233, 198, 0.2)"
+            },
+            {
+                "label": "Austin Powers: The Spy Who Shagged Me",
+                "value": 3312,
+                "color": "rgba(13, 252, 5, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Opening",
+        "data": [
+            {
+                "label": "Ghostbusters: Afterlife",
+                "value": 44008406,
+                "color": "rgba(126, 30, 236, 0.2)"
+            },
+            {
+                "label": "Fantastic Beasts and Where to Find Them",
+                "value": 74403387,
+                "color": "rgba(18, 230, 12, 0.2)"
+            },
+            {
+                "label": "This Is It",
+                "value": 23234394,
+                "color": "rgba(230, 39, 48, 0.2)"
+            },
+            {
+                "label": "Hancock",
+                "value": 62603879,
+                "color": "rgba(100, 236, 226, 0.2)"
+            },
+            {
+                "label": "Up",
+                "value": 68108790,
+                "color": "rgba(207, 73, 108, 0.2)"
+            },
+            {
+                "label": "Armageddon",
+                "value": 36089972,
+                "color": "rgba(197, 55, 177, 0.2)"
+            },
+            {
+                "label": "Independence Day",
+                "value": 50228264,
+                "color": "rgba(150, 61, 114, 0.2)"
+            },
+            {
+                "label": "Big Daddy",
+                "value": 41536370,
+                "color": "rgba(218, 55, 197, 0.2)"
+            },
+            {
+                "label": "Big Momma's House 2",
+                "value": 27736056,
+                "color": "rgba(219, 68, 40, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "The Lord of the Rings: The Fellowship of the Ring",
+                "value": 3359,
+                "color": "rgba(207, 45, 22, 0.2)"
+            },
+            {
+                "label": "The Martian",
+                "value": 3831,
+                "color": "rgba(127, 124, 45, 0.2)"
+            },
+            {
+                "label": "Borat",
+                "value": 837,
+                "color": "rgba(148, 92, 70, 0.2)"
+            },
+            {
+                "label": "Shrek Forever After",
+                "value": 4359,
+                "color": "rgba(151, 35, 142, 0.2)"
+            },
+            {
+                "label": "Sonic the Hedgehog 2",
+                "value": 4234,
+                "color": "rgba(108, 117, 189, 0.2)"
+            },
+            {
+                "label": "42",
+                "value": 3003,
+                "color": "rgba(156, 247, 38, 0.2)"
+            },
+            {
+                "label": "Saw V",
+                "value": 3060,
+                "color": "rgba(241, 218, 4, 0.2)"
+            },
+            {
+                "label": "Liar Liar",
+                "value": 2845,
+                "color": "rgba(103, 125, 155, 0.2)"
+            },
+            {
+                "label": "Lucy",
+                "value": 3173,
+                "color": "rgba(162, 120, 27, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Opening",
+        "data": [
+            {
+                "label": "Armageddon",
+                "value": 36089972,
+                "color": "rgba(207, 168, 44, 0.2)"
+            },
+            {
+                "label": "Vanilla Sky",
+                "value": 25015518,
+                "color": "rgba(152, 172, 62, 0.2)"
+            },
+            {
+                "label": "Catch Me If You Can",
+                "value": 30053627,
+                "color": "rgba(249, 90, 223, 0.2)"
+            },
+            {
+                "label": "Nutty Professor II: The Klumps",
+                "value": 42518830,
+                "color": "rgba(119, 209, 253, 0.2)"
+            },
+            {
+                "label": "Sherlock Holmes",
+                "value": 62304277,
+                "color": "rgba(234, 118, 110, 0.2)"
+            },
+            {
+                "label": "The Predator",
+                "value": 24632284,
+                "color": "rgba(204, 212, 177, 0.2)"
+            },
+            {
+                "label": "Get Smart",
+                "value": 38683480,
+                "color": "rgba(181, 18, 202, 0.2)"
+            },
+            {
+                "label": "Eraser",
+                "value": 24566446,
+                "color": "rgba(95, 187, 208, 0.2)"
+            },
+            {
+                "label": "White Noise",
+                "value": 24113565,
+                "color": "rgba(13, 140, 164, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Trainwreck",
+                "value": 110212700,
+                "color": "rgba(30, 91, 56, 0.2)"
+            },
+            {
+                "label": "Kung Fu Panda 4",
+                "value": 158207090,
+                "color": "rgba(187, 179, 149, 0.2)"
+            },
+            {
+                "label": "Think Like a Man",
+                "value": 91547205,
+                "color": "rgba(68, 82, 244, 0.2)"
+            },
+            {
+                "label": "Deep Impact",
+                "value": 140464664,
+                "color": "rgba(114, 235, 164, 0.2)"
+            },
+            {
+                "label": "Fantastic Beasts: The Secrets of Dumbledore",
+                "value": 95850844,
+                "color": "rgba(31, 36, 27, 0.2)"
+            },
+            {
+                "label": "Maleficent: Mistress of Evil",
+                "value": 113929605,
+                "color": "rgba(202, 152, 13, 0.2)"
+            },
+            {
+                "label": "Collateral",
+                "value": 101005703,
+                "color": "rgba(91, 254, 95, 0.2)"
+            },
+            {
+                "label": "X-Men: Days of Future Past",
+                "value": 233921534,
+                "color": "rgba(67, 217, 196, 0.2)"
+            },
+            {
+                "label": "Mr. & Mrs. Smith",
+                "value": 186336279,
+                "color": "rgba(208, 109, 233, 0.2)"
+            },
+            {
+                "label": "Madea's Family Reunion",
+                "value": 63257940,
+                "color": "rgba(161, 47, 26, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Avatar: The Way of Water",
+                "value": 684075767,
+                "color": "rgba(88, 91, 61, 0.2)"
+            },
+            {
+                "label": "Annabelle",
+                "value": 84273813,
+                "color": "rgba(16, 155, 12, 0.2)"
+            },
+            {
+                "label": "Top Gun: Maverick",
+                "value": 718732821,
+                "color": "rgba(100, 255, 89, 0.2)"
+            },
+            {
+                "label": "A Wrinkle in Time",
+                "value": 100478608,
+                "color": "rgba(4, 234, 55, 0.2)"
+            },
+            {
+                "label": "The Last Airbender",
+                "value": 131772187,
+                "color": "rgba(8, 158, 238, 0.2)"
+            },
+            {
+                "label": "Captain Underpants: The First Epic Movie",
+                "value": 73921000,
+                "color": "rgba(236, 106, 181, 0.2)"
+            },
+            {
+                "label": "Guardians of the Galaxy Vol. 3",
+                "value": 358995815,
+                "color": "rgba(141, 45, 81, 0.2)"
+            },
+            {
+                "label": "Hairspray",
+                "value": 118871849,
+                "color": "rgba(190, 107, 235, 0.2)"
+            },
+            {
+                "label": "Ender's Game",
+                "value": 61737191,
+                "color": "rgba(201, 198, 50, 0.2)"
+            },
+            {
+                "label": "Mission: Impossible - Dead Reckoning Part One",
+                "value": 172135383,
+                "color": "rgba(176, 235, 45, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Average",
+        "data": [
+            {
+                "label": "Bumblebee",
+                "value": 6099,
+                "color": "rgba(232, 232, 209, 0.2)"
+            },
+            {
+                "label": "Peter Rabbit",
+                "value": 6714,
+                "color": "rgba(22, 168, 112, 0.2)"
+            },
+            {
+                "label": "Failure to Launch",
+                "value": 7985,
+                "color": "rgba(50, 181, 201, 0.2)"
+            },
+            {
+                "label": "Ace Ventura: When Nature Calls",
+                "value": 14254,
+                "color": "rgba(233, 221, 11, 0.2)"
+            },
+            {
+                "label": "The Amazing Spider-Man",
+                "value": 14359,
+                "color": "rgba(0, 20, 170, 0.2)"
+            },
+            {
+                "label": "Cowboys & Aliens",
+                "value": 9715,
+                "color": "rgba(77, 200, 78, 0.2)"
+            },
+            {
+                "label": "PAW Patrol: The Mighty Movie",
+                "value": 5706,
+                "color": "rgba(156, 98, 50, 0.2)"
+            },
+            {
+                "label": "Flubber",
+                "value": 10119,
+                "color": "rgba(123, 88, 119, 0.2)"
+            },
+            {
+                "label": "Once Upon a Time in Mexico",
+                "value": 7137,
+                "color": "rgba(214, 218, 19, 0.2)"
+            },
+            {
+                "label": "Ralph Breaks the Internet",
+                "value": 13999,
+                "color": "rgba(11, 113, 168, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Average",
+        "data": [
+            {
+                "label": "Live Free or Die Hard",
+                "value": 9791,
+                "color": "rgba(27, 20, 152, 0.2)"
+            },
+            {
+                "label": "Hollow Man",
+                "value": 8935,
+                "color": "rgba(101, 133, 136, 0.2)"
+            },
+            {
+                "label": "Dinner for Schmucks",
+                "value": 8082,
+                "color": "rgba(69, 180, 3, 0.2)"
+            },
+            {
+                "label": "Grown Ups 2",
+                "value": 11890,
+                "color": "rgba(14, 97, 196, 0.2)"
+            },
+            {
+                "label": "Open Season",
+                "value": 6163,
+                "color": "rgba(247, 140, 120, 0.2)"
+            },
+            {
+                "label": "Contraband",
+                "value": 8505,
+                "color": "rgba(132, 252, 8, 0.2)"
+            },
+            {
+                "label": "Aladdin",
+                "value": 20442,
+                "color": "rgba(114, 135, 143, 0.2)"
+            },
+            {
+                "label": "Austin Powers: The Spy Who Shagged Me",
+                "value": 16581,
+                "color": "rgba(195, 183, 104, 0.2)"
+            },
+            {
+                "label": "The Town",
+                "value": 8321,
+                "color": "rgba(81, 139, 189, 0.2)"
+            },
+            {
+                "label": "White House Down",
+                "value": 7713,
+                "color": "rgba(22, 96, 203, 0.2)"
+            },
+            {
+                "label": "Cats & Dogs",
+                "value": 7140,
+                "color": "rgba(99, 63, 90, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Bohemian Rhapsody",
+                "value": 216428042,
+                "color": "rgba(179, 62, 207, 0.2)"
+            },
+            {
+                "label": "How to Train Your Dragon: The Hidden World",
+                "value": 160799505,
+                "color": "rgba(246, 5, 51, 0.2)"
+            },
+            {
+                "label": "Eternals",
+                "value": 164870234,
+                "color": "rgba(227, 109, 173, 0.2)"
+            },
+            {
+                "label": "The Lion King",
+                "value": 543638043,
+                "color": "rgba(86, 193, 18, 0.2)"
+            },
+            {
+                "label": "Just Go with It",
+                "value": 103028109,
+                "color": "rgba(146, 144, 125, 0.2)"
+            },
+            {
+                "label": "Despicable Me",
+                "value": 251639815,
+                "color": "rgba(203, 85, 205, 0.2)"
+            },
+            {
+                "label": "Get Out",
+                "value": 176040665,
+                "color": "rgba(70, 117, 208, 0.2)"
+            },
+            {
+                "label": "Suicide Squad",
+                "value": 325100054,
+                "color": "rgba(44, 153, 49, 0.2)"
+            },
+            {
+                "label": "Logan",
+                "value": 226277068,
+                "color": "rgba(206, 168, 206, 0.2)"
+            },
+            {
+                "label": "Rio 2",
+                "value": 131538435,
+                "color": "rgba(233, 3, 28, 0.2)"
+            },
+            {
+                "label": "Pirates of the Caribbean: At World's End",
+                "value": 309420425,
+                "color": "rgba(252, 6, 149, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "Prometheus",
+                "value": 3396,
+                "color": "rgba(142, 198, 200, 0.2)"
+            },
+            {
+                "label": "A Wrinkle in Time",
+                "value": 3980,
+                "color": "rgba(41, 237, 7, 0.2)"
+            },
+            {
+                "label": "Rugrats in Paris",
+                "value": 2934,
+                "color": "rgba(11, 206, 219, 0.2)"
+            },
+            {
+                "label": "Dick Tracy",
+                "value": 2332,
+                "color": "rgba(90, 184, 243, 0.2)"
+            },
+            {
+                "label": "Godzilla",
+                "value": 3952,
+                "color": "rgba(92, 239, 101, 0.2)"
+            },
+            {
+                "label": "Central Intelligence",
+                "value": 3508,
+                "color": "rgba(56, 228, 133, 0.2)"
+            },
+            {
+                "label": "Finding Nemo",
+                "value": 3374,
+                "color": "rgba(126, 49, 243, 0.2)"
+            },
+            {
+                "label": "Madea's Big Happy Family",
+                "value": 2288,
+                "color": "rgba(134, 106, 113, 0.2)"
+            },
+            {
+                "label": "Minions",
+                "value": 4301,
+                "color": "rgba(10, 183, 85, 0.2)"
+            },
+            {
+                "label": "The Fate of the Furious",
+                "value": 4310,
+                "color": "rgba(37, 53, 54, 0.2)"
+            },
+            {
+                "label": "Godzilla",
+                "value": 3310,
+                "color": "rgba(128, 205, 198, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Average",
+        "data": [
+            {
+                "label": "Scooby-Doo 2: Monsters Unleashed",
+                "value": 8888,
+                "color": "rgba(23, 53, 250, 0.2)"
+            },
+            {
+                "label": "John Wick: Chapter 2",
+                "value": 9777,
+                "color": "rgba(189, 107, 151, 0.2)"
+            },
+            {
+                "label": "Ace Ventura: When Nature Calls",
+                "value": 14254,
+                "color": "rgba(56, 81, 195, 0.2)"
+            },
+            {
+                "label": "The Fast and the Furious: Tokyo Drift",
+                "value": 7920,
+                "color": "rgba(76, 154, 211, 0.2)"
+            },
+            {
+                "label": "Jack Reacher: Never Go Back",
+                "value": 6050,
+                "color": "rgba(171, 14, 64, 0.2)"
+            },
+            {
+                "label": "The Princess Diaries",
+                "value": 9011,
+                "color": "rgba(141, 164, 16, 0.2)"
+            },
+            {
+                "label": "Jackass Number Two",
+                "value": 9480,
+                "color": "rgba(86, 171, 200, 0.2)"
+            },
+            {
+                "label": "How to Train Your Dragon: The Hidden World",
+                "value": 12919,
+                "color": "rgba(254, 131, 109, 0.2)"
+            },
+            {
+                "label": "Deadpool",
+                "value": 37221,
+                "color": "rgba(56, 21, 185, 0.2)"
+            },
+            {
+                "label": "Rocketman",
+                "value": 7126,
+                "color": "rgba(217, 9, 69, 0.2)"
+            },
+            {
+                "label": "The Truman Show",
+                "value": 13625,
+                "color": "rgba(240, 225, 57, 0.2)"
+            },
+            {
+                "label": "The Hunger Games: Catching Fire",
+                "value": 37971,
+                "color": "rgba(150, 220, 35, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Indiana Jones and the Last Crusade",
+                "value": 197171806,
+                "color": "rgba(149, 170, 97, 0.2)"
+            },
+            {
+                "label": "Watchmen",
+                "value": 107509799,
+                "color": "rgba(188, 53, 238, 0.2)"
+            },
+            {
+                "label": "101 Dalmatians",
+                "value": 136189294,
+                "color": "rgba(188, 191, 19, 0.2)"
+            },
+            {
+                "label": "Pete's Dragon",
+                "value": 76233151,
+                "color": "rgba(187, 39, 50, 0.2)"
+            },
+            {
+                "label": "22 Jump Street",
+                "value": 191719337,
+                "color": "rgba(39, 131, 122, 0.2)"
+            },
+            {
+                "label": "Friday the 13th",
+                "value": 65002019,
+                "color": "rgba(247, 45, 152, 0.2)"
+            },
+            {
+                "label": "Men in Black II",
+                "value": 190418803,
+                "color": "rgba(181, 249, 84, 0.2)"
+            },
+            {
+                "label": "Captain Phillips",
+                "value": 107100855,
+                "color": "rgba(178, 172, 103, 0.2)"
+            },
+            {
+                "label": "Star Wars: Episode V - The Empire Strikes Back1997 Special Edition",
+                "value": 67597694,
+                "color": "rgba(129, 65, 139, 0.2)"
+            },
+            {
+                "label": "The Sum of All Fears",
+                "value": 118907036,
+                "color": "rgba(165, 84, 97, 0.2)"
+            },
+            {
+                "label": "Aquaman and the Lost Kingdom",
+                "value": 124481226,
+                "color": "rgba(166, 60, 8, 0.2)"
+            },
+            {
+                "label": "Guardians of the Galaxy Vol. 2",
+                "value": 389813101,
+                "color": "rgba(181, 54, 92, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "Wanted",
+                "value": 3175,
+                "color": "rgba(48, 48, 238, 0.2)"
+            },
+            {
+                "label": "Armageddon",
+                "value": 3127,
+                "color": "rgba(158, 57, 32, 0.2)"
+            },
+            {
+                "label": "Crazy Rich Asians",
+                "value": 3384,
+                "color": "rgba(216, 129, 169, 0.2)"
+            },
+            {
+                "label": "Constantine",
+                "value": 3006,
+                "color": "rgba(63, 130, 178, 0.2)"
+            },
+            {
+                "label": "Doctor Strange",
+                "value": 3882,
+                "color": "rgba(135, 255, 12, 0.2)"
+            },
+            {
+                "label": "The Addams Family",
+                "value": 2411,
+                "color": "rgba(234, 98, 199, 0.2)"
+            },
+            {
+                "label": "Legally Blonde 2: Red, White & Blonde",
+                "value": 3350,
+                "color": "rgba(119, 134, 9, 0.2)"
+            },
+            {
+                "label": "Sex and the City",
+                "value": 3285,
+                "color": "rgba(244, 11, 204, 0.2)"
+            },
+            {
+                "label": "The Addams Family",
+                "value": 4007,
+                "color": "rgba(195, 50, 78, 0.2)"
+            },
+            {
+                "label": "Hotel Transylvania",
+                "value": 3349,
+                "color": "rgba(24, 143, 145, 0.2)"
+            },
+            {
+                "label": "Christopher Robin",
+                "value": 3602,
+                "color": "rgba(74, 178, 39, 0.2)"
+            },
+            {
+                "label": "Tangled",
+                "value": 3603,
+                "color": "rgba(171, 205, 145, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Opening",
+        "data": [
+            {
+                "label": "The Purge",
+                "value": 34058360,
+                "color": "rgba(35, 159, 86, 0.2)"
+            },
+            {
+                "label": "Ocean's Eight",
+                "value": 41607378,
+                "color": "rgba(254, 217, 87, 0.2)"
+            },
+            {
+                "label": "Captain America: The Winter Soldier",
+                "value": 95023721,
+                "color": "rgba(217, 208, 13, 0.2)"
+            },
+            {
+                "label": "Jumanji: The Next Level",
+                "value": 59251543,
+                "color": "rgba(149, 127, 197, 0.2)"
+            },
+            {
+                "label": "Independence Day",
+                "value": 50228264,
+                "color": "rgba(227, 27, 116, 0.2)"
+            },
+            {
+                "label": "The Lorax",
+                "value": 70217070,
+                "color": "rgba(240, 203, 81, 0.2)"
+            },
+            {
+                "label": "Paranormal Activity 3",
+                "value": 52568183,
+                "color": "rgba(142, 25, 117, 0.2)"
+            },
+            {
+                "label": "Jumanji: Welcome to the Jungle",
+                "value": 36169328,
+                "color": "rgba(199, 48, 187, 0.2)"
+            },
+            {
+                "label": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+                "value": 65556312,
+                "color": "rgba(255, 190, 28, 0.2)"
+            },
+            {
+                "label": "Con Air",
+                "value": 24131738,
+                "color": "rgba(232, 181, 95, 0.2)"
+            },
+            {
+                "label": "How to Train Your Dragon: The Hidden World",
+                "value": 55022245,
+                "color": "rgba(246, 68, 154, 0.2)"
+            },
+            {
+                "label": "Pok\u00e9mon: The First Movie - Mewtwo Strikes Back",
+                "value": 31036678,
+                "color": "rgba(184, 152, 117, 0.2)"
+            },
+            {
+                "label": "Guardians of the Galaxy Vol. 3",
+                "value": 118414021,
+                "color": "rgba(16, 199, 48, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "The Twilight Saga: Breaking Dawn - Part 2",
+                "value": 292324737,
+                "color": "rgba(11, 82, 136, 0.2)"
+            },
+            {
+                "label": "The Suicide Squad",
+                "value": 55817425,
+                "color": "rgba(88, 175, 173, 0.2)"
+            },
+            {
+                "label": "Bridge to Terabithia",
+                "value": 82272442,
+                "color": "rgba(174, 58, 211, 0.2)"
+            },
+            {
+                "label": "Miami Vice",
+                "value": 63450470,
+                "color": "rgba(158, 73, 251, 0.2)"
+            },
+            {
+                "label": "Teenage Mutant Ninja Turtles",
+                "value": 135265915,
+                "color": "rgba(197, 165, 167, 0.2)"
+            },
+            {
+                "label": "The Lion King",
+                "value": 543638043,
+                "color": "rgba(223, 63, 12, 0.2)"
+            },
+            {
+                "label": "The Rugrats Movie",
+                "value": 100494675,
+                "color": "rgba(115, 252, 177, 0.2)"
+            },
+            {
+                "label": "Megamind",
+                "value": 148415853,
+                "color": "rgba(137, 2, 30, 0.2)"
+            },
+            {
+                "label": "The Batman",
+                "value": 369345583,
+                "color": "rgba(89, 5, 36, 0.2)"
+            },
+            {
+                "label": "Wonka",
+                "value": 218402312,
+                "color": "rgba(205, 63, 34, 0.2)"
+            },
+            {
+                "label": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+                "value": 82051601,
+                "color": "rgba(155, 133, 45, 0.2)"
+            },
+            {
+                "label": "Star Wars: Episode VII - The Force Awakens",
+                "value": 936662225,
+                "color": "rgba(192, 24, 0, 0.2)"
+            },
+            {
+                "label": "Guardians of the Galaxy",
+                "value": 333176600,
+                "color": "rgba(53, 5, 227, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Miami Vice",
+                "value": 63450470,
+                "color": "rgba(129, 170, 20, 0.2)"
+            },
+            {
+                "label": "Bruce Almighty",
+                "value": 242829261,
+                "color": "rgba(12, 58, 102, 0.2)"
+            },
+            {
+                "label": "Pete's Dragon",
+                "value": 76233151,
+                "color": "rgba(95, 119, 9, 0.2)"
+            },
+            {
+                "label": "The Twilight Saga: New Moon",
+                "value": 296623634,
+                "color": "rgba(223, 128, 219, 0.2)"
+            },
+            {
+                "label": "Spider-Man 2",
+                "value": 373585825,
+                "color": "rgba(236, 78, 91, 0.2)"
+            },
+            {
+                "label": "Taken 2",
+                "value": 139854287,
+                "color": "rgba(216, 241, 29, 0.2)"
+            },
+            {
+                "label": "21",
+                "value": 81159365,
+                "color": "rgba(248, 26, 137, 0.2)"
+            },
+            {
+                "label": "Chronicle",
+                "value": 64575175,
+                "color": "rgba(155, 90, 75, 0.2)"
+            },
+            {
+                "label": "Star Wars: Episode IV - A New Hope1997 Special Edition",
+                "value": 138257865,
+                "color": "rgba(161, 32, 78, 0.2)"
+            },
+            {
+                "label": "Dungeons & Dragons: Honor Among Thieves",
+                "value": 93277026,
+                "color": "rgba(162, 188, 135, 0.2)"
+            },
+            {
+                "label": "True Lies",
+                "value": 146282411,
+                "color": "rgba(57, 5, 136, 0.2)"
+            },
+            {
+                "label": "Monsters, Inc.",
+                "value": 255873250,
+                "color": "rgba(173, 60, 215, 0.2)"
+            },
+            {
+                "label": "The Cat in the Hat",
+                "value": 101149285,
+                "color": "rgba(90, 187, 158, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Opening",
+        "data": [
+            {
+                "label": "The Chronicles of Narnia: Prince Caspian",
+                "value": 55034805,
+                "color": "rgba(96, 12, 141, 0.2)"
+            },
+            {
+                "label": "Eagle Eye",
+                "value": 29150721,
+                "color": "rgba(106, 108, 52, 0.2)"
+            },
+            {
+                "label": "Terminator: Dark Fate",
+                "value": 29033832,
+                "color": "rgba(121, 244, 8, 0.2)"
+            },
+            {
+                "label": "The X Files",
+                "value": 30138758,
+                "color": "rgba(52, 125, 32, 0.2)"
+            },
+            {
+                "label": "Lara Croft: Tomb Raider",
+                "value": 47735743,
+                "color": "rgba(1, 31, 228, 0.2)"
+            },
+            {
+                "label": "Shrek the Third",
+                "value": 121629270,
+                "color": "rgba(226, 59, 191, 0.2)"
+            },
+            {
+                "label": "Fantastic Beasts: The Crimes of Grindelwald",
+                "value": 62163104,
+                "color": "rgba(100, 143, 10, 0.2)"
+            },
+            {
+                "label": "Transformers: Revenge of the Fallen",
+                "value": 108966307,
+                "color": "rgba(135, 156, 124, 0.2)"
+            },
+            {
+                "label": "It Chapter Two",
+                "value": 91062152,
+                "color": "rgba(114, 85, 85, 0.2)"
+            },
+            {
+                "label": "Smile",
+                "value": 22609925,
+                "color": "rgba(158, 28, 253, 0.2)"
+            },
+            {
+                "label": "Why Did I Get Married?",
+                "value": 21353789,
+                "color": "rgba(228, 197, 99, 0.2)"
+            },
+            {
+                "label": "Halloween Ends",
+                "value": 40050355,
+                "color": "rgba(83, 138, 89, 0.2)"
+            },
+            {
+                "label": "Elf",
+                "value": 32100000,
+                "color": "rgba(5, 166, 239, 0.2)"
+            },
+            {
+                "label": "The Other Guys",
+                "value": 35543162,
+                "color": "rgba(117, 45, 59, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Total gross",
+        "data": [
+            {
+                "label": "Once Upon a Time in Mexico",
+                "value": 56359780,
+                "color": "rgba(228, 158, 164, 0.2)"
+            },
+            {
+                "label": "Angels & Demons",
+                "value": 133375846,
+                "color": "rgba(155, 70, 230, 0.2)"
+            },
+            {
+                "label": "The Equalizer",
+                "value": 101530738,
+                "color": "rgba(125, 106, 99, 0.2)"
+            },
+            {
+                "label": "X-Men: Days of Future Past",
+                "value": 233921534,
+                "color": "rgba(39, 61, 49, 0.2)"
+            },
+            {
+                "label": "Tangled",
+                "value": 200821936,
+                "color": "rgba(179, 124, 124, 0.2)"
+            },
+            {
+                "label": "Thor: Love and Thunder",
+                "value": 343256830,
+                "color": "rgba(116, 253, 39, 0.2)"
+            },
+            {
+                "label": "The Amityville Horror",
+                "value": 65233369,
+                "color": "rgba(40, 13, 103, 0.2)"
+            },
+            {
+                "label": "Star Wars: Episode V - The Empire Strikes Back1997 Special Edition",
+                "value": 67597694,
+                "color": "rgba(237, 83, 206, 0.2)"
+            },
+            {
+                "label": "300",
+                "value": 210614939,
+                "color": "rgba(8, 236, 83, 0.2)"
+            },
+            {
+                "label": "Harry Potter and the Sorcerer's Stone",
+                "value": 317575550,
+                "color": "rgba(241, 54, 221, 0.2)"
+            },
+            {
+                "label": "Zombieland",
+                "value": 75590286,
+                "color": "rgba(157, 195, 32, 0.2)"
+            },
+            {
+                "label": "21",
+                "value": 81159365,
+                "color": "rgba(134, 185, 240, 0.2)"
+            },
+            {
+                "label": "Four Christmases",
+                "value": 120146040,
+                "color": "rgba(174, 246, 54, 0.2)"
+            },
+            {
+                "label": "We're the Millers",
+                "value": 150394119,
+                "color": "rgba(68, 99, 249, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Theaters",
+        "data": [
+            {
+                "label": "The Matrix Reloaded",
+                "value": 3603,
+                "color": "rgba(146, 167, 231, 0.2)"
+            },
+            {
+                "label": "Lethal Weapon 4",
+                "value": 3117,
+                "color": "rgba(192, 149, 10, 0.2)"
+            },
+            {
+                "label": "Me, Myself & Irene",
+                "value": 3019,
+                "color": "rgba(197, 139, 145, 0.2)"
+            },
+            {
+                "label": "Bridesmaids",
+                "value": 2918,
+                "color": "rgba(109, 50, 39, 0.2)"
+            },
+            {
+                "label": "John Wick: Chapter 4",
+                "value": 3855,
+                "color": "rgba(70, 58, 30, 0.2)"
+            },
+            {
+                "label": "Despicable Me 2",
+                "value": 3997,
+                "color": "rgba(126, 17, 145, 0.2)"
+            },
+            {
+                "label": "Journey 2: The Mysterious Island",
+                "value": 3470,
+                "color": "rgba(87, 181, 224, 0.2)"
+            },
+            {
+                "label": "The Fast and the Furious: Tokyo Drift",
+                "value": 3027,
+                "color": "rgba(9, 29, 19, 0.2)"
+            },
+            {
+                "label": "Oz the Great and Powerful",
+                "value": 3912,
+                "color": "rgba(130, 117, 133, 0.2)"
+            },
+            {
+                "label": "Murder on the Orient Express",
+                "value": 3341,
+                "color": "rgba(237, 127, 10, 0.2)"
+            },
+            {
+                "label": "Cloudy with a Chance of Meatballs 2",
+                "value": 4001,
+                "color": "rgba(14, 38, 214, 0.2)"
+            },
+            {
+                "label": "Encanto",
+                "value": 3980,
+                "color": "rgba(217, 69, 54, 0.2)"
+            },
+            {
+                "label": "Kill Bill: Vol. 2",
+                "value": 2971,
+                "color": "rgba(127, 5, 94, 0.2)"
+            },
+            {
+                "label": "Paranormal Activity 2",
+                "value": 3216,
+                "color": "rgba(97, 153, 112, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Average",
+        "data": [
+            {
+                "label": "The Blind Side",
+                "value": 10970,
+                "color": "rgba(58, 32, 253, 0.2)"
+            },
+            {
+                "label": "He's Just Not That Into You",
+                "value": 8751,
+                "color": "rgba(206, 212, 225, 0.2)"
+            },
+            {
+                "label": "Hotel Transylvania",
+                "value": 12696,
+                "color": "rgba(200, 236, 24, 0.2)"
+            },
+            {
+                "label": "Madagascar",
+                "value": 11431,
+                "color": "rgba(174, 173, 215, 0.2)"
+            },
+            {
+                "label": "The Dukes of Hazzard",
+                "value": 8104,
+                "color": "rgba(219, 18, 79, 0.2)"
+            },
+            {
+                "label": "Space Jam",
+                "value": 10388,
+                "color": "rgba(60, 34, 31, 0.2)"
+            },
+            {
+                "label": "Monsters University",
+                "value": 20586,
+                "color": "rgba(42, 57, 171, 0.2)"
+            },
+            {
+                "label": "Me, Myself & Irene",
+                "value": 8019,
+                "color": "rgba(215, 178, 10, 0.2)"
+            },
+            {
+                "label": "Superbad",
+                "value": 11211,
+                "color": "rgba(94, 209, 31, 0.2)"
+            },
+            {
+                "label": "Harry Potter and the Sorcerer's Stone",
+                "value": 24590,
+                "color": "rgba(167, 119, 44, 0.2)"
+            },
+            {
+                "label": "Ford v Ferrari",
+                "value": 8921,
+                "color": "rgba(115, 140, 62, 0.2)"
+            },
+            {
+                "label": "Madea's Big Happy Family",
+                "value": 10956,
+                "color": "rgba(148, 194, 131, 0.2)"
+            },
+            {
+                "label": "The Matrix Revolutions",
+                "value": 13842,
+                "color": "rgba(154, 167, 189, 0.2)"
+            },
+            {
+                "label": "Moana",
+                "value": 14614,
+                "color": "rgba(75, 9, 189, 0.2)"
+            },
+            {
+                "label": "Terminator Salvation",
+                "value": 12056,
+                "color": "rgba(47, 124, 227, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Average",
+        "data": [
+            {
+                "label": "Master and Commander: The Far Side of the World",
+                "value": 8096,
+                "color": "rgba(228, 154, 20, 0.2)"
+            },
+            {
+                "label": "Saw V",
+                "value": 9821,
+                "color": "rgba(244, 197, 188, 0.2)"
+            },
+            {
+                "label": "The Lorax",
+                "value": 18830,
+                "color": "rgba(196, 156, 147, 0.2)"
+            },
+            {
+                "label": "Superbad",
+                "value": 11211,
+                "color": "rgba(211, 137, 232, 0.2)"
+            },
+            {
+                "label": "Hop",
+                "value": 10490,
+                "color": "rgba(167, 174, 166, 0.2)"
+            },
+            {
+                "label": "The Longest Yard",
+                "value": 13100,
+                "color": "rgba(206, 34, 178, 0.2)"
+            },
+            {
+                "label": "Get Out",
+                "value": 12001,
+                "color": "rgba(57, 121, 140, 0.2)"
+            },
+            {
+                "label": "This Is It",
+                "value": 6674,
+                "color": "rgba(241, 8, 227, 0.2)"
+            },
+            {
+                "label": "Sherlock Holmes",
+                "value": 17182,
+                "color": "rgba(10, 139, 232, 0.2)"
+            },
+            {
+                "label": "Public Enemies",
+                "value": 7579,
+                "color": "rgba(172, 120, 180, 0.2)"
+            },
+            {
+                "label": "Bad Teacher",
+                "value": 10365,
+                "color": "rgba(214, 239, 119, 0.2)"
+            },
+            {
+                "label": "Fahrenheit 9/11",
+                "value": 27558,
+                "color": "rgba(145, 194, 148, 0.2)"
+            },
+            {
+                "label": "Red Dragon",
+                "value": 10885,
+                "color": "rgba(86, 235, 192, 0.2)"
+            },
+            {
+                "label": "Pacific Rim: Uprising",
+                "value": 7582,
+                "color": "rgba(197, 86, 60, 0.2)"
+            },
+            {
+                "label": "Us",
+                "value": 19010,
+                "color": "rgba(1, 82, 241, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Line Chart of Movie Average",
+        "data": [
+            {
+                "label": "Percy Jackson & the Olympians: The Lightning Thief",
+                "value": 9307,
+                "color": "rgba(112, 229, 36, 0.2)"
+            },
+            {
+                "label": "Pearl Harbor",
+                "value": 18381,
+                "color": "rgba(72, 86, 148, 0.2)"
+            },
+            {
+                "label": "The Mask of Zorro",
+                "value": 8956,
+                "color": "rgba(116, 33, 239, 0.2)"
+            },
+            {
+                "label": "After Earth",
+                "value": 8091,
+                "color": "rgba(179, 173, 70, 0.2)"
+            },
+            {
+                "label": "The Hobbit: The Battle of the Five Armies",
+                "value": 14122,
+                "color": "rgba(132, 21, 189, 0.2)"
+            },
+            {
+                "label": "Exodus: Gods and Kings",
+                "value": 6884,
+                "color": "rgba(29, 37, 189, 0.2)"
+            },
+            {
+                "label": "Dick Tracy",
+                "value": 9667,
+                "color": "rgba(189, 84, 7, 0.2)"
+            },
+            {
+                "label": "The Twilight Saga: Breaking Dawn - Part 1",
+                "value": 34011,
+                "color": "rgba(62, 136, 106, 0.2)"
+            },
+            {
+                "label": "War of the Worlds",
+                "value": 16601,
+                "color": "rgba(155, 229, 137, 0.2)"
+            },
+            {
+                "label": "Captain America: The Winter Soldier",
+                "value": 24129,
+                "color": "rgba(29, 202, 28, 0.2)"
+            },
+            {
+                "label": "A Christmas Carol",
+                "value": 8159,
+                "color": "rgba(167, 206, 89, 0.2)"
+            },
+            {
+                "label": "Mad Max: Fury Road",
+                "value": 12271,
+                "color": "rgba(88, 234, 9, 0.2)"
+            },
+            {
+                "label": "Superman Returns",
+                "value": 12923,
+                "color": "rgba(191, 27, 154, 0.2)"
+            },
+            {
+                "label": "Evil Dead",
+                "value": 8520,
+                "color": "rgba(150, 218, 183, 0.2)"
+            },
+            {
+                "label": "The Nun",
+                "value": 13882,
+                "color": "rgba(80, 179, 126, 0.2)"
+            }
+        ]
+    }
+]

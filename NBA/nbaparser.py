@@ -25,34 +25,22 @@ def generate_chart_config_axis_specific(data, chart_type, labels, values, select
     else:
         detailed_label = "NBA' Players Performance Metrics"
 
-    # Configuration for Chart.js
+    # Creating the JSON structure for Chart.js configuration
+    chart_data = []
+    for label, value in zip(labels, values):
+        color = f'rgba({random.randint(0,255)}, {random.randint(0,255)}, {random.randint(0,255)}, 0.2)'
+        chart_data.append({
+            'label': label,
+            'value': value,
+            'color': color
+        })
+
     config = {
-        'type': chart_type,
-        'data': {
-            'labels': labels,
-            'datasets': [{
-                'label': detailed_label,
-                'data': values,
-                'backgroundColor': [
-                    f'rgba({random.randint(0,255)}, {random.randint(0,255)}, {random.randint(0,255)}, 0.2)' for _ in values
-                ],
-                'borderColor': [
-                    f'rgba({random.randint(0,255)}, {random.randint(0,255)}, {random.randint(0,255)}, 1)' for _ in values
-                ],
-                'borderWidth': 1
-            }]
-        },
-        'options': {
-            'title': {
-                'display': True,
-                'text': detailed_label
-            },
-            'scales': {
-                'yAxes': [{'ticks': {'beginAtZero': True}}] if chart_type != 'pie' else {}
-            }
-        }
+        'chart_type': chart_type,
+        'chart_title': detailed_label,
+        'data': chart_data
     }
-    return json.dumps(config)
+    return config
 
 # Define variables for chart types and stats columns
 chart_types = ['bar', 'pie', 'line']
@@ -68,11 +56,11 @@ for chart_type in chart_types:
             labels = selected_rows['player_name'].tolist()
             values = selected_rows[selected_stat].values.flatten().tolist()
             chart_config = generate_chart_config_axis_specific(selected_rows, chart_type, labels, values, selected_stat)
-            chart_data_axis_specific.append([chart_type, num_data_points, ', '.join(selected_stat), chart_config])
+            chart_data_axis_specific.append(chart_config)
 
-# Create DataFrame and save to CSV
-charts_df_axis_specific = pd.DataFrame(chart_data_axis_specific, columns=['Chart Type', 'Data Points', 'Statistics', 'Chart Configuration'])
-output_csv_axis_specific_path = 'output.csv'
-charts_df_axis_specific.to_csv(output_csv_axis_specific_path, index=False)
+# Save the data as JSON
+output_json_axis_specific_path = 'output.json'
+with open(output_json_axis_specific_path, 'w') as json_file:
+    json.dump(chart_data_axis_specific, json_file, indent=4)
 
-print(f"Output CSV path: {output_csv_axis_specific_path}")
+print(f"Output JSON path: {output_json_axis_specific_path}")
