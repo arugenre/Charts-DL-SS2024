@@ -1,0 +1,1450 @@
+[
+    {
+        "chart_type": "line",
+        "chart_title": "New cases in 2020",
+        "data": [
+            {
+                "label": "Anus",
+                "value": 5452,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Bladder",
+                "value": 21096,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Brain, central nervous system",
+                "value": 31460,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Breast",
+                "value": 178361,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Cervix uteri",
+                "value": 123907,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Colon",
+                "value": 31646,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Corpus uteri",
+                "value": 16413,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Gallbladder",
+                "value": 19570,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Hodgkin lymphoma",
+                "value": 9221,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Hypopharynx",
+                "value": 28489,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Kaposi sarcoma",
+                "value": 66,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Kidney",
+                "value": 16861,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Larynx",
+                "value": 34687,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Leukaemia",
+                "value": 48419,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Lip, oral cavity",
+                "value": 135929,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Liver",
+                "value": 34743,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Lung",
+                "value": 72510,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Melanoma of skin",
+                "value": 3916,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Mesothelioma",
+                "value": 1709,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Multiple myeloma",
+                "value": 14641,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Nasopharynx",
+                "value": 5697,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Non-Hodgkin lymphoma",
+                "value": 35828,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Oesophagus",
+                "value": 63180,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Oropharynx",
+                "value": 20617,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Ovary",
+                "value": 45701,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Pancreas",
+                "value": 12642,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Penis",
+                "value": 10677,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Prostate",
+                "value": 34540,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Rectum",
+                "value": 28260,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Salivary glands",
+                "value": 7850,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Stomach",
+                "value": 60222,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Testis",
+                "value": 4681,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Thyroid",
+                "value": 20432,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Vagina",
+                "value": 5518,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Vulva",
+                "value": 3447,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "New cases rank in 2020",
+        "data": [
+            {
+                "label": "Anus",
+                "value": 30,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Bladder",
+                "value": 17,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Brain, central nervous system",
+                "value": 14,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Breast",
+                "value": 1,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Cervix uteri",
+                "value": 3,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Colon",
+                "value": 13,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Corpus uteri",
+                "value": 22,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Gallbladder",
+                "value": 20,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Hodgkin lymphoma",
+                "value": 26,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Hypopharynx",
+                "value": 15,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Kaposi sarcoma",
+                "value": 35,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Kidney",
+                "value": 21,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Larynx",
+                "value": 11,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Leukaemia",
+                "value": 7,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Lip, oral cavity",
+                "value": 2,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Liver",
+                "value": 10,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Lung",
+                "value": 4,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Melanoma of skin",
+                "value": 32,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Mesothelioma",
+                "value": 34,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Multiple myeloma",
+                "value": 23,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Nasopharynx",
+                "value": 28,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Non-Hodgkin lymphoma",
+                "value": 9,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Oesophagus",
+                "value": 5,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Oropharynx",
+                "value": 18,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Ovary",
+                "value": 8,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Pancreas",
+                "value": 24,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Penis",
+                "value": 25,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Prostate",
+                "value": 12,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Rectum",
+                "value": 16,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Salivary glands",
+                "value": 27,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Stomach",
+                "value": 6,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Testis",
+                "value": 31,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Thyroid",
+                "value": 19,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Vagina",
+                "value": 29,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Vulva",
+                "value": 33,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "New cases percent in 2020",
+        "data": [
+            {
+                "label": "Anus",
+                "value": 0.41,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Bladder",
+                "value": 1.6,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Brain, central nervous system",
+                "value": 2.4,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Breast",
+                "value": 13.5,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Cervix uteri",
+                "value": 9.4,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Colon",
+                "value": 2.4,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Corpus uteri",
+                "value": 1.2,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Gallbladder",
+                "value": 1.5,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Hodgkin lymphoma",
+                "value": 0.7,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Hypopharynx",
+                "value": 2.2,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Kaposi sarcoma",
+                "value": 0.0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Kidney",
+                "value": 1.3,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Larynx",
+                "value": 2.6,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Leukaemia",
+                "value": 3.7,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Lip, oral cavity",
+                "value": 10.3,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Liver",
+                "value": 2.6,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Lung",
+                "value": 5.5,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Melanoma of skin",
+                "value": 0.3,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Mesothelioma",
+                "value": 0.13,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Multiple myeloma",
+                "value": 1.1,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Nasopharynx",
+                "value": 0.43,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Non-Hodgkin lymphoma",
+                "value": 2.7,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Oesophagus",
+                "value": 4.8,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Oropharynx",
+                "value": 1.6,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Ovary",
+                "value": 3.5,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Pancreas",
+                "value": 0.95,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Penis",
+                "value": 0.81,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Prostate",
+                "value": 2.6,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Rectum",
+                "value": 2.1,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Salivary glands",
+                "value": 0.59,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Stomach",
+                "value": 4.5,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Testis",
+                "value": 0.35,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Thyroid",
+                "value": 1.5,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Vagina",
+                "value": 0.42,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Vulva",
+                "value": 0.26,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Deaths number in 2020",
+        "data": [
+            {
+                "label": "Anus",
+                "value": 2776,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Bladder",
+                "value": 11154,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Brain, central nervous system",
+                "value": 26656,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Breast",
+                "value": 90408,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Cervix uteri",
+                "value": 77348,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Colon",
+                "value": 19236,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Corpus uteri",
+                "value": 6385,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Gallbladder",
+                "value": 14736,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Hodgkin lymphoma",
+                "value": 3513,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Hypopharynx",
+                "value": 11443,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Kaposi sarcoma",
+                "value": 43,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Kidney",
+                "value": 9897,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Larynx",
+                "value": 21660,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Leukaemia",
+                "value": 35392,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Lip, oral cavity",
+                "value": 75290,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Liver",
+                "value": 33793,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Lung",
+                "value": 66279,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Melanoma of skin",
+                "value": 2296,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Mesothelioma",
+                "value": 1543,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Multiple myeloma",
+                "value": 12556,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Nasopharynx",
+                "value": 4148,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Non-Hodgkin lymphoma",
+                "value": 20390,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Oesophagus",
+                "value": 58342,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Oropharynx",
+                "value": 12703,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Ovary",
+                "value": 32077,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Pancreas",
+                "value": 12153,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Penis",
+                "value": 4760,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Prostate",
+                "value": 16783,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Rectum",
+                "value": 16149,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Salivary glands",
+                "value": 5127,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Stomach",
+                "value": 53253,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Testis",
+                "value": 1252,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Thyroid",
+                "value": 4895,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Vagina",
+                "value": 2723,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Vulva",
+                "value": 1694,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Deaths rank in 2020",
+        "data": [
+            {
+                "label": "Anus",
+                "value": 29,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Bladder",
+                "value": 21,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Brain, central nervous system",
+                "value": 10,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Breast",
+                "value": 1,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Cervix uteri",
+                "value": 2,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Colon",
+                "value": 13,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Corpus uteri",
+                "value": 23,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Gallbladder",
+                "value": 16,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Hodgkin lymphoma",
+                "value": 28,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Hypopharynx",
+                "value": 20,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Kaposi sarcoma",
+                "value": 35,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Kidney",
+                "value": 22,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Larynx",
+                "value": 11,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Leukaemia",
+                "value": 7,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Lip, oral cavity",
+                "value": 3,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Liver",
+                "value": 8,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Lung",
+                "value": 4,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Melanoma of skin",
+                "value": 31,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Mesothelioma",
+                "value": 33,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Multiple myeloma",
+                "value": 18,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Nasopharynx",
+                "value": 27,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Non-Hodgkin lymphoma",
+                "value": 12,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Oesophagus",
+                "value": 5,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Oropharynx",
+                "value": 17,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Ovary",
+                "value": 9,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Pancreas",
+                "value": 19,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Penis",
+                "value": 26,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Prostate",
+                "value": 14,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Rectum",
+                "value": 15,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Salivary glands",
+                "value": 24,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Stomach",
+                "value": 6,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Testis",
+                "value": 34,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Thyroid",
+                "value": 25,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Vagina",
+                "value": 30,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Vulva",
+                "value": 32,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Deaths percent in 2020",
+        "data": [
+            {
+                "label": "Anus",
+                "value": 0.33,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Bladder",
+                "value": 1.3,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Brain, central nervous system",
+                "value": 3.1,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Breast",
+                "value": 10.6,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Cervix uteri",
+                "value": 9.1,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Colon",
+                "value": 2.3,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Corpus uteri",
+                "value": 0.75,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Gallbladder",
+                "value": 1.7,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Hodgkin lymphoma",
+                "value": 0.41,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Hypopharynx",
+                "value": 1.3,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Kaposi sarcoma",
+                "value": 0.01,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Kidney",
+                "value": 1.2,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Larynx",
+                "value": 2.5,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Leukaemia",
+                "value": 4.2,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Lip, oral cavity",
+                "value": 8.8,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Liver",
+                "value": 4.0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Lung",
+                "value": 7.8,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Melanoma of skin",
+                "value": 0.27,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Mesothelioma",
+                "value": 0.18,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Multiple myeloma",
+                "value": 1.5,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Nasopharynx",
+                "value": 0.49,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Non-Hodgkin lymphoma",
+                "value": 2.4,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Oesophagus",
+                "value": 6.9,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Oropharynx",
+                "value": 1.5,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Ovary",
+                "value": 3.8,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Pancreas",
+                "value": 1.4,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Penis",
+                "value": 0.56,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Prostate",
+                "value": 2.0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Rectum",
+                "value": 1.9,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Salivary glands",
+                "value": 0.6,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Stomach",
+                "value": 6.3,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Testis",
+                "value": 0.15,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Thyroid",
+                "value": 0.57,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Vagina",
+                "value": 0.32,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Vulva",
+                "value": 0.2,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Risk of prevalence in 2020",
+        "data": [
+            {
+                "label": "Anus",
+                "value": 12278,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Bladder",
+                "value": 49257,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Brain, central nervous system",
+                "value": 74398,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Breast",
+                "value": 459271,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Cervix uteri",
+                "value": 283842,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Colon",
+                "value": 65493,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Corpus uteri",
+                "value": 43484,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Gallbladder",
+                "value": 25138,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Hodgkin lymphoma",
+                "value": 24928,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Hypopharynx",
+                "value": 39750,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Kaposi sarcoma",
+                "value": 156,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Kidney",
+                "value": 39150,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Larynx",
+                "value": 82087,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Leukaemia",
+                "value": 127493,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Lip, oral cavity",
+                "value": 300413,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Liver",
+                "value": 38602,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Lung",
+                "value": 80817,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Melanoma of skin",
+                "value": 9637,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Mesothelioma",
+                "value": 2223,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Multiple myeloma",
+                "value": 30640,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Nasopharynx",
+                "value": 14196,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Non-Hodgkin lymphoma",
+                "value": 88272,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Oesophagus",
+                "value": 68607,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Oropharynx",
+                "value": 44398,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Ovary",
+                "value": 103716,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Pancreas",
+                "value": 11928,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Penis",
+                "value": 26280,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Prostate",
+                "value": 67909,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Rectum",
+                "value": 62827,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Salivary glands",
+                "value": 20448,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Stomach",
+                "value": 81270,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Testis",
+                "value": 14812,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Thyroid",
+                "value": 55248,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Vagina",
+                "value": 12315,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Vulva",
+                "value": 8928,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Risk of prevalence per 100K",
+        "data": [
+            {
+                "label": "Anus",
+                "value": 0.89,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Bladder",
+                "value": 3.57,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Brain, central nervous system",
+                "value": 5.39,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Breast",
+                "value": 69.28,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Cervix uteri",
+                "value": 42.82,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Colon",
+                "value": 4.75,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Corpus uteri",
+                "value": 6.56,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Gallbladder",
+                "value": 1.82,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Hodgkin lymphoma",
+                "value": 1.81,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Hypopharynx",
+                "value": 2.88,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Kaposi sarcoma",
+                "value": 0.01,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Kidney",
+                "value": 2.84,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Larynx",
+                "value": 5.95,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Leukaemia",
+                "value": 9.24,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Lip, oral cavity",
+                "value": 21.77,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Liver",
+                "value": 2.8,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Lung",
+                "value": 5.86,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Melanoma of skin",
+                "value": 0.7,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Mesothelioma",
+                "value": 0.16,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Multiple myeloma",
+                "value": 2.22,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Nasopharynx",
+                "value": 1.03,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Non-Hodgkin lymphoma",
+                "value": 6.4,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Oesophagus",
+                "value": 4.97,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Oropharynx",
+                "value": 3.22,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Ovary",
+                "value": 15.65,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Pancreas",
+                "value": 0.86,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Penis",
+                "value": 3.66,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Prostate",
+                "value": 9.47,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Rectum",
+                "value": 4.55,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Salivary glands",
+                "value": 1.48,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Stomach",
+                "value": 5.89,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Testis",
+                "value": 2.07,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Thyroid",
+                "value": 4.0,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Vagina",
+                "value": 1.86,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Vulva",
+                "value": 1.35,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    }
+]

@@ -1,0 +1,5752 @@
+[
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Albania",
+        "data": [
+            {
+                "label": "O+",
+                "value": 1048431,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 959269,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 445814,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 159878,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 184475,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 169102,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 79939,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 27671,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Algeria",
+        "data": [
+            {
+                "label": "O+",
+                "value": 17430676,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 13073007,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 6536504,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 1852009,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 2876062,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 1002264,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 479344,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 326825,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Argentina",
+        "data": [
+            {
+                "label": "O+",
+                "value": 22239289,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 14344114,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 3638329,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 1114238,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 2228477,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 1437140,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 363833,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 113698,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Armenia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 876184,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 1398873,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 362559,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 169194,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 60426,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 111789,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 30213,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 12085,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Australia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 9677254,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 8149267,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 3055975,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 1018658,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 1782652,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 1527988,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 509329,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 254665,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Austria",
+        "data": [
+            {
+                "label": "O+",
+                "value": 2657835,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 3277996,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 1063134,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 442972,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 531567,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 620161,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 177189,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 39868,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Azerbaijan",
+        "data": [
+            {
+                "label": "O+",
+                "value": 3041331,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 3061743,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 2153426,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 918523,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 336792,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 346998,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 244939,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 102058,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Bahrain",
+        "data": [
+            {
+                "label": "O+",
+                "value": 729625,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 291218,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 340281,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 55234,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 49214,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 20017,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 15652,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 3763,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Bangladesh",
+        "data": [
+            {
+                "label": "O+",
+                "value": 47933265,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 43157989,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 54349529,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 15737077,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 869724,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 787674,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 984593,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 278968,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Belarus",
+        "data": [
+            {
+                "label": "O+",
+                "value": 3049715,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 2889204,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 1444602,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 642045,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 538185,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 509859,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 254930,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 113302,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Belgium",
+        "data": [
+            {
+                "label": "O+",
+                "value": 4453872,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 3985043,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 996261,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 468829,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 820450,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 703243,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 175811,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 117207,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Bhutan",
+        "data": [
+            {
+                "label": "O+",
+                "value": 327107,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 250968,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 204581,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 72109,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 514,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 343,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 343,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 86,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Bolivia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 5998045,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 3427953,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 1176795,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 133859,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 510992,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 317770,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 62856,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 11640,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Bosnia and Herzegovina",
+        "data": [
+            {
+                "label": "O+",
+                "value": 1189032,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 1380811,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 460270,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 230135,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 191779,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 268491,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 76712,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 38356,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Brazil",
+        "data": [
+            {
+                "label": "O+",
+                "value": 76217750,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 71983431,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 16937278,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 5292899,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 19054438,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 16937278,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 4234319,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 1058580,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Bulgaria",
+        "data": [
+            {
+                "label": "O+",
+                "value": 1950732,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 2605620,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 891763,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 473749,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 348345,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 459815,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 153272,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 83603,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Burkina Faso",
+        "data": [
+            {
+                "label": "O+",
+                "value": 8540234,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 4445455,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 5632192,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 1105483,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 718457,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 374197,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 474695,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 91945,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Cambodia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 7904902,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 4604140,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 3131492,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 829422,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 220051,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 135416,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 84635,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 16927,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Cameroon",
+        "data": [
+            {
+                "label": "O+",
+                "value": 12992978,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 6700415,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 5843095,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 1190260,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 496635,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 255254,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 221960,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 44392,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Canada",
+        "data": [
+            {
+                "label": "O+",
+                "value": 14700693,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 13569871,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 2864750,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 942352,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 2638586,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 2261645,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 527717,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 188470,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Chile",
+        "data": [
+            {
+                "label": "O+",
+                "value": 10297349,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 4939527,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 1596798,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 345549,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 598345,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 296444,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 89115,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 23643,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in China",
+        "data": [
+            {
+                "label": "O+",
+                "value": 670990906,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 391411362,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 265600567,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 78282272,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 4193693,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 5591591,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 4193693,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 1397898,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Colombia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 27634765,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 12816052,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 3573376,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 721547,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 2518052,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 1325291,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 343594,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 152163,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Costa Rica",
+        "data": [
+            {
+                "label": "O+",
+                "value": 2533700,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 1452927,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 632151,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 152940,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 173332,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 96862,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 45882,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 10196,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Croatia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 1226046,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 1521989,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 634162,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 211387,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 211387,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 253665,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 126832,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 42277,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Cuba",
+        "data": [
+            {
+                "label": "O+",
+                "value": 5065050,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 3704786,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 1128024,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 320713,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 398126,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 309654,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 110591,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 22118,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Cyprus",
+        "data": [
+            {
+                "label": "O+",
+                "value": 446123,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 511104,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 140728,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 59787,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 48767,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 44080,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 11020,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 5067,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Czech Republic",
+        "data": [
+            {
+                "label": "O+",
+                "value": 2889674,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 3852899,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 1605375,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 749175,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 535125,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 642150,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 321075,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 107025,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Democratic Republic of the Congo",
+        "data": [
+            {
+                "label": "O+",
+                "value": 60559256,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 21679196,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 15470600,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 2442726,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 1017803,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 305341,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 203561,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 101780,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Denmark",
+        "data": [
+            {
+                "label": "O+",
+                "value": 2054294,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 2171682,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 469553,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 234776,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 352165,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 410859,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 117388,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 58694,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Dominican Republic",
+        "data": [
+            {
+                "label": "O+",
+                "value": 4850865,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 2771923,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 1774450,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 325491,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 388489,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 220494,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 146996,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 20999,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Blood types in Ecuador",
+        "data": [
+            {
+                "label": "O+",
+                "value": 12678650,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 2366681,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 1200246,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 84524,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 402336,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 118334,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 50715,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 3381,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in El Salvador",
+        "data": [
+            {
+                "label": "O+",
+                "value": 4018283,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 1490653,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 712921,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 64811,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 64811,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 64811,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 45368,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 19443,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Estonia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 362444,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 378416,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 254325,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 77403,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 52831,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 55288,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 36859,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 11058,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Ethiopia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 42164128,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 30271682,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 22703762,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 5405658,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 3243394,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 2162263,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 1081132,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 1081132,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Fiji",
+        "data": [
+            {
+                "label": "O+",
+                "value": 402469,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 311679,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 154436,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 44927,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 9360,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 6552,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 4680,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 1872,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Finland",
+        "data": [
+            {
+                "label": "O+",
+                "value": 1560066,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 1950083,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 891466,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 390017,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 278583,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 334300,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 111433,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 55717,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in France",
+        "data": [
+            {
+                "label": "O+",
+                "value": 24764577,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 25917996,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 5224308,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 1696204,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 4410130,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 4613675,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 949874,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 271393,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Gabon",
+        "data": [
+            {
+                "label": "O+",
+                "value": 1314967,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 468864,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 392776,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 58037,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 30846,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 10968,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 9368,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 1371,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Georgia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 1716919,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 1593577,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 587107,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 296020,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 305888,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 281219,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 103607,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 49337,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Germany",
+        "data": [
+            {
+                "label": "O+",
+                "value": 28055882,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 29659075,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 7214370,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 3206386,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 4809580,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 4809580,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 1603193,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 801597,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Ghana",
+        "data": [
+            {
+                "label": "O+",
+                "value": 15785053,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 5163884,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 5369265,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 821527,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 1320311,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 381423,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 381423,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 58680,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Greece",
+        "data": [
+            {
+                "label": "O+",
+                "value": 4009465,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 3415470,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 1166776,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 424282,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 700065,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 604602,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 212141,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 74249,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Guinea",
+        "data": [
+            {
+                "label": "O+",
+                "value": 5872864,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 2710938,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 2863773,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 566240,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 250549,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 112747,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 125274,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 25055,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Honduras",
+        "data": [
+            {
+                "label": "O+",
+                "value": 5310320,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 2493542,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 720357,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 230884,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 249354,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 157001,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 55412,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 18471,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Hong Kong",
+        "data": [
+            {
+                "label": "O+",
+                "value": 3008711,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 1894401,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 1837126,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 460369,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 23200,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 12325,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 10150,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 3625,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Hungary",
+        "data": [
+            {
+                "label": "O+",
+                "value": 2638393,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 3224703,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 1563492,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 781746,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 488591,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 684028,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 293155,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 97718,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Iceland",
+        "data": [
+            {
+                "label": "O+",
+                "value": 164144,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 95400,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 31566,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 7015,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 28760,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 16835,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 5612,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 1403,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in India",
+        "data": [
+            {
+                "label": "O+",
+                "value": 375012544,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 345547273,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 428585764,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 196881586,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 27188409,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 18214895,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 26786610,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 6428786,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Indonesia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 98319108,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 69079721,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 77037107,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 21255299,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 480647,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 347134,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 400540,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 106811,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Iran",
+        "data": [
+            {
+                "label": "O+",
+                "value": 28449310,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 22929295,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 18852976,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 5944632,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 3396933,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 2547699,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 2123083,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 679387,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Iraq",
+        "data": [
+            {
+                "label": "O+",
+                "value": 9912527,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 9718164,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 12672486,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 2876576,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 1399416,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 1049562,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 1049562,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 349854,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Ireland",
+        "data": [
+            {
+                "label": "O+",
+                "value": 2432987,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 1345908,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 465891,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 103531,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 414126,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 258828,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 103531,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 51766,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Israel",
+        "data": [
+            {
+                "label": "O+",
+                "value": 2776152,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 2949662,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 1474831,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 607283,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 260264,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 347019,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 173510,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 86755,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Italy",
+        "data": [
+            {
+                "label": "O+",
+                "value": 24337037,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 22464957,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 4680199,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 1560066,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 4368186,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 3744160,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 936040,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 312013,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Ivory Coast",
+        "data": [
+            {
+                "label": "O+",
+                "value": 13268986,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 5671059,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 6095195,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 1072979,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 1047699,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 432562,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 415709,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 84265,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Jamaica",
+        "data": [
+            {
+                "label": "O+",
+                "value": 1320028,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 645971,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 561714,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 84257,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 98300,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 56171,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 28086,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 14043,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Japan",
+        "data": [
+            {
+                "label": "O+",
+                "value": 37526734,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 49951974,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 24975987,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 12425240,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 188261,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 251015,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 125507,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 62754,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Jordan",
+        "data": [
+            {
+                "label": "O+",
+                "value": 3603430,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 3584884,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 1806624,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 685121,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 480021,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 433110,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 224737,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 91640,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Kazakhstan",
+        "data": [
+            {
+                "label": "O+",
+                "value": 5861228,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 5689401,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 4620252,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 1584632,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 439115,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 420023,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 343655,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 133644,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Kenya",
+        "data": [
+            {
+                "label": "O+",
+                "value": 24408739,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 13489040,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 11390745,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 2248173,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 963503,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 535279,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 481751,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 10706,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Laos",
+        "data": [
+            {
+                "label": "O+",
+                "value": 2841898,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 1494420,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 2678292,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 518843,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 15149,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 7574,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 15149,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 3787,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Latvia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 575657,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 583182,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 319809,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 112874,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 101587,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 112874,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 56437,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 18812,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Blood types in Lebanon",
+        "data": [
+            {
+                "label": "O+",
+                "value": 2100331,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 1766685,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 519613,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 175028,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 421160,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 355525,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 92983,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 38287,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Libya",
+        "data": [
+            {
+                "label": "O+",
+                "value": 2938124,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 1988608,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 771051,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 310074,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 431347,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 292159,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 113005,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 46167,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Liechtenstein",
+        "data": [
+            {
+                "label": "O+",
+                "value": 13307,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 14481,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 3914,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 1565,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 2348,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 2544,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 704,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 274,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Lithuania",
+        "data": [
+            {
+                "label": "O+",
+                "value": 983327,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 901383,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 300461,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 109259,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 191202,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 163888,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 54629,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 27315,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Luxemburg",
+        "data": [
+            {
+                "label": "O+",
+                "value": 219933,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 232501,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 56554,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 25135,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 37703,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 37703,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 12568,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 6284,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Macao",
+        "data": [
+            {
+                "label": "O+",
+                "value": 255000,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 160374,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 156072,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 38711,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 2028,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 1045,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 922,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 307,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Malaysia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 11206195,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 9909907,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 8936875,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 2435845,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 55509,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 48978,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 45713,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 13061,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Malta",
+        "data": [
+            {
+                "label": "O+",
+                "value": 173761,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 187479,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 32009,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 13718,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 22863,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 20577,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 4573,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 2286,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Mauritania",
+        "data": [
+            {
+                "label": "O+",
+                "value": 1854535,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 1068661,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 699756,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 154211,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 112153,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 64088,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 44060,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 8011,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Mauritius",
+        "data": [
+            {
+                "label": "O+",
+                "value": 528297,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 358635,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 344841,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 92417,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 23449,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 13794,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 13794,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 4138,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Mexico",
+        "data": [
+            {
+                "label": "O+",
+                "value": 76019028,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 33744781,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 10973808,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 2225637,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 3512133,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 1556660,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 514598,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 102920,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Moldova",
+        "data": [
+            {
+                "label": "O+",
+                "value": 958881,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 1069910,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 592151,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 235515,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 168225,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 201870,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 100935,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 37009,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Mongolia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 1229982,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 732231,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 957435,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 250475,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 11196,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 6718,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 8637,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 2239,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Morocco",
+        "data": [
+            {
+                "label": "O+",
+                "value": 15042580,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 14509155,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 4978632,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 1422466,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 1600274,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 1102411,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 533425,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 142247,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Myanmar",
+        "data": [
+            {
+                "label": "O+",
+                "value": 20202655,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 13468437,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 18504953,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 3933010,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 169770,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 113180,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 169770,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 28295,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Namibia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 1354629,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 548761,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 541262,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 27318,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 113020,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 45797,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 45261,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 2143,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Nepal",
+        "data": [
+            {
+                "label": "O+",
+                "value": 10675413,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 11009019,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 8218855,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 788525,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 90984,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 60656,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 60656,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 30328,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Netherlands",
+        "data": [
+            {
+                "label": "O+",
+                "value": 6601112,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 6324625,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 1330591,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 432010,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 1175067,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 1105945,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 224645,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 86402,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in New Zealand",
+        "data": [
+            {
+                "label": "O+",
+                "value": 1871681,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 1576153,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 443293,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 147764,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 443293,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 295529,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 98510,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 49255,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Nicaragua",
+        "data": [
+            {
+                "label": "O+",
+                "value": 3871237,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 1248786,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 686832,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 249757,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 62439,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 62439,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 43708,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 18732,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Nigeria",
+        "data": [
+            {
+                "label": "O+",
+                "value": 110236698,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 47426141,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 42992971,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 7615396,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 5925524,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 2545781,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 2304371,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 416981,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in North Korea",
+        "data": [
+            {
+                "label": "O+",
+                "value": 6962201,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 7969989,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 7731505,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 2902840,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 20515,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 25643,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 25643,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 7693,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in North Macedonia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 637791,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 722830,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 318896,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 127558,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 106299,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 127558,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 63779,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 21260,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Norway",
+        "data": [
+            {
+                "label": "O+",
+                "value": 1815190,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 2274455,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 371786,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 185893,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 317111,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 404590,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 65609,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 32805,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Pakistan",
+        "data": [
+            {
+                "label": "O+",
+                "value": 71549583,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 51280377,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 72025945,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 21031385,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 7383612,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 5287619,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 7455066,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 2167447,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Papua New Guinea",
+        "data": [
+            {
+                "label": "O+",
+                "value": 3484539,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 2700518,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 696908,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 203265,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 72595,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 58076,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 29038,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 14519,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Paraguay",
+        "data": [
+            {
+                "label": "O+",
+                "value": 4077769,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 2059611,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 343269,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 100362,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 428358,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 215997,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 35636,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 10909,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Peru",
+        "data": [
+            {
+                "label": "O+",
+                "value": 22340492,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 5872358,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 2489369,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 510640,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 446810,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 159575,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 89362,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 6383,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Philippines",
+        "data": [
+            {
+                "label": "O+",
+                "value": 50113994,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 25002407,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 27186023,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 6518095,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 109181,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 109181,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 109181,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 32754,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Poland",
+        "data": [
+            {
+                "label": "O+",
+                "value": 11867521,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 12250344,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 5742349,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 2679763,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 2296940,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 2296940,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 765646,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 382823,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Portugal",
+        "data": [
+            {
+                "label": "O+",
+                "value": 3729568,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 4100464,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 679976,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 298778,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 628463,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 700582,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 113329,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 51513,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Romania",
+        "data": [
+            {
+                "label": "O+",
+                "value": 5944501,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 7855234,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 2972251,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 1486125,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 1061518,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 1273822,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 424607,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 212304,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Russia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 66919925,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 45098210,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 13093029,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 3055040,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 8728686,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 5819124,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 1454781,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 1309303,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Saudi Arabia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 16334932,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 8167466,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 5809495,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 1366940,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 1366940,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 683470,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 341735,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 102520,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Serbia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 2238283,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 2473892,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 883533,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 294511,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 426340,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 471217,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 168292,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 56097,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Singapore",
+        "data": [
+            {
+                "label": "O+",
+                "value": 2775718,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 1484109,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 1521367,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 347741,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 37258,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 18629,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 18629,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 6210,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Slovakia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 1479844,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 1942295,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 832412,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 369961,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 261149,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 342758,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 146896,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 65287,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Slovenia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 651830,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 693884,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 252321,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 126161,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 147187,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 147187,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 63080,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 21027,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Somalia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 6385970,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 2341522,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 1490060,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 425731,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 870814,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 319298,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 203190,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 58054,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in South Africa",
+        "data": [
+            {
+                "label": "O+",
+                "value": 22020811,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 18068357,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 6775634,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 1693909,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 3387817,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 2823181,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 1129272,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 564636,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in South Korea",
+        "data": [
+            {
+                "label": "O+",
+                "value": 13891809,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 17831278,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 13995480,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 7464256,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 51835,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 51835,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 51835,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 51835,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Sri Lanka",
+        "data": [
+            {
+                "label": "O+",
+                "value": 10005758,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 4839266,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 5940775,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 1182164,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 488535,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 239659,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 288052,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 59915,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Spain",
+        "data": [
+            {
+                "label": "O+",
+                "value": 17505527,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 18005685,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 4001263,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 1250395,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 4501421,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 3501105,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 1000316,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 250079,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Sudan",
+        "data": [
+            {
+                "label": "O+",
+                "value": 21869547,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 12620551,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 6925357,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 1275724,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 1594654,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 820108,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 364492,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 91123,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Sweden",
+        "data": [
+            {
+                "label": "O+",
+                "value": 3264797,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 3774922,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 1020249,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 510125,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 612149,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 714174,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 204050,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 102025,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Switzerland",
+        "data": [
+            {
+                "label": "O+",
+                "value": 2941398,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 3193518,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 672320,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 336160,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 504240,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 588280,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 84040,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 84040,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Syria",
+        "data": [
+            {
+                "label": "O+",
+                "value": 8341333,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 5819534,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 2715783,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 717743,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 969922,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 581953,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 193984,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 58195,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Taiwan",
+        "data": [
+            {
+                "label": "O+",
+                "value": 10361739,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 6113190,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 5641129,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 1416183,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 40125,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 23603,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 2360,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 4721,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Thailand",
+        "data": [
+            {
+                "label": "O+",
+                "value": 28142779,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 11657181,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 25383683,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 3428177,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 137955,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 68977,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 137955,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 20693,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Tunisia",
+        "data": [
+            {
+                "label": "O+",
+                "value": 4944225,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 3331978,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 1934697,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 537416,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 488989,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 329536,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 191344,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 53151,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Turkey",
+        "data": [
+            {
+                "label": "O+",
+                "value": 24441219,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 31002620,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 11646487,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 5905261,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 3198683,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 3854823,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 1312280,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 656140,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Uganda",
+        "data": [
+            {
+                "label": "O+",
+                "value": 22038615,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 10780098,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 9072094,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 1971806,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 451593,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 219090,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 183320,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 40241,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Ukraine",
+        "data": [
+            {
+                "label": "O+",
+                "value": 14055340,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 14933799,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 6588441,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 2196147,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 2196147,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 2635376,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 878459,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 439229,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in United Arab Emirates",
+        "data": [
+            {
+                "label": "O+",
+                "value": 4406509,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 2188266,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 2088345,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 429660,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 429660,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 209834,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 199842,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 39968,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in United Kingdom",
+        "data": [
+            {
+                "label": "O+",
+                "value": 23016391,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 19728335,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 5918501,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 1315222,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 8548945,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 5260889,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 1315222,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 657611,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in United States",
+        "data": [
+            {
+                "label": "O+",
+                "value": 125289401,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 119594428,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 28474864,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 11389946,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 22109894,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 21104899,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 5024976,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 2009990,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Uzbekistan",
+        "data": [
+            {
+                "label": "O+",
+                "value": 9073951,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 9539677,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 7704530,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 2859127,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 518159,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 545917,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 437968,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 163467,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Venezuela",
+        "data": [
+            {
+                "label": "O+",
+                "value": 16699804,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 8077778,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 1604098,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 544247,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 1059850,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 515603,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 114578,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 28645,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Vietnam",
+        "data": [
+            {
+                "label": "O+",
+                "value": 41166772,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 21619959,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 30406153,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 4916319,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 296164,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 98721,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 197443,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 19744,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Yemen",
+        "data": [
+            {
+                "label": "O+",
+                "value": 14296699,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 8218211,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 4578291,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 639526,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 1093769,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 627573,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 349648,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 47815,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in Zimbabwe",
+        "data": [
+            {
+                "label": "O+",
+                "value": 9207817,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 2691068,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 2123762,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 144009,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 247287,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 72732,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 58185,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 1455,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Blood types in World",
+        "data": [
+            {
+                "label": "O+",
+                "value": 2904714346,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A+",
+                "value": 2117324559,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B+",
+                "value": 1774541839,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB+",
+                "value": 483471320,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "O-",
+                "value": 209089687,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "A-",
+                "value": 162452582,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "B-",
+                "value": 90165069,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "AB-",
+                "value": 31091403,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    }
+]
