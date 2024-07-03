@@ -1,15 +1,17 @@
 import json
 from itertools import cycle
-from common.balancer import charts_statistics, convert_charts_to_json, \
-    convert_json_to_chart_objects, create_summary_label
+
+from common.balancer import create_summary_label, charts_statistics
+from common.utils import convert_charts_to_json, \
+    convert_json_to_chart_objects
 
 
-def main():
-    with open("output.json", "r") as r:
+def balance():
+    with open("Bloodtypes/output.json", "r") as r:
         chart_jsons = json.loads(r.read())
         charts = convert_json_to_chart_objects(chart_jsons=chart_jsons)
 
-        cycled_chart_types = cycle(["bar", "line", "pie"])
+        cycled_chart_types = cycle(["bar", "pie"])
 
         modified_charts = []
 
@@ -30,9 +32,9 @@ def main():
         charts_statistics(charts=modified_charts)
         modified_charts_json = convert_charts_to_json(charts=modified_charts)
 
-        with open("balanced_output.json", "w") as f:
+        with open("Bloodtypes/balanced_output.json", "w") as f:
             json.dump(modified_charts_json, f, indent=4, ensure_ascii=False)
 
 
 if __name__ == "__main__":
-    main()
+    balance()

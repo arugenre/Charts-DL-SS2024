@@ -3,17 +3,14 @@ import random
 from typing import List
 from itertools import cycle
 
+from common.utils import shuffle_data
 
-def shuffle_data(labels_length: int, full_data: list):
-    data = []
-
-    for i in range(labels_length):
-        data.append(full_data[random.randint(0, len(full_data)-1)])
-
-    return data
+COMPLEXITY_MIN = 13
+COMPLEXITY_MAX = 13
+QUANTITY_PER_COMPLEXITY = 50
 
 
-categories_titles = [
+CATEGORY_PROBLEMS_TITLE_SAMPLES = [
     "Number of problems across different categories in Leetcode",
     "Problem distribution by category in Leetcode",
     "Tally of problems per category on Leetcode",
@@ -46,7 +43,7 @@ categories_titles = [
     "Problem count per Leetcode category",
 ]
 
-companies_titles = [
+COMPANY_PROBLEMS_TITLE_SAMPLES = [
     "Number of problems across different companies in Leetcode",
     "Problem distribution by company in Leetcode",
     "Tally of problems per company on Leetcode",
@@ -81,53 +78,60 @@ companies_titles = [
 
 
 def balance():
-    cycled_chart_types = cycle(["bar", "line", "pie"])
+    cycled_chart_types = cycle(["bar", "pie"])
 
-    categories_full_data = []
-    companies_full_data = []
+    output_data = []
 
-    with open("leetcode_categories.json", "r") as f:
-        categories_full_data = json.loads(f.read())
+    with open("Leetcode/balanced_output.json", "r") as f:
+        output_data = json.loads(f.read())
 
-    with open("leetcode_companies.json", "r") as f:
-        companies_full_data = json.loads(f.read())
+    category_problems = []
+    company_problems = []
 
-    categories_data = []
-    companies_data = []
+    with open("Leetcode/leetcode_categories.json", "r") as f:
+        category_problems = json.loads(f.read())
 
-    for i in range(2, 11):
-        for j in range(12):
-            categories_data.append({
+    with open("Leetcode/leetcode_companies.json", "r") as f:
+        company_problems = json.loads(f.read())
+
+    for i in range(COMPLEXITY_MIN, COMPLEXITY_MAX + 1):
+        for j in range(QUANTITY_PER_COMPLEXITY // 2):
+
+            shuffled_category_problems = shuffle_data(
+                labels_length=i,
+                full_data=category_problems
+            )
+            output_data.append({
                 "chart_type": next(cycled_chart_types),
-                "chart_title": categories_titles[
-                    random.randint(0, len(categories_titles)-1)
-                ],
+                "chart_title": CATEGORY_PROBLEMS_TITLE_SAMPLES[random.randint(0, len(CATEGORY_PROBLEMS_TITLE_SAMPLES)-1)],
                 "data": [
                     {
-                        "label": label["label"],
-                        "value": int(label["value"]),
+                        "label": problem["label"],
+                        "value": problem["value"],
                         "color": "rgba(255, 99, 132, 0.2)"
-                    } for label in shuffle_data(labels_length=i, full_data=categories_full_data)
+                    } for problem in shuffled_category_problems
                 ]
             })
 
-            companies_data.append({
+            shuffled_company_problems = shuffle_data(
+                labels_length=i,
+                full_data=company_problems
+            )
+            output_data.append({
                 "chart_type": next(cycled_chart_types),
-                "chart_title": companies_titles[
-                    random.randint(0, len(companies_titles) - 1)
-                ],
+                "chart_title": COMPANY_PROBLEMS_TITLE_SAMPLES[random.randint(0,
+                                                                              len(COMPANY_PROBLEMS_TITLE_SAMPLES) - 1)],
                 "data": [
                     {
-                        "label": label["label"],
-                        "value": int(label["value"]),
+                        "label": problem["label"],
+                        "value": problem["value"],
                         "color": "rgba(255, 99, 132, 0.2)"
-                    } for label in shuffle_data(labels_length=i,
-                                                full_data=companies_full_data)
+                    } for problem in shuffled_company_problems
                 ]
             })
 
-    with open("balanced_output.json", "w") as f:
-        json.dump(companies_data + categories_data, f, indent=4, ensure_ascii=False)
+    with open("Leetcode/balanced_output.json", "w") as f:
+        json.dump(output_data, f, indent=4, ensure_ascii=False)
 
 
 if __name__ == "__main__":

@@ -4,127 +4,127 @@
         "chart_title": "New cases in 2020",
         "data": [
             {
-                "label": "Leukaemia",
-                "value": 48419.0,
-                "color": "rgba(255, 99, 132, 0.2)"
-            },
-            {
-                "label": "Others",
-                "value": 1139969.0,
-                "color": "rgba(255, 99, 132, 0.2)"
-            }
-        ]
-    },
-    {
-        "chart_type": "line",
-        "chart_title": "New cases rank in 2020",
-        "data": [
-            {
                 "label": "Anus",
-                "value": 30.0,
-                "color": "rgba(255, 99, 132, 0.2)"
-            },
-            {
-                "label": "Bladder",
-                "value": 17.0,
+                "value": 5452,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
                 "label": "Others",
-                "value": 583.0,
+                "value": 1182936,
                 "color": "rgba(255, 99, 132, 0.2)"
             }
         ]
     },
     {
         "chart_type": "pie",
-        "chart_title": "New cases percent in 2020",
+        "chart_title": "New cases rank in 2020",
         "data": [
             {
-                "label": "Mesothelioma",
-                "value": 0.13,
+                "label": "Anus",
+                "value": 30,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
-                "label": "Non-Hodgkin lymphoma",
-                "value": 2.7,
-                "color": "rgba(255, 99, 132, 0.2)"
-            },
-            {
-                "label": "Oesophagus",
-                "value": 4.8,
+                "label": "Bladder",
+                "value": 17,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
                 "label": "Others",
-                "value": 82.32,
+                "value": 583,
                 "color": "rgba(255, 99, 132, 0.2)"
             }
         ]
     },
     {
         "chart_type": "bar",
-        "chart_title": "Deaths number in 2020",
+        "chart_title": "New cases percent in 2020",
         "data": [
             {
-                "label": "Melanoma of skin",
-                "value": 2296.0,
-                "color": "rgba(255, 99, 132, 0.2)"
-            },
-            {
-                "label": "Mesothelioma",
-                "value": 1543.0,
-                "color": "rgba(255, 99, 132, 0.2)"
-            },
-            {
-                "label": "Hodgkin lymphoma",
-                "value": 3513.0,
+                "label": "Anus",
+                "value": 0.41,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
                 "label": "Bladder",
-                "value": 11154.0,
+                "value": 1.6,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Brain, central nervous system",
+                "value": 2.4,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
                 "label": "Others",
-                "value": 750347.0,
+                "value": 85.53999999999999,
                 "color": "rgba(255, 99, 132, 0.2)"
             }
         ]
     },
     {
-        "chart_type": "line",
-        "chart_title": "Deaths rank in 2020",
+        "chart_type": "pie",
+        "chart_title": "Deaths number in 2020",
         "data": [
             {
-                "label": "Hodgkin lymphoma",
-                "value": 28.0,
+                "label": "Anus",
+                "value": 2776,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
-                "label": "Rectum",
-                "value": 15.0,
-                "color": "rgba(255, 99, 132, 0.2)"
-            },
-            {
-                "label": "Kaposi sarcoma",
-                "value": 35.0,
-                "color": "rgba(255, 99, 132, 0.2)"
-            },
-            {
-                "label": "Gallbladder",
-                "value": 16.0,
+                "label": "Bladder",
+                "value": 11154,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
                 "label": "Brain, central nervous system",
-                "value": 10.0,
+                "value": 26656,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Breast",
+                "value": 90408,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
                 "label": "Others",
-                "value": 526.0,
+                "value": 637859,
+                "color": "rgba(255, 99, 132, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Deaths rank in 2020",
+        "data": [
+            {
+                "label": "Anus",
+                "value": 29,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Bladder",
+                "value": 21,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Brain, central nervous system",
+                "value": 10,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Breast",
+                "value": 1,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Cervix uteri",
+                "value": 2,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Others",
+                "value": 567,
                 "color": "rgba(255, 99, 132, 0.2)"
             }
         ]
@@ -134,28 +134,8 @@
         "chart_title": "Deaths percent in 2020",
         "data": [
             {
-                "label": "Nasopharynx",
-                "value": 0.49,
-                "color": "rgba(255, 99, 132, 0.2)"
-            },
-            {
-                "label": "Gallbladder",
-                "value": 1.7,
-                "color": "rgba(255, 99, 132, 0.2)"
-            },
-            {
-                "label": "Mesothelioma",
-                "value": 0.18,
-                "color": "rgba(255, 99, 132, 0.2)"
-            },
-            {
-                "label": "Larynx",
-                "value": 2.5,
-                "color": "rgba(255, 99, 132, 0.2)"
-            },
-            {
-                "label": "Multiple myeloma",
-                "value": 1.5,
+                "label": "Anus",
+                "value": 0.33,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
@@ -164,8 +144,28 @@
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
+                "label": "Brain, central nervous system",
+                "value": 3.1,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Breast",
+                "value": 10.6,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Cervix uteri",
+                "value": 9.1,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
+                "label": "Colon",
+                "value": 2.3,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
                 "label": "Others",
-                "value": 82.77000000000001,
+                "value": 63.71,
                 "color": "rgba(255, 99, 132, 0.2)"
             }
         ]
@@ -175,54 +175,54 @@
         "chart_title": "Risk of prevalence in 2020",
         "data": [
             {
+                "label": "Anus",
+                "value": 12278,
+                "color": "rgba(255, 99, 132, 0.2)"
+            },
+            {
                 "label": "Bladder",
-                "value": 49257.0,
+                "value": 49257,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
-                "label": "Liver",
-                "value": 38602.0,
+                "label": "Brain, central nervous system",
+                "value": 74398,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
-                "label": "Thyroid",
-                "value": 55248.0,
+                "label": "Breast",
+                "value": 459271,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
-                "label": "Kidney",
-                "value": 39150.0,
+                "label": "Cervix uteri",
+                "value": 283842,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
-                "label": "Salivary glands",
-                "value": 20448.0,
+                "label": "Colon",
+                "value": 65493,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
-                "label": "Lip, oral cavity",
-                "value": 300413.0,
-                "color": "rgba(255, 99, 132, 0.2)"
-            },
-            {
-                "label": "Oropharynx",
-                "value": 44398.0,
+                "label": "Corpus uteri",
+                "value": 43484,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
                 "label": "Others",
-                "value": 1922695.0,
+                "value": 1482188,
                 "color": "rgba(255, 99, 132, 0.2)"
             }
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "pie",
         "chart_title": "Risk of prevalence per 100K",
         "data": [
             {
-                "label": "Hodgkin lymphoma",
-                "value": 1.81,
+                "label": "Anus",
+                "value": 0.89,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
@@ -231,38 +231,38 @@
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
-                "label": "Kaposi sarcoma",
-                "value": 0.01,
+                "label": "Brain, central nervous system",
+                "value": 5.39,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
-                "label": "Anus",
-                "value": 0.89,
+                "label": "Breast",
+                "value": 69.28,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
-                "label": "Vulva",
-                "value": 1.35,
+                "label": "Cervix uteri",
+                "value": 42.82,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
-                "label": "Lip, oral cavity",
-                "value": 21.77,
+                "label": "Colon",
+                "value": 4.75,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
-                "label": "Prostate",
-                "value": 9.47,
+                "label": "Corpus uteri",
+                "value": 6.56,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
-                "label": "Kidney",
-                "value": 2.84,
+                "label": "Gallbladder",
+                "value": 1.82,
                 "color": "rgba(255, 99, 132, 0.2)"
             },
             {
                 "label": "Others",
-                "value": 216.07,
+                "value": 122.69999999999999,
                 "color": "rgba(255, 99, 132, 0.2)"
             }
         ]

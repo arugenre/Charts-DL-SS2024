@@ -16,7 +16,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "pie",
         "chart_title": "Blood types in Algeria",
         "data": [
             {
@@ -32,7 +32,7 @@
         ]
     },
     {
-        "chart_type": "pie",
+        "chart_type": "bar",
         "chart_title": "Blood types in Argentina",
         "data": [
             {
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "chart_type": "bar",
+        "chart_type": "pie",
         "chart_title": "Blood types in Armenia",
         "data": [
             {
@@ -64,7 +64,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "bar",
         "chart_title": "Blood types in Australia",
         "data": [
             {
@@ -112,7 +112,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "pie",
         "chart_title": "Blood types in Bahrain",
         "data": [
             {
@@ -128,7 +128,7 @@
         ]
     },
     {
-        "chart_type": "pie",
+        "chart_type": "bar",
         "chart_title": "Blood types in Bangladesh",
         "data": [
             {
@@ -144,7 +144,7 @@
         ]
     },
     {
-        "chart_type": "bar",
+        "chart_type": "pie",
         "chart_title": "Blood types in Belarus",
         "data": [
             {
@@ -160,7 +160,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "bar",
         "chart_title": "Blood types in Belgium",
         "data": [
             {
@@ -208,7 +208,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "pie",
         "chart_title": "Blood types in Bosnia and Herzegovina",
         "data": [
             {
@@ -224,7 +224,7 @@
         ]
     },
     {
-        "chart_type": "pie",
+        "chart_type": "bar",
         "chart_title": "Blood types in Brazil",
         "data": [
             {
@@ -240,7 +240,7 @@
         ]
     },
     {
-        "chart_type": "bar",
+        "chart_type": "pie",
         "chart_title": "Blood types in Bulgaria",
         "data": [
             {
@@ -256,7 +256,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "bar",
         "chart_title": "Blood types in Burkina Faso",
         "data": [
             {
@@ -314,7 +314,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "pie",
         "chart_title": "Blood types in Canada",
         "data": [
             {
@@ -335,7 +335,7 @@
         ]
     },
     {
-        "chart_type": "pie",
+        "chart_type": "bar",
         "chart_title": "Blood types in Chile",
         "data": [
             {
@@ -356,7 +356,7 @@
         ]
     },
     {
-        "chart_type": "bar",
+        "chart_type": "pie",
         "chart_title": "Blood types in China",
         "data": [
             {
@@ -377,7 +377,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "bar",
         "chart_title": "Blood types in Colombia",
         "data": [
             {
@@ -440,7 +440,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "pie",
         "chart_title": "Blood types in Cuba",
         "data": [
             {
@@ -461,7 +461,7 @@
         ]
     },
     {
-        "chart_type": "pie",
+        "chart_type": "bar",
         "chart_title": "Blood types in Cyprus",
         "data": [
             {
@@ -482,7 +482,7 @@
         ]
     },
     {
-        "chart_type": "bar",
+        "chart_type": "pie",
         "chart_title": "Blood types in Czech Republic",
         "data": [
             {
@@ -503,7 +503,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "bar",
         "chart_title": "Blood types in Democratic Republic of the Congo",
         "data": [
             {
@@ -566,7 +566,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "pie",
         "chart_title": "Blood types in Ecuador",
         "data": [
             {
@@ -587,7 +587,7 @@
         ]
     },
     {
-        "chart_type": "pie",
+        "chart_type": "bar",
         "chart_title": "Blood types in El Salvador",
         "data": [
             {
@@ -608,7 +608,7 @@
         ]
     },
     {
-        "chart_type": "bar",
+        "chart_type": "pie",
         "chart_title": "Blood types in Estonia",
         "data": [
             {
@@ -629,7 +629,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "bar",
         "chart_title": "Blood types in Ethiopia",
         "data": [
             {
@@ -707,7 +707,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "pie",
         "chart_title": "Blood types in France",
         "data": [
             {
@@ -733,7 +733,7 @@
         ]
     },
     {
-        "chart_type": "pie",
+        "chart_type": "bar",
         "chart_title": "Blood types in Gabon",
         "data": [
             {
@@ -759,7 +759,7 @@
         ]
     },
     {
-        "chart_type": "bar",
+        "chart_type": "pie",
         "chart_title": "Blood types in Georgia",
         "data": [
             {
@@ -785,7 +785,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "bar",
         "chart_title": "Blood types in Germany",
         "data": [
             {
@@ -863,7 +863,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "pie",
         "chart_title": "Blood types in Guinea",
         "data": [
             {
@@ -889,7 +889,7 @@
         ]
     },
     {
-        "chart_type": "pie",
+        "chart_type": "bar",
         "chart_title": "Blood types in Honduras",
         "data": [
             {
@@ -915,7 +915,7 @@
         ]
     },
     {
-        "chart_type": "bar",
+        "chart_type": "pie",
         "chart_title": "Blood types in Hong Kong",
         "data": [
             {
@@ -941,7 +941,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "bar",
         "chart_title": "Blood types in Hungary",
         "data": [
             {
@@ -1019,7 +1019,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "pie",
         "chart_title": "Blood types in Indonesia",
         "data": [
             {
@@ -1045,7 +1045,7 @@
         ]
     },
     {
-        "chart_type": "pie",
+        "chart_type": "bar",
         "chart_title": "Blood types in Iran",
         "data": [
             {
@@ -1071,7 +1071,7 @@
         ]
     },
     {
-        "chart_type": "bar",
+        "chart_type": "pie",
         "chart_title": "Blood types in Iraq",
         "data": [
             {
@@ -1102,7 +1102,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "bar",
         "chart_title": "Blood types in Ireland",
         "data": [
             {
@@ -1195,7 +1195,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "pie",
         "chart_title": "Blood types in Ivory Coast",
         "data": [
             {
@@ -1226,7 +1226,7 @@
         ]
     },
     {
-        "chart_type": "pie",
+        "chart_type": "bar",
         "chart_title": "Blood types in Jamaica",
         "data": [
             {
@@ -1257,7 +1257,7 @@
         ]
     },
     {
-        "chart_type": "bar",
+        "chart_type": "pie",
         "chart_title": "Blood types in Japan",
         "data": [
             {
@@ -1288,7 +1288,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "bar",
         "chart_title": "Blood types in Jordan",
         "data": [
             {
@@ -1381,7 +1381,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "pie",
         "chart_title": "Blood types in Laos",
         "data": [
             {
@@ -1412,7 +1412,7 @@
         ]
     },
     {
-        "chart_type": "pie",
+        "chart_type": "bar",
         "chart_title": "Blood types in Latvia",
         "data": [
             {
@@ -1443,7 +1443,7 @@
         ]
     },
     {
-        "chart_type": "bar",
+        "chart_type": "pie",
         "chart_title": "Blood types in Lebanon",
         "data": [
             {
@@ -1474,7 +1474,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "bar",
         "chart_title": "Blood types in Libya",
         "data": [
             {
@@ -1567,7 +1567,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "pie",
         "chart_title": "Blood types in Luxemburg",
         "data": [
             {
@@ -1598,7 +1598,7 @@
         ]
     },
     {
-        "chart_type": "pie",
+        "chart_type": "bar",
         "chart_title": "Blood types in Macao",
         "data": [
             {
@@ -1634,7 +1634,7 @@
         ]
     },
     {
-        "chart_type": "bar",
+        "chart_type": "pie",
         "chart_title": "Blood types in Malaysia",
         "data": [
             {
@@ -1670,7 +1670,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "bar",
         "chart_title": "Blood types in Malta",
         "data": [
             {
@@ -1778,7 +1778,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "pie",
         "chart_title": "Blood types in Mexico",
         "data": [
             {
@@ -1814,7 +1814,7 @@
         ]
     },
     {
-        "chart_type": "pie",
+        "chart_type": "bar",
         "chart_title": "Blood types in Moldova",
         "data": [
             {
@@ -1850,7 +1850,7 @@
         ]
     },
     {
-        "chart_type": "bar",
+        "chart_type": "pie",
         "chart_title": "Blood types in Mongolia",
         "data": [
             {
@@ -1886,7 +1886,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "bar",
         "chart_title": "Blood types in Morocco",
         "data": [
             {
@@ -1994,7 +1994,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "pie",
         "chart_title": "Blood types in Nepal",
         "data": [
             {
@@ -2030,7 +2030,7 @@
         ]
     },
     {
-        "chart_type": "pie",
+        "chart_type": "bar",
         "chart_title": "Blood types in Netherlands",
         "data": [
             {
@@ -2066,7 +2066,7 @@
         ]
     },
     {
-        "chart_type": "bar",
+        "chart_type": "pie",
         "chart_title": "Blood types in New Zealand",
         "data": [
             {
@@ -2102,7 +2102,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "bar",
         "chart_title": "Blood types in Nicaragua",
         "data": [
             {
@@ -2210,7 +2210,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "pie",
         "chart_title": "Blood types in North Macedonia",
         "data": [
             {
@@ -2251,7 +2251,7 @@
         ]
     },
     {
-        "chart_type": "pie",
+        "chart_type": "bar",
         "chart_title": "Blood types in Norway",
         "data": [
             {
@@ -2292,7 +2292,7 @@
         ]
     },
     {
-        "chart_type": "bar",
+        "chart_type": "pie",
         "chart_title": "Blood types in Pakistan",
         "data": [
             {
@@ -2333,7 +2333,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "bar",
         "chart_title": "Blood types in Papua New Guinea",
         "data": [
             {
@@ -2456,7 +2456,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "pie",
         "chart_title": "Blood types in Philippines",
         "data": [
             {
@@ -2497,7 +2497,7 @@
         ]
     },
     {
-        "chart_type": "pie",
+        "chart_type": "bar",
         "chart_title": "Blood types in Poland",
         "data": [
             {
@@ -2538,7 +2538,7 @@
         ]
     },
     {
-        "chart_type": "bar",
+        "chart_type": "pie",
         "chart_title": "Blood types in Portugal",
         "data": [
             {
@@ -2579,7 +2579,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "bar",
         "chart_title": "Blood types in Romania",
         "data": [
             {
@@ -2702,7 +2702,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "pie",
         "chart_title": "Blood types in Serbia",
         "data": [
             {
@@ -2743,7 +2743,7 @@
         ]
     },
     {
-        "chart_type": "pie",
+        "chart_type": "bar",
         "chart_title": "Blood types in Singapore",
         "data": [
             {
@@ -2784,7 +2784,7 @@
         ]
     },
     {
-        "chart_type": "bar",
+        "chart_type": "pie",
         "chart_title": "Blood types in Slovakia",
         "data": [
             {
@@ -2825,7 +2825,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "bar",
         "chart_title": "Blood types in Slovenia",
         "data": [
             {
@@ -2953,7 +2953,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "pie",
         "chart_title": "Blood types in South Korea",
         "data": [
             {
@@ -2999,7 +2999,7 @@
         ]
     },
     {
-        "chart_type": "pie",
+        "chart_type": "bar",
         "chart_title": "Blood types in Sri Lanka",
         "data": [
             {
@@ -3045,7 +3045,7 @@
         ]
     },
     {
-        "chart_type": "bar",
+        "chart_type": "pie",
         "chart_title": "Blood types in Spain",
         "data": [
             {
@@ -3091,7 +3091,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "bar",
         "chart_title": "Blood types in Sudan",
         "data": [
             {
@@ -3229,7 +3229,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "pie",
         "chart_title": "Blood types in Syria",
         "data": [
             {
@@ -3275,7 +3275,7 @@
         ]
     },
     {
-        "chart_type": "pie",
+        "chart_type": "bar",
         "chart_title": "Blood types in Taiwan",
         "data": [
             {
@@ -3321,7 +3321,7 @@
         ]
     },
     {
-        "chart_type": "bar",
+        "chart_type": "pie",
         "chart_title": "Blood types in Thailand",
         "data": [
             {
@@ -3367,7 +3367,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "bar",
         "chart_title": "Blood types in Tunisia",
         "data": [
             {
@@ -3505,7 +3505,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "pie",
         "chart_title": "Blood types in Ukraine",
         "data": [
             {
@@ -3551,7 +3551,7 @@
         ]
     },
     {
-        "chart_type": "pie",
+        "chart_type": "bar",
         "chart_title": "Blood types in United Arab Emirates",
         "data": [
             {
@@ -3597,7 +3597,7 @@
         ]
     },
     {
-        "chart_type": "bar",
+        "chart_type": "pie",
         "chart_title": "Blood types in United Kingdom",
         "data": [
             {
@@ -3643,7 +3643,7 @@
         ]
     },
     {
-        "chart_type": "line",
+        "chart_type": "bar",
         "chart_title": "Blood types in United States",
         "data": [
             {
