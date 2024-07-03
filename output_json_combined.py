@@ -3,13 +3,13 @@ import random
 import json
 
 # Load the data from the CSV files
-nba_data_path = 'NBA/input.csv'  # Adjust the path as necessary
+nba_data_path = 'data/NBA/input.csv'  # Adjust the path as necessary
 nba_data = pd.read_csv(nba_data_path)
 
-cars_data_path = 'Cars/input.csv'  # Adjust the path as necessary
+cars_data_path = 'data/Cars/input.csv'  # Adjust the path as necessary
 cars_data = pd.read_csv(cars_data_path)
 
-movies_data_path = 'Movie/input.csv'  # Adjust the path as necessary
+movies_data_path = 'data/Movie/input.csv'  # Adjust the path as necessary
 movies_data = pd.read_csv(movies_data_path)
 
 # Function to check for NaN values and return valid labels and values

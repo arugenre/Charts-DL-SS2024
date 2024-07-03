@@ -1,8 +1,8 @@
 import json
 from itertools import cycle
 
-from common.balancer import charts_statistics, create_summary_label
-from common.utils import convert_json_to_chart_objects, convert_charts_to_json
+from data.common.balancer import charts_statistics, create_summary_label
+from data.common.utils import convert_json_to_chart_objects, convert_charts_to_json
 
 
 def balance():

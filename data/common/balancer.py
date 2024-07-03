@@ -1,8 +1,7 @@
-import random
 from collections import defaultdict
-from typing import List, Union
+from typing import List
 
-from common.schemas import Chart, Label
+from data.common.schemas import Chart, Label
 
 
 def create_summary_label(

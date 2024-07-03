@@ -1,9 +1,8 @@
 import json
 import random
-from typing import List
 from itertools import cycle
 
-from common.utils import shuffle_data
+from data.common.utils import shuffle_data
 
 COMPLEXITY_MIN = 13
 COMPLEXITY_MAX = 13
