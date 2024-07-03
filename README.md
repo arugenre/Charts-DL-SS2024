@@ -24,6 +24,7 @@ This step includes using **"microsoft/Phi-3-mini-128k-instruct"** model from
 huggingface.co. 
 Basically flow looks like: composing default prompt for data instance by script -> ask the model to paraphrase it -> save it.
 This code can be found in **/prompt_generator.ipynb** notebook.
+Alternatively there is the **/prompt_generator_templates.ipynb** notebook which contains code that can be used to create prompts based on string templates.
 
 ### Prompt validation
 A couple of functions were prepared for validation. Basically, these functions check for the presence of labels and values in the prompt and correct order of them.
