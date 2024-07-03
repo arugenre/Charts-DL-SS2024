@@ -1,0 +1,5969 @@
+[
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Rebounds",
+        "data": [
+            {
+                "label": "Brandon Knight",
+                "value": 3.9,
+                "color": "rgba(127, 202, 150, 0.2)"
+            },
+            {
+                "label": "Lionel Simmons",
+                "value": 2.5,
+                "color": "rgba(38, 58, 189, 0.2)"
+            },
+            {
+                "label": "Shaquille Harrison",
+                "value": 4.4,
+                "color": "rgba(61, 56, 242, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Rebounds",
+        "data": [
+            {
+                "label": "Calvin Booth",
+                "value": 1.8,
+                "color": "rgba(16, 113, 154, 0.2)"
+            },
+            {
+                "label": "Marcus Smart",
+                "value": 4.2,
+                "color": "rgba(105, 214, 80, 0.2)"
+            },
+            {
+                "label": "Patrick McCaw",
+                "value": 1.7,
+                "color": "rgba(213, 157, 78, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "Lamond Murray",
+                "value": 0.121,
+                "color": "rgba(217, 43, 124, 0.2)"
+            },
+            {
+                "label": "Stromile Swift",
+                "value": 0.063,
+                "color": "rgba(217, 15, 152, 0.2)"
+            },
+            {
+                "label": "Vlatko Cancar",
+                "value": 0.139,
+                "color": "rgba(34, 235, 71, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Assists",
+        "data": [
+            {
+                "label": "Malik Beasley",
+                "value": 1.2,
+                "color": "rgba(159, 60, 149, 0.2)"
+            },
+            {
+                "label": "Davis Bertans",
+                "value": 0.7,
+                "color": "rgba(254, 37, 76, 0.2)"
+            },
+            {
+                "label": "Anthony Miller",
+                "value": 0.5,
+                "color": "rgba(231, 143, 22, 0.2)"
+            },
+            {
+                "label": "Rasheed Wallace",
+                "value": 2.5,
+                "color": "rgba(210, 67, 138, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Offensive Rebound Percentage",
+        "data": [
+            {
+                "label": "Hakim Warrick",
+                "value": 0.068,
+                "color": "rgba(155, 64, 39, 0.2)"
+            },
+            {
+                "label": "Gerald Madkins",
+                "value": 0.009,
+                "color": "rgba(230, 248, 237, 0.2)"
+            },
+            {
+                "label": "Sundiata Gaines",
+                "value": 0.032,
+                "color": "rgba(23, 153, 132, 0.2)"
+            },
+            {
+                "label": "Tony Massenburg",
+                "value": 0.092,
+                "color": "rgba(212, 81, 31, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players True Shooting Percentage",
+        "data": [
+            {
+                "label": "Roy Hibbert",
+                "value": 0.537,
+                "color": "rgba(1, 54, 54, 0.2)"
+            },
+            {
+                "label": "Robert Parish",
+                "value": 0.514,
+                "color": "rgba(253, 182, 57, 0.2)"
+            },
+            {
+                "label": "Mike Dunleavy",
+                "value": 0.597,
+                "color": "rgba(241, 230, 138, 0.2)"
+            },
+            {
+                "label": "Raul Lopez",
+                "value": 0.503,
+                "color": "rgba(204, 184, 178, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Offensive Rebound Percentage",
+        "data": [
+            {
+                "label": "Cheikh Samb",
+                "value": 0.128,
+                "color": "rgba(84, 200, 230, 0.2)"
+            },
+            {
+                "label": "Kevin Seraphin",
+                "value": 0.084,
+                "color": "rgba(144, 37, 209, 0.2)"
+            },
+            {
+                "label": "Gerald Wilkins",
+                "value": 0.031,
+                "color": "rgba(210, 245, 43, 0.2)"
+            },
+            {
+                "label": "Justin Jackson",
+                "value": 0.017,
+                "color": "rgba(132, 192, 186, 0.2)"
+            },
+            {
+                "label": "James Posey",
+                "value": 0.052,
+                "color": "rgba(25, 74, 166, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Net Rating",
+        "data": [
+            {
+                "label": "Scotty Hopson",
+                "value": -18.4,
+                "color": "rgba(70, 125, 198, 0.2)"
+            },
+            {
+                "label": "Wesley Person",
+                "value": -1.2,
+                "color": "rgba(23, 112, 87, 0.2)"
+            },
+            {
+                "label": "Walt Williams",
+                "value": -4.1,
+                "color": "rgba(16, 97, 246, 0.2)"
+            },
+            {
+                "label": "Cole Aldrich",
+                "value": 1.8,
+                "color": "rgba(73, 188, 211, 0.2)"
+            },
+            {
+                "label": "Don MacLean",
+                "value": -18.0,
+                "color": "rgba(22, 208, 124, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Rebounds",
+        "data": [
+            {
+                "label": "Luis Flores",
+                "value": 0.2,
+                "color": "rgba(148, 6, 37, 0.2)"
+            },
+            {
+                "label": "Ben Davis",
+                "value": 1.4,
+                "color": "rgba(1, 75, 252, 0.2)"
+            },
+            {
+                "label": "Allan Houston",
+                "value": 3.3,
+                "color": "rgba(254, 196, 22, 0.2)"
+            },
+            {
+                "label": "DeAndre Liggins",
+                "value": 0.9,
+                "color": "rgba(117, 99, 184, 0.2)"
+            },
+            {
+                "label": "Jrue Holiday",
+                "value": 5.0,
+                "color": "rgba(215, 7, 129, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "Monty Williams",
+                "value": 0.126,
+                "color": "rgba(170, 24, 63, 0.2)"
+            },
+            {
+                "label": "Lou Williams",
+                "value": 0.196,
+                "color": "rgba(39, 73, 22, 0.2)"
+            },
+            {
+                "label": "B.J. Armstrong",
+                "value": 0.26,
+                "color": "rgba(12, 144, 3, 0.2)"
+            },
+            {
+                "label": "Rudy Gobert",
+                "value": 0.052,
+                "color": "rgba(222, 89, 85, 0.2)"
+            },
+            {
+                "label": "Gary Harris",
+                "value": 0.067,
+                "color": "rgba(7, 207, 244, 0.2)"
+            },
+            {
+                "label": "DJ White",
+                "value": 0.051,
+                "color": "rgba(141, 250, 239, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Usage Percentage",
+        "data": [
+            {
+                "label": "Pau Gasol",
+                "value": 0.263,
+                "color": "rgba(96, 232, 30, 0.2)"
+            },
+            {
+                "label": "Marvin Williams",
+                "value": 0.163,
+                "color": "rgba(252, 227, 114, 0.2)"
+            },
+            {
+                "label": "Rasual Butler",
+                "value": 0.151,
+                "color": "rgba(186, 22, 164, 0.2)"
+            },
+            {
+                "label": "Matisse Thybulle",
+                "value": 0.102,
+                "color": "rgba(97, 64, 171, 0.2)"
+            },
+            {
+                "label": "James Augustine",
+                "value": 0.2019999999999999,
+                "color": "rgba(121, 84, 239, 0.2)"
+            },
+            {
+                "label": "Tony Battie",
+                "value": 0.143,
+                "color": "rgba(0, 140, 77, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Net Rating",
+        "data": [
+            {
+                "label": "Tim Hardaway",
+                "value": 15.5,
+                "color": "rgba(118, 207, 28, 0.2)"
+            },
+            {
+                "label": "Gary Payton",
+                "value": -4.7,
+                "color": "rgba(210, 46, 240, 0.2)"
+            },
+            {
+                "label": "Jaylen Brown",
+                "value": -2.2,
+                "color": "rgba(245, 247, 128, 0.2)"
+            },
+            {
+                "label": "Kyle Kuzma",
+                "value": -6.1,
+                "color": "rgba(140, 85, 124, 0.2)"
+            },
+            {
+                "label": "Nick Collison",
+                "value": -8.6,
+                "color": "rgba(198, 222, 173, 0.2)"
+            },
+            {
+                "label": "Hassan Adams",
+                "value": -17.7,
+                "color": "rgba(150, 120, 94, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "Steve Francis",
+                "value": 0.278,
+                "color": "rgba(218, 184, 180, 0.2)"
+            },
+            {
+                "label": "Corey Benjamin",
+                "value": 0.129,
+                "color": "rgba(9, 249, 71, 0.2)"
+            },
+            {
+                "label": "Wesley Matthews",
+                "value": 0.09,
+                "color": "rgba(168, 237, 16, 0.2)"
+            },
+            {
+                "label": "Marko Jaric",
+                "value": 0.258,
+                "color": "rgba(10, 133, 248, 0.2)"
+            },
+            {
+                "label": "Kobe Bryant",
+                "value": 0.237,
+                "color": "rgba(123, 10, 4, 0.2)"
+            },
+            {
+                "label": "DeMarre Carroll",
+                "value": 0.0559999999999999,
+                "color": "rgba(66, 192, 167, 0.2)"
+            },
+            {
+                "label": "Trey Burke",
+                "value": 0.28,
+                "color": "rgba(50, 223, 137, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Offensive Rebound Percentage",
+        "data": [
+            {
+                "label": "Tacko Fall",
+                "value": 0.123,
+                "color": "rgba(28, 65, 220, 0.2)"
+            },
+            {
+                "label": "Robin Lopez",
+                "value": 0.094,
+                "color": "rgba(93, 87, 31, 0.2)"
+            },
+            {
+                "label": "Tracy McGrady",
+                "value": 0.039,
+                "color": "rgba(68, 132, 0, 0.2)"
+            },
+            {
+                "label": "James Posey",
+                "value": 0.021,
+                "color": "rgba(185, 61, 214, 0.2)"
+            },
+            {
+                "label": "Stephen Jackson",
+                "value": 0.023,
+                "color": "rgba(228, 98, 196, 0.2)"
+            },
+            {
+                "label": "Larry Nance Jr.",
+                "value": 0.068,
+                "color": "rgba(188, 89, 92, 0.2)"
+            },
+            {
+                "label": "Serge Ibaka",
+                "value": 0.072,
+                "color": "rgba(197, 242, 79, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "Walt Williams",
+                "value": 0.077,
+                "color": "rgba(175, 103, 242, 0.2)"
+            },
+            {
+                "label": "Jordan Hamilton",
+                "value": 0.084,
+                "color": "rgba(96, 177, 38, 0.2)"
+            },
+            {
+                "label": "Cheick Diallo",
+                "value": 0.0,
+                "color": "rgba(15, 81, 102, 0.2)"
+            },
+            {
+                "label": "Richaun Holmes",
+                "value": 0.122,
+                "color": "rgba(224, 31, 227, 0.2)"
+            },
+            {
+                "label": "Allen Iverson",
+                "value": 0.248,
+                "color": "rgba(29, 120, 38, 0.2)"
+            },
+            {
+                "label": "JaVale McGee",
+                "value": 0.051,
+                "color": "rgba(217, 205, 39, 0.2)"
+            },
+            {
+                "label": "Derrick White",
+                "value": 0.203,
+                "color": "rgba(178, 201, 47, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Usage Percentage",
+        "data": [
+            {
+                "label": "Ryan Kelly",
+                "value": 0.159,
+                "color": "rgba(116, 43, 111, 0.2)"
+            },
+            {
+                "label": "Tim Hardaway",
+                "value": 0.217,
+                "color": "rgba(28, 107, 131, 0.2)"
+            },
+            {
+                "label": "Greg Buckner",
+                "value": 0.12,
+                "color": "rgba(163, 125, 110, 0.2)"
+            },
+            {
+                "label": "Horace Grant",
+                "value": 0.126,
+                "color": "rgba(25, 203, 37, 0.2)"
+            },
+            {
+                "label": "Seth Curry",
+                "value": 0.176,
+                "color": "rgba(104, 2, 14, 0.2)"
+            },
+            {
+                "label": "George Hill",
+                "value": 0.161,
+                "color": "rgba(5, 141, 19, 0.2)"
+            },
+            {
+                "label": "Bradley Beal",
+                "value": 0.268,
+                "color": "rgba(216, 189, 212, 0.2)"
+            },
+            {
+                "label": "Mychal Mulder",
+                "value": 0.165,
+                "color": "rgba(42, 100, 50, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Defensive Rebound Percentage",
+        "data": [
+            {
+                "label": "Robbie Hummel",
+                "value": 0.1669999999999999,
+                "color": "rgba(38, 138, 248, 0.2)"
+            },
+            {
+                "label": "Brendan Haywood",
+                "value": 0.162,
+                "color": "rgba(55, 216, 228, 0.2)"
+            },
+            {
+                "label": "Randell Jackson",
+                "value": 0.1009999999999999,
+                "color": "rgba(8, 125, 94, 0.2)"
+            },
+            {
+                "label": "Luke Ridnour",
+                "value": 0.088,
+                "color": "rgba(182, 136, 26, 0.2)"
+            },
+            {
+                "label": "Will Conroy",
+                "value": 0.0,
+                "color": "rgba(17, 232, 22, 0.2)"
+            },
+            {
+                "label": "Joe Harris",
+                "value": 0.109,
+                "color": "rgba(194, 79, 120, 0.2)"
+            },
+            {
+                "label": "Robert Traylor",
+                "value": 0.158,
+                "color": "rgba(1, 37, 248, 0.2)"
+            },
+            {
+                "label": "Dirk Nowitzki",
+                "value": 0.2269999999999999,
+                "color": "rgba(163, 235, 46, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Assists",
+        "data": [
+            {
+                "label": "Wilson Chandler",
+                "value": 0.9,
+                "color": "rgba(132, 198, 131, 0.2)"
+            },
+            {
+                "label": "Larry Sanders",
+                "value": 0.8,
+                "color": "rgba(255, 166, 250, 0.2)"
+            },
+            {
+                "label": "Andrew DeClercq",
+                "value": 0.4,
+                "color": "rgba(65, 16, 52, 0.2)"
+            },
+            {
+                "label": "Myke Henry",
+                "value": 1.1,
+                "color": "rgba(174, 167, 76, 0.2)"
+            },
+            {
+                "label": "Antoine Walker",
+                "value": 3.3,
+                "color": "rgba(225, 243, 238, 0.2)"
+            },
+            {
+                "label": "Eddie Robinson",
+                "value": 0.5,
+                "color": "rgba(255, 95, 178, 0.2)"
+            },
+            {
+                "label": "Shaquille O'Neal",
+                "value": 3.8,
+                "color": "rgba(239, 145, 255, 0.2)"
+            },
+            {
+                "label": "Chris Kaman",
+                "value": 0.8,
+                "color": "rgba(190, 85, 6, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Rebounds",
+        "data": [
+            {
+                "label": "Steven Adams",
+                "value": 11.5,
+                "color": "rgba(180, 252, 235, 0.2)"
+            },
+            {
+                "label": "Tim Hardaway",
+                "value": 2.6,
+                "color": "rgba(60, 92, 17, 0.2)"
+            },
+            {
+                "label": "Marc Gasol",
+                "value": 7.2,
+                "color": "rgba(96, 225, 217, 0.2)"
+            },
+            {
+                "label": "Kris Dunn",
+                "value": 4.5,
+                "color": "rgba(87, 22, 71, 0.2)"
+            },
+            {
+                "label": "Alec Burks",
+                "value": 4.3,
+                "color": "rgba(175, 2, 75, 0.2)"
+            },
+            {
+                "label": "Chase Budinger",
+                "value": 3.7,
+                "color": "rgba(56, 203, 70, 0.2)"
+            },
+            {
+                "label": "Tiago Splitter",
+                "value": 2.8,
+                "color": "rgba(121, 7, 75, 0.2)"
+            },
+            {
+                "label": "AJ Price",
+                "value": 0.4,
+                "color": "rgba(182, 97, 100, 0.2)"
+            },
+            {
+                "label": "Anderson Varejao",
+                "value": 6.7,
+                "color": "rgba(198, 145, 210, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Assists",
+        "data": [
+            {
+                "label": "Saddiq Bey",
+                "value": 1.4,
+                "color": "rgba(163, 75, 159, 0.2)"
+            },
+            {
+                "label": "Payton Pritchard",
+                "value": 2.0,
+                "color": "rgba(149, 45, 50, 0.2)"
+            },
+            {
+                "label": "Renaldo Balkman",
+                "value": 0.6,
+                "color": "rgba(178, 215, 4, 0.2)"
+            },
+            {
+                "label": "Eric Williams",
+                "value": 1.5,
+                "color": "rgba(121, 32, 8, 0.2)"
+            },
+            {
+                "label": "Sam Perkins",
+                "value": 1.3,
+                "color": "rgba(230, 220, 254, 0.2)"
+            },
+            {
+                "label": "Maurice Taylor",
+                "value": 1.6,
+                "color": "rgba(242, 37, 254, 0.2)"
+            },
+            {
+                "label": "Kevin Seraphin",
+                "value": 1.0,
+                "color": "rgba(57, 1, 224, 0.2)"
+            },
+            {
+                "label": "Anthony Peeler",
+                "value": 1.6,
+                "color": "rgba(57, 43, 149, 0.2)"
+            },
+            {
+                "label": "Emanual Davis",
+                "value": 2.0,
+                "color": "rgba(160, 116, 106, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Defensive Rebound Percentage",
+        "data": [
+            {
+                "label": "Michael Carter-Williams",
+                "value": 0.1689999999999999,
+                "color": "rgba(32, 24, 58, 0.2)"
+            },
+            {
+                "label": "Aaron Gray",
+                "value": 0.213,
+                "color": "rgba(173, 93, 161, 0.2)"
+            },
+            {
+                "label": "David Nwaba",
+                "value": 0.131,
+                "color": "rgba(199, 107, 43, 0.2)"
+            },
+            {
+                "label": "Don Reid",
+                "value": 0.173,
+                "color": "rgba(14, 241, 88, 0.2)"
+            },
+            {
+                "label": "James Augustine",
+                "value": 0.111,
+                "color": "rgba(214, 211, 164, 0.2)"
+            },
+            {
+                "label": "Eric Maynor",
+                "value": 0.074,
+                "color": "rgba(249, 15, 59, 0.2)"
+            },
+            {
+                "label": "Alec Peters",
+                "value": 0.12,
+                "color": "rgba(50, 38, 0, 0.2)"
+            },
+            {
+                "label": "Raja Bell",
+                "value": 0.107,
+                "color": "rgba(44, 161, 231, 0.2)"
+            },
+            {
+                "label": "Lloyd Daniels",
+                "value": 0.045,
+                "color": "rgba(203, 218, 144, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Net Rating",
+        "data": [
+            {
+                "label": "Norvel Pelle",
+                "value": -15.7,
+                "color": "rgba(126, 217, 213, 0.2)"
+            },
+            {
+                "label": "Gary Neal",
+                "value": -9.0,
+                "color": "rgba(164, 194, 239, 0.2)"
+            },
+            {
+                "label": "Antonio Daniels",
+                "value": 0.7,
+                "color": "rgba(124, 19, 80, 0.2)"
+            },
+            {
+                "label": "Derrick Byars",
+                "value": -7.6,
+                "color": "rgba(138, 144, 123, 0.2)"
+            },
+            {
+                "label": "Bimbo Coles",
+                "value": -8.7,
+                "color": "rgba(227, 48, 191, 0.2)"
+            },
+            {
+                "label": "Ignas Brazdeikis",
+                "value": -7.1,
+                "color": "rgba(50, 29, 195, 0.2)"
+            },
+            {
+                "label": "Fred Hoiberg",
+                "value": 0.1,
+                "color": "rgba(244, 220, 195, 0.2)"
+            },
+            {
+                "label": "Derrick White",
+                "value": 4.8,
+                "color": "rgba(184, 31, 137, 0.2)"
+            },
+            {
+                "label": "Kevin Ollie",
+                "value": -8.3,
+                "color": "rgba(71, 198, 80, 0.2)"
+            },
+            {
+                "label": "Lance Allred",
+                "value": -81.0,
+                "color": "rgba(200, 77, 239, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Points",
+        "data": [
+            {
+                "label": "Al Jefferson",
+                "value": 21.8,
+                "color": "rgba(230, 50, 112, 0.2)"
+            },
+            {
+                "label": "Howard Eisley",
+                "value": 3.2,
+                "color": "rgba(137, 155, 51, 0.2)"
+            },
+            {
+                "label": "Eddie Gill",
+                "value": 2.3,
+                "color": "rgba(203, 254, 153, 0.2)"
+            },
+            {
+                "label": "Tyler Hansbrough",
+                "value": 7.0,
+                "color": "rgba(94, 50, 197, 0.2)"
+            },
+            {
+                "label": "Shane Battier",
+                "value": 9.9,
+                "color": "rgba(245, 56, 9, 0.2)"
+            },
+            {
+                "label": "James Posey",
+                "value": 7.4,
+                "color": "rgba(241, 235, 111, 0.2)"
+            },
+            {
+                "label": "Tayshaun Prince",
+                "value": 6.0,
+                "color": "rgba(218, 10, 36, 0.2)"
+            },
+            {
+                "label": "Stephen Jackson",
+                "value": 8.2,
+                "color": "rgba(191, 27, 92, 0.2)"
+            },
+            {
+                "label": "Chris Paul",
+                "value": 21.1,
+                "color": "rgba(168, 202, 192, 0.2)"
+            },
+            {
+                "label": "Kevin Willis",
+                "value": 16.1,
+                "color": "rgba(178, 136, 133, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Defensive Rebound Percentage",
+        "data": [
+            {
+                "label": "Jason Terry",
+                "value": 0.073,
+                "color": "rgba(24, 13, 108, 0.2)"
+            },
+            {
+                "label": "Chris Chiozza",
+                "value": 0.073,
+                "color": "rgba(187, 133, 117, 0.2)"
+            },
+            {
+                "label": "Andrew Bogut",
+                "value": 0.196,
+                "color": "rgba(254, 84, 87, 0.2)"
+            },
+            {
+                "label": "Lorenzo Brown",
+                "value": 0.11,
+                "color": "rgba(145, 110, 63, 0.2)"
+            },
+            {
+                "label": "Emeka Okafor",
+                "value": 0.245,
+                "color": "rgba(196, 194, 158, 0.2)"
+            },
+            {
+                "label": "Omri Casspi",
+                "value": 0.146,
+                "color": "rgba(70, 49, 228, 0.2)"
+            },
+            {
+                "label": "Michael Beasley",
+                "value": 0.195,
+                "color": "rgba(36, 10, 131, 0.2)"
+            },
+            {
+                "label": "Sasha Pavlovic",
+                "value": 0.129,
+                "color": "rgba(67, 158, 12, 0.2)"
+            },
+            {
+                "label": "Bobby Portis",
+                "value": 0.18,
+                "color": "rgba(114, 215, 0, 0.2)"
+            },
+            {
+                "label": "CJ Miles",
+                "value": 0.114,
+                "color": "rgba(42, 243, 177, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "Dennis Scott",
+                "value": 0.106,
+                "color": "rgba(240, 130, 180, 0.2)"
+            },
+            {
+                "label": "Isaac Bonga",
+                "value": 0.089,
+                "color": "rgba(199, 170, 110, 0.2)"
+            },
+            {
+                "label": "Marcus Williams",
+                "value": 0.0,
+                "color": "rgba(225, 240, 248, 0.2)"
+            },
+            {
+                "label": "Josh Harrellson",
+                "value": 0.074,
+                "color": "rgba(25, 223, 222, 0.2)"
+            },
+            {
+                "label": "Reggie Williams",
+                "value": 0.118,
+                "color": "rgba(137, 86, 80, 0.2)"
+            },
+            {
+                "label": "David Lee",
+                "value": 0.142,
+                "color": "rgba(147, 121, 141, 0.2)"
+            },
+            {
+                "label": "Darren Collison",
+                "value": 0.257,
+                "color": "rgba(190, 164, 144, 0.2)"
+            },
+            {
+                "label": "Kevin Seraphin",
+                "value": 0.025,
+                "color": "rgba(26, 64, 159, 0.2)"
+            },
+            {
+                "label": "Cory Carr",
+                "value": 0.206,
+                "color": "rgba(121, 195, 159, 0.2)"
+            },
+            {
+                "label": "Speedy Claxton",
+                "value": 0.2269999999999999,
+                "color": "rgba(120, 246, 129, 0.2)"
+            },
+            {
+                "label": "Precious Achiuwa",
+                "value": 0.064,
+                "color": "rgba(0, 204, 35, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Rebounds",
+        "data": [
+            {
+                "label": "Kosta Koufos",
+                "value": 1.3,
+                "color": "rgba(96, 201, 177, 0.2)"
+            },
+            {
+                "label": "David Duke Jr.",
+                "value": 3.0,
+                "color": "rgba(116, 97, 77, 0.2)"
+            },
+            {
+                "label": "Cedric Henderson",
+                "value": 1.6,
+                "color": "rgba(56, 71, 162, 0.2)"
+            },
+            {
+                "label": "Eric Piatkowski",
+                "value": 2.9,
+                "color": "rgba(122, 150, 173, 0.2)"
+            },
+            {
+                "label": "Harrison Barnes",
+                "value": 4.5,
+                "color": "rgba(198, 44, 137, 0.2)"
+            },
+            {
+                "label": "Milt Palacio",
+                "value": 2.9,
+                "color": "rgba(188, 163, 53, 0.2)"
+            },
+            {
+                "label": "Trey Lyles",
+                "value": 3.3,
+                "color": "rgba(195, 191, 3, 0.2)"
+            },
+            {
+                "label": "Paul Pierce",
+                "value": 6.3,
+                "color": "rgba(191, 101, 37, 0.2)"
+            },
+            {
+                "label": "Kevin Love",
+                "value": 13.3,
+                "color": "rgba(50, 137, 90, 0.2)"
+            },
+            {
+                "label": "Wally Szczerbiak",
+                "value": 3.1,
+                "color": "rgba(142, 161, 224, 0.2)"
+            },
+            {
+                "label": "Dean Garrett",
+                "value": 5.2,
+                "color": "rgba(4, 86, 180, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "P.J. Washington",
+                "value": 0.12,
+                "color": "rgba(222, 199, 43, 0.2)"
+            },
+            {
+                "label": "Bonzie Colson",
+                "value": 0.04,
+                "color": "rgba(168, 125, 245, 0.2)"
+            },
+            {
+                "label": "Sasha Pavlovic",
+                "value": 0.091,
+                "color": "rgba(233, 115, 20, 0.2)"
+            },
+            {
+                "label": "Ruben Patterson",
+                "value": 0.12,
+                "color": "rgba(19, 111, 196, 0.2)"
+            },
+            {
+                "label": "Drew Gooden",
+                "value": 0.062,
+                "color": "rgba(50, 12, 110, 0.2)"
+            },
+            {
+                "label": "Tony Allen",
+                "value": 0.133,
+                "color": "rgba(205, 132, 205, 0.2)"
+            },
+            {
+                "label": "Bradley Beal",
+                "value": 0.155,
+                "color": "rgba(215, 251, 62, 0.2)"
+            },
+            {
+                "label": "Malcolm Miller",
+                "value": 0.0819999999999999,
+                "color": "rgba(11, 114, 206, 0.2)"
+            },
+            {
+                "label": "Tony Parker",
+                "value": 0.278,
+                "color": "rgba(148, 38, 158, 0.2)"
+            },
+            {
+                "label": "Kris Humphries",
+                "value": 0.068,
+                "color": "rgba(70, 44, 246, 0.2)"
+            },
+            {
+                "label": "Jerry Stackhouse",
+                "value": 0.216,
+                "color": "rgba(114, 3, 107, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Points",
+        "data": [
+            {
+                "label": "Andrew Goudelock",
+                "value": 4.4,
+                "color": "rgba(214, 153, 57, 0.2)"
+            },
+            {
+                "label": "Jevon Carter",
+                "value": 4.9,
+                "color": "rgba(102, 214, 136, 0.2)"
+            },
+            {
+                "label": "Shelden Williams",
+                "value": 3.7,
+                "color": "rgba(157, 107, 111, 0.2)"
+            },
+            {
+                "label": "Andrea Bargnani",
+                "value": 19.5,
+                "color": "rgba(187, 68, 159, 0.2)"
+            },
+            {
+                "label": "Wayne Ellington",
+                "value": 6.7,
+                "color": "rgba(185, 80, 5, 0.2)"
+            },
+            {
+                "label": "Rex Chapman",
+                "value": 13.8,
+                "color": "rgba(47, 12, 190, 0.2)"
+            },
+            {
+                "label": "Lamond Murray",
+                "value": 6.0,
+                "color": "rgba(123, 32, 21, 0.2)"
+            },
+            {
+                "label": "Tim Legler",
+                "value": 1.1,
+                "color": "rgba(215, 116, 145, 0.2)"
+            },
+            {
+                "label": "Jerome Robinson",
+                "value": 3.4,
+                "color": "rgba(54, 49, 194, 0.2)"
+            },
+            {
+                "label": "Jermaine Jackson",
+                "value": 2.4,
+                "color": "rgba(202, 246, 90, 0.2)"
+            },
+            {
+                "label": "Isaac Bonga",
+                "value": 0.9,
+                "color": "rgba(139, 245, 154, 0.2)"
+            },
+            {
+                "label": "Josh Smith",
+                "value": 16.4,
+                "color": "rgba(36, 46, 55, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Net Rating",
+        "data": [
+            {
+                "label": "Hakeem Olajuwon",
+                "value": 0.5,
+                "color": "rgba(13, 95, 133, 0.2)"
+            },
+            {
+                "label": "Nene",
+                "value": 7.1,
+                "color": "rgba(193, 240, 150, 0.2)"
+            },
+            {
+                "label": "Marcus Camby",
+                "value": 3.2,
+                "color": "rgba(220, 222, 239, 0.2)"
+            },
+            {
+                "label": "Jelani McCoy",
+                "value": -6.6,
+                "color": "rgba(37, 145, 180, 0.2)"
+            },
+            {
+                "label": "Loren Woods",
+                "value": -3.8,
+                "color": "rgba(165, 168, 110, 0.2)"
+            },
+            {
+                "label": "Cat Barber",
+                "value": 34.6,
+                "color": "rgba(112, 103, 82, 0.2)"
+            },
+            {
+                "label": "Theo Pinson",
+                "value": -7.6,
+                "color": "rgba(53, 121, 70, 0.2)"
+            },
+            {
+                "label": "Jae Crowder",
+                "value": 7.8,
+                "color": "rgba(201, 28, 123, 0.2)"
+            },
+            {
+                "label": "Tyson Chandler",
+                "value": -1.9,
+                "color": "rgba(96, 252, 218, 0.2)"
+            },
+            {
+                "label": "Brandon Sampson",
+                "value": -6.0,
+                "color": "rgba(183, 134, 106, 0.2)"
+            },
+            {
+                "label": "Serge Ibaka",
+                "value": 6.2,
+                "color": "rgba(49, 52, 238, 0.2)"
+            },
+            {
+                "label": "Brandon Bass",
+                "value": -2.6,
+                "color": "rgba(86, 91, 88, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players True Shooting Percentage",
+        "data": [
+            {
+                "label": "Jelani McCoy",
+                "value": 0.52,
+                "color": "rgba(162, 29, 49, 0.2)"
+            },
+            {
+                "label": "Joe Johnson",
+                "value": 0.521,
+                "color": "rgba(132, 212, 142, 0.2)"
+            },
+            {
+                "label": "Jason Kidd",
+                "value": 0.5770000000000001,
+                "color": "rgba(70, 140, 69, 0.2)"
+            },
+            {
+                "label": "Gary Payton II",
+                "value": 0.413,
+                "color": "rgba(203, 79, 174, 0.2)"
+            },
+            {
+                "label": "JJ Redick",
+                "value": 0.622,
+                "color": "rgba(15, 137, 154, 0.2)"
+            },
+            {
+                "label": "Rick Mahorn",
+                "value": 0.302,
+                "color": "rgba(250, 78, 161, 0.2)"
+            },
+            {
+                "label": "Harrison Barnes",
+                "value": 0.55,
+                "color": "rgba(154, 102, 164, 0.2)"
+            },
+            {
+                "label": "Beno Udrih",
+                "value": 0.539,
+                "color": "rgba(89, 6, 117, 0.2)"
+            },
+            {
+                "label": "Jamal Murray",
+                "value": 0.518,
+                "color": "rgba(49, 115, 190, 0.2)"
+            },
+            {
+                "label": "Tony Massenburg",
+                "value": 0.503,
+                "color": "rgba(243, 214, 24, 0.2)"
+            },
+            {
+                "label": "Pablo Prigioni",
+                "value": 0.482,
+                "color": "rgba(46, 59, 49, 0.2)"
+            },
+            {
+                "label": "Lou Williams",
+                "value": 0.523,
+                "color": "rgba(233, 159, 89, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Offensive Rebound Percentage",
+        "data": [
+            {
+                "label": "Devin Harris",
+                "value": 0.0139999999999999,
+                "color": "rgba(178, 149, 65, 0.2)"
+            },
+            {
+                "label": "Ian Clark",
+                "value": 0.019,
+                "color": "rgba(48, 216, 237, 0.2)"
+            },
+            {
+                "label": "Travis Wear",
+                "value": 0.054,
+                "color": "rgba(169, 75, 23, 0.2)"
+            },
+            {
+                "label": "Andre Drummond",
+                "value": 0.145,
+                "color": "rgba(54, 90, 252, 0.2)"
+            },
+            {
+                "label": "Earl Clark",
+                "value": 0.092,
+                "color": "rgba(147, 37, 76, 0.2)"
+            },
+            {
+                "label": "Bostjan Nachbar",
+                "value": 0.018,
+                "color": "rgba(4, 150, 237, 0.2)"
+            },
+            {
+                "label": "Don MacLean",
+                "value": 0.096,
+                "color": "rgba(140, 61, 210, 0.2)"
+            },
+            {
+                "label": "Kevin Love",
+                "value": 0.145,
+                "color": "rgba(2, 143, 120, 0.2)"
+            },
+            {
+                "label": "Dalibor Bagaric",
+                "value": 0.091,
+                "color": "rgba(37, 230, 190, 0.2)"
+            },
+            {
+                "label": "Pau Gasol",
+                "value": 0.069,
+                "color": "rgba(71, 202, 198, 0.2)"
+            },
+            {
+                "label": "Ryan Bowen",
+                "value": 0.054,
+                "color": "rgba(165, 255, 130, 0.2)"
+            },
+            {
+                "label": "Kentavious Caldwell-Pope",
+                "value": 0.018,
+                "color": "rgba(82, 199, 173, 0.2)"
+            },
+            {
+                "label": "Jason Richardson",
+                "value": 0.048,
+                "color": "rgba(137, 41, 165, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Points",
+        "data": [
+            {
+                "label": "Jalen Smith",
+                "value": 9.4,
+                "color": "rgba(35, 103, 112, 0.2)"
+            },
+            {
+                "label": "Nik Stauskas",
+                "value": 5.9,
+                "color": "rgba(130, 82, 151, 0.2)"
+            },
+            {
+                "label": "Chris Mills",
+                "value": 9.7,
+                "color": "rgba(31, 121, 146, 0.2)"
+            },
+            {
+                "label": "JJ O'Brien",
+                "value": 0.0,
+                "color": "rgba(150, 252, 233, 0.2)"
+            },
+            {
+                "label": "Josh Smith",
+                "value": 16.5,
+                "color": "rgba(205, 50, 40, 0.2)"
+            },
+            {
+                "label": "Kevin Love",
+                "value": 18.3,
+                "color": "rgba(239, 172, 6, 0.2)"
+            },
+            {
+                "label": "Earl Barron",
+                "value": 3.3,
+                "color": "rgba(59, 51, 12, 0.2)"
+            },
+            {
+                "label": "Doug McDermott",
+                "value": 10.3,
+                "color": "rgba(228, 170, 126, 0.2)"
+            },
+            {
+                "label": "Jason Kapono",
+                "value": 7.2,
+                "color": "rgba(9, 122, 171, 0.2)"
+            },
+            {
+                "label": "Jason Caffey",
+                "value": 5.8,
+                "color": "rgba(241, 127, 52, 0.2)"
+            },
+            {
+                "label": "Ronald Dupree",
+                "value": 0.7,
+                "color": "rgba(119, 19, 244, 0.2)"
+            },
+            {
+                "label": "Peter Aluma",
+                "value": 1.0,
+                "color": "rgba(245, 73, 246, 0.2)"
+            },
+            {
+                "label": "Vonteego Cummings",
+                "value": 7.3,
+                "color": "rgba(10, 134, 134, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Defensive Rebound Percentage",
+        "data": [
+            {
+                "label": "Brandon Bass",
+                "value": 0.176,
+                "color": "rgba(217, 176, 159, 0.2)"
+            },
+            {
+                "label": "Blake Griffin",
+                "value": 0.182,
+                "color": "rgba(155, 154, 247, 0.2)"
+            },
+            {
+                "label": "Arron Afflalo",
+                "value": 0.1009999999999999,
+                "color": "rgba(76, 159, 160, 0.2)"
+            },
+            {
+                "label": "Jordan Hall",
+                "value": 0.129,
+                "color": "rgba(42, 90, 24, 0.2)"
+            },
+            {
+                "label": "Pat Burke",
+                "value": 0.147,
+                "color": "rgba(59, 185, 11, 0.2)"
+            },
+            {
+                "label": "Mile Ilic",
+                "value": 0.25,
+                "color": "rgba(108, 93, 184, 0.2)"
+            },
+            {
+                "label": "Darrell Armstrong",
+                "value": 0.094,
+                "color": "rgba(57, 209, 86, 0.2)"
+            },
+            {
+                "label": "D.J. Wilson",
+                "value": 0.157,
+                "color": "rgba(203, 190, 134, 0.2)"
+            },
+            {
+                "label": "DJ White",
+                "value": 0.4,
+                "color": "rgba(9, 133, 29, 0.2)"
+            },
+            {
+                "label": "Jose Calderon",
+                "value": 0.1,
+                "color": "rgba(209, 121, 151, 0.2)"
+            },
+            {
+                "label": "Mario West",
+                "value": 0.135,
+                "color": "rgba(75, 44, 76, 0.2)"
+            },
+            {
+                "label": "Frank Mason",
+                "value": 0.107,
+                "color": "rgba(112, 103, 93, 0.2)"
+            },
+            {
+                "label": "Ennis Whatley",
+                "value": 0.15,
+                "color": "rgba(12, 117, 91, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Rebounds",
+        "data": [
+            {
+                "label": "Ty Lawson",
+                "value": 3.5,
+                "color": "rgba(134, 209, 22, 0.2)"
+            },
+            {
+                "label": "Daniel Santiago",
+                "value": 1.9,
+                "color": "rgba(16, 187, 23, 0.2)"
+            },
+            {
+                "label": "Rick Hughes",
+                "value": 2.3,
+                "color": "rgba(95, 166, 221, 0.2)"
+            },
+            {
+                "label": "Bobby Jackson",
+                "value": 4.4,
+                "color": "rgba(79, 170, 186, 0.2)"
+            },
+            {
+                "label": "Marcus Williams",
+                "value": 2.1,
+                "color": "rgba(192, 122, 226, 0.2)"
+            },
+            {
+                "label": "Bryant Stith",
+                "value": 1.7,
+                "color": "rgba(168, 94, 60, 0.2)"
+            },
+            {
+                "label": "Carl Herrera",
+                "value": 1.6,
+                "color": "rgba(63, 205, 192, 0.2)"
+            },
+            {
+                "label": "Jaylen Brown",
+                "value": 6.0,
+                "color": "rgba(94, 162, 110, 0.2)"
+            },
+            {
+                "label": "Derrick Williams",
+                "value": 2.7,
+                "color": "rgba(130, 139, 45, 0.2)"
+            },
+            {
+                "label": "Jerry Stackhouse",
+                "value": 3.6,
+                "color": "rgba(154, 51, 106, 0.2)"
+            },
+            {
+                "label": "Andre Roberson",
+                "value": 3.6,
+                "color": "rgba(65, 99, 183, 0.2)"
+            },
+            {
+                "label": "Kyle Anderson",
+                "value": 2.2,
+                "color": "rgba(208, 93, 42, 0.2)"
+            },
+            {
+                "label": "John Crotty",
+                "value": 1.0,
+                "color": "rgba(94, 218, 211, 0.2)"
+            },
+            {
+                "label": "Gerald Henderson",
+                "value": 2.6,
+                "color": "rgba(178, 226, 166, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Net Rating",
+        "data": [
+            {
+                "label": "Amar'e Stoudemire",
+                "value": 1.8,
+                "color": "rgba(212, 16, 32, 0.2)"
+            },
+            {
+                "label": "Tyrone Corbin",
+                "value": 7.0,
+                "color": "rgba(7, 52, 90, 0.2)"
+            },
+            {
+                "label": "Monte Morris",
+                "value": 6.0,
+                "color": "rgba(186, 224, 195, 0.2)"
+            },
+            {
+                "label": "Antawn Jamison",
+                "value": -9.3,
+                "color": "rgba(60, 189, 43, 0.2)"
+            },
+            {
+                "label": "Bobby Portis",
+                "value": -4.3,
+                "color": "rgba(46, 1, 210, 0.2)"
+            },
+            {
+                "label": "Damion James",
+                "value": 6.2,
+                "color": "rgba(111, 239, 208, 0.2)"
+            },
+            {
+                "label": "Earl Clark",
+                "value": -13.8,
+                "color": "rgba(157, 86, 53, 0.2)"
+            },
+            {
+                "label": "Fred Hoiberg",
+                "value": 7.3,
+                "color": "rgba(28, 213, 200, 0.2)"
+            },
+            {
+                "label": "Mark Jackson",
+                "value": -6.7,
+                "color": "rgba(192, 205, 35, 0.2)"
+            },
+            {
+                "label": "Aaron Brooks",
+                "value": -6.5,
+                "color": "rgba(158, 167, 190, 0.2)"
+            },
+            {
+                "label": "Joel Anthony",
+                "value": 2.4,
+                "color": "rgba(121, 165, 189, 0.2)"
+            },
+            {
+                "label": "Eric Piatkowski",
+                "value": -13.9,
+                "color": "rgba(166, 252, 44, 0.2)"
+            },
+            {
+                "label": "Vlade Divac",
+                "value": 5.5,
+                "color": "rgba(164, 76, 58, 0.2)"
+            },
+            {
+                "label": "Isaiah Joe",
+                "value": 5.1,
+                "color": "rgba(254, 97, 49, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players True Shooting Percentage",
+        "data": [
+            {
+                "label": "Francisco Garcia",
+                "value": 0.551,
+                "color": "rgba(100, 197, 157, 0.2)"
+            },
+            {
+                "label": "Jeff Teague",
+                "value": 0.557,
+                "color": "rgba(175, 236, 34, 0.2)"
+            },
+            {
+                "label": "Bracey Wright",
+                "value": 0.493,
+                "color": "rgba(76, 136, 145, 0.2)"
+            },
+            {
+                "label": "Nick Young",
+                "value": 0.5379999999999999,
+                "color": "rgba(19, 33, 166, 0.2)"
+            },
+            {
+                "label": "Joel Bolomboy",
+                "value": 0.521,
+                "color": "rgba(172, 96, 192, 0.2)"
+            },
+            {
+                "label": "Shabazz Muhammad",
+                "value": 0.5660000000000001,
+                "color": "rgba(108, 74, 32, 0.2)"
+            },
+            {
+                "label": "Walter McCarty",
+                "value": 0.525,
+                "color": "rgba(220, 242, 140, 0.2)"
+            },
+            {
+                "label": "Nerlens Noel",
+                "value": 0.638,
+                "color": "rgba(114, 11, 95, 0.2)"
+            },
+            {
+                "label": "Wally Szczerbiak",
+                "value": 0.595,
+                "color": "rgba(138, 91, 168, 0.2)"
+            },
+            {
+                "label": "Greg Minor",
+                "value": 0.481,
+                "color": "rgba(155, 46, 146, 0.2)"
+            },
+            {
+                "label": "Kerry Kittles",
+                "value": 0.446,
+                "color": "rgba(6, 152, 75, 0.2)"
+            },
+            {
+                "label": "David Wingate",
+                "value": 0.494,
+                "color": "rgba(75, 209, 9, 0.2)"
+            },
+            {
+                "label": "Danny Ferry",
+                "value": 0.479,
+                "color": "rgba(123, 112, 30, 0.2)"
+            },
+            {
+                "label": "Ricky Ledo",
+                "value": 0.506,
+                "color": "rgba(191, 217, 32, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Offensive Rebound Percentage",
+        "data": [
+            {
+                "label": "Alan Anderson",
+                "value": 0.011,
+                "color": "rgba(203, 113, 17, 0.2)"
+            },
+            {
+                "label": "DerMarr Johnson",
+                "value": 0.025,
+                "color": "rgba(202, 132, 99, 0.2)"
+            },
+            {
+                "label": "James Singleton",
+                "value": 0.118,
+                "color": "rgba(22, 186, 129, 0.2)"
+            },
+            {
+                "label": "Andre Miller",
+                "value": 0.032,
+                "color": "rgba(110, 206, 85, 0.2)"
+            },
+            {
+                "label": "Guerschon Yabusele",
+                "value": 0.084,
+                "color": "rgba(108, 248, 103, 0.2)"
+            },
+            {
+                "label": "Anthony Johnson",
+                "value": 0.022,
+                "color": "rgba(47, 114, 201, 0.2)"
+            },
+            {
+                "label": "Rodney Stuckey",
+                "value": 0.021,
+                "color": "rgba(218, 210, 228, 0.2)"
+            },
+            {
+                "label": "Trey Lyles",
+                "value": 0.0559999999999999,
+                "color": "rgba(182, 244, 243, 0.2)"
+            },
+            {
+                "label": "Mike Conley",
+                "value": 0.019,
+                "color": "rgba(227, 176, 135, 0.2)"
+            },
+            {
+                "label": "Kyle Anderson",
+                "value": 0.042,
+                "color": "rgba(74, 80, 201, 0.2)"
+            },
+            {
+                "label": "A.C. Green",
+                "value": 0.089,
+                "color": "rgba(141, 107, 110, 0.2)"
+            },
+            {
+                "label": "Nick Young",
+                "value": 0.018,
+                "color": "rgba(26, 163, 104, 0.2)"
+            },
+            {
+                "label": "Miles Simon",
+                "value": 0.071,
+                "color": "rgba(248, 117, 155, 0.2)"
+            },
+            {
+                "label": "LaPhonso Ellis",
+                "value": 0.083,
+                "color": "rgba(160, 184, 37, 0.2)"
+            },
+            {
+                "label": "Amar'e Stoudemire",
+                "value": 0.088,
+                "color": "rgba(94, 221, 155, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "Jarrett Jack",
+                "value": 0.249,
+                "color": "rgba(67, 209, 70, 0.2)"
+            },
+            {
+                "label": "Mitch McGary",
+                "value": 0.071,
+                "color": "rgba(74, 181, 99, 0.2)"
+            },
+            {
+                "label": "Joe Johnson",
+                "value": 0.148,
+                "color": "rgba(180, 140, 164, 0.2)"
+            },
+            {
+                "label": "Yi Jianlian",
+                "value": 0.048,
+                "color": "rgba(102, 211, 209, 0.2)"
+            },
+            {
+                "label": "Grant Long",
+                "value": 0.092,
+                "color": "rgba(250, 252, 71, 0.2)"
+            },
+            {
+                "label": "Damian Lillard",
+                "value": 0.3339999999999999,
+                "color": "rgba(37, 111, 130, 0.2)"
+            },
+            {
+                "label": "Austin Croshere",
+                "value": 0.156,
+                "color": "rgba(143, 116, 224, 0.2)"
+            },
+            {
+                "label": "Jimmer Fredette",
+                "value": 0.154,
+                "color": "rgba(137, 131, 116, 0.2)"
+            },
+            {
+                "label": "J.R. Giddens",
+                "value": 0.0,
+                "color": "rgba(127, 84, 49, 0.2)"
+            },
+            {
+                "label": "Devin Harris",
+                "value": 0.149,
+                "color": "rgba(33, 242, 101, 0.2)"
+            },
+            {
+                "label": "Stephen Curry",
+                "value": 0.315,
+                "color": "rgba(112, 168, 245, 0.2)"
+            },
+            {
+                "label": "Raul Neto",
+                "value": 0.14,
+                "color": "rgba(207, 61, 76, 0.2)"
+            },
+            {
+                "label": "Solomon Hill",
+                "value": 0.14,
+                "color": "rgba(211, 239, 50, 0.2)"
+            },
+            {
+                "label": "Stanley Johnson",
+                "value": 0.118,
+                "color": "rgba(234, 59, 75, 0.2)"
+            },
+            {
+                "label": "Primoz Brezec",
+                "value": 0.065,
+                "color": "rgba(22, 84, 73, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "Chris Kaman",
+                "value": 0.05,
+                "color": "rgba(236, 161, 216, 0.2)"
+            },
+            {
+                "label": "Troy Murphy",
+                "value": 0.08,
+                "color": "rgba(228, 154, 185, 0.2)"
+            },
+            {
+                "label": "Troy Murphy",
+                "value": 0.06,
+                "color": "rgba(235, 103, 163, 0.2)"
+            },
+            {
+                "label": "Rick Mahorn",
+                "value": 0.034,
+                "color": "rgba(253, 32, 67, 0.2)"
+            },
+            {
+                "label": "Eric Murdock",
+                "value": 0.436,
+                "color": "rgba(45, 92, 183, 0.2)"
+            },
+            {
+                "label": "Deonte Burton",
+                "value": 0.057,
+                "color": "rgba(134, 70, 207, 0.2)"
+            },
+            {
+                "label": "Rick Brunson",
+                "value": 0.332,
+                "color": "rgba(96, 154, 252, 0.2)"
+            },
+            {
+                "label": "Anthony Morrow",
+                "value": 0.075,
+                "color": "rgba(19, 108, 121, 0.2)"
+            },
+            {
+                "label": "Chris Mullin",
+                "value": 0.195,
+                "color": "rgba(149, 19, 171, 0.2)"
+            },
+            {
+                "label": "Treveon Graham",
+                "value": 0.0819999999999999,
+                "color": "rgba(16, 138, 88, 0.2)"
+            },
+            {
+                "label": "Ryan Anderson",
+                "value": 0.069,
+                "color": "rgba(200, 204, 171, 0.2)"
+            },
+            {
+                "label": "DeMar DeRozan",
+                "value": 0.228,
+                "color": "rgba(143, 195, 100, 0.2)"
+            },
+            {
+                "label": "Gerard King",
+                "value": 0.08,
+                "color": "rgba(164, 107, 1, 0.2)"
+            },
+            {
+                "label": "Jerami Grant",
+                "value": 0.103,
+                "color": "rgba(200, 0, 233, 0.2)"
+            },
+            {
+                "label": "Bojan Bogdanovic",
+                "value": 0.057,
+                "color": "rgba(182, 65, 129, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players True Shooting Percentage",
+        "data": [
+            {
+                "label": "Mario West",
+                "value": 0.488,
+                "color": "rgba(55, 115, 162, 0.2)"
+            },
+            {
+                "label": "Gorgui Dieng",
+                "value": 0.534,
+                "color": "rgba(62, 49, 57, 0.2)"
+            },
+            {
+                "label": "Keith Langford",
+                "value": 0.25,
+                "color": "rgba(54, 42, 221, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "Sasha Vujacic",
+                "value": 0.134,
+                "color": "rgba(169, 176, 34, 0.2)"
+            },
+            {
+                "label": "Mike Scott",
+                "value": 0.091,
+                "color": "rgba(4, 7, 240, 0.2)"
+            },
+            {
+                "label": "Anthony Johnson",
+                "value": 0.249,
+                "color": "rgba(38, 87, 186, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Net Rating",
+        "data": [
+            {
+                "label": "Chris Duhon",
+                "value": -2.7,
+                "color": "rgba(157, 147, 49, 0.2)"
+            },
+            {
+                "label": "Brandon Knight",
+                "value": -7.6,
+                "color": "rgba(137, 161, 190, 0.2)"
+            },
+            {
+                "label": "Cedric Ceballos",
+                "value": -2.4,
+                "color": "rgba(80, 164, 55, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Points",
+        "data": [
+            {
+                "label": "Nicolas Batum",
+                "value": 3.6,
+                "color": "rgba(73, 69, 19, 0.2)"
+            },
+            {
+                "label": "James Ennis III",
+                "value": 7.1,
+                "color": "rgba(41, 28, 53, 0.2)"
+            },
+            {
+                "label": "Patrick Beverley",
+                "value": 9.9,
+                "color": "rgba(233, 241, 17, 0.2)"
+            },
+            {
+                "label": "Walter McCarty",
+                "value": 3.8,
+                "color": "rgba(46, 103, 105, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Net Rating",
+        "data": [
+            {
+                "label": "Kevin Huerter",
+                "value": 3.8,
+                "color": "rgba(238, 165, 95, 0.2)"
+            },
+            {
+                "label": "Marquis Daniels",
+                "value": 3.9,
+                "color": "rgba(176, 145, 162, 0.2)"
+            },
+            {
+                "label": "Nick Van Exel",
+                "value": -8.4,
+                "color": "rgba(62, 138, 112, 0.2)"
+            },
+            {
+                "label": "Stephen Graham",
+                "value": -15.9,
+                "color": "rgba(143, 196, 154, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Assists",
+        "data": [
+            {
+                "label": "Jerome Moiso",
+                "value": 0.4,
+                "color": "rgba(42, 230, 125, 0.2)"
+            },
+            {
+                "label": "Jermareo Davidson",
+                "value": 0.1,
+                "color": "rgba(77, 181, 145, 0.2)"
+            },
+            {
+                "label": "Chris Dudley",
+                "value": 0.0,
+                "color": "rgba(218, 188, 60, 0.2)"
+            },
+            {
+                "label": "Olumide Oyedeji",
+                "value": 0.1,
+                "color": "rgba(58, 235, 118, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Defensive Rebound Percentage",
+        "data": [
+            {
+                "label": "Eddie Jones",
+                "value": 0.115,
+                "color": "rgba(27, 59, 143, 0.2)"
+            },
+            {
+                "label": "Kelvin Cato",
+                "value": 0.221,
+                "color": "rgba(53, 23, 96, 0.2)"
+            },
+            {
+                "label": "Aaron Gray",
+                "value": 0.188,
+                "color": "rgba(210, 76, 183, 0.2)"
+            },
+            {
+                "label": "Earl Watson",
+                "value": 0.085,
+                "color": "rgba(153, 234, 127, 0.2)"
+            },
+            {
+                "label": "Marquis Daniels",
+                "value": 0.107,
+                "color": "rgba(82, 153, 249, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players True Shooting Percentage",
+        "data": [
+            {
+                "label": "Hassan Whiteside",
+                "value": 0.573,
+                "color": "rgba(110, 62, 144, 0.2)"
+            },
+            {
+                "label": "Ratko Varda",
+                "value": 0.727,
+                "color": "rgba(122, 105, 228, 0.2)"
+            },
+            {
+                "label": "Jorge Gutierrez",
+                "value": 0.5670000000000001,
+                "color": "rgba(220, 25, 140, 0.2)"
+            },
+            {
+                "label": "Walter McCarty",
+                "value": 0.541,
+                "color": "rgba(57, 45, 188, 0.2)"
+            },
+            {
+                "label": "Justise Winslow",
+                "value": 0.513,
+                "color": "rgba(211, 68, 154, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Rebounds",
+        "data": [
+            {
+                "label": "Furkan Korkmaz",
+                "value": 2.2,
+                "color": "rgba(109, 170, 17, 0.2)"
+            },
+            {
+                "label": "Brevin Knight",
+                "value": 3.2,
+                "color": "rgba(194, 42, 186, 0.2)"
+            },
+            {
+                "label": "Shawnelle Scott",
+                "value": 1.4,
+                "color": "rgba(57, 165, 169, 0.2)"
+            },
+            {
+                "label": "Robert Covington",
+                "value": 4.5,
+                "color": "rgba(106, 201, 165, 0.2)"
+            },
+            {
+                "label": "Ben McLemore",
+                "value": 1.9,
+                "color": "rgba(22, 76, 53, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Rebounds",
+        "data": [
+            {
+                "label": "Ira Newble",
+                "value": 1.3,
+                "color": "rgba(241, 209, 126, 0.2)"
+            },
+            {
+                "label": "Alec Peters",
+                "value": 1.9,
+                "color": "rgba(246, 227, 29, 0.2)"
+            },
+            {
+                "label": "Tracy Murray",
+                "value": 3.4,
+                "color": "rgba(214, 127, 55, 0.2)"
+            },
+            {
+                "label": "Enes Freedom",
+                "value": 4.6,
+                "color": "rgba(25, 94, 87, 0.2)"
+            },
+            {
+                "label": "Craig Smith",
+                "value": 2.4,
+                "color": "rgba(103, 163, 178, 0.2)"
+            },
+            {
+                "label": "Jonas Valanciunas",
+                "value": 11.3,
+                "color": "rgba(254, 120, 203, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Points",
+        "data": [
+            {
+                "label": "Jamal Crawford",
+                "value": 14.0,
+                "color": "rgba(89, 114, 225, 0.2)"
+            },
+            {
+                "label": "Elden Campbell",
+                "value": 12.7,
+                "color": "rgba(243, 198, 9, 0.2)"
+            },
+            {
+                "label": "Clifford Robinson",
+                "value": 11.8,
+                "color": "rgba(252, 174, 236, 0.2)"
+            },
+            {
+                "label": "Mark Madsen",
+                "value": 2.1,
+                "color": "rgba(20, 66, 163, 0.2)"
+            },
+            {
+                "label": "Matt Bonner",
+                "value": 7.0,
+                "color": "rgba(61, 234, 160, 0.2)"
+            },
+            {
+                "label": "Jason Caffey",
+                "value": 7.1,
+                "color": "rgba(237, 29, 241, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Rebounds",
+        "data": [
+            {
+                "label": "Jeff Foster",
+                "value": 5.5,
+                "color": "rgba(183, 179, 227, 0.2)"
+            },
+            {
+                "label": "Baron Davis",
+                "value": 3.8,
+                "color": "rgba(128, 13, 127, 0.2)"
+            },
+            {
+                "label": "Josh Powell",
+                "value": 5.0,
+                "color": "rgba(218, 242, 96, 0.2)"
+            },
+            {
+                "label": "Adam Morrison",
+                "value": 2.9,
+                "color": "rgba(121, 119, 129, 0.2)"
+            },
+            {
+                "label": "Frank Ntilikina",
+                "value": 0.9,
+                "color": "rgba(45, 151, 235, 0.2)"
+            },
+            {
+                "label": "Bonzi Wells",
+                "value": 4.3,
+                "color": "rgba(131, 131, 97, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Rebounds",
+        "data": [
+            {
+                "label": "Bruno Fernando",
+                "value": 3.5,
+                "color": "rgba(153, 145, 218, 0.2)"
+            },
+            {
+                "label": "Greg Monroe",
+                "value": 7.5,
+                "color": "rgba(49, 71, 25, 0.2)"
+            },
+            {
+                "label": "Jonah Bolden",
+                "value": 3.8,
+                "color": "rgba(74, 189, 54, 0.2)"
+            },
+            {
+                "label": "Jud Buechler",
+                "value": 1.6,
+                "color": "rgba(106, 32, 156, 0.2)"
+            },
+            {
+                "label": "P.J. Tucker",
+                "value": 6.6,
+                "color": "rgba(231, 127, 118, 0.2)"
+            },
+            {
+                "label": "DeMarcus Cousins",
+                "value": 8.2,
+                "color": "rgba(77, 233, 254, 0.2)"
+            },
+            {
+                "label": "Sedale Threatt",
+                "value": 1.1,
+                "color": "rgba(220, 149, 218, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Points",
+        "data": [
+            {
+                "label": "Mario Chalmers",
+                "value": 9.8,
+                "color": "rgba(195, 168, 55, 0.2)"
+            },
+            {
+                "label": "Josh Smith",
+                "value": 9.7,
+                "color": "rgba(144, 115, 202, 0.2)"
+            },
+            {
+                "label": "Rick Fox",
+                "value": 9.0,
+                "color": "rgba(100, 85, 54, 0.2)"
+            },
+            {
+                "label": "Damon Jones",
+                "value": 6.7,
+                "color": "rgba(211, 50, 66, 0.2)"
+            },
+            {
+                "label": "Torrey Craig",
+                "value": 5.7,
+                "color": "rgba(209, 165, 14, 0.2)"
+            },
+            {
+                "label": "James Posey",
+                "value": 5.2,
+                "color": "rgba(202, 180, 150, 0.2)"
+            },
+            {
+                "label": "Dante Cunningham",
+                "value": 3.9,
+                "color": "rgba(178, 119, 78, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Usage Percentage",
+        "data": [
+            {
+                "label": "Vincent Poirier",
+                "value": 0.141,
+                "color": "rgba(62, 186, 200, 0.2)"
+            },
+            {
+                "label": "Drew Eubanks",
+                "value": 0.122,
+                "color": "rgba(116, 177, 214, 0.2)"
+            },
+            {
+                "label": "Luc Longley",
+                "value": 0.136,
+                "color": "rgba(46, 65, 124, 0.2)"
+            },
+            {
+                "label": "Dirk Nowitzki",
+                "value": 0.289,
+                "color": "rgba(145, 181, 58, 0.2)"
+            },
+            {
+                "label": "Eric Piatkowski",
+                "value": 0.142,
+                "color": "rgba(28, 117, 90, 0.2)"
+            },
+            {
+                "label": "Darrell Armstrong",
+                "value": 0.208,
+                "color": "rgba(5, 120, 181, 0.2)"
+            },
+            {
+                "label": "Eddie Griffin",
+                "value": 0.183,
+                "color": "rgba(127, 143, 139, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players True Shooting Percentage",
+        "data": [
+            {
+                "label": "Andrew Harrison",
+                "value": 0.534,
+                "color": "rgba(240, 20, 221, 0.2)"
+            },
+            {
+                "label": "E'Twaun Moore",
+                "value": 0.471,
+                "color": "rgba(178, 207, 104, 0.2)"
+            },
+            {
+                "label": "Leon Powe",
+                "value": 0.5489999999999999,
+                "color": "rgba(45, 12, 241, 0.2)"
+            },
+            {
+                "label": "Toney Douglas",
+                "value": 0.3929999999999999,
+                "color": "rgba(54, 111, 124, 0.2)"
+            },
+            {
+                "label": "Stanton Kidd",
+                "value": 0.0,
+                "color": "rgba(95, 93, 74, 0.2)"
+            },
+            {
+                "label": "Mikki Moore",
+                "value": 0.509,
+                "color": "rgba(156, 229, 205, 0.2)"
+            },
+            {
+                "label": "Alonzo Mourning",
+                "value": 0.615,
+                "color": "rgba(181, 200, 3, 0.2)"
+            },
+            {
+                "label": "Ryan Anderson",
+                "value": 0.357,
+                "color": "rgba(232, 155, 210, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "Jud Buechler",
+                "value": 0.121,
+                "color": "rgba(46, 24, 33, 0.2)"
+            },
+            {
+                "label": "Thomas Bryant",
+                "value": 0.083,
+                "color": "rgba(46, 156, 161, 0.2)"
+            },
+            {
+                "label": "Nick Young",
+                "value": 0.055,
+                "color": "rgba(85, 117, 187, 0.2)"
+            },
+            {
+                "label": "Stephon Marbury",
+                "value": 0.385,
+                "color": "rgba(74, 13, 42, 0.2)"
+            },
+            {
+                "label": "Tyson Chandler",
+                "value": 0.043,
+                "color": "rgba(101, 171, 46, 0.2)"
+            },
+            {
+                "label": "Gary Trent Jr.",
+                "value": 0.085,
+                "color": "rgba(218, 108, 164, 0.2)"
+            },
+            {
+                "label": "Kevon Looney",
+                "value": 0.12,
+                "color": "rgba(189, 247, 171, 0.2)"
+            },
+            {
+                "label": "Jonas Valanciunas",
+                "value": 0.075,
+                "color": "rgba(49, 21, 85, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players True Shooting Percentage",
+        "data": [
+            {
+                "label": "Tyus Jones",
+                "value": 0.491,
+                "color": "rgba(132, 178, 7, 0.2)"
+            },
+            {
+                "label": "Donald Royal",
+                "value": 0.552,
+                "color": "rgba(202, 68, 83, 0.2)"
+            },
+            {
+                "label": "Jason Terry",
+                "value": 0.497,
+                "color": "rgba(233, 87, 190, 0.2)"
+            },
+            {
+                "label": "Anthony Carter",
+                "value": 0.49,
+                "color": "rgba(220, 67, 172, 0.2)"
+            },
+            {
+                "label": "Damon Jones",
+                "value": 0.625,
+                "color": "rgba(74, 165, 35, 0.2)"
+            },
+            {
+                "label": "Jerami Grant",
+                "value": 0.47,
+                "color": "rgba(67, 64, 81, 0.2)"
+            },
+            {
+                "label": "Rick Mahorn",
+                "value": 0.302,
+                "color": "rgba(66, 238, 40, 0.2)"
+            },
+            {
+                "label": "Jerryd Bayless",
+                "value": 0.534,
+                "color": "rgba(33, 135, 37, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Rebounds",
+        "data": [
+            {
+                "label": "Dewayne Dedmon",
+                "value": 5.7,
+                "color": "rgba(90, 154, 8, 0.2)"
+            },
+            {
+                "label": "Briante Weber",
+                "value": 1.9,
+                "color": "rgba(216, 68, 171, 0.2)"
+            },
+            {
+                "label": "Josh Hart",
+                "value": 7.2,
+                "color": "rgba(58, 249, 228, 0.2)"
+            },
+            {
+                "label": "Alonzo Gee",
+                "value": 5.1,
+                "color": "rgba(155, 18, 54, 0.2)"
+            },
+            {
+                "label": "Shelvin Mack",
+                "value": 1.4,
+                "color": "rgba(208, 37, 184, 0.2)"
+            },
+            {
+                "label": "Sean Marks",
+                "value": 3.6,
+                "color": "rgba(15, 27, 36, 0.2)"
+            },
+            {
+                "label": "Donald Sloan",
+                "value": 2.0,
+                "color": "rgba(153, 9, 97, 0.2)"
+            },
+            {
+                "label": "Andres Nocioni",
+                "value": 3.1,
+                "color": "rgba(119, 1, 14, 0.2)"
+            },
+            {
+                "label": "Kyle Lowry",
+                "value": 4.1,
+                "color": "rgba(56, 122, 62, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Assists",
+        "data": [
+            {
+                "label": "Kendall Gill",
+                "value": 2.8,
+                "color": "rgba(65, 118, 43, 0.2)"
+            },
+            {
+                "label": "Randy Foye",
+                "value": 2.0,
+                "color": "rgba(105, 243, 52, 0.2)"
+            },
+            {
+                "label": "Jalen Johnson",
+                "value": 0.1,
+                "color": "rgba(116, 19, 88, 0.2)"
+            },
+            {
+                "label": "Greg Graham",
+                "value": 0.4,
+                "color": "rgba(14, 219, 116, 0.2)"
+            },
+            {
+                "label": "Dennis Scott",
+                "value": 1.9,
+                "color": "rgba(126, 184, 232, 0.2)"
+            },
+            {
+                "label": "Nicolas Claxton",
+                "value": 0.9,
+                "color": "rgba(136, 75, 148, 0.2)"
+            },
+            {
+                "label": "Jahidi White",
+                "value": 0.3,
+                "color": "rgba(56, 229, 201, 0.2)"
+            },
+            {
+                "label": "Ish Smith",
+                "value": 3.8,
+                "color": "rgba(77, 232, 113, 0.2)"
+            },
+            {
+                "label": "Reggie Jackson",
+                "value": 3.1,
+                "color": "rgba(216, 12, 21, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "Shawn Bradley",
+                "value": 0.04,
+                "color": "rgba(67, 46, 224, 0.2)"
+            },
+            {
+                "label": "Dan Gadzuric",
+                "value": 0.053,
+                "color": "rgba(98, 38, 108, 0.2)"
+            },
+            {
+                "label": "Quincy Lewis",
+                "value": 0.067,
+                "color": "rgba(79, 207, 209, 0.2)"
+            },
+            {
+                "label": "Ryan Anderson",
+                "value": 0.032,
+                "color": "rgba(156, 205, 53, 0.2)"
+            },
+            {
+                "label": "Malcolm Brogdon",
+                "value": 0.157,
+                "color": "rgba(244, 32, 93, 0.2)"
+            },
+            {
+                "label": "David Harrison",
+                "value": 0.026,
+                "color": "rgba(181, 163, 1, 0.2)"
+            },
+            {
+                "label": "Jeff Green",
+                "value": 0.08,
+                "color": "rgba(125, 214, 251, 0.2)"
+            },
+            {
+                "label": "Josh Magette",
+                "value": 0.37,
+                "color": "rgba(226, 63, 178, 0.2)"
+            },
+            {
+                "label": "Zeljko Rebraca",
+                "value": 0.039,
+                "color": "rgba(150, 10, 51, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "KZ Okpala",
+                "value": 0.0819999999999999,
+                "color": "rgba(12, 151, 111, 0.2)"
+            },
+            {
+                "label": "Jarrett Culver",
+                "value": 0.105,
+                "color": "rgba(139, 56, 160, 0.2)"
+            },
+            {
+                "label": "Greg Monroe",
+                "value": 0.1889999999999999,
+                "color": "rgba(239, 105, 212, 0.2)"
+            },
+            {
+                "label": "Jared Jeffries",
+                "value": 0.091,
+                "color": "rgba(128, 86, 173, 0.2)"
+            },
+            {
+                "label": "Patrick Beverley",
+                "value": 0.1369999999999999,
+                "color": "rgba(108, 2, 207, 0.2)"
+            },
+            {
+                "label": "Rashard Lewis",
+                "value": 0.073,
+                "color": "rgba(233, 110, 64, 0.2)"
+            },
+            {
+                "label": "Vitaly Potapenko",
+                "value": 0.064,
+                "color": "rgba(82, 83, 229, 0.2)"
+            },
+            {
+                "label": "Bobby Jackson",
+                "value": 0.171,
+                "color": "rgba(182, 182, 237, 0.2)"
+            },
+            {
+                "label": "Sean Elliott",
+                "value": 0.132,
+                "color": "rgba(152, 242, 162, 0.2)"
+            },
+            {
+                "label": "Jamal Crawford",
+                "value": 0.177,
+                "color": "rgba(201, 25, 238, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Assists",
+        "data": [
+            {
+                "label": "Shane Larkin",
+                "value": 3.0,
+                "color": "rgba(8, 193, 153, 0.2)"
+            },
+            {
+                "label": "Isaiah Todd",
+                "value": 0.7,
+                "color": "rgba(198, 127, 169, 0.2)"
+            },
+            {
+                "label": "Roy Hibbert",
+                "value": 1.2,
+                "color": "rgba(176, 151, 175, 0.2)"
+            },
+            {
+                "label": "Charles Smith",
+                "value": 0.6,
+                "color": "rgba(148, 162, 116, 0.2)"
+            },
+            {
+                "label": "Troy Murphy",
+                "value": 2.1,
+                "color": "rgba(24, 112, 222, 0.2)"
+            },
+            {
+                "label": "Martell Webster",
+                "value": 1.9,
+                "color": "rgba(188, 88, 16, 0.2)"
+            },
+            {
+                "label": "Quincy Lewis",
+                "value": 1.0,
+                "color": "rgba(224, 113, 228, 0.2)"
+            },
+            {
+                "label": "Markelle Fultz",
+                "value": 5.7,
+                "color": "rgba(130, 182, 5, 0.2)"
+            },
+            {
+                "label": "Lindsey Hunter",
+                "value": 4.0,
+                "color": "rgba(240, 31, 208, 0.2)"
+            },
+            {
+                "label": "Jonah Bolden",
+                "value": 0.9,
+                "color": "rgba(45, 167, 179, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Usage Percentage",
+        "data": [
+            {
+                "label": "Kyle Collinsworth",
+                "value": 0.124,
+                "color": "rgba(135, 150, 16, 0.2)"
+            },
+            {
+                "label": "Steven Smith",
+                "value": 0.185,
+                "color": "rgba(27, 208, 157, 0.2)"
+            },
+            {
+                "label": "Charlie Villanueva",
+                "value": 0.244,
+                "color": "rgba(32, 85, 151, 0.2)"
+            },
+            {
+                "label": "Darius Miller",
+                "value": 0.129,
+                "color": "rgba(42, 151, 242, 0.2)"
+            },
+            {
+                "label": "Mason Plumlee",
+                "value": 0.149,
+                "color": "rgba(106, 136, 37, 0.2)"
+            },
+            {
+                "label": "Marcus Williams",
+                "value": 0.24,
+                "color": "rgba(82, 190, 2, 0.2)"
+            },
+            {
+                "label": "Michael Doleac",
+                "value": 0.129,
+                "color": "rgba(23, 184, 18, 0.2)"
+            },
+            {
+                "label": "Brian Skinner",
+                "value": 0.115,
+                "color": "rgba(57, 2, 98, 0.2)"
+            },
+            {
+                "label": "Tom Hammonds",
+                "value": 0.198,
+                "color": "rgba(145, 128, 107, 0.2)"
+            },
+            {
+                "label": "Keith McLeod",
+                "value": 0.1889999999999999,
+                "color": "rgba(165, 177, 229, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Net Rating",
+        "data": [
+            {
+                "label": "Hubert Davis",
+                "value": -1.3,
+                "color": "rgba(231, 0, 145, 0.2)"
+            },
+            {
+                "label": "Martell Webster",
+                "value": -11.4,
+                "color": "rgba(100, 211, 1, 0.2)"
+            },
+            {
+                "label": "Duane Causwell",
+                "value": -14.9,
+                "color": "rgba(137, 229, 203, 0.2)"
+            },
+            {
+                "label": "Nazr Mohammed",
+                "value": -12.3,
+                "color": "rgba(243, 174, 9, 0.2)"
+            },
+            {
+                "label": "Stephen Curry",
+                "value": 18.3,
+                "color": "rgba(16, 178, 247, 0.2)"
+            },
+            {
+                "label": "Devin Booker",
+                "value": -4.4,
+                "color": "rgba(50, 208, 147, 0.2)"
+            },
+            {
+                "label": "Theo Ratliff",
+                "value": -12.0,
+                "color": "rgba(55, 94, 18, 0.2)"
+            },
+            {
+                "label": "Othella Harrington",
+                "value": 1.2,
+                "color": "rgba(152, 192, 162, 0.2)"
+            },
+            {
+                "label": "Ed Davis",
+                "value": -15.2,
+                "color": "rgba(163, 77, 167, 0.2)"
+            },
+            {
+                "label": "Kerry Kittles",
+                "value": -4.0,
+                "color": "rgba(17, 237, 180, 0.2)"
+            },
+            {
+                "label": "Jusuf Nurkic",
+                "value": 3.6,
+                "color": "rgba(20, 43, 210, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Offensive Rebound Percentage",
+        "data": [
+            {
+                "label": "Stephen Jackson",
+                "value": 0.021,
+                "color": "rgba(36, 237, 217, 0.2)"
+            },
+            {
+                "label": "Anderson Varejao",
+                "value": 0.1669999999999999,
+                "color": "rgba(185, 240, 166, 0.2)"
+            },
+            {
+                "label": "David Lee",
+                "value": 0.086,
+                "color": "rgba(44, 120, 238, 0.2)"
+            },
+            {
+                "label": "Andre Drummond",
+                "value": 0.153,
+                "color": "rgba(53, 226, 203, 0.2)"
+            },
+            {
+                "label": "Scot Pollard",
+                "value": 0.122,
+                "color": "rgba(62, 183, 149, 0.2)"
+            },
+            {
+                "label": "Robert Pack",
+                "value": 0.031,
+                "color": "rgba(236, 81, 252, 0.2)"
+            },
+            {
+                "label": "Randy Foye",
+                "value": 0.015,
+                "color": "rgba(116, 9, 199, 0.2)"
+            },
+            {
+                "label": "Antoine Wright",
+                "value": 0.054,
+                "color": "rgba(112, 215, 216, 0.2)"
+            },
+            {
+                "label": "B.J. Armstrong",
+                "value": 0.004,
+                "color": "rgba(167, 118, 15, 0.2)"
+            },
+            {
+                "label": "Anthony Peeler",
+                "value": 0.023,
+                "color": "rgba(98, 102, 238, 0.2)"
+            },
+            {
+                "label": "Anthony Edwards",
+                "value": 0.017,
+                "color": "rgba(86, 170, 245, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Usage Percentage",
+        "data": [
+            {
+                "label": "Semi Ojeleye",
+                "value": 0.114,
+                "color": "rgba(191, 188, 70, 0.2)"
+            },
+            {
+                "label": "Calbert Cheaney",
+                "value": 0.185,
+                "color": "rgba(55, 96, 58, 0.2)"
+            },
+            {
+                "label": "Stacey Augmon",
+                "value": 0.1639999999999999,
+                "color": "rgba(152, 234, 136, 0.2)"
+            },
+            {
+                "label": "Aleem Ford",
+                "value": 0.148,
+                "color": "rgba(123, 82, 223, 0.2)"
+            },
+            {
+                "label": "Jose Alvarado",
+                "value": 0.191,
+                "color": "rgba(168, 226, 119, 0.2)"
+            },
+            {
+                "label": "Reggie Evans",
+                "value": 0.136,
+                "color": "rgba(39, 36, 157, 0.2)"
+            },
+            {
+                "label": "Harry Giles III",
+                "value": 0.2269999999999999,
+                "color": "rgba(63, 195, 122, 0.2)"
+            },
+            {
+                "label": "Pascal Siakam",
+                "value": 0.205,
+                "color": "rgba(25, 248, 237, 0.2)"
+            },
+            {
+                "label": "Derrick Favors",
+                "value": 0.125,
+                "color": "rgba(86, 241, 85, 0.2)"
+            },
+            {
+                "label": "Lawrence Funderburke",
+                "value": 0.181,
+                "color": "rgba(38, 253, 44, 0.2)"
+            },
+            {
+                "label": "Luke Ridnour",
+                "value": 0.193,
+                "color": "rgba(105, 56, 82, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "David West",
+                "value": 0.26,
+                "color": "rgba(177, 53, 132, 0.2)"
+            },
+            {
+                "label": "Bryant Reeves",
+                "value": 0.108,
+                "color": "rgba(118, 225, 36, 0.2)"
+            },
+            {
+                "label": "Manu Ginobili",
+                "value": 0.257,
+                "color": "rgba(50, 119, 166, 0.2)"
+            },
+            {
+                "label": "Gian Clavell",
+                "value": 0.071,
+                "color": "rgba(88, 87, 3, 0.2)"
+            },
+            {
+                "label": "Cheikh Samb",
+                "value": 0.0,
+                "color": "rgba(126, 53, 209, 0.2)"
+            },
+            {
+                "label": "Kevin Ollie",
+                "value": 0.263,
+                "color": "rgba(241, 70, 22, 0.2)"
+            },
+            {
+                "label": "Mfiondu Kabengele",
+                "value": 0.0,
+                "color": "rgba(14, 250, 20, 0.2)"
+            },
+            {
+                "label": "Matt Barnes",
+                "value": 0.131,
+                "color": "rgba(195, 73, 234, 0.2)"
+            },
+            {
+                "label": "Luke Babbitt",
+                "value": 0.049,
+                "color": "rgba(167, 181, 143, 0.2)"
+            },
+            {
+                "label": "Troy Hudson",
+                "value": 0.2269999999999999,
+                "color": "rgba(2, 73, 18, 0.2)"
+            },
+            {
+                "label": "Mark Blount",
+                "value": 0.034,
+                "color": "rgba(219, 1, 114, 0.2)"
+            },
+            {
+                "label": "Charlie Villanueva",
+                "value": 0.072,
+                "color": "rgba(27, 24, 35, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Usage Percentage",
+        "data": [
+            {
+                "label": "Tyson Chandler",
+                "value": 0.138,
+                "color": "rgba(159, 0, 200, 0.2)"
+            },
+            {
+                "label": "Dewayne Dedmon",
+                "value": 0.183,
+                "color": "rgba(28, 165, 179, 0.2)"
+            },
+            {
+                "label": "Rashard Lewis",
+                "value": 0.207,
+                "color": "rgba(66, 120, 41, 0.2)"
+            },
+            {
+                "label": "Kenrich Williams",
+                "value": 0.087,
+                "color": "rgba(93, 188, 18, 0.2)"
+            },
+            {
+                "label": "Donta Smith",
+                "value": 0.124,
+                "color": "rgba(33, 103, 162, 0.2)"
+            },
+            {
+                "label": "Josh Richardson",
+                "value": 0.2,
+                "color": "rgba(169, 147, 242, 0.2)"
+            },
+            {
+                "label": "Patty Mills",
+                "value": 0.1889999999999999,
+                "color": "rgba(22, 203, 40, 0.2)"
+            },
+            {
+                "label": "Ron Mercer",
+                "value": 0.2239999999999999,
+                "color": "rgba(114, 159, 207, 0.2)"
+            },
+            {
+                "label": "Antonio McDyess",
+                "value": 0.2689999999999999,
+                "color": "rgba(197, 142, 150, 0.2)"
+            },
+            {
+                "label": "Don MacLean",
+                "value": 0.264,
+                "color": "rgba(220, 240, 6, 0.2)"
+            },
+            {
+                "label": "Josh Childress",
+                "value": 0.02,
+                "color": "rgba(107, 245, 57, 0.2)"
+            },
+            {
+                "label": "Brandon Goodwin",
+                "value": 0.22,
+                "color": "rgba(190, 13, 169, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Defensive Rebound Percentage",
+        "data": [
+            {
+                "label": "Trevor Ariza",
+                "value": 0.1159999999999999,
+                "color": "rgba(111, 132, 114, 0.2)"
+            },
+            {
+                "label": "Kendrick Nunn",
+                "value": 0.079,
+                "color": "rgba(74, 203, 209, 0.2)"
+            },
+            {
+                "label": "Mac McClung",
+                "value": 0.152,
+                "color": "rgba(73, 245, 175, 0.2)"
+            },
+            {
+                "label": "Kyrie Irving",
+                "value": 0.075,
+                "color": "rgba(18, 205, 85, 0.2)"
+            },
+            {
+                "label": "Frank Kaminsky",
+                "value": 0.1639999999999999,
+                "color": "rgba(157, 160, 217, 0.2)"
+            },
+            {
+                "label": "Marcin Gortat",
+                "value": 0.24,
+                "color": "rgba(97, 227, 136, 0.2)"
+            },
+            {
+                "label": "Francisco Garcia",
+                "value": 0.126,
+                "color": "rgba(9, 250, 64, 0.2)"
+            },
+            {
+                "label": "Predrag Drobnjak",
+                "value": 0.175,
+                "color": "rgba(180, 61, 43, 0.2)"
+            },
+            {
+                "label": "Shammond Williams",
+                "value": 0.091,
+                "color": "rgba(148, 147, 17, 0.2)"
+            },
+            {
+                "label": "Obinna Ekezie",
+                "value": 0.201,
+                "color": "rgba(62, 123, 120, 0.2)"
+            },
+            {
+                "label": "Danny Green",
+                "value": 0.103,
+                "color": "rgba(11, 91, 205, 0.2)"
+            },
+            {
+                "label": "Grayson Allen",
+                "value": 0.0969999999999999,
+                "color": "rgba(112, 231, 97, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "Kelvin Cato",
+                "value": 0.0,
+                "color": "rgba(101, 111, 212, 0.2)"
+            },
+            {
+                "label": "Randy Brown",
+                "value": 1.0,
+                "color": "rgba(170, 85, 165, 0.2)"
+            },
+            {
+                "label": "Isaiah Livers",
+                "value": 0.077,
+                "color": "rgba(174, 119, 3, 0.2)"
+            },
+            {
+                "label": "Josh Howard",
+                "value": 0.081,
+                "color": "rgba(235, 27, 127, 0.2)"
+            },
+            {
+                "label": "Jalen Rose",
+                "value": 0.209,
+                "color": "rgba(39, 54, 91, 0.2)"
+            },
+            {
+                "label": "Greg Ostertag",
+                "value": 0.021,
+                "color": "rgba(230, 9, 183, 0.2)"
+            },
+            {
+                "label": "Terrence Jones",
+                "value": 0.0,
+                "color": "rgba(129, 203, 216, 0.2)"
+            },
+            {
+                "label": "Luke Kennard",
+                "value": 0.12,
+                "color": "rgba(5, 27, 182, 0.2)"
+            },
+            {
+                "label": "Reggie Evans",
+                "value": 0.06,
+                "color": "rgba(65, 210, 33, 0.2)"
+            },
+            {
+                "label": "Chris Dudley",
+                "value": 0.036,
+                "color": "rgba(203, 213, 184, 0.2)"
+            },
+            {
+                "label": "Troy Hudson",
+                "value": 0.239,
+                "color": "rgba(134, 132, 69, 0.2)"
+            },
+            {
+                "label": "Calbert Cheaney",
+                "value": 0.074,
+                "color": "rgba(21, 198, 92, 0.2)"
+            },
+            {
+                "label": "Larry Nance Jr.",
+                "value": 0.1169999999999999,
+                "color": "rgba(92, 56, 179, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Assists",
+        "data": [
+            {
+                "label": "Chasson Randle",
+                "value": 1.8,
+                "color": "rgba(156, 138, 196, 0.2)"
+            },
+            {
+                "label": "Shawne Williams",
+                "value": 0.8,
+                "color": "rgba(48, 212, 38, 0.2)"
+            },
+            {
+                "label": "Eric Williams",
+                "value": 1.4,
+                "color": "rgba(232, 237, 201, 0.2)"
+            },
+            {
+                "label": "Richard Hamilton",
+                "value": 2.4,
+                "color": "rgba(16, 165, 163, 0.2)"
+            },
+            {
+                "label": "Oliver Miller",
+                "value": 0.0,
+                "color": "rgba(201, 254, 76, 0.2)"
+            },
+            {
+                "label": "Steve Francis",
+                "value": 6.6,
+                "color": "rgba(232, 85, 126, 0.2)"
+            },
+            {
+                "label": "Iman Shumpert",
+                "value": 1.7,
+                "color": "rgba(141, 200, 77, 0.2)"
+            },
+            {
+                "label": "Eric Riley",
+                "value": 0.6,
+                "color": "rgba(115, 206, 93, 0.2)"
+            },
+            {
+                "label": "Luol Deng",
+                "value": 2.8,
+                "color": "rgba(179, 7, 7, 0.2)"
+            },
+            {
+                "label": "Earl Boykins",
+                "value": 2.1,
+                "color": "rgba(251, 101, 3, 0.2)"
+            },
+            {
+                "label": "Thabo Sefolosha",
+                "value": 1.7,
+                "color": "rgba(95, 106, 149, 0.2)"
+            },
+            {
+                "label": "Jimmer Fredette",
+                "value": 0.2,
+                "color": "rgba(170, 121, 197, 0.2)"
+            },
+            {
+                "label": "Alan Williams",
+                "value": 0.6,
+                "color": "rgba(121, 195, 193, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "Luke Ridnour",
+                "value": 0.304,
+                "color": "rgba(21, 116, 205, 0.2)"
+            },
+            {
+                "label": "Jerry Stackhouse",
+                "value": 0.17,
+                "color": "rgba(154, 122, 41, 0.2)"
+            },
+            {
+                "label": "Jamal Crawford",
+                "value": 0.28,
+                "color": "rgba(44, 172, 190, 0.2)"
+            },
+            {
+                "label": "Derrick Favors",
+                "value": 0.071,
+                "color": "rgba(202, 229, 73, 0.2)"
+            },
+            {
+                "label": "Kwame Brown",
+                "value": 0.087,
+                "color": "rgba(199, 166, 235, 0.2)"
+            },
+            {
+                "label": "Alfonzo McKinnie",
+                "value": 0.032,
+                "color": "rgba(222, 95, 120, 0.2)"
+            },
+            {
+                "label": "Shawn Marion",
+                "value": 0.089,
+                "color": "rgba(66, 62, 128, 0.2)"
+            },
+            {
+                "label": "Sundiata Gaines",
+                "value": 0.289,
+                "color": "rgba(48, 94, 196, 0.2)"
+            },
+            {
+                "label": "Damon Jones",
+                "value": 0.363,
+                "color": "rgba(211, 172, 168, 0.2)"
+            },
+            {
+                "label": "Norman Powell",
+                "value": 0.122,
+                "color": "rgba(143, 215, 131, 0.2)"
+            },
+            {
+                "label": "Grant Long",
+                "value": 0.1169999999999999,
+                "color": "rgba(221, 252, 7, 0.2)"
+            },
+            {
+                "label": "Rasual Butler",
+                "value": 0.037,
+                "color": "rgba(238, 17, 249, 0.2)"
+            },
+            {
+                "label": "Marty Conlon",
+                "value": 0.1009999999999999,
+                "color": "rgba(201, 65, 89, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Offensive Rebound Percentage",
+        "data": [
+            {
+                "label": "Howard Eisley",
+                "value": 0.011,
+                "color": "rgba(1, 18, 55, 0.2)"
+            },
+            {
+                "label": "Andray Blatche",
+                "value": 0.121,
+                "color": "rgba(100, 239, 80, 0.2)"
+            },
+            {
+                "label": "Brian Bowen II",
+                "value": 0.0,
+                "color": "rgba(59, 127, 163, 0.2)"
+            },
+            {
+                "label": "Luke Babbitt",
+                "value": 0.017,
+                "color": "rgba(112, 59, 12, 0.2)"
+            },
+            {
+                "label": "Wesley Johnson",
+                "value": 0.024,
+                "color": "rgba(104, 216, 236, 0.2)"
+            },
+            {
+                "label": "Jerome Williams",
+                "value": 0.144,
+                "color": "rgba(140, 22, 207, 0.2)"
+            },
+            {
+                "label": "Doron Lamb",
+                "value": 0.013,
+                "color": "rgba(20, 89, 232, 0.2)"
+            },
+            {
+                "label": "Michael Frazier II",
+                "value": 0.006,
+                "color": "rgba(166, 138, 100, 0.2)"
+            },
+            {
+                "label": "Stephon Marbury",
+                "value": 0.021,
+                "color": "rgba(169, 23, 162, 0.2)"
+            },
+            {
+                "label": "Andre Roberson",
+                "value": 0.068,
+                "color": "rgba(62, 196, 149, 0.2)"
+            },
+            {
+                "label": "Georges Niang",
+                "value": 0.013,
+                "color": "rgba(86, 153, 61, 0.2)"
+            },
+            {
+                "label": "Kevin Martin",
+                "value": 0.019,
+                "color": "rgba(162, 83, 23, 0.2)"
+            },
+            {
+                "label": "Lindsey Hunter",
+                "value": 0.023,
+                "color": "rgba(43, 205, 186, 0.2)"
+            },
+            {
+                "label": "Jake Voskuhl",
+                "value": 0.0819999999999999,
+                "color": "rgba(47, 71, 95, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Offensive Rebound Percentage",
+        "data": [
+            {
+                "label": "Bruno Caboclo",
+                "value": 0.062,
+                "color": "rgba(61, 128, 23, 0.2)"
+            },
+            {
+                "label": "Pete Chilcutt",
+                "value": 0.063,
+                "color": "rgba(20, 185, 179, 0.2)"
+            },
+            {
+                "label": "Sean Higgins",
+                "value": 0.0,
+                "color": "rgba(220, 202, 202, 0.2)"
+            },
+            {
+                "label": "Wayne Ellington",
+                "value": 0.026,
+                "color": "rgba(107, 23, 140, 0.2)"
+            },
+            {
+                "label": "Patrick O'Bryant",
+                "value": 0.057,
+                "color": "rgba(64, 203, 196, 0.2)"
+            },
+            {
+                "label": "Tre Jones",
+                "value": 0.0279999999999999,
+                "color": "rgba(126, 144, 172, 0.2)"
+            },
+            {
+                "label": "Brandon Clarke",
+                "value": 0.079,
+                "color": "rgba(139, 66, 83, 0.2)"
+            },
+            {
+                "label": "Jaden Springer",
+                "value": 0.143,
+                "color": "rgba(177, 190, 6, 0.2)"
+            },
+            {
+                "label": "Shaun Livingston",
+                "value": 0.024,
+                "color": "rgba(129, 58, 96, 0.2)"
+            },
+            {
+                "label": "DeAndre Liggins",
+                "value": 0.0289999999999999,
+                "color": "rgba(102, 192, 48, 0.2)"
+            },
+            {
+                "label": "Travis Outlaw",
+                "value": 0.027,
+                "color": "rgba(94, 136, 141, 0.2)"
+            },
+            {
+                "label": "Andris Biedrins",
+                "value": 0.047,
+                "color": "rgba(14, 131, 79, 0.2)"
+            },
+            {
+                "label": "Tony Parker",
+                "value": 0.017,
+                "color": "rgba(140, 41, 163, 0.2)"
+            },
+            {
+                "label": "Dennis Scott",
+                "value": 0.015,
+                "color": "rgba(133, 57, 255, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Assists",
+        "data": [
+            {
+                "label": "Chris Bosh",
+                "value": 1.9,
+                "color": "rgba(138, 64, 27, 0.2)"
+            },
+            {
+                "label": "Korleone Young",
+                "value": 0.3,
+                "color": "rgba(4, 202, 109, 0.2)"
+            },
+            {
+                "label": "Matt Bullard",
+                "value": 1.1,
+                "color": "rgba(58, 176, 96, 0.2)"
+            },
+            {
+                "label": "Coby White",
+                "value": 2.9,
+                "color": "rgba(178, 246, 29, 0.2)"
+            },
+            {
+                "label": "Al Jefferson",
+                "value": 0.8,
+                "color": "rgba(58, 15, 176, 0.2)"
+            },
+            {
+                "label": "Earl Watson",
+                "value": 1.2,
+                "color": "rgba(198, 129, 1, 0.2)"
+            },
+            {
+                "label": "Darius Miles",
+                "value": 2.1,
+                "color": "rgba(185, 27, 221, 0.2)"
+            },
+            {
+                "label": "Monta Ellis",
+                "value": 5.7,
+                "color": "rgba(157, 254, 133, 0.2)"
+            },
+            {
+                "label": "Tyler Johnson",
+                "value": 2.9,
+                "color": "rgba(252, 222, 60, 0.2)"
+            },
+            {
+                "label": "Dennis Schroder",
+                "value": 4.5,
+                "color": "rgba(155, 252, 222, 0.2)"
+            },
+            {
+                "label": "Sergio Rodriguez",
+                "value": 3.6,
+                "color": "rgba(77, 133, 140, 0.2)"
+            },
+            {
+                "label": "Kevin Willis",
+                "value": 0.3,
+                "color": "rgba(244, 230, 153, 0.2)"
+            },
+            {
+                "label": "Matt Barnes",
+                "value": 2.8,
+                "color": "rgba(56, 190, 70, 0.2)"
+            },
+            {
+                "label": "Draymond Green",
+                "value": 0.7,
+                "color": "rgba(32, 58, 34, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "JJ Redick",
+                "value": 0.085,
+                "color": "rgba(154, 118, 52, 0.2)"
+            },
+            {
+                "label": "Ryan Bowen",
+                "value": 0.0,
+                "color": "rgba(158, 101, 194, 0.2)"
+            },
+            {
+                "label": "Slava Medvedenko",
+                "value": 0.099,
+                "color": "rgba(103, 32, 238, 0.2)"
+            },
+            {
+                "label": "Hassani Gravett",
+                "value": 0.177,
+                "color": "rgba(7, 219, 13, 0.2)"
+            },
+            {
+                "label": "David Harrison",
+                "value": 0.026,
+                "color": "rgba(197, 250, 20, 0.2)"
+            },
+            {
+                "label": "Jeremy Lamb",
+                "value": 0.113,
+                "color": "rgba(233, 9, 56, 0.2)"
+            },
+            {
+                "label": "Lonnie Walker IV",
+                "value": 0.095,
+                "color": "rgba(190, 150, 168, 0.2)"
+            },
+            {
+                "label": "Marcus Morris",
+                "value": 0.042,
+                "color": "rgba(106, 254, 50, 0.2)"
+            },
+            {
+                "label": "Cory Alexander",
+                "value": 0.305,
+                "color": "rgba(87, 28, 209, 0.2)"
+            },
+            {
+                "label": "Theo Ratliff",
+                "value": 0.03,
+                "color": "rgba(69, 207, 223, 0.2)"
+            },
+            {
+                "label": "Jermaine O'Neal",
+                "value": 0.128,
+                "color": "rgba(140, 51, 153, 0.2)"
+            },
+            {
+                "label": "Rajon Rondo",
+                "value": 0.263,
+                "color": "rgba(197, 196, 218, 0.2)"
+            },
+            {
+                "label": "Dominic McGuire",
+                "value": 0.059,
+                "color": "rgba(22, 166, 165, 0.2)"
+            },
+            {
+                "label": "Dorell Wright",
+                "value": 0.096,
+                "color": "rgba(2, 42, 252, 0.2)"
+            },
+            {
+                "label": "Tariq Abdul-Wahad",
+                "value": 0.062,
+                "color": "rgba(153, 143, 107, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players Assists",
+        "data": [
+            {
+                "label": "Dahntay Jones",
+                "value": 1.0,
+                "color": "rgba(16, 181, 150, 0.2)"
+            },
+            {
+                "label": "Nicolas Batum",
+                "value": 4.9,
+                "color": "rgba(101, 199, 97, 0.2)"
+            },
+            {
+                "label": "Brandan Wright",
+                "value": 0.5,
+                "color": "rgba(125, 104, 231, 0.2)"
+            },
+            {
+                "label": "Jordan Adams",
+                "value": 1.5,
+                "color": "rgba(165, 103, 139, 0.2)"
+            },
+            {
+                "label": "Dan Majerle",
+                "value": 3.2,
+                "color": "rgba(91, 118, 153, 0.2)"
+            },
+            {
+                "label": "Al Horford",
+                "value": 1.5,
+                "color": "rgba(190, 208, 211, 0.2)"
+            },
+            {
+                "label": "Donnell Harvey",
+                "value": 0.1,
+                "color": "rgba(134, 139, 1, 0.2)"
+            },
+            {
+                "label": "Jason Collier",
+                "value": 0.3,
+                "color": "rgba(47, 167, 234, 0.2)"
+            },
+            {
+                "label": "Ish Smith",
+                "value": 1.8,
+                "color": "rgba(60, 66, 12, 0.2)"
+            },
+            {
+                "label": "Ricky Davis",
+                "value": 3.0,
+                "color": "rgba(92, 149, 57, 0.2)"
+            },
+            {
+                "label": "Chauncey Billups",
+                "value": 2.2,
+                "color": "rgba(129, 119, 158, 0.2)"
+            },
+            {
+                "label": "Mo Bamba",
+                "value": 1.2,
+                "color": "rgba(162, 81, 70, 0.2)"
+            },
+            {
+                "label": "Kevin Love",
+                "value": 2.2,
+                "color": "rgba(47, 79, 109, 0.2)"
+            },
+            {
+                "label": "Raul Neto",
+                "value": 2.1,
+                "color": "rgba(235, 113, 199, 0.2)"
+            },
+            {
+                "label": "Ryan Arcidiacono",
+                "value": 3.3,
+                "color": "rgba(6, 113, 53, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "NBA' Players True Shooting Percentage",
+        "data": [
+            {
+                "label": "DaQuan Jeffries",
+                "value": 0.514,
+                "color": "rgba(33, 153, 68, 0.2)"
+            },
+            {
+                "label": "Larry Johnson",
+                "value": 0.5539999999999999,
+                "color": "rgba(51, 220, 85, 0.2)"
+            },
+            {
+                "label": "Andre Miller",
+                "value": 0.534,
+                "color": "rgba(52, 130, 95, 0.2)"
+            },
+            {
+                "label": "Eric Williams",
+                "value": 0.494,
+                "color": "rgba(137, 116, 50, 0.2)"
+            },
+            {
+                "label": "Josh Boone",
+                "value": 0.5870000000000001,
+                "color": "rgba(117, 132, 173, 0.2)"
+            },
+            {
+                "label": "Tyrus Thomas",
+                "value": 0.511,
+                "color": "rgba(246, 240, 106, 0.2)"
+            },
+            {
+                "label": "Jake Voskuhl",
+                "value": 0.342,
+                "color": "rgba(152, 123, 48, 0.2)"
+            },
+            {
+                "label": "Cherokee Parks",
+                "value": 0.5329999999999999,
+                "color": "rgba(61, 66, 6, 0.2)"
+            },
+            {
+                "label": "Brook Lopez",
+                "value": 0.611,
+                "color": "rgba(147, 129, 92, 0.2)"
+            },
+            {
+                "label": "Patty Mills",
+                "value": 0.578,
+                "color": "rgba(2, 103, 235, 0.2)"
+            },
+            {
+                "label": "Al-Farouq Aminu",
+                "value": 0.506,
+                "color": "rgba(113, 247, 226, 0.2)"
+            },
+            {
+                "label": "Malcolm Brogdon",
+                "value": 0.557,
+                "color": "rgba(79, 6, 63, 0.2)"
+            },
+            {
+                "label": "Mike Wilks",
+                "value": 0.5429999999999999,
+                "color": "rgba(121, 160, 184, 0.2)"
+            },
+            {
+                "label": "Jeremy Lin",
+                "value": 0.552,
+                "color": "rgba(194, 109, 122, 0.2)"
+            },
+            {
+                "label": "Marty Conlon",
+                "value": 0.541,
+                "color": "rgba(13, 78, 138, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Points",
+        "data": [
+            {
+                "label": "Vince Carter",
+                "value": 7.4,
+                "color": "rgba(244, 179, 238, 0.2)"
+            },
+            {
+                "label": "Kenyon Martin",
+                "value": 12.4,
+                "color": "rgba(242, 73, 132, 0.2)"
+            },
+            {
+                "label": "Ben Davis",
+                "value": 1.5,
+                "color": "rgba(98, 156, 225, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Assists",
+        "data": [
+            {
+                "label": "Rasho Nesterovic",
+                "value": 0.5,
+                "color": "rgba(229, 39, 90, 0.2)"
+            },
+            {
+                "label": "Anthony Randolph",
+                "value": 0.7,
+                "color": "rgba(228, 196, 160, 0.2)"
+            },
+            {
+                "label": "Evan Mobley",
+                "value": 2.8,
+                "color": "rgba(108, 25, 147, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Rebounds",
+        "data": [
+            {
+                "label": "Jayson Tatum",
+                "value": 8.8,
+                "color": "rgba(204, 116, 162, 0.2)"
+            },
+            {
+                "label": "Eddie Gill",
+                "value": 1.1,
+                "color": "rgba(198, 131, 30, 0.2)"
+            },
+            {
+                "label": "Dominic McGuire",
+                "value": 3.8,
+                "color": "rgba(226, 46, 238, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "Tim Frazier",
+                "value": 0.286,
+                "color": "rgba(20, 8, 234, 0.2)"
+            },
+            {
+                "label": "Frank Williams",
+                "value": 0.374,
+                "color": "rgba(170, 38, 28, 0.2)"
+            },
+            {
+                "label": "Alan Henderson",
+                "value": 0.068,
+                "color": "rgba(152, 69, 77, 0.2)"
+            },
+            {
+                "label": "Billy Garrett",
+                "value": 0.1889999999999999,
+                "color": "rgba(196, 198, 169, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Assists",
+        "data": [
+            {
+                "label": "Raymond Felton",
+                "value": 1.6,
+                "color": "rgba(19, 63, 59, 0.2)"
+            },
+            {
+                "label": "Johan Petro",
+                "value": 0.5,
+                "color": "rgba(245, 61, 158, 0.2)"
+            },
+            {
+                "label": "Gerald Green",
+                "value": 1.0,
+                "color": "rgba(75, 59, 2, 0.2)"
+            },
+            {
+                "label": "Malachi Flynn",
+                "value": 1.6,
+                "color": "rgba(167, 57, 117, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Defensive Rebound Percentage",
+        "data": [
+            {
+                "label": "Jimmy Butler",
+                "value": 0.153,
+                "color": "rgba(171, 112, 89, 0.2)"
+            },
+            {
+                "label": "Tyrone Corbin",
+                "value": 0.111,
+                "color": "rgba(51, 162, 7, 0.2)"
+            },
+            {
+                "label": "Jared Rhoden",
+                "value": 0.135,
+                "color": "rgba(139, 138, 252, 0.2)"
+            },
+            {
+                "label": "Donnell Harvey",
+                "value": 0.455,
+                "color": "rgba(177, 23, 183, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Assists",
+        "data": [
+            {
+                "label": "Mile Ilic",
+                "value": 0.0,
+                "color": "rgba(231, 99, 242, 0.2)"
+            },
+            {
+                "label": "Jalen Smith",
+                "value": 0.5,
+                "color": "rgba(196, 218, 211, 0.2)"
+            },
+            {
+                "label": "Rasho Nesterovic",
+                "value": 0.4,
+                "color": "rgba(176, 236, 182, 0.2)"
+            },
+            {
+                "label": "Aaron Brooks",
+                "value": 1.7,
+                "color": "rgba(119, 107, 162, 0.2)"
+            },
+            {
+                "label": "Khyri Thomas",
+                "value": 0.3,
+                "color": "rgba(62, 255, 144, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Net Rating",
+        "data": [
+            {
+                "label": "Brian Scalabrine",
+                "value": -2.1,
+                "color": "rgba(27, 167, 33, 0.2)"
+            },
+            {
+                "label": "Willie Cauley-Stein",
+                "value": 1.2,
+                "color": "rgba(17, 48, 82, 0.2)"
+            },
+            {
+                "label": "Michael Finley",
+                "value": 6.3,
+                "color": "rgba(81, 16, 129, 0.2)"
+            },
+            {
+                "label": "Montrezl Harrell",
+                "value": 6.5,
+                "color": "rgba(40, 61, 95, 0.2)"
+            },
+            {
+                "label": "Patrick McCaw",
+                "value": 0.6,
+                "color": "rgba(182, 201, 93, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Offensive Rebound Percentage",
+        "data": [
+            {
+                "label": "John Henson",
+                "value": 0.077,
+                "color": "rgba(28, 193, 151, 0.2)"
+            },
+            {
+                "label": "Cedric Henderson",
+                "value": 0.037,
+                "color": "rgba(40, 77, 39, 0.2)"
+            },
+            {
+                "label": "Jamal Crawford",
+                "value": 0.012,
+                "color": "rgba(111, 228, 227, 0.2)"
+            },
+            {
+                "label": "Seth Curry",
+                "value": 0.0139999999999999,
+                "color": "rgba(227, 145, 4, 0.2)"
+            },
+            {
+                "label": "Todd MacCulloch",
+                "value": 0.094,
+                "color": "rgba(247, 237, 19, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Points",
+        "data": [
+            {
+                "label": "Rick Fox",
+                "value": 6.5,
+                "color": "rgba(62, 81, 147, 0.2)"
+            },
+            {
+                "label": "Corey Maggette",
+                "value": 11.4,
+                "color": "rgba(41, 107, 75, 0.2)"
+            },
+            {
+                "label": "Kendall Gill",
+                "value": 9.6,
+                "color": "rgba(195, 228, 3, 0.2)"
+            },
+            {
+                "label": "LeBron James",
+                "value": 25.3,
+                "color": "rgba(109, 211, 128, 0.2)"
+            },
+            {
+                "label": "Eric Bledsoe",
+                "value": 8.5,
+                "color": "rgba(46, 1, 98, 0.2)"
+            },
+            {
+                "label": "Dante Cunningham",
+                "value": 6.1,
+                "color": "rgba(225, 204, 168, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "Patty Mills",
+                "value": 0.147,
+                "color": "rgba(98, 228, 82, 0.2)"
+            },
+            {
+                "label": "Fred Hoiberg",
+                "value": 0.2,
+                "color": "rgba(57, 161, 117, 0.2)"
+            },
+            {
+                "label": "Stephen Jackson",
+                "value": 0.151,
+                "color": "rgba(161, 250, 97, 0.2)"
+            },
+            {
+                "label": "Michael Jordan",
+                "value": 0.174,
+                "color": "rgba(2, 13, 153, 0.2)"
+            },
+            {
+                "label": "Alan Anderson",
+                "value": 0.074,
+                "color": "rgba(175, 141, 66, 0.2)"
+            },
+            {
+                "label": "Andrew Wiggins",
+                "value": 0.0969999999999999,
+                "color": "rgba(177, 233, 117, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Offensive Rebound Percentage",
+        "data": [
+            {
+                "label": "Darrell Armstrong",
+                "value": 0.037,
+                "color": "rgba(211, 6, 64, 0.2)"
+            },
+            {
+                "label": "Nene",
+                "value": 0.093,
+                "color": "rgba(28, 2, 10, 0.2)"
+            },
+            {
+                "label": "Baron Davis",
+                "value": 0.025,
+                "color": "rgba(6, 17, 200, 0.2)"
+            },
+            {
+                "label": "Ersan Ilyasova",
+                "value": 0.067,
+                "color": "rgba(115, 140, 205, 0.2)"
+            },
+            {
+                "label": "Rajon Rondo",
+                "value": 0.018,
+                "color": "rgba(174, 210, 143, 0.2)"
+            },
+            {
+                "label": "Kevin Garnett",
+                "value": 0.091,
+                "color": "rgba(112, 7, 115, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Usage Percentage",
+        "data": [
+            {
+                "label": "Alan Anderson",
+                "value": 0.142,
+                "color": "rgba(167, 40, 36, 0.2)"
+            },
+            {
+                "label": "Randy Livingston",
+                "value": 0.13,
+                "color": "rgba(12, 76, 74, 0.2)"
+            },
+            {
+                "label": "Javaris Crittenton",
+                "value": 0.216,
+                "color": "rgba(247, 242, 223, 0.2)"
+            },
+            {
+                "label": "Jermaine O'Neal",
+                "value": 0.2289999999999999,
+                "color": "rgba(228, 147, 119, 0.2)"
+            },
+            {
+                "label": "Troy Hudson",
+                "value": 0.22,
+                "color": "rgba(109, 99, 63, 0.2)"
+            },
+            {
+                "label": "Trevor Booker",
+                "value": 0.157,
+                "color": "rgba(157, 16, 126, 0.2)"
+            },
+            {
+                "label": "Zan Tabak",
+                "value": 0.161,
+                "color": "rgba(171, 221, 242, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players True Shooting Percentage",
+        "data": [
+            {
+                "label": "Quentin Grimes",
+                "value": 0.619,
+                "color": "rgba(231, 191, 70, 0.2)"
+            },
+            {
+                "label": "Joakim Noah",
+                "value": 0.5710000000000001,
+                "color": "rgba(120, 75, 223, 0.2)"
+            },
+            {
+                "label": "Glenn Robinson III",
+                "value": 0.471,
+                "color": "rgba(139, 255, 63, 0.2)"
+            },
+            {
+                "label": "Rasheed Wallace",
+                "value": 0.513,
+                "color": "rgba(100, 241, 43, 0.2)"
+            },
+            {
+                "label": "Jose Calderon",
+                "value": 0.607,
+                "color": "rgba(126, 53, 243, 0.2)"
+            },
+            {
+                "label": "Nassir Little",
+                "value": 0.555,
+                "color": "rgba(49, 85, 38, 0.2)"
+            },
+            {
+                "label": "Alec Burks",
+                "value": 0.561,
+                "color": "rgba(59, 239, 51, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Points",
+        "data": [
+            {
+                "label": "Fabricio Oberto",
+                "value": 1.7,
+                "color": "rgba(61, 229, 158, 0.2)"
+            },
+            {
+                "label": "Tracy McGrady",
+                "value": 24.4,
+                "color": "rgba(144, 106, 250, 0.2)"
+            },
+            {
+                "label": "Nene",
+                "value": 9.6,
+                "color": "rgba(176, 154, 35, 0.2)"
+            },
+            {
+                "label": "Jason Thompson",
+                "value": 11.1,
+                "color": "rgba(206, 238, 148, 0.2)"
+            },
+            {
+                "label": "Luke Babbitt",
+                "value": 5.2,
+                "color": "rgba(72, 162, 196, 0.2)"
+            },
+            {
+                "label": "Joel Ayayi",
+                "value": 0.3,
+                "color": "rgba(58, 83, 9, 0.2)"
+            },
+            {
+                "label": "Devin Harris",
+                "value": 16.9,
+                "color": "rgba(226, 173, 159, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Usage Percentage",
+        "data": [
+            {
+                "label": "JaVale McGee",
+                "value": 0.214,
+                "color": "rgba(167, 142, 85, 0.2)"
+            },
+            {
+                "label": "David West",
+                "value": 0.21,
+                "color": "rgba(32, 244, 252, 0.2)"
+            },
+            {
+                "label": "Shayne Whittington",
+                "value": 0.247,
+                "color": "rgba(114, 105, 193, 0.2)"
+            },
+            {
+                "label": "Glen Rice",
+                "value": 0.253,
+                "color": "rgba(130, 244, 199, 0.2)"
+            },
+            {
+                "label": "Dean Wade",
+                "value": 0.107,
+                "color": "rgba(252, 77, 135, 0.2)"
+            },
+            {
+                "label": "Luis Scola",
+                "value": 0.23,
+                "color": "rgba(6, 188, 187, 0.2)"
+            },
+            {
+                "label": "Nick Young",
+                "value": 0.257,
+                "color": "rgba(234, 44, 203, 0.2)"
+            },
+            {
+                "label": "Shawn Marion",
+                "value": 0.128,
+                "color": "rgba(9, 207, 80, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Rebounds",
+        "data": [
+            {
+                "label": "Predrag Drobnjak",
+                "value": 3.4,
+                "color": "rgba(167, 75, 241, 0.2)"
+            },
+            {
+                "label": "Kris Humphries",
+                "value": 2.9,
+                "color": "rgba(181, 194, 121, 0.2)"
+            },
+            {
+                "label": "Avery Bradley",
+                "value": 2.8,
+                "color": "rgba(142, 42, 77, 0.2)"
+            },
+            {
+                "label": "Jerome James",
+                "value": 1.6,
+                "color": "rgba(215, 170, 45, 0.2)"
+            },
+            {
+                "label": "Marcus Williams",
+                "value": 0.0,
+                "color": "rgba(62, 217, 239, 0.2)"
+            },
+            {
+                "label": "Eddy Curry",
+                "value": 1.3,
+                "color": "rgba(103, 36, 0, 0.2)"
+            },
+            {
+                "label": "Jameer Nelson",
+                "value": 2.3,
+                "color": "rgba(58, 120, 42, 0.2)"
+            },
+            {
+                "label": "Bruce Bowen",
+                "value": 2.9,
+                "color": "rgba(67, 94, 137, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players True Shooting Percentage",
+        "data": [
+            {
+                "label": "Toby Bailey",
+                "value": 0.425,
+                "color": "rgba(193, 185, 96, 0.2)"
+            },
+            {
+                "label": "Peyton Siva",
+                "value": 0.425,
+                "color": "rgba(100, 62, 84, 0.2)"
+            },
+            {
+                "label": "JJ Hickson",
+                "value": 0.521,
+                "color": "rgba(65, 190, 76, 0.2)"
+            },
+            {
+                "label": "Antonio Daniels",
+                "value": 0.55,
+                "color": "rgba(168, 25, 45, 0.2)"
+            },
+            {
+                "label": "Rudy Gobert",
+                "value": 0.682,
+                "color": "rgba(133, 134, 226, 0.2)"
+            },
+            {
+                "label": "Elliot Perry",
+                "value": 0.491,
+                "color": "rgba(101, 174, 240, 0.2)"
+            },
+            {
+                "label": "Paul Millsap",
+                "value": 0.5479999999999999,
+                "color": "rgba(145, 251, 212, 0.2)"
+            },
+            {
+                "label": "Kwame Brown",
+                "value": 0.547,
+                "color": "rgba(143, 170, 114, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "Marcus Camby",
+                "value": 0.043,
+                "color": "rgba(19, 130, 32, 0.2)"
+            },
+            {
+                "label": "Cody Martin",
+                "value": 0.138,
+                "color": "rgba(105, 152, 69, 0.2)"
+            },
+            {
+                "label": "P.J. Tucker",
+                "value": 0.047,
+                "color": "rgba(88, 161, 0, 0.2)"
+            },
+            {
+                "label": "Salah Mejri",
+                "value": 0.071,
+                "color": "rgba(182, 54, 44, 0.2)"
+            },
+            {
+                "label": "Donyell Marshall",
+                "value": 0.099,
+                "color": "rgba(229, 46, 10, 0.2)"
+            },
+            {
+                "label": "Alonzo Gee",
+                "value": 0.071,
+                "color": "rgba(175, 27, 203, 0.2)"
+            },
+            {
+                "label": "Johnny Newman",
+                "value": 0.0279999999999999,
+                "color": "rgba(168, 11, 239, 0.2)"
+            },
+            {
+                "label": "John Collins",
+                "value": 0.065,
+                "color": "rgba(1, 79, 75, 0.2)"
+            },
+            {
+                "label": "Fred VanVleet",
+                "value": 0.231,
+                "color": "rgba(240, 96, 35, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players True Shooting Percentage",
+        "data": [
+            {
+                "label": "Yao Ming",
+                "value": 0.618,
+                "color": "rgba(142, 19, 17, 0.2)"
+            },
+            {
+                "label": "Randy Foye",
+                "value": 0.461,
+                "color": "rgba(111, 211, 34, 0.2)"
+            },
+            {
+                "label": "Otto Porter Jr.",
+                "value": 0.564,
+                "color": "rgba(210, 233, 46, 0.2)"
+            },
+            {
+                "label": "Chris Webber",
+                "value": 0.54,
+                "color": "rgba(254, 183, 13, 0.2)"
+            },
+            {
+                "label": "Kedrick Brown",
+                "value": 0.5429999999999999,
+                "color": "rgba(65, 52, 35, 0.2)"
+            },
+            {
+                "label": "Andrew DeClercq",
+                "value": 0.562,
+                "color": "rgba(211, 125, 71, 0.2)"
+            },
+            {
+                "label": "Nemanja Bjelica",
+                "value": 0.581,
+                "color": "rgba(122, 242, 173, 0.2)"
+            },
+            {
+                "label": "Royal Ivey",
+                "value": 0.527,
+                "color": "rgba(14, 41, 18, 0.2)"
+            },
+            {
+                "label": "Blake Griffin",
+                "value": 0.476,
+                "color": "rgba(152, 90, 240, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Points",
+        "data": [
+            {
+                "label": "Keegan Murray",
+                "value": 12.2,
+                "color": "rgba(67, 249, 104, 0.2)"
+            },
+            {
+                "label": "DeSagana Diop",
+                "value": 2.3,
+                "color": "rgba(148, 57, 247, 0.2)"
+            },
+            {
+                "label": "Sasha Vujacic",
+                "value": 4.3,
+                "color": "rgba(216, 9, 221, 0.2)"
+            },
+            {
+                "label": "Jamie Feick",
+                "value": 2.3,
+                "color": "rgba(46, 143, 228, 0.2)"
+            },
+            {
+                "label": "Kevinn Pinkney",
+                "value": 5.2,
+                "color": "rgba(91, 112, 73, 0.2)"
+            },
+            {
+                "label": "Dale Davis",
+                "value": 10.4,
+                "color": "rgba(207, 108, 132, 0.2)"
+            },
+            {
+                "label": "Caleb Swanigan",
+                "value": 2.0,
+                "color": "rgba(72, 35, 156, 0.2)"
+            },
+            {
+                "label": "Jamaal Magloire",
+                "value": 9.2,
+                "color": "rgba(63, 117, 171, 0.2)"
+            },
+            {
+                "label": "Tyreke Evans",
+                "value": 16.6,
+                "color": "rgba(219, 110, 255, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Assists",
+        "data": [
+            {
+                "label": "Luis Scola",
+                "value": 2.5,
+                "color": "rgba(118, 144, 100, 0.2)"
+            },
+            {
+                "label": "Nikola Jokic",
+                "value": 2.4,
+                "color": "rgba(78, 254, 158, 0.2)"
+            },
+            {
+                "label": "Laron Profit",
+                "value": 0.8,
+                "color": "rgba(239, 161, 49, 0.2)"
+            },
+            {
+                "label": "Gilbert Arenas",
+                "value": 3.7,
+                "color": "rgba(139, 19, 36, 0.2)"
+            },
+            {
+                "label": "Adam Harrington",
+                "value": 0.6,
+                "color": "rgba(4, 15, 64, 0.2)"
+            },
+            {
+                "label": "Jalen McDaniels",
+                "value": 0.8,
+                "color": "rgba(23, 140, 134, 0.2)"
+            },
+            {
+                "label": "Tyrone Hill",
+                "value": 1.5,
+                "color": "rgba(9, 191, 99, 0.2)"
+            },
+            {
+                "label": "Kirk Penney",
+                "value": 0.5,
+                "color": "rgba(86, 116, 104, 0.2)"
+            },
+            {
+                "label": "Dwyane Wade",
+                "value": 4.7,
+                "color": "rgba(38, 119, 66, 0.2)"
+            },
+            {
+                "label": "Aaron Gordon",
+                "value": 3.7,
+                "color": "rgba(240, 39, 120, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "Frank Mason",
+                "value": 0.233,
+                "color": "rgba(11, 210, 58, 0.2)"
+            },
+            {
+                "label": "DeAndre Jordan",
+                "value": 0.025,
+                "color": "rgba(43, 254, 209, 0.2)"
+            },
+            {
+                "label": "Desmond Bane",
+                "value": 0.136,
+                "color": "rgba(233, 4, 87, 0.2)"
+            },
+            {
+                "label": "Jordan Clarkson",
+                "value": 0.144,
+                "color": "rgba(238, 76, 153, 0.2)"
+            },
+            {
+                "label": "Spencer Dinwiddie",
+                "value": 0.297,
+                "color": "rgba(3, 7, 218, 0.2)"
+            },
+            {
+                "label": "Patty Mills",
+                "value": 0.244,
+                "color": "rgba(20, 136, 217, 0.2)"
+            },
+            {
+                "label": "Ricky Davis",
+                "value": 0.128,
+                "color": "rgba(149, 129, 36, 0.2)"
+            },
+            {
+                "label": "Dalibor Bagaric",
+                "value": 0.059,
+                "color": "rgba(11, 41, 108, 0.2)"
+            },
+            {
+                "label": "Yi Jianlian",
+                "value": 0.047,
+                "color": "rgba(68, 143, 189, 0.2)"
+            },
+            {
+                "label": "Theo Pinson",
+                "value": 0.063,
+                "color": "rgba(17, 214, 114, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players True Shooting Percentage",
+        "data": [
+            {
+                "label": "Paul Pierce",
+                "value": 0.563,
+                "color": "rgba(183, 131, 165, 0.2)"
+            },
+            {
+                "label": "Jamal Mashburn",
+                "value": 0.526,
+                "color": "rgba(150, 179, 224, 0.2)"
+            },
+            {
+                "label": "Ryan Arcidiacono",
+                "value": 0.541,
+                "color": "rgba(126, 15, 6, 0.2)"
+            },
+            {
+                "label": "Hamed Haddadi",
+                "value": 0.441,
+                "color": "rgba(186, 39, 237, 0.2)"
+            },
+            {
+                "label": "Al-Farouq Aminu",
+                "value": 0.568,
+                "color": "rgba(124, 158, 15, 0.2)"
+            },
+            {
+                "label": "Derrick Jones Jr.",
+                "value": 0.604,
+                "color": "rgba(161, 248, 233, 0.2)"
+            },
+            {
+                "label": "Theo Ratliff",
+                "value": 0.534,
+                "color": "rgba(135, 228, 230, 0.2)"
+            },
+            {
+                "label": "Zylan Cheatham",
+                "value": 0.0,
+                "color": "rgba(126, 26, 115, 0.2)"
+            },
+            {
+                "label": "Mitch Richmond",
+                "value": 0.536,
+                "color": "rgba(151, 6, 209, 0.2)"
+            },
+            {
+                "label": "Cheick Diallo",
+                "value": 0.51,
+                "color": "rgba(191, 4, 38, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Rebounds",
+        "data": [
+            {
+                "label": "Jaren Jackson",
+                "value": 2.2,
+                "color": "rgba(199, 161, 13, 0.2)"
+            },
+            {
+                "label": "Miles Bridges",
+                "value": 7.0,
+                "color": "rgba(201, 36, 185, 0.2)"
+            },
+            {
+                "label": "Khalid El-Amin",
+                "value": 1.6,
+                "color": "rgba(241, 190, 174, 0.2)"
+            },
+            {
+                "label": "Armen Gilliam",
+                "value": 5.4,
+                "color": "rgba(252, 232, 254, 0.2)"
+            },
+            {
+                "label": "Michael Hawkins",
+                "value": 1.0,
+                "color": "rgba(110, 132, 66, 0.2)"
+            },
+            {
+                "label": "John Konchar",
+                "value": 4.3,
+                "color": "rgba(65, 251, 106, 0.2)"
+            },
+            {
+                "label": "LeBron James",
+                "value": 7.0,
+                "color": "rgba(183, 89, 106, 0.2)"
+            },
+            {
+                "label": "Rodney McGruder",
+                "value": 1.8,
+                "color": "rgba(182, 20, 191, 0.2)"
+            },
+            {
+                "label": "Kendall Gill",
+                "value": 2.6,
+                "color": "rgba(58, 165, 214, 0.2)"
+            },
+            {
+                "label": "Leon Powe",
+                "value": 3.1,
+                "color": "rgba(88, 228, 232, 0.2)"
+            },
+            {
+                "label": "Yi Jianlian",
+                "value": 5.2,
+                "color": "rgba(231, 3, 181, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players True Shooting Percentage",
+        "data": [
+            {
+                "label": "Donyell Marshall",
+                "value": 0.513,
+                "color": "rgba(116, 55, 74, 0.2)"
+            },
+            {
+                "label": "Jordan Schakel",
+                "value": 0.75,
+                "color": "rgba(240, 250, 190, 0.2)"
+            },
+            {
+                "label": "Shabazz Napier",
+                "value": 0.544,
+                "color": "rgba(10, 92, 126, 0.2)"
+            },
+            {
+                "label": "Ian Mahinmi",
+                "value": 0.667,
+                "color": "rgba(249, 240, 209, 0.2)"
+            },
+            {
+                "label": "Morris Peterson",
+                "value": 0.4,
+                "color": "rgba(0, 75, 79, 0.2)"
+            },
+            {
+                "label": "Allen Iverson",
+                "value": 0.508,
+                "color": "rgba(212, 40, 33, 0.2)"
+            },
+            {
+                "label": "Tre Jones",
+                "value": 0.544,
+                "color": "rgba(194, 67, 219, 0.2)"
+            },
+            {
+                "label": "Melvin Ely",
+                "value": 0.573,
+                "color": "rgba(51, 1, 46, 0.2)"
+            },
+            {
+                "label": "Steve Novak",
+                "value": 0.6509999999999999,
+                "color": "rgba(247, 177, 95, 0.2)"
+            },
+            {
+                "label": "Chris Anstey",
+                "value": 0.418,
+                "color": "rgba(57, 111, 95, 0.2)"
+            },
+            {
+                "label": "Richard Hamilton",
+                "value": 0.52,
+                "color": "rgba(233, 194, 180, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "Carmelo Anthony",
+                "value": 0.141,
+                "color": "rgba(119, 95, 18, 0.2)"
+            },
+            {
+                "label": "Shaquille O'Neal",
+                "value": 0.14,
+                "color": "rgba(70, 239, 153, 0.2)"
+            },
+            {
+                "label": "Earl Barron",
+                "value": 0.054,
+                "color": "rgba(198, 162, 214, 0.2)"
+            },
+            {
+                "label": "Derek Anderson",
+                "value": 0.305,
+                "color": "rgba(244, 14, 114, 0.2)"
+            },
+            {
+                "label": "Cedi Osman",
+                "value": 0.173,
+                "color": "rgba(245, 213, 32, 0.2)"
+            },
+            {
+                "label": "Tony Parker",
+                "value": 0.276,
+                "color": "rgba(74, 58, 203, 0.2)"
+            },
+            {
+                "label": "Donatas Motiejunas",
+                "value": 0.2,
+                "color": "rgba(95, 162, 139, 0.2)"
+            },
+            {
+                "label": "Matt Steigenga",
+                "value": 0.3329999999999999,
+                "color": "rgba(181, 117, 183, 0.2)"
+            },
+            {
+                "label": "Michael Olowokandi",
+                "value": 0.064,
+                "color": "rgba(136, 85, 149, 0.2)"
+            },
+            {
+                "label": "Dominique Jones",
+                "value": 0.4029999999999999,
+                "color": "rgba(133, 185, 83, 0.2)"
+            },
+            {
+                "label": "Cuttino Mobley",
+                "value": 0.1369999999999999,
+                "color": "rgba(3, 114, 242, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Rebounds",
+        "data": [
+            {
+                "label": "Luc Mbah a Moute",
+                "value": 0.7,
+                "color": "rgba(11, 28, 203, 0.2)"
+            },
+            {
+                "label": "Shabazz Napier",
+                "value": 1.0,
+                "color": "rgba(44, 247, 227, 0.2)"
+            },
+            {
+                "label": "Franz Wagner",
+                "value": 4.5,
+                "color": "rgba(252, 108, 52, 0.2)"
+            },
+            {
+                "label": "Dwyane Wade",
+                "value": 4.0,
+                "color": "rgba(144, 117, 225, 0.2)"
+            },
+            {
+                "label": "Tyrone Hill",
+                "value": 10.7,
+                "color": "rgba(139, 26, 114, 0.2)"
+            },
+            {
+                "label": "Mike Scott",
+                "value": 3.6,
+                "color": "rgba(198, 32, 176, 0.2)"
+            },
+            {
+                "label": "Shannon Brown",
+                "value": 1.0,
+                "color": "rgba(78, 51, 21, 0.2)"
+            },
+            {
+                "label": "Cartier Martin",
+                "value": 3.4,
+                "color": "rgba(237, 105, 69, 0.2)"
+            },
+            {
+                "label": "David West",
+                "value": 7.7,
+                "color": "rgba(29, 44, 62, 0.2)"
+            },
+            {
+                "label": "Cal Bowdler",
+                "value": 1.8,
+                "color": "rgba(213, 80, 131, 0.2)"
+            },
+            {
+                "label": "Greivis Vasquez",
+                "value": 0.7,
+                "color": "rgba(76, 31, 53, 0.2)"
+            },
+            {
+                "label": "Tyrone Corbin",
+                "value": 3.1,
+                "color": "rgba(170, 0, 238, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Rebounds",
+        "data": [
+            {
+                "label": "Chris Webber",
+                "value": 7.2,
+                "color": "rgba(230, 38, 238, 0.2)"
+            },
+            {
+                "label": "Charlie Villanueva",
+                "value": 4.7,
+                "color": "rgba(98, 80, 114, 0.2)"
+            },
+            {
+                "label": "Chris Quinn",
+                "value": 0.6,
+                "color": "rgba(230, 41, 16, 0.2)"
+            },
+            {
+                "label": "Lorenzen Wright",
+                "value": 6.8,
+                "color": "rgba(96, 109, 217, 0.2)"
+            },
+            {
+                "label": "Leon Powe",
+                "value": 3.4,
+                "color": "rgba(249, 194, 111, 0.2)"
+            },
+            {
+                "label": "Sean May",
+                "value": 2.9,
+                "color": "rgba(237, 167, 148, 0.2)"
+            },
+            {
+                "label": "Josh Childress",
+                "value": 6.0,
+                "color": "rgba(204, 187, 22, 0.2)"
+            },
+            {
+                "label": "Markieff Morris",
+                "value": 2.0,
+                "color": "rgba(241, 231, 201, 0.2)"
+            },
+            {
+                "label": "Trevor Ariza",
+                "value": 5.7,
+                "color": "rgba(110, 101, 138, 0.2)"
+            },
+            {
+                "label": "Keldon Johnson",
+                "value": 6.1,
+                "color": "rgba(239, 80, 122, 0.2)"
+            },
+            {
+                "label": "Chris Mihm",
+                "value": 5.4,
+                "color": "rgba(214, 38, 188, 0.2)"
+            },
+            {
+                "label": "Hakeem Olajuwon",
+                "value": 7.4,
+                "color": "rgba(80, 223, 171, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Assist Percentage",
+        "data": [
+            {
+                "label": "Enes Kanter",
+                "value": 0.078,
+                "color": "rgba(233, 103, 186, 0.2)"
+            },
+            {
+                "label": "DeShawn Stevenson",
+                "value": 0.152,
+                "color": "rgba(231, 162, 84, 0.2)"
+            },
+            {
+                "label": "Russell Westbrook",
+                "value": 0.477,
+                "color": "rgba(108, 172, 46, 0.2)"
+            },
+            {
+                "label": "Martynas Andriuskevicius",
+                "value": 0.0,
+                "color": "rgba(67, 77, 93, 0.2)"
+            },
+            {
+                "label": "Calvin Booth",
+                "value": 0.033,
+                "color": "rgba(133, 48, 247, 0.2)"
+            },
+            {
+                "label": "DeJuan Blair",
+                "value": 0.07,
+                "color": "rgba(177, 222, 206, 0.2)"
+            },
+            {
+                "label": "Mychel Thompson",
+                "value": 0.119,
+                "color": "rgba(206, 16, 156, 0.2)"
+            },
+            {
+                "label": "Corey Maggette",
+                "value": 0.071,
+                "color": "rgba(183, 133, 64, 0.2)"
+            },
+            {
+                "label": "Michael Stewart",
+                "value": 0.0,
+                "color": "rgba(135, 162, 242, 0.2)"
+            },
+            {
+                "label": "Mark Strickland",
+                "value": 0.013,
+                "color": "rgba(35, 63, 214, 0.2)"
+            },
+            {
+                "label": "Chris Childs",
+                "value": 0.32,
+                "color": "rgba(139, 196, 94, 0.2)"
+            },
+            {
+                "label": "Jae Crowder",
+                "value": 0.09,
+                "color": "rgba(183, 176, 74, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players True Shooting Percentage",
+        "data": [
+            {
+                "label": "Johnny Newman",
+                "value": 0.5710000000000001,
+                "color": "rgba(161, 30, 0, 0.2)"
+            },
+            {
+                "label": "Jonas Valanciunas",
+                "value": 0.636,
+                "color": "rgba(212, 238, 185, 0.2)"
+            },
+            {
+                "label": "Morris Peterson",
+                "value": 0.5429999999999999,
+                "color": "rgba(23, 91, 127, 0.2)"
+            },
+            {
+                "label": "Jake Tsakalidis",
+                "value": 0.502,
+                "color": "rgba(58, 222, 124, 0.2)"
+            },
+            {
+                "label": "Channing Frye",
+                "value": 0.598,
+                "color": "rgba(180, 213, 184, 0.2)"
+            },
+            {
+                "label": "Rodrick Rhodes",
+                "value": 0.341,
+                "color": "rgba(66, 218, 201, 0.2)"
+            },
+            {
+                "label": "Clifford Robinson",
+                "value": 0.502,
+                "color": "rgba(30, 49, 35, 0.2)"
+            },
+            {
+                "label": "Mikki Moore",
+                "value": 0.568,
+                "color": "rgba(33, 162, 206, 0.2)"
+            },
+            {
+                "label": "Orlando Johnson",
+                "value": 0.523,
+                "color": "rgba(239, 246, 234, 0.2)"
+            },
+            {
+                "label": "Justin Holiday",
+                "value": 0.52,
+                "color": "rgba(236, 49, 59, 0.2)"
+            },
+            {
+                "label": "Allen Iverson",
+                "value": 0.496,
+                "color": "rgba(26, 10, 4, 0.2)"
+            },
+            {
+                "label": "MarShon Brooks",
+                "value": 0.629,
+                "color": "rgba(52, 153, 197, 0.2)"
+            },
+            {
+                "label": "Carlos Boozer",
+                "value": 0.5489999999999999,
+                "color": "rgba(145, 241, 20, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Rebounds",
+        "data": [
+            {
+                "label": "Sam Dekker",
+                "value": 3.7,
+                "color": "rgba(44, 18, 17, 0.2)"
+            },
+            {
+                "label": "Amir Johnson",
+                "value": 4.5,
+                "color": "rgba(165, 129, 40, 0.2)"
+            },
+            {
+                "label": "Devin Ebanks",
+                "value": 1.4,
+                "color": "rgba(67, 107, 149, 0.2)"
+            },
+            {
+                "label": "Christian Laettner",
+                "value": 6.6,
+                "color": "rgba(62, 168, 86, 0.2)"
+            },
+            {
+                "label": "Stephen Jackson",
+                "value": 4.9,
+                "color": "rgba(247, 109, 108, 0.2)"
+            },
+            {
+                "label": "Harrison Barnes",
+                "value": 6.1,
+                "color": "rgba(108, 219, 19, 0.2)"
+            },
+            {
+                "label": "Kenny Anderson",
+                "value": 2.2,
+                "color": "rgba(22, 32, 80, 0.2)"
+            },
+            {
+                "label": "Kosta Koufos",
+                "value": 1.3,
+                "color": "rgba(48, 163, 1, 0.2)"
+            },
+            {
+                "label": "Sergio Rodriguez",
+                "value": 2.3,
+                "color": "rgba(177, 236, 108, 0.2)"
+            },
+            {
+                "label": "Andrew DeClercq",
+                "value": 1.3,
+                "color": "rgba(130, 71, 23, 0.2)"
+            },
+            {
+                "label": "Rajon Rondo",
+                "value": 5.1,
+                "color": "rgba(46, 142, 62, 0.2)"
+            },
+            {
+                "label": "Michael Redd",
+                "value": 4.3,
+                "color": "rgba(193, 73, 157, 0.2)"
+            },
+            {
+                "label": "Greg Ostertag",
+                "value": 3.0,
+                "color": "rgba(254, 157, 47, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Defensive Rebound Percentage",
+        "data": [
+            {
+                "label": "Marcus Fizer",
+                "value": 0.225,
+                "color": "rgba(17, 208, 143, 0.2)"
+            },
+            {
+                "label": "Tobias Harris",
+                "value": 0.145,
+                "color": "rgba(126, 113, 108, 0.2)"
+            },
+            {
+                "label": "Stanley Roberts",
+                "value": 0.212,
+                "color": "rgba(246, 33, 81, 0.2)"
+            },
+            {
+                "label": "Metta World Peace",
+                "value": 0.129,
+                "color": "rgba(241, 106, 125, 0.2)"
+            },
+            {
+                "label": "Shawne Williams",
+                "value": 0.155,
+                "color": "rgba(132, 124, 44, 0.2)"
+            },
+            {
+                "label": "Nick Anderson",
+                "value": 0.128,
+                "color": "rgba(113, 96, 202, 0.2)"
+            },
+            {
+                "label": "Kosta Koufos",
+                "value": 0.2289999999999999,
+                "color": "rgba(117, 79, 153, 0.2)"
+            },
+            {
+                "label": "Mitchell Butler",
+                "value": 0.089,
+                "color": "rgba(226, 115, 35, 0.2)"
+            },
+            {
+                "label": "Tim Duncan",
+                "value": 0.268,
+                "color": "rgba(13, 221, 141, 0.2)"
+            },
+            {
+                "label": "Rajon Rondo",
+                "value": 0.124,
+                "color": "rgba(161, 56, 123, 0.2)"
+            },
+            {
+                "label": "Dirk Nowitzki",
+                "value": 0.22,
+                "color": "rgba(96, 191, 102, 0.2)"
+            },
+            {
+                "label": "Alton Ford",
+                "value": 0.25,
+                "color": "rgba(143, 12, 207, 0.2)"
+            },
+            {
+                "label": "Austin Rivers",
+                "value": 0.08,
+                "color": "rgba(172, 15, 133, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Usage Percentage",
+        "data": [
+            {
+                "label": "Grant Hill",
+                "value": 0.176,
+                "color": "rgba(217, 171, 112, 0.2)"
+            },
+            {
+                "label": "Damon Stoudamire",
+                "value": 0.253,
+                "color": "rgba(128, 149, 195, 0.2)"
+            },
+            {
+                "label": "Amir Johnson",
+                "value": 0.17,
+                "color": "rgba(78, 46, 36, 0.2)"
+            },
+            {
+                "label": "Corie Blount",
+                "value": 0.126,
+                "color": "rgba(88, 177, 93, 0.2)"
+            },
+            {
+                "label": "Kyle Korver",
+                "value": 0.212,
+                "color": "rgba(89, 61, 122, 0.2)"
+            },
+            {
+                "label": "Walter McCarty",
+                "value": 0.147,
+                "color": "rgba(116, 51, 128, 0.2)"
+            },
+            {
+                "label": "Gerald Wallace",
+                "value": 0.205,
+                "color": "rgba(130, 157, 232, 0.2)"
+            },
+            {
+                "label": "Gordon Hayward",
+                "value": 0.196,
+                "color": "rgba(114, 196, 178, 0.2)"
+            },
+            {
+                "label": "Isaiah Canaan",
+                "value": 0.198,
+                "color": "rgba(11, 193, 99, 0.2)"
+            },
+            {
+                "label": "Pops Mensah-Bonsu",
+                "value": 0.1939999999999999,
+                "color": "rgba(31, 156, 159, 0.2)"
+            },
+            {
+                "label": "Zoran Planinic",
+                "value": 0.209,
+                "color": "rgba(13, 208, 225, 0.2)"
+            },
+            {
+                "label": "Rick Fox",
+                "value": 0.2019999999999999,
+                "color": "rgba(110, 90, 155, 0.2)"
+            },
+            {
+                "label": "Jock Landale",
+                "value": 0.182,
+                "color": "rgba(93, 6, 7, 0.2)"
+            },
+            {
+                "label": "Kevin Durant",
+                "value": 0.285,
+                "color": "rgba(203, 252, 89, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Assists",
+        "data": [
+            {
+                "label": "Kris Dunn",
+                "value": 0.5,
+                "color": "rgba(73, 222, 254, 0.2)"
+            },
+            {
+                "label": "Sherman Douglas",
+                "value": 1.7,
+                "color": "rgba(202, 87, 36, 0.2)"
+            },
+            {
+                "label": "Rodney Purvis",
+                "value": 1.1,
+                "color": "rgba(110, 141, 148, 0.2)"
+            },
+            {
+                "label": "Grant Hill",
+                "value": 2.4,
+                "color": "rgba(119, 4, 39, 0.2)"
+            },
+            {
+                "label": "Nick Young",
+                "value": 0.9,
+                "color": "rgba(38, 99, 131, 0.2)"
+            },
+            {
+                "label": "Rasho Nesterovic",
+                "value": 1.0,
+                "color": "rgba(135, 88, 198, 0.2)"
+            },
+            {
+                "label": "Leon Powe",
+                "value": 0.2,
+                "color": "rgba(64, 27, 238, 0.2)"
+            },
+            {
+                "label": "Aaron Gray",
+                "value": 0.8,
+                "color": "rgba(23, 58, 19, 0.2)"
+            },
+            {
+                "label": "Jimmer Fredette",
+                "value": 1.8,
+                "color": "rgba(127, 54, 60, 0.2)"
+            },
+            {
+                "label": "Antonio Lang",
+                "value": 0.2,
+                "color": "rgba(230, 235, 194, 0.2)"
+            },
+            {
+                "label": "Mike Bibby",
+                "value": 5.4,
+                "color": "rgba(2, 238, 246, 0.2)"
+            },
+            {
+                "label": "Danny Green",
+                "value": 0.5,
+                "color": "rgba(253, 123, 1, 0.2)"
+            },
+            {
+                "label": "Keon Ellis",
+                "value": 0.4,
+                "color": "rgba(135, 159, 119, 0.2)"
+            },
+            {
+                "label": "Nikola Vucevic",
+                "value": 3.2,
+                "color": "rgba(23, 158, 104, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Points",
+        "data": [
+            {
+                "label": "Orien Greene",
+                "value": 0.9,
+                "color": "rgba(129, 188, 67, 0.2)"
+            },
+            {
+                "label": "Elijah Millsap",
+                "value": 1.8,
+                "color": "rgba(23, 129, 34, 0.2)"
+            },
+            {
+                "label": "Derek Anderson",
+                "value": 10.8,
+                "color": "rgba(111, 206, 87, 0.2)"
+            },
+            {
+                "label": "Glen Rice",
+                "value": 2.2,
+                "color": "rgba(20, 41, 247, 0.2)"
+            },
+            {
+                "label": "Kyle Lowry",
+                "value": 5.6,
+                "color": "rgba(192, 117, 6, 0.2)"
+            },
+            {
+                "label": "Aleksandar Radojevic",
+                "value": 1.6,
+                "color": "rgba(163, 45, 183, 0.2)"
+            },
+            {
+                "label": "Mike Batiste",
+                "value": 6.4,
+                "color": "rgba(192, 5, 205, 0.2)"
+            },
+            {
+                "label": "Adam Keefe",
+                "value": 7.8,
+                "color": "rgba(57, 32, 219, 0.2)"
+            },
+            {
+                "label": "Evan Fournier",
+                "value": 18.5,
+                "color": "rgba(175, 195, 207, 0.2)"
+            },
+            {
+                "label": "Jaylen Hoard",
+                "value": 14.7,
+                "color": "rgba(20, 33, 56, 0.2)"
+            },
+            {
+                "label": "Robert Sacre",
+                "value": 1.3,
+                "color": "rgba(155, 141, 134, 0.2)"
+            },
+            {
+                "label": "Danilo Gallinari",
+                "value": 6.1,
+                "color": "rgba(113, 44, 247, 0.2)"
+            },
+            {
+                "label": "Gordon Hayward",
+                "value": 11.8,
+                "color": "rgba(71, 58, 3, 0.2)"
+            },
+            {
+                "label": "Sam Cassell",
+                "value": 19.7,
+                "color": "rgba(197, 60, 47, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Points",
+        "data": [
+            {
+                "label": "Mateen Cleaves",
+                "value": 2.7,
+                "color": "rgba(40, 216, 57, 0.2)"
+            },
+            {
+                "label": "Tyler Johnson",
+                "value": 8.7,
+                "color": "rgba(34, 220, 243, 0.2)"
+            },
+            {
+                "label": "Raymond Felton",
+                "value": 6.7,
+                "color": "rgba(166, 177, 196, 0.2)"
+            },
+            {
+                "label": "Okaro White",
+                "value": 0.0,
+                "color": "rgba(224, 208, 205, 0.2)"
+            },
+            {
+                "label": "Paul George",
+                "value": 28.0,
+                "color": "rgba(118, 251, 62, 0.2)"
+            },
+            {
+                "label": "LaMarcus Aldridge",
+                "value": 17.8,
+                "color": "rgba(54, 41, 89, 0.2)"
+            },
+            {
+                "label": "Tobias Harris",
+                "value": 19.5,
+                "color": "rgba(61, 65, 11, 0.2)"
+            },
+            {
+                "label": "DeShawn Stevenson",
+                "value": 4.9,
+                "color": "rgba(100, 139, 69, 0.2)"
+            },
+            {
+                "label": "Alan Henderson",
+                "value": 2.5,
+                "color": "rgba(78, 228, 8, 0.2)"
+            },
+            {
+                "label": "Dorell Wright",
+                "value": 4.6,
+                "color": "rgba(214, 71, 10, 0.2)"
+            },
+            {
+                "label": "Shawn Marion",
+                "value": 12.0,
+                "color": "rgba(154, 139, 189, 0.2)"
+            },
+            {
+                "label": "Ryan Bowen",
+                "value": 4.0,
+                "color": "rgba(226, 103, 113, 0.2)"
+            },
+            {
+                "label": "Dwight Powell",
+                "value": 3.1,
+                "color": "rgba(249, 198, 176, 0.2)"
+            },
+            {
+                "label": "Zach Collins",
+                "value": 4.4,
+                "color": "rgba(75, 170, 218, 0.2)"
+            },
+            {
+                "label": "Marc Gasol",
+                "value": 17.4,
+                "color": "rgba(41, 34, 178, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Net Rating",
+        "data": [
+            {
+                "label": "Micah Potter",
+                "value": -4.2,
+                "color": "rgba(154, 116, 73, 0.2)"
+            },
+            {
+                "label": "Stephen Curry",
+                "value": 2.4,
+                "color": "rgba(136, 167, 61, 0.2)"
+            },
+            {
+                "label": "Jordan Bone",
+                "value": -14.3,
+                "color": "rgba(157, 179, 29, 0.2)"
+            },
+            {
+                "label": "Haywoode Workman",
+                "value": -7.3,
+                "color": "rgba(66, 211, 117, 0.2)"
+            },
+            {
+                "label": "Ryan Gomes",
+                "value": -3.8,
+                "color": "rgba(103, 201, 245, 0.2)"
+            },
+            {
+                "label": "Chris Singleton",
+                "value": -4.7,
+                "color": "rgba(25, 56, 163, 0.2)"
+            },
+            {
+                "label": "Todd MacCulloch",
+                "value": 0.1,
+                "color": "rgba(101, 244, 37, 0.2)"
+            },
+            {
+                "label": "Maurice Harkless",
+                "value": 1.2,
+                "color": "rgba(53, 192, 190, 0.2)"
+            },
+            {
+                "label": "Cole Aldrich",
+                "value": -1.8,
+                "color": "rgba(117, 107, 56, 0.2)"
+            },
+            {
+                "label": "John Edwards",
+                "value": -12.7,
+                "color": "rgba(64, 137, 170, 0.2)"
+            },
+            {
+                "label": "Peja Stojakovic",
+                "value": 1.3,
+                "color": "rgba(0, 1, 144, 0.2)"
+            },
+            {
+                "label": "Adreian Payne",
+                "value": -16.9,
+                "color": "rgba(253, 220, 149, 0.2)"
+            },
+            {
+                "label": "Eric Bledsoe",
+                "value": -7.0,
+                "color": "rgba(142, 57, 245, 0.2)"
+            },
+            {
+                "label": "Derek Fisher",
+                "value": 11.1,
+                "color": "rgba(247, 0, 216, 0.2)"
+            },
+            {
+                "label": "Corie Blount",
+                "value": -11.9,
+                "color": "rgba(165, 51, 197, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "NBA' Players Net Rating",
+        "data": [
+            {
+                "label": "Sean McDermott",
+                "value": -17.7,
+                "color": "rgba(3, 236, 145, 0.2)"
+            },
+            {
+                "label": "Jerry Stackhouse",
+                "value": 0.0,
+                "color": "rgba(61, 37, 94, 0.2)"
+            },
+            {
+                "label": "Donovan Mitchell",
+                "value": 5.9,
+                "color": "rgba(53, 149, 49, 0.2)"
+            },
+            {
+                "label": "Luke Ridnour",
+                "value": -3.5,
+                "color": "rgba(178, 209, 208, 0.2)"
+            },
+            {
+                "label": "Robert Sacre",
+                "value": -5.7,
+                "color": "rgba(223, 180, 90, 0.2)"
+            },
+            {
+                "label": "Jamal Cain",
+                "value": 5.5,
+                "color": "rgba(192, 216, 207, 0.2)"
+            },
+            {
+                "label": "Miroslav Raduljica",
+                "value": -7.0,
+                "color": "rgba(163, 39, 216, 0.2)"
+            },
+            {
+                "label": "Shelden Williams",
+                "value": -8.0,
+                "color": "rgba(79, 221, 212, 0.2)"
+            },
+            {
+                "label": "Wes Iwundu",
+                "value": -0.5,
+                "color": "rgba(244, 206, 99, 0.2)"
+            },
+            {
+                "label": "Jorge Garbajosa",
+                "value": -8.4,
+                "color": "rgba(41, 71, 228, 0.2)"
+            },
+            {
+                "label": "Greg Monroe",
+                "value": -4.1,
+                "color": "rgba(176, 248, 114, 0.2)"
+            },
+            {
+                "label": "J.P. Macura",
+                "value": 150.0,
+                "color": "rgba(148, 201, 204, 0.2)"
+            },
+            {
+                "label": "Nick Collison",
+                "value": 2.6,
+                "color": "rgba(152, 228, 233, 0.2)"
+            },
+            {
+                "label": "Tom Hammonds",
+                "value": -14.5,
+                "color": "rgba(115, 116, 96, 0.2)"
+            },
+            {
+                "label": "Mark Davis",
+                "value": -4.4,
+                "color": "rgba(147, 241, 126, 0.2)"
+            }
+        ]
+    }
+]

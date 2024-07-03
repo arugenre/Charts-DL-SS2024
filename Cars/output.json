@@ -1,0 +1,5939 @@
+[
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Mileage (miles per gallon)",
+        "data": [
+            {
+                "label": "ford galaxie 500",
+                "value": 14.0,
+                "color": "rgba(181, 62, 105, 0.2)"
+            },
+            {
+                "label": "amc pacer d/l",
+                "value": 17.5,
+                "color": "rgba(190, 192, 43, 0.2)"
+            },
+            {
+                "label": "mercedes-benz 280s",
+                "value": 16.5,
+                "color": "rgba(77, 57, 109, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Weight (lbs)",
+        "data": [
+            {
+                "label": "mercury capri v6",
+                "value": 2472,
+                "color": "rgba(153, 58, 171, 0.2)"
+            },
+            {
+                "label": "peugeot 304",
+                "value": 2074,
+                "color": "rgba(140, 21, 155, 0.2)"
+            },
+            {
+                "label": "chevrolet vega (sw)",
+                "value": 2408,
+                "color": "rgba(120, 255, 40, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "amc matador (sw)",
+                "value": 15.5,
+                "color": "rgba(136, 16, 202, 0.2)"
+            },
+            {
+                "label": "chevrolet vega 2300",
+                "value": 15.5,
+                "color": "rgba(101, 117, 147, 0.2)"
+            },
+            {
+                "label": "buick estate wagon (sw)",
+                "value": 14.9,
+                "color": "rgba(77, 232, 64, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Weight (lbs)",
+        "data": [
+            {
+                "label": "subaru",
+                "value": 2065,
+                "color": "rgba(48, 38, 36, 0.2)"
+            },
+            {
+                "label": "honda civic cvcc",
+                "value": 1795,
+                "color": "rgba(8, 185, 77, 0.2)"
+            },
+            {
+                "label": "toyota corona hardtop",
+                "value": 2278,
+                "color": "rgba(177, 22, 164, 0.2)"
+            },
+            {
+                "label": "chevrolet chevelle malibu classic",
+                "value": 3781,
+                "color": "rgba(34, 231, 155, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Weight (lbs)",
+        "data": [
+            {
+                "label": "chevrolet vega",
+                "value": 2542,
+                "color": "rgba(230, 99, 250, 0.2)"
+            },
+            {
+                "label": "toyota corolla 1200",
+                "value": 1773,
+                "color": "rgba(83, 96, 144, 0.2)"
+            },
+            {
+                "label": "buick century special",
+                "value": 3380,
+                "color": "rgba(130, 186, 2, 0.2)"
+            },
+            {
+                "label": "datsun pl510",
+                "value": 2130,
+                "color": "rgba(206, 80, 23, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "mercedes-benz 240d",
+                "value": 21.8,
+                "color": "rgba(235, 159, 239, 0.2)"
+            },
+            {
+                "label": "amc concord dl 6",
+                "value": 18.2,
+                "color": "rgba(197, 19, 143, 0.2)"
+            },
+            {
+                "label": "ford fairmont (auto)",
+                "value": 15.8,
+                "color": "rgba(77, 240, 164, 0.2)"
+            },
+            {
+                "label": "toyota corolla tercel",
+                "value": 18.8,
+                "color": "rgba(113, 110, 223, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "opel 1900",
+                "value": 16.9,
+                "color": "rgba(95, 102, 43, 0.2)"
+            },
+            {
+                "label": "datsun 810",
+                "value": 14.5,
+                "color": "rgba(213, 237, 78, 0.2)"
+            },
+            {
+                "label": "ford fiesta",
+                "value": 14.4,
+                "color": "rgba(40, 123, 250, 0.2)"
+            },
+            {
+                "label": "buick skylark 320",
+                "value": 11.5,
+                "color": "rgba(182, 179, 19, 0.2)"
+            },
+            {
+                "label": "volkswagen dasher",
+                "value": 15.5,
+                "color": "rgba(1, 145, 83, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "pontiac catalina",
+                "value": 225.0,
+                "color": "rgba(247, 218, 147, 0.2)"
+            },
+            {
+                "label": "honda prelude",
+                "value": 75.0,
+                "color": "rgba(246, 17, 220, 0.2)"
+            },
+            {
+                "label": "volkswagen scirocco",
+                "value": 71.0,
+                "color": "rgba(23, 112, 102, 0.2)"
+            },
+            {
+                "label": "buick skylark",
+                "value": 105.0,
+                "color": "rgba(48, 123, 8, 0.2)"
+            },
+            {
+                "label": "buick century luxus (sw)",
+                "value": 150.0,
+                "color": "rgba(216, 58, 118, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "renault 5 gtl",
+                "value": 18.6,
+                "color": "rgba(222, 179, 84, 0.2)"
+            },
+            {
+                "label": "toyota corona liftback",
+                "value": 15.5,
+                "color": "rgba(253, 34, 119, 0.2)"
+            },
+            {
+                "label": "chevrolet cavalier",
+                "value": 19.6,
+                "color": "rgba(92, 115, 80, 0.2)"
+            },
+            {
+                "label": "mercury monarch",
+                "value": 21.0,
+                "color": "rgba(67, 84, 96, 0.2)"
+            },
+            {
+                "label": "ford maverick",
+                "value": 17.0,
+                "color": "rgba(244, 161, 87, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "volvo 145e (sw)",
+                "value": 112.0,
+                "color": "rgba(240, 200, 218, 0.2)"
+            },
+            {
+                "label": "chevrolet caprice classic",
+                "value": 145.0,
+                "color": "rgba(143, 236, 60, 0.2)"
+            },
+            {
+                "label": "chevrolet chevette",
+                "value": 52.0,
+                "color": "rgba(76, 3, 248, 0.2)"
+            },
+            {
+                "label": "plymouth sapporo",
+                "value": 105.0,
+                "color": "rgba(178, 72, 240, 0.2)"
+            },
+            {
+                "label": "volvo 264gl",
+                "value": 125.0,
+                "color": "rgba(117, 191, 182, 0.2)"
+            },
+            {
+                "label": "honda prelude",
+                "value": 75.0,
+                "color": "rgba(215, 10, 220, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "volvo 245",
+                "value": 15.7,
+                "color": "rgba(46, 104, 231, 0.2)"
+            },
+            {
+                "label": "volkswagen 411 (sw)",
+                "value": 18.0,
+                "color": "rgba(213, 194, 21, 0.2)"
+            },
+            {
+                "label": "amc concord dl 6",
+                "value": 18.2,
+                "color": "rgba(111, 52, 51, 0.2)"
+            },
+            {
+                "label": "mercury cougar brougham",
+                "value": 14.9,
+                "color": "rgba(212, 128, 160, 0.2)"
+            },
+            {
+                "label": "datsun 810 maxima",
+                "value": 13.8,
+                "color": "rgba(213, 144, 170, 0.2)"
+            },
+            {
+                "label": "mercedes-benz 280s",
+                "value": 16.7,
+                "color": "rgba(100, 117, 150, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Mileage (miles per gallon)",
+        "data": [
+            {
+                "label": "datsun 710",
+                "value": 24.0,
+                "color": "rgba(149, 27, 119, 0.2)"
+            },
+            {
+                "label": "ford maverick",
+                "value": 21.0,
+                "color": "rgba(192, 212, 180, 0.2)"
+            },
+            {
+                "label": "chrysler lebaron town @ country (sw)",
+                "value": 18.5,
+                "color": "rgba(4, 199, 239, 0.2)"
+            },
+            {
+                "label": "honda civic cvcc",
+                "value": 33.0,
+                "color": "rgba(88, 252, 54, 0.2)"
+            },
+            {
+                "label": "amc matador",
+                "value": 16.0,
+                "color": "rgba(136, 114, 98, 0.2)"
+            },
+            {
+                "label": "dodge aspen",
+                "value": 19.1,
+                "color": "rgba(238, 232, 146, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Weight (lbs)",
+        "data": [
+            {
+                "label": "datsun 810 maxima",
+                "value": 2930,
+                "color": "rgba(211, 182, 220, 0.2)"
+            },
+            {
+                "label": "chevrolet citation",
+                "value": 2595,
+                "color": "rgba(59, 84, 163, 0.2)"
+            },
+            {
+                "label": "ford pinto",
+                "value": 2310,
+                "color": "rgba(183, 200, 223, 0.2)"
+            },
+            {
+                "label": "datsun f-10 hatchback",
+                "value": 1945,
+                "color": "rgba(118, 213, 243, 0.2)"
+            },
+            {
+                "label": "volkswagen rabbit custom",
+                "value": 1940,
+                "color": "rgba(23, 68, 142, 0.2)"
+            },
+            {
+                "label": "toyota corona liftback",
+                "value": 2711,
+                "color": "rgba(136, 151, 216, 0.2)"
+            },
+            {
+                "label": "mercedes-benz 240d",
+                "value": 3250,
+                "color": "rgba(91, 130, 190, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "chevrolet chevelle concours (sw)",
+                "value": 130.0,
+                "color": "rgba(100, 154, 146, 0.2)"
+            },
+            {
+                "label": "ford fairmont",
+                "value": 88.0,
+                "color": "rgba(175, 140, 87, 0.2)"
+            },
+            {
+                "label": "chevrolet cavalier",
+                "value": 88.0,
+                "color": "rgba(31, 136, 109, 0.2)"
+            },
+            {
+                "label": "ford fairmont (man)",
+                "value": 88.0,
+                "color": "rgba(138, 228, 93, 0.2)"
+            },
+            {
+                "label": "plymouth volare",
+                "value": 100.0,
+                "color": "rgba(20, 108, 228, 0.2)"
+            },
+            {
+                "label": "chevy s-10",
+                "value": 82.0,
+                "color": "rgba(91, 165, 95, 0.2)"
+            },
+            {
+                "label": "plymouth duster",
+                "value": 95.0,
+                "color": "rgba(242, 146, 252, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Price (USD)",
+        "data": [
+            {
+                "label": "honda accord cvcc",
+                "value": 16288.27844,
+                "color": "rgba(147, 227, 40, 0.2)"
+            },
+            {
+                "label": "honda accord",
+                "value": 40000.0,
+                "color": "rgba(241, 202, 90, 0.2)"
+            },
+            {
+                "label": "mazda 626",
+                "value": 40000.0,
+                "color": "rgba(1, 227, 230, 0.2)"
+            },
+            {
+                "label": "mercury grand marquis",
+                "value": 13073.58541,
+                "color": "rgba(164, 203, 72, 0.2)"
+            },
+            {
+                "label": "bmw 320i",
+                "value": 23927.44248,
+                "color": "rgba(80, 5, 129, 0.2)"
+            },
+            {
+                "label": "volkswagen rabbit",
+                "value": 23640.67856,
+                "color": "rgba(168, 51, 105, 0.2)"
+            },
+            {
+                "label": "amc hornet",
+                "value": 30000.0,
+                "color": "rgba(162, 231, 100, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "chevrolet chevelle malibu classic",
+                "value": 13.0,
+                "color": "rgba(108, 79, 216, 0.2)"
+            },
+            {
+                "label": "plymouth duster",
+                "value": 15.5,
+                "color": "rgba(122, 91, 91, 0.2)"
+            },
+            {
+                "label": "pontiac grand prix",
+                "value": 9.5,
+                "color": "rgba(227, 34, 15, 0.2)"
+            },
+            {
+                "label": "dodge colt m/m",
+                "value": 15.9,
+                "color": "rgba(148, 103, 203, 0.2)"
+            },
+            {
+                "label": "volkswagen rabbit",
+                "value": 12.2,
+                "color": "rgba(239, 222, 59, 0.2)"
+            },
+            {
+                "label": "ford maverick",
+                "value": 17.6,
+                "color": "rgba(125, 123, 33, 0.2)"
+            },
+            {
+                "label": "dodge aspen",
+                "value": 18.7,
+                "color": "rgba(103, 89, 101, 0.2)"
+            },
+            {
+                "label": "mercury grand marquis",
+                "value": 13.2,
+                "color": "rgba(245, 70, 96, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "dodge aspen",
+                "value": 18.7,
+                "color": "rgba(23, 171, 30, 0.2)"
+            },
+            {
+                "label": "ford maverick",
+                "value": 17.6,
+                "color": "rgba(172, 29, 253, 0.2)"
+            },
+            {
+                "label": "ford torino",
+                "value": 10.5,
+                "color": "rgba(55, 51, 188, 0.2)"
+            },
+            {
+                "label": "oldsmobile cutlass salon brougham",
+                "value": 15.5,
+                "color": "rgba(118, 208, 13, 0.2)"
+            },
+            {
+                "label": "dodge colt hardtop",
+                "value": 17.0,
+                "color": "rgba(245, 64, 184, 0.2)"
+            },
+            {
+                "label": "amc matador",
+                "value": 18.0,
+                "color": "rgba(50, 210, 105, 0.2)"
+            },
+            {
+                "label": "chevrolet citation",
+                "value": 12.6,
+                "color": "rgba(60, 74, 72, 0.2)"
+            },
+            {
+                "label": "datsun 1200",
+                "value": 18.0,
+                "color": "rgba(216, 213, 222, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Weight (lbs)",
+        "data": [
+            {
+                "label": "amc concord dl 6",
+                "value": 3265,
+                "color": "rgba(113, 56, 233, 0.2)"
+            },
+            {
+                "label": "vw rabbit",
+                "value": 2144,
+                "color": "rgba(213, 100, 116, 0.2)"
+            },
+            {
+                "label": "toyota corolla 1200",
+                "value": 1836,
+                "color": "rgba(64, 20, 80, 0.2)"
+            },
+            {
+                "label": "peugeot 504",
+                "value": 3270,
+                "color": "rgba(207, 105, 243, 0.2)"
+            },
+            {
+                "label": "honda civic",
+                "value": 1795,
+                "color": "rgba(13, 139, 82, 0.2)"
+            },
+            {
+                "label": "ford fairmont (man)",
+                "value": 2720,
+                "color": "rgba(164, 165, 172, 0.2)"
+            },
+            {
+                "label": "toyota corona",
+                "value": 2228,
+                "color": "rgba(238, 91, 195, 0.2)"
+            },
+            {
+                "label": "ford galaxie 500",
+                "value": 4341,
+                "color": "rgba(52, 11, 216, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Weight (lbs)",
+        "data": [
+            {
+                "label": "opel 1900",
+                "value": 2123,
+                "color": "rgba(66, 208, 25, 0.2)"
+            },
+            {
+                "label": "chevroelt chevelle malibu",
+                "value": 3897,
+                "color": "rgba(139, 194, 128, 0.2)"
+            },
+            {
+                "label": "dodge aspen 6",
+                "value": 3360,
+                "color": "rgba(28, 150, 71, 0.2)"
+            },
+            {
+                "label": "ford ltd",
+                "value": 4363,
+                "color": "rgba(148, 185, 128, 0.2)"
+            },
+            {
+                "label": "chevrolet bel air",
+                "value": 4440,
+                "color": "rgba(160, 191, 177, 0.2)"
+            },
+            {
+                "label": "ford maverick",
+                "value": 2875,
+                "color": "rgba(88, 252, 28, 0.2)"
+            },
+            {
+                "label": "chevrolet nova",
+                "value": 3353,
+                "color": "rgba(78, 22, 1, 0.2)"
+            },
+            {
+                "label": "datsun 810 maxima",
+                "value": 2930,
+                "color": "rgba(195, 39, 134, 0.2)"
+            },
+            {
+                "label": "audi 100ls",
+                "value": 2582,
+                "color": "rgba(192, 204, 75, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "ford galaxie 500",
+                "value": 10.0,
+                "color": "rgba(184, 141, 166, 0.2)"
+            },
+            {
+                "label": "ford fiesta",
+                "value": 14.4,
+                "color": "rgba(6, 220, 84, 0.2)"
+            },
+            {
+                "label": "ford country squire (sw)",
+                "value": 12.0,
+                "color": "rgba(125, 235, 116, 0.2)"
+            },
+            {
+                "label": "fiat x1.9",
+                "value": 16.0,
+                "color": "rgba(47, 123, 225, 0.2)"
+            },
+            {
+                "label": "toyota cressida",
+                "value": 12.6,
+                "color": "rgba(53, 118, 59, 0.2)"
+            },
+            {
+                "label": "dodge challenger se",
+                "value": 10.0,
+                "color": "rgba(150, 163, 167, 0.2)"
+            },
+            {
+                "label": "chevrolet nova custom",
+                "value": 18.0,
+                "color": "rgba(195, 17, 67, 0.2)"
+            },
+            {
+                "label": "amc matador (sw)",
+                "value": 12.5,
+                "color": "rgba(156, 215, 78, 0.2)"
+            },
+            {
+                "label": "ford granada gl",
+                "value": 17.1,
+                "color": "rgba(58, 220, 140, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Price (USD)",
+        "data": [
+            {
+                "label": "maxda glc deluxe",
+                "value": 20000.0,
+                "color": "rgba(162, 206, 96, 0.2)"
+            },
+            {
+                "label": "chevroelt chevelle malibu",
+                "value": 16545.00951,
+                "color": "rgba(150, 166, 47, 0.2)"
+            },
+            {
+                "label": "mercedes benz 300d",
+                "value": 20000.0,
+                "color": "rgba(117, 91, 45, 0.2)"
+            },
+            {
+                "label": "chevrolet impala",
+                "value": 40000.0,
+                "color": "rgba(203, 180, 225, 0.2)"
+            },
+            {
+                "label": "plymouth horizon miser",
+                "value": 48111.1021,
+                "color": "rgba(212, 69, 38, 0.2)"
+            },
+            {
+                "label": "dodge dart custom",
+                "value": 40000.0,
+                "color": "rgba(58, 113, 84, 0.2)"
+            },
+            {
+                "label": "toyota corona",
+                "value": 5579.395792,
+                "color": "rgba(160, 217, 19, 0.2)"
+            },
+            {
+                "label": "ford maverick",
+                "value": 30000.0,
+                "color": "rgba(182, 171, 124, 0.2)"
+            },
+            {
+                "label": "dodge coronet brougham",
+                "value": 20000.0,
+                "color": "rgba(178, 197, 119, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Weight (lbs)",
+        "data": [
+            {
+                "label": "chevrolet citation",
+                "value": 2678,
+                "color": "rgba(81, 200, 9, 0.2)"
+            },
+            {
+                "label": "plymouth horizon 4",
+                "value": 2215,
+                "color": "rgba(104, 57, 154, 0.2)"
+            },
+            {
+                "label": "peugeot 504",
+                "value": 3190,
+                "color": "rgba(218, 117, 10, 0.2)"
+            },
+            {
+                "label": "mercury zephyr",
+                "value": 3070,
+                "color": "rgba(197, 225, 159, 0.2)"
+            },
+            {
+                "label": "pontiac phoenix",
+                "value": 2735,
+                "color": "rgba(173, 202, 145, 0.2)"
+            },
+            {
+                "label": "pontiac grand prix lj",
+                "value": 4220,
+                "color": "rgba(86, 82, 189, 0.2)"
+            },
+            {
+                "label": "pontiac catalina",
+                "value": 4425,
+                "color": "rgba(102, 9, 209, 0.2)"
+            },
+            {
+                "label": "chevrolet cavalier 2-door",
+                "value": 2395,
+                "color": "rgba(159, 26, 197, 0.2)"
+            },
+            {
+                "label": "chevrolet chevette",
+                "value": 2155,
+                "color": "rgba(68, 89, 148, 0.2)"
+            },
+            {
+                "label": "ford thunderbird",
+                "value": 4335,
+                "color": "rgba(69, 192, 149, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Price (USD)",
+        "data": [
+            {
+                "label": "dodge aspen",
+                "value": 33043.99134,
+                "color": "rgba(161, 126, 51, 0.2)"
+            },
+            {
+                "label": "datsun 200-sx",
+                "value": 47709.82064,
+                "color": "rgba(106, 233, 247, 0.2)"
+            },
+            {
+                "label": "mercedes benz 300d",
+                "value": 20000.0,
+                "color": "rgba(176, 3, 170, 0.2)"
+            },
+            {
+                "label": "ford granada",
+                "value": 36453.91629,
+                "color": "rgba(40, 249, 52, 0.2)"
+            },
+            {
+                "label": "plymouth fury gran sedan",
+                "value": 53745.93806,
+                "color": "rgba(152, 57, 189, 0.2)"
+            },
+            {
+                "label": "amc spirit dl",
+                "value": 40000.0,
+                "color": "rgba(96, 73, 173, 0.2)"
+            },
+            {
+                "label": "datsun 280-zx",
+                "value": 25944.32515,
+                "color": "rgba(103, 243, 255, 0.2)"
+            },
+            {
+                "label": "audi fox",
+                "value": 27392.70399,
+                "color": "rgba(99, 48, 139, 0.2)"
+            },
+            {
+                "label": "oldsmobile starfire sx",
+                "value": 30000.0,
+                "color": "rgba(106, 224, 56, 0.2)"
+            },
+            {
+                "label": "plymouth sapporo",
+                "value": 36338.23478,
+                "color": "rgba(114, 156, 177, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Price (USD)",
+        "data": [
+            {
+                "label": "dodge aspen 6",
+                "value": 26927.11569,
+                "color": "rgba(100, 254, 114, 0.2)"
+            },
+            {
+                "label": "amc ambassador dpl",
+                "value": 32617.05928,
+                "color": "rgba(81, 196, 108, 0.2)"
+            },
+            {
+                "label": "renault lecar deluxe",
+                "value": 32650.65157,
+                "color": "rgba(4, 22, 66, 0.2)"
+            },
+            {
+                "label": "peugeot 504",
+                "value": 24639.37404,
+                "color": "rgba(155, 146, 88, 0.2)"
+            },
+            {
+                "label": "mazda rx-7 gs",
+                "value": 44730.24616,
+                "color": "rgba(102, 116, 153, 0.2)"
+            },
+            {
+                "label": "datsun 710",
+                "value": 22599.02117,
+                "color": "rgba(196, 78, 102, 0.2)"
+            },
+            {
+                "label": "datsun b-210",
+                "value": 34072.29922,
+                "color": "rgba(148, 101, 227, 0.2)"
+            },
+            {
+                "label": "fiat 124 tc",
+                "value": 24285.00304,
+                "color": "rgba(79, 38, 144, 0.2)"
+            },
+            {
+                "label": "volkswagen dasher",
+                "value": 20000.0,
+                "color": "rgba(215, 62, 154, 0.2)"
+            },
+            {
+                "label": "plymouth satellite custom",
+                "value": 44534.97074,
+                "color": "rgba(198, 244, 230, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "datsun 510 (sw)",
+                "value": 17.0,
+                "color": "rgba(58, 31, 175, 0.2)"
+            },
+            {
+                "label": "plymouth arrow gs",
+                "value": 15.5,
+                "color": "rgba(6, 204, 71, 0.2)"
+            },
+            {
+                "label": "maxda rx3",
+                "value": 13.5,
+                "color": "rgba(181, 200, 205, 0.2)"
+            },
+            {
+                "label": "buick skyhawk",
+                "value": 15.0,
+                "color": "rgba(75, 242, 218, 0.2)"
+            },
+            {
+                "label": "pontiac ventura sj",
+                "value": 16.2,
+                "color": "rgba(27, 244, 39, 0.2)"
+            },
+            {
+                "label": "datsun 200sx",
+                "value": 14.8,
+                "color": "rgba(245, 133, 41, 0.2)"
+            },
+            {
+                "label": "ford granada gl",
+                "value": 17.1,
+                "color": "rgba(248, 168, 58, 0.2)"
+            },
+            {
+                "label": "ford fiesta",
+                "value": 14.4,
+                "color": "rgba(39, 101, 28, 0.2)"
+            },
+            {
+                "label": "honda civic",
+                "value": 15.0,
+                "color": "rgba(72, 174, 187, 0.2)"
+            },
+            {
+                "label": "volkswagen rabbit custom diesel",
+                "value": 21.5,
+                "color": "rgba(141, 98, 185, 0.2)"
+            },
+            {
+                "label": "toyota corolla",
+                "value": 16.4,
+                "color": "rgba(65, 59, 22, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "ford thunderbird",
+                "value": 149.0,
+                "color": "rgba(4, 164, 28, 0.2)"
+            },
+            {
+                "label": "dodge aspen 6",
+                "value": 110.0,
+                "color": "rgba(181, 109, 155, 0.2)"
+            },
+            {
+                "label": "volkswagen rabbit l",
+                "value": 74.0,
+                "color": "rgba(95, 4, 89, 0.2)"
+            },
+            {
+                "label": "chevrolet cavalier wagon",
+                "value": 88.0,
+                "color": "rgba(64, 171, 91, 0.2)"
+            },
+            {
+                "label": "audi fox",
+                "value": 83.0,
+                "color": "rgba(82, 96, 63, 0.2)"
+            },
+            {
+                "label": "buick skylark",
+                "value": 105.0,
+                "color": "rgba(184, 202, 151, 0.2)"
+            },
+            {
+                "label": "chevrolet malibu classic (sw)",
+                "value": 125.0,
+                "color": "rgba(169, 8, 135, 0.2)"
+            },
+            {
+                "label": "plymouth custom suburb",
+                "value": 170.0,
+                "color": "rgba(161, 30, 38, 0.2)"
+            },
+            {
+                "label": "ford ltd",
+                "value": 148.0,
+                "color": "rgba(241, 7, 106, 0.2)"
+            },
+            {
+                "label": "dodge d100",
+                "value": 150.0,
+                "color": "rgba(42, 154, 59, 0.2)"
+            },
+            {
+                "label": "mercury monarch",
+                "value": 72.0,
+                "color": "rgba(94, 48, 157, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "chevrolet monte carlo landau",
+                "value": 170.0,
+                "color": "rgba(236, 223, 90, 0.2)"
+            },
+            {
+                "label": "amc gremlin",
+                "value": 100.0,
+                "color": "rgba(24, 172, 75, 0.2)"
+            },
+            {
+                "label": "volkswagen model 111",
+                "value": 60.0,
+                "color": "rgba(108, 161, 184, 0.2)"
+            },
+            {
+                "label": "plymouth fury iii",
+                "value": 150.0,
+                "color": "rgba(0, 41, 233, 0.2)"
+            },
+            {
+                "label": "pontiac catalina brougham",
+                "value": 175.0,
+                "color": "rgba(239, 74, 173, 0.2)"
+            },
+            {
+                "label": "mercedes benz 300d",
+                "value": 77.0,
+                "color": "rgba(78, 37, 79, 0.2)"
+            },
+            {
+                "label": "ford pinto",
+                "value": 97.0,
+                "color": "rgba(213, 121, 127, 0.2)"
+            },
+            {
+                "label": "plymouth satellite custom (sw)",
+                "value": 150.0,
+                "color": "rgba(243, 212, 32, 0.2)"
+            },
+            {
+                "label": "pontiac sunbird coupe",
+                "value": 88.0,
+                "color": "rgba(23, 67, 61, 0.2)"
+            },
+            {
+                "label": "ford thunderbird",
+                "value": 149.0,
+                "color": "rgba(220, 230, 61, 0.2)"
+            },
+            {
+                "label": "ford escort 4w",
+                "value": 65.0,
+                "color": "rgba(53, 140, 7, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "ford fairmont (auto)",
+                "value": 15.8,
+                "color": "rgba(67, 55, 145, 0.2)"
+            },
+            {
+                "label": "datsun 510 (sw)",
+                "value": 17.0,
+                "color": "rgba(198, 158, 253, 0.2)"
+            },
+            {
+                "label": "ford mustang cobra",
+                "value": 14.3,
+                "color": "rgba(214, 205, 89, 0.2)"
+            },
+            {
+                "label": "mercury zephyr 6",
+                "value": 18.2,
+                "color": "rgba(175, 196, 84, 0.2)"
+            },
+            {
+                "label": "peugeot 504",
+                "value": 17.0,
+                "color": "rgba(84, 131, 231, 0.2)"
+            },
+            {
+                "label": "ford gran torino",
+                "value": 12.8,
+                "color": "rgba(156, 55, 106, 0.2)"
+            },
+            {
+                "label": "dodge coronet custom",
+                "value": 12.5,
+                "color": "rgba(181, 138, 13, 0.2)"
+            },
+            {
+                "label": "honda civic cvcc",
+                "value": 16.4,
+                "color": "rgba(228, 160, 127, 0.2)"
+            },
+            {
+                "label": "datsun 200sx",
+                "value": 14.8,
+                "color": "rgba(203, 160, 151, 0.2)"
+            },
+            {
+                "label": "datsun 510 hatchback",
+                "value": 15.0,
+                "color": "rgba(162, 98, 22, 0.2)"
+            },
+            {
+                "label": "ford ltd",
+                "value": 13.0,
+                "color": "rgba(200, 173, 58, 0.2)"
+            },
+            {
+                "label": "toyota corona",
+                "value": 13.5,
+                "color": "rgba(169, 175, 7, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "plymouth fury gran sedan",
+                "value": 150.0,
+                "color": "rgba(136, 19, 212, 0.2)"
+            },
+            {
+                "label": "mazda rx-7 gs",
+                "value": 100.0,
+                "color": "rgba(109, 210, 164, 0.2)"
+            },
+            {
+                "label": "oldsmobile cutlass ciera (diesel)",
+                "value": 85.0,
+                "color": "rgba(117, 249, 139, 0.2)"
+            },
+            {
+                "label": "ford pinto",
+                "value": 72.0,
+                "color": "rgba(31, 235, 140, 0.2)"
+            },
+            {
+                "label": "ford gran torino (sw)",
+                "value": 140.0,
+                "color": "rgba(64, 76, 219, 0.2)"
+            },
+            {
+                "label": "volvo 145e (sw)",
+                "value": 112.0,
+                "color": "rgba(35, 55, 22, 0.2)"
+            },
+            {
+                "label": "chevrolet nova",
+                "value": 100.0,
+                "color": "rgba(5, 111, 165, 0.2)"
+            },
+            {
+                "label": "plymouth grand fury",
+                "value": 150.0,
+                "color": "rgba(95, 87, 137, 0.2)"
+            },
+            {
+                "label": "audi fox",
+                "value": 83.0,
+                "color": "rgba(22, 164, 254, 0.2)"
+            },
+            {
+                "label": "dodge aspen se",
+                "value": 100.0,
+                "color": "rgba(172, 127, 222, 0.2)"
+            },
+            {
+                "label": "datsun 310 gx",
+                "value": 67.0,
+                "color": "rgba(9, 64, 150, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "honda accord cvcc",
+                "value": 18.5,
+                "color": "rgba(193, 250, 99, 0.2)"
+            },
+            {
+                "label": "mazda glc deluxe",
+                "value": 19.4,
+                "color": "rgba(106, 104, 166, 0.2)"
+            },
+            {
+                "label": "vw rabbit custom",
+                "value": 14.0,
+                "color": "rgba(169, 26, 44, 0.2)"
+            },
+            {
+                "label": "chevrolet citation",
+                "value": 11.3,
+                "color": "rgba(91, 232, 252, 0.2)"
+            },
+            {
+                "label": "renault 12tl",
+                "value": 15.3,
+                "color": "rgba(223, 19, 73, 0.2)"
+            },
+            {
+                "label": "plymouth cricket",
+                "value": 20.5,
+                "color": "rgba(158, 23, 243, 0.2)"
+            },
+            {
+                "label": "ford country squire (sw)",
+                "value": 14.3,
+                "color": "rgba(183, 52, 176, 0.2)"
+            },
+            {
+                "label": "peugeot 504 (sw)",
+                "value": 19.5,
+                "color": "rgba(245, 172, 115, 0.2)"
+            },
+            {
+                "label": "pontiac lemans v6",
+                "value": 15.4,
+                "color": "rgba(156, 227, 147, 0.2)"
+            },
+            {
+                "label": "chevrolet caprice classic",
+                "value": 12.0,
+                "color": "rgba(21, 55, 41, 0.2)"
+            },
+            {
+                "label": "toyota corolla 1600 (sw)",
+                "value": 16.5,
+                "color": "rgba(69, 122, 132, 0.2)"
+            },
+            {
+                "label": "mercury marquis",
+                "value": 11.0,
+                "color": "rgba(234, 92, 241, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Mileage (miles per gallon)",
+        "data": [
+            {
+                "label": "chevrolet chevelle malibu classic",
+                "value": 17.5,
+                "color": "rgba(46, 120, 103, 0.2)"
+            },
+            {
+                "label": "dodge aspen",
+                "value": 18.6,
+                "color": "rgba(172, 66, 166, 0.2)"
+            },
+            {
+                "label": "amc concord",
+                "value": 24.3,
+                "color": "rgba(168, 142, 243, 0.2)"
+            },
+            {
+                "label": "chevrolet nova",
+                "value": 18.0,
+                "color": "rgba(66, 245, 108, 0.2)"
+            },
+            {
+                "label": "amc hornet",
+                "value": 22.5,
+                "color": "rgba(68, 120, 190, 0.2)"
+            },
+            {
+                "label": "subaru",
+                "value": 26.0,
+                "color": "rgba(184, 76, 151, 0.2)"
+            },
+            {
+                "label": "toyota corolla liftback",
+                "value": 26.0,
+                "color": "rgba(60, 141, 116, 0.2)"
+            },
+            {
+                "label": "mazda glc",
+                "value": 46.6,
+                "color": "rgba(73, 91, 123, 0.2)"
+            },
+            {
+                "label": "mazda glc 4",
+                "value": 34.1,
+                "color": "rgba(100, 128, 175, 0.2)"
+            },
+            {
+                "label": "dodge dart custom",
+                "value": 15.0,
+                "color": "rgba(59, 165, 62, 0.2)"
+            },
+            {
+                "label": "mazda glc custom l",
+                "value": 37.0,
+                "color": "rgba(107, 207, 165, 0.2)"
+            },
+            {
+                "label": "ford torino 500",
+                "value": 19.0,
+                "color": "rgba(94, 3, 22, 0.2)"
+            },
+            {
+                "label": "amc ambassador brougham",
+                "value": 13.0,
+                "color": "rgba(67, 101, 255, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "pontiac astro",
+                "value": 78.0,
+                "color": "rgba(238, 163, 118, 0.2)"
+            },
+            {
+                "label": "volkswagen super beetle",
+                "value": 46.0,
+                "color": "rgba(5, 108, 141, 0.2)"
+            },
+            {
+                "label": "dodge diplomat",
+                "value": 140.0,
+                "color": "rgba(1, 219, 63, 0.2)"
+            },
+            {
+                "label": "honda accord",
+                "value": 72.0,
+                "color": "rgba(138, 86, 179, 0.2)"
+            },
+            {
+                "label": "oldsmobile cutlass supreme",
+                "value": 110.0,
+                "color": "rgba(140, 239, 2, 0.2)"
+            },
+            {
+                "label": "dodge aspen se",
+                "value": 100.0,
+                "color": "rgba(182, 74, 113, 0.2)"
+            },
+            {
+                "label": "chevrolet nova",
+                "value": 105.0,
+                "color": "rgba(95, 139, 232, 0.2)"
+            },
+            {
+                "label": "chevrolet chevette",
+                "value": 70.0,
+                "color": "rgba(67, 118, 56, 0.2)"
+            },
+            {
+                "label": "chevrolet chevette",
+                "value": 52.0,
+                "color": "rgba(247, 145, 200, 0.2)"
+            },
+            {
+                "label": "plymouth horizon miser",
+                "value": 63.0,
+                "color": "rgba(241, 43, 114, 0.2)"
+            },
+            {
+                "label": "oldsmobile cutlass salon brougham",
+                "value": 90.0,
+                "color": "rgba(28, 186, 224, 0.2)"
+            },
+            {
+                "label": "chevrolet vega",
+                "value": 75.0,
+                "color": "rgba(19, 113, 29, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Weight (lbs)",
+        "data": [
+            {
+                "label": "toyota cressida",
+                "value": 2900,
+                "color": "rgba(158, 169, 143, 0.2)"
+            },
+            {
+                "label": "volvo 245",
+                "value": 3150,
+                "color": "rgba(114, 109, 112, 0.2)"
+            },
+            {
+                "label": "plymouth horizon",
+                "value": 2200,
+                "color": "rgba(40, 138, 179, 0.2)"
+            },
+            {
+                "label": "vw rabbit custom",
+                "value": 1925,
+                "color": "rgba(96, 190, 21, 0.2)"
+            },
+            {
+                "label": "ford pinto",
+                "value": 2984,
+                "color": "rgba(144, 90, 90, 0.2)"
+            },
+            {
+                "label": "amc concord dl",
+                "value": 3035,
+                "color": "rgba(232, 236, 96, 0.2)"
+            },
+            {
+                "label": "mercury capri 2000",
+                "value": 2220,
+                "color": "rgba(107, 149, 28, 0.2)"
+            },
+            {
+                "label": "ford fairmont",
+                "value": 2870,
+                "color": "rgba(251, 19, 88, 0.2)"
+            },
+            {
+                "label": "dodge d100",
+                "value": 3755,
+                "color": "rgba(157, 125, 96, 0.2)"
+            },
+            {
+                "label": "chevy s-10",
+                "value": 2720,
+                "color": "rgba(35, 103, 181, 0.2)"
+            },
+            {
+                "label": "ford mustang gl",
+                "value": 2790,
+                "color": "rgba(164, 84, 200, 0.2)"
+            },
+            {
+                "label": "buick skylark",
+                "value": 3425,
+                "color": "rgba(133, 174, 196, 0.2)"
+            },
+            {
+                "label": "amc matador (sw)",
+                "value": 4257,
+                "color": "rgba(20, 12, 151, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "amc hornet",
+                "value": 100.0,
+                "color": "rgba(182, 49, 111, 0.2)"
+            },
+            {
+                "label": "chevrolet vega",
+                "value": 72.0,
+                "color": "rgba(34, 132, 72, 0.2)"
+            },
+            {
+                "label": "buick skylark limited",
+                "value": 90.0,
+                "color": "rgba(70, 97, 44, 0.2)"
+            },
+            {
+                "label": "plymouth fury iii",
+                "value": 215.0,
+                "color": "rgba(218, 249, 125, 0.2)"
+            },
+            {
+                "label": "volkswagen dasher",
+                "value": 67.0,
+                "color": "rgba(131, 240, 180, 0.2)"
+            },
+            {
+                "label": "buick century special",
+                "value": 105.0,
+                "color": "rgba(2, 169, 20, 0.2)"
+            },
+            {
+                "label": "honda accord cvcc",
+                "value": 68.0,
+                "color": "rgba(167, 138, 13, 0.2)"
+            },
+            {
+                "label": "toyota mark ii",
+                "value": 122.0,
+                "color": "rgba(163, 171, 67, 0.2)"
+            },
+            {
+                "label": "honda civic 1300",
+                "value": 60.0,
+                "color": "rgba(103, 248, 191, 0.2)"
+            },
+            {
+                "label": "chevrolet citation",
+                "value": 110.0,
+                "color": "rgba(238, 105, 228, 0.2)"
+            },
+            {
+                "label": "toyota corolla 1200",
+                "value": 65.0,
+                "color": "rgba(5, 9, 134, 0.2)"
+            },
+            {
+                "label": "ford gran torino",
+                "value": 152.0,
+                "color": "rgba(157, 124, 55, 0.2)"
+            },
+            {
+                "label": "chevrolet nova",
+                "value": 105.0,
+                "color": "rgba(118, 234, 196, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "mercury monarch ghia",
+                "value": 12.8,
+                "color": "rgba(178, 24, 123, 0.2)"
+            },
+            {
+                "label": "chevrolet monte carlo landau",
+                "value": 13.2,
+                "color": "rgba(47, 90, 6, 0.2)"
+            },
+            {
+                "label": "saab 99le",
+                "value": 14.0,
+                "color": "rgba(91, 244, 230, 0.2)"
+            },
+            {
+                "label": "datsun b210",
+                "value": 19.0,
+                "color": "rgba(105, 104, 34, 0.2)"
+            },
+            {
+                "label": "ford mustang cobra",
+                "value": 14.3,
+                "color": "rgba(152, 247, 231, 0.2)"
+            },
+            {
+                "label": "pontiac j2000 se hatchback",
+                "value": 16.2,
+                "color": "rgba(149, 108, 231, 0.2)"
+            },
+            {
+                "label": "fiat 131",
+                "value": 15.5,
+                "color": "rgba(25, 207, 211, 0.2)"
+            },
+            {
+                "label": "chevrolet concours",
+                "value": 16.4,
+                "color": "rgba(183, 137, 73, 0.2)"
+            },
+            {
+                "label": "toyota starlet",
+                "value": 16.9,
+                "color": "rgba(60, 122, 33, 0.2)"
+            },
+            {
+                "label": "volkswagen dasher",
+                "value": 16.5,
+                "color": "rgba(52, 103, 192, 0.2)"
+            },
+            {
+                "label": "dodge colt",
+                "value": 14.4,
+                "color": "rgba(131, 115, 218, 0.2)"
+            },
+            {
+                "label": "honda accord lx",
+                "value": 16.6,
+                "color": "rgba(40, 94, 46, 0.2)"
+            },
+            {
+                "label": "honda civic",
+                "value": 15.0,
+                "color": "rgba(235, 193, 249, 0.2)"
+            },
+            {
+                "label": "amc pacer d/l",
+                "value": 17.8,
+                "color": "rgba(229, 224, 60, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "volvo 245",
+                "value": 15.7,
+                "color": "rgba(57, 95, 107, 0.2)"
+            },
+            {
+                "label": "chevrolet impala",
+                "value": 14.0,
+                "color": "rgba(75, 97, 40, 0.2)"
+            },
+            {
+                "label": "pontiac catalina",
+                "value": 12.0,
+                "color": "rgba(131, 125, 25, 0.2)"
+            },
+            {
+                "label": "plymouth duster",
+                "value": 15.5,
+                "color": "rgba(129, 195, 47, 0.2)"
+            },
+            {
+                "label": "honda accord cvcc",
+                "value": 18.5,
+                "color": "rgba(170, 111, 55, 0.2)"
+            },
+            {
+                "label": "oldsmobile cutlass ciera (diesel)",
+                "value": 17.0,
+                "color": "rgba(244, 133, 30, 0.2)"
+            },
+            {
+                "label": "ford torino 500",
+                "value": 15.5,
+                "color": "rgba(74, 43, 139, 0.2)"
+            },
+            {
+                "label": "chevrolet bel air",
+                "value": 14.0,
+                "color": "rgba(38, 52, 151, 0.2)"
+            },
+            {
+                "label": "ford mustang gl",
+                "value": 15.6,
+                "color": "rgba(180, 136, 149, 0.2)"
+            },
+            {
+                "label": "toyota cressida",
+                "value": 12.6,
+                "color": "rgba(81, 170, 171, 0.2)"
+            },
+            {
+                "label": "toyota corona",
+                "value": 13.5,
+                "color": "rgba(53, 138, 100, 0.2)"
+            },
+            {
+                "label": "dodge coronet brougham",
+                "value": 13.0,
+                "color": "rgba(129, 184, 3, 0.2)"
+            },
+            {
+                "label": "chevrolet chevelle malibu",
+                "value": 12.0,
+                "color": "rgba(88, 65, 245, 0.2)"
+            },
+            {
+                "label": "subaru",
+                "value": 15.5,
+                "color": "rgba(75, 113, 3, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Mileage (miles per gallon)",
+        "data": [
+            {
+                "label": "volvo 144ea",
+                "value": 19.0,
+                "color": "rgba(92, 95, 78, 0.2)"
+            },
+            {
+                "label": "amc concord",
+                "value": 19.4,
+                "color": "rgba(3, 182, 43, 0.2)"
+            },
+            {
+                "label": "ford gran torino (sw)",
+                "value": 13.0,
+                "color": "rgba(221, 147, 136, 0.2)"
+            },
+            {
+                "label": "toyota corona hardtop",
+                "value": 24.0,
+                "color": "rgba(15, 17, 144, 0.2)"
+            },
+            {
+                "label": "chevrolet malibu classic (sw)",
+                "value": 19.2,
+                "color": "rgba(15, 76, 94, 0.2)"
+            },
+            {
+                "label": "datsun 210",
+                "value": 31.8,
+                "color": "rgba(159, 246, 130, 0.2)"
+            },
+            {
+                "label": "fiat 131",
+                "value": 28.0,
+                "color": "rgba(195, 157, 107, 0.2)"
+            },
+            {
+                "label": "plymouth champ",
+                "value": 39.0,
+                "color": "rgba(83, 43, 128, 0.2)"
+            },
+            {
+                "label": "amc matador",
+                "value": 15.0,
+                "color": "rgba(179, 34, 247, 0.2)"
+            },
+            {
+                "label": "fiat 128",
+                "value": 29.0,
+                "color": "rgba(187, 68, 74, 0.2)"
+            },
+            {
+                "label": "opel 1900",
+                "value": 28.0,
+                "color": "rgba(182, 123, 14, 0.2)"
+            },
+            {
+                "label": "chevrolet cavalier 2-door",
+                "value": 34.0,
+                "color": "rgba(57, 177, 202, 0.2)"
+            },
+            {
+                "label": "mazda glc 4",
+                "value": 34.1,
+                "color": "rgba(198, 172, 247, 0.2)"
+            },
+            {
+                "label": "audi 100ls",
+                "value": 20.0,
+                "color": "rgba(198, 200, 27, 0.2)"
+            },
+            {
+                "label": "oldsmobile delta 88 royale",
+                "value": 12.0,
+                "color": "rgba(23, 187, 233, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "honda civic (auto)",
+                "value": 67.0,
+                "color": "rgba(16, 148, 56, 0.2)"
+            },
+            {
+                "label": "honda accord lx",
+                "value": 68.0,
+                "color": "rgba(201, 50, 210, 0.2)"
+            },
+            {
+                "label": "dodge aspen se",
+                "value": 100.0,
+                "color": "rgba(148, 169, 79, 0.2)"
+            },
+            {
+                "label": "amc matador",
+                "value": 120.0,
+                "color": "rgba(7, 162, 43, 0.2)"
+            },
+            {
+                "label": "ford galaxie 500",
+                "value": 153.0,
+                "color": "rgba(187, 184, 208, 0.2)"
+            },
+            {
+                "label": "buick century",
+                "value": 110.0,
+                "color": "rgba(141, 112, 85, 0.2)"
+            },
+            {
+                "label": "peugeot 504",
+                "value": 88.0,
+                "color": "rgba(82, 218, 26, 0.2)"
+            },
+            {
+                "label": "ford mustang ii",
+                "value": 129.0,
+                "color": "rgba(240, 142, 16, 0.2)"
+            },
+            {
+                "label": "dodge omni",
+                "value": 75.0,
+                "color": "rgba(26, 106, 44, 0.2)"
+            },
+            {
+                "label": "toyota corona mark ii",
+                "value": 95.0,
+                "color": "rgba(197, 174, 206, 0.2)"
+            },
+            {
+                "label": "audi fox",
+                "value": 83.0,
+                "color": "rgba(32, 132, 52, 0.2)"
+            },
+            {
+                "label": "plymouth custom suburb",
+                "value": 170.0,
+                "color": "rgba(211, 59, 168, 0.2)"
+            },
+            {
+                "label": "dodge monaco brougham",
+                "value": 145.0,
+                "color": "rgba(87, 250, 56, 0.2)"
+            },
+            {
+                "label": "volkswagen scirocco",
+                "value": 71.0,
+                "color": "rgba(231, 11, 168, 0.2)"
+            },
+            {
+                "label": "ford fairmont futura",
+                "value": 92.0,
+                "color": "rgba(128, 13, 211, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "bar",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "plymouth satellite sebring",
+                "value": 16.5,
+                "color": "rgba(34, 167, 138, 0.2)"
+            },
+            {
+                "label": "pontiac grand prix lj",
+                "value": 11.1,
+                "color": "rgba(117, 197, 225, 0.2)"
+            },
+            {
+                "label": "nissan stanza xe",
+                "value": 14.5,
+                "color": "rgba(28, 24, 211, 0.2)"
+            },
+            {
+                "label": "toyota corolla",
+                "value": 15.2,
+                "color": "rgba(136, 158, 14, 0.2)"
+            },
+            {
+                "label": "chevrolet camaro",
+                "value": 17.3,
+                "color": "rgba(234, 163, 195, 0.2)"
+            },
+            {
+                "label": "mazda glc deluxe",
+                "value": 19.4,
+                "color": "rgba(139, 181, 194, 0.2)"
+            },
+            {
+                "label": "buick electra 225 custom",
+                "value": 11.0,
+                "color": "rgba(178, 219, 106, 0.2)"
+            },
+            {
+                "label": "amc hornet",
+                "value": 16.0,
+                "color": "rgba(86, 158, 184, 0.2)"
+            },
+            {
+                "label": "chevrolet vega",
+                "value": 17.0,
+                "color": "rgba(149, 236, 234, 0.2)"
+            },
+            {
+                "label": "ford pinto runabout",
+                "value": 16.5,
+                "color": "rgba(117, 96, 250, 0.2)"
+            },
+            {
+                "label": "buick regal sport coupe (turbo)",
+                "value": 13.4,
+                "color": "rgba(35, 32, 126, 0.2)"
+            },
+            {
+                "label": "chevy c10",
+                "value": 12.0,
+                "color": "rgba(235, 219, 249, 0.2)"
+            },
+            {
+                "label": "mercedes-benz 240d",
+                "value": 21.8,
+                "color": "rgba(76, 188, 204, 0.2)"
+            },
+            {
+                "label": "plymouth volare",
+                "value": 17.2,
+                "color": "rgba(192, 82, 140, 0.2)"
+            },
+            {
+                "label": "amc matador",
+                "value": 18.0,
+                "color": "rgba(252, 27, 218, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "toyota corona hardtop",
+                "value": 15.5,
+                "color": "rgba(180, 242, 255, 0.2)"
+            },
+            {
+                "label": "vw rabbit custom",
+                "value": 14.0,
+                "color": "rgba(117, 78, 224, 0.2)"
+            },
+            {
+                "label": "amc concord",
+                "value": 20.1,
+                "color": "rgba(250, 18, 75, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Mileage (miles per gallon)",
+        "data": [
+            {
+                "label": "datsun 810",
+                "value": 22.0,
+                "color": "rgba(7, 114, 48, 0.2)"
+            },
+            {
+                "label": "audi 100ls",
+                "value": 20.0,
+                "color": "rgba(88, 251, 207, 0.2)"
+            },
+            {
+                "label": "amc ambassador dpl",
+                "value": 15.0,
+                "color": "rgba(20, 18, 200, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "dodge aspen se",
+                "value": 100.0,
+                "color": "rgba(84, 5, 10, 0.2)"
+            },
+            {
+                "label": "mazda rx-7 gs",
+                "value": 100.0,
+                "color": "rgba(163, 251, 142, 0.2)"
+            },
+            {
+                "label": "volkswagen rabbit custom",
+                "value": 78.0,
+                "color": "rgba(178, 253, 100, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Weight (lbs)",
+        "data": [
+            {
+                "label": "plymouth fury iii",
+                "value": 4135,
+                "color": "rgba(160, 59, 49, 0.2)"
+            },
+            {
+                "label": "ford f250",
+                "value": 4615,
+                "color": "rgba(24, 93, 196, 0.2)"
+            },
+            {
+                "label": "saab 99le",
+                "value": 2671,
+                "color": "rgba(11, 87, 169, 0.2)"
+            },
+            {
+                "label": "plymouth satellite sebring",
+                "value": 3613,
+                "color": "rgba(89, 23, 17, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Price (USD)",
+        "data": [
+            {
+                "label": "ford country",
+                "value": 20000.0,
+                "color": "rgba(49, 96, 15, 0.2)"
+            },
+            {
+                "label": "renault 12 (sw)",
+                "value": 44239.24934,
+                "color": "rgba(140, 126, 217, 0.2)"
+            },
+            {
+                "label": "mazda 626",
+                "value": 40000.0,
+                "color": "rgba(39, 55, 203, 0.2)"
+            },
+            {
+                "label": "datsun pl510",
+                "value": 15802.23935,
+                "color": "rgba(201, 50, 101, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "ford gran torino (sw)",
+                "value": 16.0,
+                "color": "rgba(95, 119, 5, 0.2)"
+            },
+            {
+                "label": "mercury zephyr 6",
+                "value": 18.2,
+                "color": "rgba(243, 73, 121, 0.2)"
+            },
+            {
+                "label": "mazda rx-7 gs",
+                "value": 12.5,
+                "color": "rgba(97, 13, 138, 0.2)"
+            },
+            {
+                "label": "hi 1200d",
+                "value": 18.5,
+                "color": "rgba(65, 55, 145, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Weight (lbs)",
+        "data": [
+            {
+                "label": "dodge d100",
+                "value": 3755,
+                "color": "rgba(69, 201, 94, 0.2)"
+            },
+            {
+                "label": "datsun 710",
+                "value": 2003,
+                "color": "rgba(212, 8, 134, 0.2)"
+            },
+            {
+                "label": "amc matador",
+                "value": 3730,
+                "color": "rgba(159, 85, 40, 0.2)"
+            },
+            {
+                "label": "amc concord dl 6",
+                "value": 3265,
+                "color": "rgba(224, 185, 236, 0.2)"
+            },
+            {
+                "label": "dodge colt",
+                "value": 2800,
+                "color": "rgba(43, 54, 66, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "mazda rx-4",
+                "value": 110.0,
+                "color": "rgba(59, 204, 41, 0.2)"
+            },
+            {
+                "label": "honda accord",
+                "value": 75.0,
+                "color": "rgba(48, 60, 6, 0.2)"
+            },
+            {
+                "label": "amc matador",
+                "value": 150.0,
+                "color": "rgba(98, 111, 188, 0.2)"
+            },
+            {
+                "label": "dodge coronet custom",
+                "value": 150.0,
+                "color": "rgba(34, 138, 42, 0.2)"
+            },
+            {
+                "label": "datsun 710",
+                "value": 61.0,
+                "color": "rgba(77, 23, 126, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Weight (lbs)",
+        "data": [
+            {
+                "label": "plymouth horizon tc3",
+                "value": 2150,
+                "color": "rgba(174, 94, 18, 0.2)"
+            },
+            {
+                "label": "amc matador (sw)",
+                "value": 3892,
+                "color": "rgba(228, 118, 197, 0.2)"
+            },
+            {
+                "label": "datsun 710",
+                "value": 2545,
+                "color": "rgba(10, 46, 184, 0.2)"
+            },
+            {
+                "label": "pontiac grand prix lj",
+                "value": 4220,
+                "color": "rgba(90, 192, 184, 0.2)"
+            },
+            {
+                "label": "ford maverick",
+                "value": 3158,
+                "color": "rgba(116, 129, 115, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "chevrolet monte carlo s",
+                "value": 145.0,
+                "color": "rgba(33, 240, 161, 0.2)"
+            },
+            {
+                "label": "chevrolet chevette",
+                "value": 63.0,
+                "color": "rgba(26, 0, 63, 0.2)"
+            },
+            {
+                "label": "ford pinto",
+                "value": 97.0,
+                "color": "rgba(196, 1, 174, 0.2)"
+            },
+            {
+                "label": "ford gran torino",
+                "value": 137.0,
+                "color": "rgba(145, 101, 41, 0.2)"
+            },
+            {
+                "label": "ford ltd",
+                "value": 148.0,
+                "color": "rgba(211, 43, 105, 0.2)"
+            },
+            {
+                "label": "peugeot 504",
+                "value": 88.0,
+                "color": "rgba(46, 7, 11, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Mileage (miles per gallon)",
+        "data": [
+            {
+                "label": "mercedes-benz 240d",
+                "value": 30.0,
+                "color": "rgba(229, 83, 166, 0.2)"
+            },
+            {
+                "label": "chrysler newport royal",
+                "value": 13.0,
+                "color": "rgba(200, 200, 173, 0.2)"
+            },
+            {
+                "label": "ford galaxie 500",
+                "value": 14.0,
+                "color": "rgba(83, 233, 62, 0.2)"
+            },
+            {
+                "label": "dodge d200",
+                "value": 11.0,
+                "color": "rgba(173, 156, 196, 0.2)"
+            },
+            {
+                "label": "dodge challenger se",
+                "value": 15.0,
+                "color": "rgba(34, 197, 199, 0.2)"
+            },
+            {
+                "label": "oldsmobile cutlass salon brougham",
+                "value": 19.9,
+                "color": "rgba(66, 63, 102, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Weight (lbs)",
+        "data": [
+            {
+                "label": "maxda glc deluxe",
+                "value": 1975,
+                "color": "rgba(155, 93, 159, 0.2)"
+            },
+            {
+                "label": "pontiac ventura sj",
+                "value": 3645,
+                "color": "rgba(30, 76, 63, 0.2)"
+            },
+            {
+                "label": "chevrolet malibu classic (sw)",
+                "value": 3605,
+                "color": "rgba(89, 229, 37, 0.2)"
+            },
+            {
+                "label": "amc hornet",
+                "value": 2945,
+                "color": "rgba(148, 245, 233, 0.2)"
+            },
+            {
+                "label": "oldsmobile cutlass ls",
+                "value": 3725,
+                "color": "rgba(41, 178, 172, 0.2)"
+            },
+            {
+                "label": "datsun 810 maxima",
+                "value": 2930,
+                "color": "rgba(182, 173, 66, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Mileage (miles per gallon)",
+        "data": [
+            {
+                "label": "toyota corolla",
+                "value": 28.0,
+                "color": "rgba(119, 80, 163, 0.2)"
+            },
+            {
+                "label": "buick skylark limited",
+                "value": 28.4,
+                "color": "rgba(188, 54, 13, 0.2)"
+            },
+            {
+                "label": "datsun 810 maxima",
+                "value": 24.2,
+                "color": "rgba(100, 65, 125, 0.2)"
+            },
+            {
+                "label": "mazda glc deluxe",
+                "value": 32.8,
+                "color": "rgba(205, 128, 234, 0.2)"
+            },
+            {
+                "label": "buick skylark",
+                "value": 26.6,
+                "color": "rgba(251, 228, 10, 0.2)"
+            },
+            {
+                "label": "amc matador (sw)",
+                "value": 14.0,
+                "color": "rgba(29, 197, 255, 0.2)"
+            },
+            {
+                "label": "dodge aries wagon (sw)",
+                "value": 25.8,
+                "color": "rgba(110, 164, 102, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Mileage (miles per gallon)",
+        "data": [
+            {
+                "label": "audi 5000",
+                "value": 20.3,
+                "color": "rgba(163, 124, 80, 0.2)"
+            },
+            {
+                "label": "chevrolet caprice classic",
+                "value": 17.0,
+                "color": "rgba(199, 250, 247, 0.2)"
+            },
+            {
+                "label": "honda civic cvcc",
+                "value": 36.1,
+                "color": "rgba(96, 176, 20, 0.2)"
+            },
+            {
+                "label": "oldsmobile omega",
+                "value": 11.0,
+                "color": "rgba(188, 207, 87, 0.2)"
+            },
+            {
+                "label": "plymouth horizon miser",
+                "value": 38.0,
+                "color": "rgba(150, 119, 193, 0.2)"
+            },
+            {
+                "label": "dodge d200",
+                "value": 11.0,
+                "color": "rgba(226, 36, 122, 0.2)"
+            },
+            {
+                "label": "ford maverick",
+                "value": 15.0,
+                "color": "rgba(13, 227, 124, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "ford maverick",
+                "value": 81.0,
+                "color": "rgba(197, 190, 223, 0.2)"
+            },
+            {
+                "label": "toyota corolla",
+                "value": 70.0,
+                "color": "rgba(25, 105, 53, 0.2)"
+            },
+            {
+                "label": "chevrolet citation",
+                "value": 110.0,
+                "color": "rgba(32, 115, 104, 0.2)"
+            },
+            {
+                "label": "bmw 2002",
+                "value": 113.0,
+                "color": "rgba(187, 60, 222, 0.2)"
+            },
+            {
+                "label": "buick opel isuzu deluxe",
+                "value": 80.0,
+                "color": "rgba(98, 210, 51, 0.2)"
+            },
+            {
+                "label": "ford mustang ii 2+2",
+                "value": 89.0,
+                "color": "rgba(131, 34, 213, 0.2)"
+            },
+            {
+                "label": "ford country squire (sw)",
+                "value": 170.0,
+                "color": "rgba(248, 34, 43, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Mileage (miles per gallon)",
+        "data": [
+            {
+                "label": "datsun 210",
+                "value": 31.8,
+                "color": "rgba(168, 238, 103, 0.2)"
+            },
+            {
+                "label": "mercedes-benz 240d",
+                "value": 30.0,
+                "color": "rgba(98, 238, 200, 0.2)"
+            },
+            {
+                "label": "chevrolet monte carlo landau",
+                "value": 19.2,
+                "color": "rgba(32, 233, 5, 0.2)"
+            },
+            {
+                "label": "chevrolet monte carlo landau",
+                "value": 15.5,
+                "color": "rgba(134, 79, 155, 0.2)"
+            },
+            {
+                "label": "chevrolet woody",
+                "value": 24.5,
+                "color": "rgba(237, 123, 149, 0.2)"
+            },
+            {
+                "label": "ford maverick",
+                "value": 24.0,
+                "color": "rgba(42, 55, 111, 0.2)"
+            },
+            {
+                "label": "amc gremlin",
+                "value": 20.0,
+                "color": "rgba(70, 218, 245, 0.2)"
+            },
+            {
+                "label": "amc matador",
+                "value": 18.0,
+                "color": "rgba(227, 217, 17, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Weight (lbs)",
+        "data": [
+            {
+                "label": "datsun pl510",
+                "value": 2130,
+                "color": "rgba(184, 142, 251, 0.2)"
+            },
+            {
+                "label": "fiat 128",
+                "value": 1867,
+                "color": "rgba(145, 56, 82, 0.2)"
+            },
+            {
+                "label": "vw rabbit",
+                "value": 2144,
+                "color": "rgba(151, 249, 128, 0.2)"
+            },
+            {
+                "label": "mazda 626",
+                "value": 2635,
+                "color": "rgba(87, 92, 102, 0.2)"
+            },
+            {
+                "label": "chevrolet nova",
+                "value": 3459,
+                "color": "rgba(12, 138, 51, 0.2)"
+            },
+            {
+                "label": "chrysler lebaron medallion",
+                "value": 2585,
+                "color": "rgba(198, 249, 135, 0.2)"
+            },
+            {
+                "label": "hi 1200d",
+                "value": 4732,
+                "color": "rgba(222, 36, 86, 0.2)"
+            },
+            {
+                "label": "datsun 200sx",
+                "value": 2615,
+                "color": "rgba(102, 22, 112, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Price (USD)",
+        "data": [
+            {
+                "label": "toyota celica gt liftback",
+                "value": 14511.79472,
+                "color": "rgba(221, 38, 101, 0.2)"
+            },
+            {
+                "label": "toyota corolla 1200",
+                "value": 30000.0,
+                "color": "rgba(8, 40, 148, 0.2)"
+            },
+            {
+                "label": "chevrolet vega",
+                "value": 43478.05811,
+                "color": "rgba(221, 241, 60, 0.2)"
+            },
+            {
+                "label": "amc concord dl 6",
+                "value": 12840.57863,
+                "color": "rgba(226, 247, 93, 0.2)"
+            },
+            {
+                "label": "chrysler lebaron salon",
+                "value": 23723.77532,
+                "color": "rgba(36, 211, 108, 0.2)"
+            },
+            {
+                "label": "ford mustang gl",
+                "value": 13432.5,
+                "color": "rgba(62, 45, 244, 0.2)"
+            },
+            {
+                "label": "chevrolet cavalier",
+                "value": 27234.66428,
+                "color": "rgba(226, 244, 174, 0.2)"
+            },
+            {
+                "label": "chevrolet caprice classic",
+                "value": 30000.0,
+                "color": "rgba(56, 217, 31, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Mileage (miles per gallon)",
+        "data": [
+            {
+                "label": "chrysler lebaron salon",
+                "value": 17.6,
+                "color": "rgba(160, 52, 164, 0.2)"
+            },
+            {
+                "label": "dodge omni",
+                "value": 30.9,
+                "color": "rgba(224, 22, 116, 0.2)"
+            },
+            {
+                "label": "datsun 1200",
+                "value": 35.0,
+                "color": "rgba(162, 173, 248, 0.2)"
+            },
+            {
+                "label": "plymouth volare",
+                "value": 20.5,
+                "color": "rgba(119, 39, 94, 0.2)"
+            },
+            {
+                "label": "vw rabbit custom",
+                "value": 31.9,
+                "color": "rgba(120, 16, 2, 0.2)"
+            },
+            {
+                "label": "toyota starlet",
+                "value": 39.1,
+                "color": "rgba(109, 117, 234, 0.2)"
+            },
+            {
+                "label": "ford granada",
+                "value": 18.5,
+                "color": "rgba(105, 56, 155, 0.2)"
+            },
+            {
+                "label": "amc ambassador sst",
+                "value": 17.0,
+                "color": "rgba(7, 229, 115, 0.2)"
+            },
+            {
+                "label": "buick electra 225 custom",
+                "value": 12.0,
+                "color": "rgba(224, 184, 128, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "chrysler lebaron town @ country (sw)",
+                "value": 13.0,
+                "color": "rgba(239, 202, 59, 0.2)"
+            },
+            {
+                "label": "mercury grand marquis",
+                "value": 13.2,
+                "color": "rgba(129, 111, 252, 0.2)"
+            },
+            {
+                "label": "datsun 310 gx",
+                "value": 16.2,
+                "color": "rgba(108, 241, 109, 0.2)"
+            },
+            {
+                "label": "datsun 210",
+                "value": 19.2,
+                "color": "rgba(191, 113, 77, 0.2)"
+            },
+            {
+                "label": "chevy c20",
+                "value": 15.0,
+                "color": "rgba(76, 100, 41, 0.2)"
+            },
+            {
+                "label": "chevy s-10",
+                "value": 19.4,
+                "color": "rgba(96, 171, 35, 0.2)"
+            },
+            {
+                "label": "honda accord",
+                "value": 14.5,
+                "color": "rgba(187, 173, 125, 0.2)"
+            },
+            {
+                "label": "renault 12tl",
+                "value": 15.3,
+                "color": "rgba(146, 202, 46, 0.2)"
+            },
+            {
+                "label": "mercury monarch",
+                "value": 21.0,
+                "color": "rgba(18, 75, 199, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "pontiac j2000 se hatchback",
+                "value": 16.2,
+                "color": "rgba(108, 201, 222, 0.2)"
+            },
+            {
+                "label": "volvo 145e (sw)",
+                "value": 14.5,
+                "color": "rgba(24, 4, 57, 0.2)"
+            },
+            {
+                "label": "mazda glc custom",
+                "value": 17.6,
+                "color": "rgba(226, 212, 145, 0.2)"
+            },
+            {
+                "label": "ford escort 4w",
+                "value": 16.2,
+                "color": "rgba(187, 88, 196, 0.2)"
+            },
+            {
+                "label": "fiat 124 sport coupe",
+                "value": 15.5,
+                "color": "rgba(25, 163, 52, 0.2)"
+            },
+            {
+                "label": "mercury lynx l",
+                "value": 17.3,
+                "color": "rgba(134, 49, 136, 0.2)"
+            },
+            {
+                "label": "ford granada",
+                "value": 19.0,
+                "color": "rgba(178, 183, 180, 0.2)"
+            },
+            {
+                "label": "honda civic",
+                "value": 15.0,
+                "color": "rgba(243, 253, 115, 0.2)"
+            },
+            {
+                "label": "oldsmobile cutlass ls",
+                "value": 19.0,
+                "color": "rgba(187, 140, 143, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Price (USD)",
+        "data": [
+            {
+                "label": "chevrolet monte carlo s",
+                "value": 26355.63972,
+                "color": "rgba(20, 219, 254, 0.2)"
+            },
+            {
+                "label": "bmw 2002",
+                "value": 15047.98937,
+                "color": "rgba(236, 166, 26, 0.2)"
+            },
+            {
+                "label": "mercedes-benz 280s",
+                "value": 24937.67586,
+                "color": "rgba(235, 192, 134, 0.2)"
+            },
+            {
+                "label": "dodge monaco brougham",
+                "value": 40000.0,
+                "color": "rgba(171, 85, 166, 0.2)"
+            },
+            {
+                "label": "mercury cougar brougham",
+                "value": 20000.0,
+                "color": "rgba(251, 13, 220, 0.2)"
+            },
+            {
+                "label": "buick estate wagon (sw)",
+                "value": 26608.32842,
+                "color": "rgba(133, 20, 76, 0.2)"
+            },
+            {
+                "label": "mazda 626",
+                "value": 40000.0,
+                "color": "rgba(205, 64, 87, 0.2)"
+            },
+            {
+                "label": "chevrolet nova",
+                "value": 44633.99433,
+                "color": "rgba(44, 72, 175, 0.2)"
+            },
+            {
+                "label": "chevy c20",
+                "value": 40000.0,
+                "color": "rgba(194, 44, 187, 0.2)"
+            },
+            {
+                "label": "toyota starlet",
+                "value": 30000.0,
+                "color": "rgba(242, 85, 218, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Price (USD)",
+        "data": [
+            {
+                "label": "amc concord",
+                "value": 30000.0,
+                "color": "rgba(47, 188, 21, 0.2)"
+            },
+            {
+                "label": "datsun 200sx",
+                "value": 30000.0,
+                "color": "rgba(133, 171, 240, 0.2)"
+            },
+            {
+                "label": "plymouth satellite custom",
+                "value": 44534.97074,
+                "color": "rgba(122, 168, 135, 0.2)"
+            },
+            {
+                "label": "plymouth duster",
+                "value": 25211.02753,
+                "color": "rgba(163, 49, 223, 0.2)"
+            },
+            {
+                "label": "chevrolet chevelle malibu classic",
+                "value": 25546.68687,
+                "color": "rgba(18, 75, 240, 0.2)"
+            },
+            {
+                "label": "dodge dart custom",
+                "value": 40000.0,
+                "color": "rgba(28, 183, 163, 0.2)"
+            },
+            {
+                "label": "toyota starlet",
+                "value": 30000.0,
+                "color": "rgba(47, 46, 40, 0.2)"
+            },
+            {
+                "label": "ford f108",
+                "value": 20000.0,
+                "color": "rgba(73, 147, 50, 0.2)"
+            },
+            {
+                "label": "renault 5 gtl",
+                "value": 20000.0,
+                "color": "rgba(79, 163, 79, 0.2)"
+            },
+            {
+                "label": "chevrolet caprice classic",
+                "value": 30000.0,
+                "color": "rgba(47, 130, 169, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "volkswagen rabbit",
+                "value": 14.0,
+                "color": "rgba(137, 116, 130, 0.2)"
+            },
+            {
+                "label": "subaru dl",
+                "value": 16.4,
+                "color": "rgba(119, 46, 60, 0.2)"
+            },
+            {
+                "label": "plymouth horizon tc3",
+                "value": 14.9,
+                "color": "rgba(55, 103, 205, 0.2)"
+            },
+            {
+                "label": "chevrolet chevelle malibu",
+                "value": 15.5,
+                "color": "rgba(190, 141, 120, 0.2)"
+            },
+            {
+                "label": "dodge d100",
+                "value": 14.0,
+                "color": "rgba(71, 55, 81, 0.2)"
+            },
+            {
+                "label": "buick skylark 320",
+                "value": 11.5,
+                "color": "rgba(41, 195, 255, 0.2)"
+            },
+            {
+                "label": "mazda glc deluxe",
+                "value": 19.4,
+                "color": "rgba(60, 36, 29, 0.2)"
+            },
+            {
+                "label": "dodge dart custom",
+                "value": 11.0,
+                "color": "rgba(2, 203, 58, 0.2)"
+            },
+            {
+                "label": "mercury capri v6",
+                "value": 14.0,
+                "color": "rgba(42, 60, 68, 0.2)"
+            },
+            {
+                "label": "buick electra 225 custom",
+                "value": 11.0,
+                "color": "rgba(96, 73, 195, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Weight (lbs)",
+        "data": [
+            {
+                "label": "renault lecar deluxe",
+                "value": 1835,
+                "color": "rgba(25, 110, 50, 0.2)"
+            },
+            {
+                "label": "mazda glc deluxe",
+                "value": 1985,
+                "color": "rgba(21, 90, 77, 0.2)"
+            },
+            {
+                "label": "dodge d200",
+                "value": 4382,
+                "color": "rgba(179, 173, 126, 0.2)"
+            },
+            {
+                "label": "plymouth duster",
+                "value": 3102,
+                "color": "rgba(193, 76, 189, 0.2)"
+            },
+            {
+                "label": "plymouth valiant",
+                "value": 3233,
+                "color": "rgba(172, 248, 140, 0.2)"
+            },
+            {
+                "label": "ford ranger",
+                "value": 2625,
+                "color": "rgba(108, 189, 208, 0.2)"
+            },
+            {
+                "label": "vw rabbit c (diesel)",
+                "value": 2085,
+                "color": "rgba(224, 251, 97, 0.2)"
+            },
+            {
+                "label": "dodge colt m/m",
+                "value": 2075,
+                "color": "rgba(86, 45, 20, 0.2)"
+            },
+            {
+                "label": "renault 12tl",
+                "value": 2202,
+                "color": "rgba(197, 137, 118, 0.2)"
+            },
+            {
+                "label": "buick century",
+                "value": 3415,
+                "color": "rgba(170, 55, 228, 0.2)"
+            },
+            {
+                "label": "amc concord d/l",
+                "value": 3410,
+                "color": "rgba(65, 21, 178, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Price (USD)",
+        "data": [
+            {
+                "label": "chevrolet malibu",
+                "value": 24364.52222,
+                "color": "rgba(179, 174, 144, 0.2)"
+            },
+            {
+                "label": "mercury capri v6",
+                "value": 30000.0,
+                "color": "rgba(38, 92, 30, 0.2)"
+            },
+            {
+                "label": "plymouth reliant",
+                "value": 33838.41277,
+                "color": "rgba(177, 122, 112, 0.2)"
+            },
+            {
+                "label": "ford pinto",
+                "value": 40000.0,
+                "color": "rgba(208, 246, 243, 0.2)"
+            },
+            {
+                "label": "maxda glc deluxe",
+                "value": 20000.0,
+                "color": "rgba(165, 244, 217, 0.2)"
+            },
+            {
+                "label": "ford escort 4w",
+                "value": 20000.0,
+                "color": "rgba(150, 218, 253, 0.2)"
+            },
+            {
+                "label": "ford maverick",
+                "value": 14228.30388,
+                "color": "rgba(65, 105, 158, 0.2)"
+            },
+            {
+                "label": "chevrolet monza 2+2",
+                "value": 30000.0,
+                "color": "rgba(177, 118, 242, 0.2)"
+            },
+            {
+                "label": "subaru dl",
+                "value": 35335.98307,
+                "color": "rgba(236, 127, 31, 0.2)"
+            },
+            {
+                "label": "dodge aries wagon (sw)",
+                "value": 11460.90571,
+                "color": "rgba(3, 194, 15, 0.2)"
+            },
+            {
+                "label": "ford fiesta",
+                "value": 30000.0,
+                "color": "rgba(112, 177, 72, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Weight (lbs)",
+        "data": [
+            {
+                "label": "mazda glc custom l",
+                "value": 2025,
+                "color": "rgba(104, 62, 216, 0.2)"
+            },
+            {
+                "label": "chevrolet chevelle malibu classic",
+                "value": 4215,
+                "color": "rgba(201, 93, 206, 0.2)"
+            },
+            {
+                "label": "subaru",
+                "value": 2065,
+                "color": "rgba(102, 90, 24, 0.2)"
+            },
+            {
+                "label": "plymouth satellite",
+                "value": 3436,
+                "color": "rgba(28, 89, 167, 0.2)"
+            },
+            {
+                "label": "dodge aspen se",
+                "value": 3651,
+                "color": "rgba(58, 195, 102, 0.2)"
+            },
+            {
+                "label": "toyota corolla 1600 (sw)",
+                "value": 2100,
+                "color": "rgba(142, 94, 71, 0.2)"
+            },
+            {
+                "label": "mazda rx2 coupe",
+                "value": 2330,
+                "color": "rgba(21, 6, 242, 0.2)"
+            },
+            {
+                "label": "peugeot 504",
+                "value": 3270,
+                "color": "rgba(36, 124, 215, 0.2)"
+            },
+            {
+                "label": "renault 12 (sw)",
+                "value": 2189,
+                "color": "rgba(73, 102, 64, 0.2)"
+            },
+            {
+                "label": "chevrolet malibu",
+                "value": 3988,
+                "color": "rgba(107, 198, 149, 0.2)"
+            },
+            {
+                "label": "chevrolet impala",
+                "value": 4997,
+                "color": "rgba(205, 251, 207, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "datsun 310",
+                "value": 16.4,
+                "color": "rgba(48, 14, 16, 0.2)"
+            },
+            {
+                "label": "honda civic cvcc",
+                "value": 17.5,
+                "color": "rgba(248, 68, 179, 0.2)"
+            },
+            {
+                "label": "plymouth fury",
+                "value": 19.0,
+                "color": "rgba(166, 105, 237, 0.2)"
+            },
+            {
+                "label": "ford granada ghia",
+                "value": 21.0,
+                "color": "rgba(151, 30, 214, 0.2)"
+            },
+            {
+                "label": "bmw 2002",
+                "value": 12.5,
+                "color": "rgba(158, 232, 44, 0.2)"
+            },
+            {
+                "label": "oldsmobile omega",
+                "value": 11.0,
+                "color": "rgba(234, 141, 191, 0.2)"
+            },
+            {
+                "label": "amc concord",
+                "value": 20.1,
+                "color": "rgba(25, 246, 238, 0.2)"
+            },
+            {
+                "label": "amc gremlin",
+                "value": 16.0,
+                "color": "rgba(186, 112, 163, 0.2)"
+            },
+            {
+                "label": "opel 1900",
+                "value": 14.0,
+                "color": "rgba(233, 137, 254, 0.2)"
+            },
+            {
+                "label": "toyota corona",
+                "value": 16.5,
+                "color": "rgba(27, 132, 21, 0.2)"
+            },
+            {
+                "label": "amc gremlin",
+                "value": 15.0,
+                "color": "rgba(42, 151, 137, 0.2)"
+            },
+            {
+                "label": "pontiac catalina",
+                "value": 10.0,
+                "color": "rgba(15, 205, 211, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "toyota carina",
+                "value": 88.0,
+                "color": "rgba(126, 240, 96, 0.2)"
+            },
+            {
+                "label": "vw rabbit c (diesel)",
+                "value": 48.0,
+                "color": "rgba(117, 11, 162, 0.2)"
+            },
+            {
+                "label": "amc concord",
+                "value": 90.0,
+                "color": "rgba(8, 93, 229, 0.2)"
+            },
+            {
+                "label": "buick skylark 320",
+                "value": 165.0,
+                "color": "rgba(236, 238, 55, 0.2)"
+            },
+            {
+                "label": "datsun 510",
+                "value": 97.0,
+                "color": "rgba(119, 17, 97, 0.2)"
+            },
+            {
+                "label": "toyota corolla",
+                "value": 75.0,
+                "color": "rgba(82, 72, 233, 0.2)"
+            },
+            {
+                "label": "mercedes-benz 240d",
+                "value": 67.0,
+                "color": "rgba(104, 255, 244, 0.2)"
+            },
+            {
+                "label": "peugeot 504",
+                "value": 88.0,
+                "color": "rgba(178, 100, 12, 0.2)"
+            },
+            {
+                "label": "chrysler new yorker brougham",
+                "value": 215.0,
+                "color": "rgba(129, 192, 235, 0.2)"
+            },
+            {
+                "label": "honda prelude",
+                "value": 75.0,
+                "color": "rgba(63, 243, 156, 0.2)"
+            },
+            {
+                "label": "pontiac catalina",
+                "value": 175.0,
+                "color": "rgba(82, 253, 111, 0.2)"
+            },
+            {
+                "label": "dodge challenger se",
+                "value": 170.0,
+                "color": "rgba(177, 208, 224, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "chevrolet impala",
+                "value": 12.0,
+                "color": "rgba(245, 188, 185, 0.2)"
+            },
+            {
+                "label": "renault 12 (sw)",
+                "value": 18.0,
+                "color": "rgba(164, 36, 216, 0.2)"
+            },
+            {
+                "label": "datsun 200-sx",
+                "value": 14.9,
+                "color": "rgba(30, 149, 209, 0.2)"
+            },
+            {
+                "label": "datsun 510",
+                "value": 14.7,
+                "color": "rgba(172, 1, 62, 0.2)"
+            },
+            {
+                "label": "datsun 510 (sw)",
+                "value": 17.0,
+                "color": "rgba(159, 94, 243, 0.2)"
+            },
+            {
+                "label": "buick skylark limited",
+                "value": 16.0,
+                "color": "rgba(206, 99, 28, 0.2)"
+            },
+            {
+                "label": "plymouth fury iii",
+                "value": 13.0,
+                "color": "rgba(98, 49, 172, 0.2)"
+            },
+            {
+                "label": "vw rabbit custom",
+                "value": 14.0,
+                "color": "rgba(166, 69, 45, 0.2)"
+            },
+            {
+                "label": "nissan stanza xe",
+                "value": 14.5,
+                "color": "rgba(244, 134, 167, 0.2)"
+            },
+            {
+                "label": "ford pinto",
+                "value": 16.5,
+                "color": "rgba(4, 184, 253, 0.2)"
+            },
+            {
+                "label": "chevrolet monza 2+2",
+                "value": 13.5,
+                "color": "rgba(212, 220, 41, 0.2)"
+            },
+            {
+                "label": "vw rabbit",
+                "value": 14.2,
+                "color": "rgba(47, 114, 126, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "datsun 710",
+                "value": 17.0,
+                "color": "rgba(156, 101, 52, 0.2)"
+            },
+            {
+                "label": "mercury cougar brougham",
+                "value": 14.9,
+                "color": "rgba(46, 113, 42, 0.2)"
+            },
+            {
+                "label": "buick skylark 320",
+                "value": 11.5,
+                "color": "rgba(76, 235, 83, 0.2)"
+            },
+            {
+                "label": "amc ambassador dpl",
+                "value": 8.5,
+                "color": "rgba(61, 230, 137, 0.2)"
+            },
+            {
+                "label": "ford gran torino (sw)",
+                "value": 16.0,
+                "color": "rgba(67, 13, 41, 0.2)"
+            },
+            {
+                "label": "honda prelude",
+                "value": 14.4,
+                "color": "rgba(251, 58, 18, 0.2)"
+            },
+            {
+                "label": "mazda rx2 coupe",
+                "value": 13.5,
+                "color": "rgba(182, 174, 192, 0.2)"
+            },
+            {
+                "label": "chrysler lebaron salon",
+                "value": 16.6,
+                "color": "rgba(165, 204, 72, 0.2)"
+            },
+            {
+                "label": "chevrolet chevette",
+                "value": 15.5,
+                "color": "rgba(202, 46, 22, 0.2)"
+            },
+            {
+                "label": "dodge challenger se",
+                "value": 10.0,
+                "color": "rgba(84, 150, 1, 0.2)"
+            },
+            {
+                "label": "plymouth arrow gs",
+                "value": 15.5,
+                "color": "rgba(33, 28, 206, 0.2)"
+            },
+            {
+                "label": "dodge monaco (sw)",
+                "value": 11.5,
+                "color": "rgba(80, 42, 144, 0.2)"
+            },
+            {
+                "label": "dodge colt hatchback custom",
+                "value": 14.4,
+                "color": "rgba(202, 157, 91, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Mileage (miles per gallon)",
+        "data": [
+            {
+                "label": "toyota celica gt liftback",
+                "value": 21.1,
+                "color": "rgba(59, 155, 151, 0.2)"
+            },
+            {
+                "label": "toyota corolla liftback",
+                "value": 26.0,
+                "color": "rgba(241, 72, 137, 0.2)"
+            },
+            {
+                "label": "pontiac phoenix",
+                "value": 27.0,
+                "color": "rgba(228, 246, 120, 0.2)"
+            },
+            {
+                "label": "volkswagen dasher",
+                "value": 30.5,
+                "color": "rgba(46, 241, 197, 0.2)"
+            },
+            {
+                "label": "datsun 710",
+                "value": 32.0,
+                "color": "rgba(17, 219, 175, 0.2)"
+            },
+            {
+                "label": "dodge magnum xe",
+                "value": 17.5,
+                "color": "rgba(19, 216, 96, 0.2)"
+            },
+            {
+                "label": "mercury cougar brougham",
+                "value": 15.0,
+                "color": "rgba(52, 82, 34, 0.2)"
+            },
+            {
+                "label": "toyota corolla 1200",
+                "value": 32.0,
+                "color": "rgba(33, 100, 216, 0.2)"
+            },
+            {
+                "label": "toyota corolla",
+                "value": 32.2,
+                "color": "rgba(209, 30, 128, 0.2)"
+            },
+            {
+                "label": "honda accord",
+                "value": 36.0,
+                "color": "rgba(85, 120, 91, 0.2)"
+            },
+            {
+                "label": "chevrolet monte carlo s",
+                "value": 15.0,
+                "color": "rgba(49, 209, 53, 0.2)"
+            },
+            {
+                "label": "pontiac firebird",
+                "value": 19.0,
+                "color": "rgba(126, 73, 128, 0.2)"
+            },
+            {
+                "label": "amc concord",
+                "value": 19.4,
+                "color": "rgba(211, 154, 238, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Mileage (miles per gallon)",
+        "data": [
+            {
+                "label": "datsun b210 gx",
+                "value": 39.4,
+                "color": "rgba(81, 136, 233, 0.2)"
+            },
+            {
+                "label": "dodge aries wagon (sw)",
+                "value": 25.8,
+                "color": "rgba(115, 208, 162, 0.2)"
+            },
+            {
+                "label": "honda civic",
+                "value": 33.0,
+                "color": "rgba(57, 234, 165, 0.2)"
+            },
+            {
+                "label": "datsun b210",
+                "value": 31.0,
+                "color": "rgba(252, 54, 41, 0.2)"
+            },
+            {
+                "label": "ford ltd",
+                "value": 14.0,
+                "color": "rgba(248, 106, 232, 0.2)"
+            },
+            {
+                "label": "ford ltd",
+                "value": 13.0,
+                "color": "rgba(189, 178, 194, 0.2)"
+            },
+            {
+                "label": "audi 100ls",
+                "value": 23.0,
+                "color": "rgba(6, 110, 134, 0.2)"
+            },
+            {
+                "label": "ford ltd landau",
+                "value": 17.6,
+                "color": "rgba(80, 95, 15, 0.2)"
+            },
+            {
+                "label": "ford maverick",
+                "value": 18.0,
+                "color": "rgba(106, 41, 152, 0.2)"
+            },
+            {
+                "label": "chevrolet chevette",
+                "value": 32.1,
+                "color": "rgba(19, 218, 168, 0.2)"
+            },
+            {
+                "label": "ford pinto",
+                "value": 26.5,
+                "color": "rgba(218, 201, 129, 0.2)"
+            },
+            {
+                "label": "datsun 710",
+                "value": 32.0,
+                "color": "rgba(56, 143, 175, 0.2)"
+            },
+            {
+                "label": "renault 12 (sw)",
+                "value": 26.0,
+                "color": "rgba(31, 244, 181, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "hi 1200d",
+                "value": 18.5,
+                "color": "rgba(37, 209, 55, 0.2)"
+            },
+            {
+                "label": "oldsmobile omega",
+                "value": 11.0,
+                "color": "rgba(33, 10, 124, 0.2)"
+            },
+            {
+                "label": "amc matador (sw)",
+                "value": 15.5,
+                "color": "rgba(142, 11, 228, 0.2)"
+            },
+            {
+                "label": "fiat 131",
+                "value": 15.5,
+                "color": "rgba(121, 134, 151, 0.2)"
+            },
+            {
+                "label": "toyota cressida",
+                "value": 12.6,
+                "color": "rgba(129, 88, 222, 0.2)"
+            },
+            {
+                "label": "dodge diplomat",
+                "value": 13.2,
+                "color": "rgba(233, 69, 245, 0.2)"
+            },
+            {
+                "label": "dodge charger 2.2",
+                "value": 13.0,
+                "color": "rgba(196, 147, 166, 0.2)"
+            },
+            {
+                "label": "volkswagen dasher",
+                "value": 15.5,
+                "color": "rgba(195, 170, 218, 0.2)"
+            },
+            {
+                "label": "toyota mark ii",
+                "value": 15.5,
+                "color": "rgba(17, 123, 42, 0.2)"
+            },
+            {
+                "label": "ford country squire (sw)",
+                "value": 14.3,
+                "color": "rgba(223, 246, 203, 0.2)"
+            },
+            {
+                "label": "ford escort 2h",
+                "value": 20.7,
+                "color": "rgba(113, 47, 64, 0.2)"
+            },
+            {
+                "label": "ford ltd",
+                "value": 13.5,
+                "color": "rgba(180, 146, 170, 0.2)"
+            },
+            {
+                "label": "ford f108",
+                "value": 15.0,
+                "color": "rgba(134, 23, 47, 0.2)"
+            },
+            {
+                "label": "buick century special",
+                "value": 15.8,
+                "color": "rgba(76, 6, 56, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "buick century limited",
+                "value": 16.4,
+                "color": "rgba(73, 179, 202, 0.2)"
+            },
+            {
+                "label": "capri ii",
+                "value": 14.9,
+                "color": "rgba(179, 222, 24, 0.2)"
+            },
+            {
+                "label": "dodge aspen",
+                "value": 18.7,
+                "color": "rgba(221, 121, 42, 0.2)"
+            },
+            {
+                "label": "pontiac j2000 se hatchback",
+                "value": 16.2,
+                "color": "rgba(132, 25, 243, 0.2)"
+            },
+            {
+                "label": "pontiac catalina",
+                "value": 10.0,
+                "color": "rgba(29, 229, 17, 0.2)"
+            },
+            {
+                "label": "chrysler newport royal",
+                "value": 12.5,
+                "color": "rgba(181, 173, 163, 0.2)"
+            },
+            {
+                "label": "buick skylark",
+                "value": 16.4,
+                "color": "rgba(55, 123, 117, 0.2)"
+            },
+            {
+                "label": "peugeot 505s turbo diesel",
+                "value": 20.4,
+                "color": "rgba(71, 113, 85, 0.2)"
+            },
+            {
+                "label": "pontiac lemans v6",
+                "value": 15.4,
+                "color": "rgba(222, 176, 160, 0.2)"
+            },
+            {
+                "label": "ford gran torino",
+                "value": 14.5,
+                "color": "rgba(54, 205, 153, 0.2)"
+            },
+            {
+                "label": "amc concord",
+                "value": 17.2,
+                "color": "rgba(234, 179, 114, 0.2)"
+            },
+            {
+                "label": "dodge monaco brougham",
+                "value": 13.7,
+                "color": "rgba(196, 136, 55, 0.2)"
+            },
+            {
+                "label": "subaru dl",
+                "value": 16.4,
+                "color": "rgba(201, 129, 28, 0.2)"
+            },
+            {
+                "label": "datsun b-210",
+                "value": 17.0,
+                "color": "rgba(179, 58, 200, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "oldsmobile cutlass ciera (diesel)",
+                "value": 85.0,
+                "color": "rgba(7, 213, 195, 0.2)"
+            },
+            {
+                "label": "ford mustang ii 2+2",
+                "value": 89.0,
+                "color": "rgba(161, 81, 175, 0.2)"
+            },
+            {
+                "label": "toyota carina",
+                "value": 88.0,
+                "color": "rgba(247, 200, 23, 0.2)"
+            },
+            {
+                "label": "fiat strada custom",
+                "value": 69.0,
+                "color": "rgba(138, 87, 164, 0.2)"
+            },
+            {
+                "label": "buick skylark limited",
+                "value": 90.0,
+                "color": "rgba(195, 216, 240, 0.2)"
+            },
+            {
+                "label": "volkswagen scirocco",
+                "value": 71.0,
+                "color": "rgba(143, 246, 157, 0.2)"
+            },
+            {
+                "label": "toyota corolla",
+                "value": 75.0,
+                "color": "rgba(123, 92, 225, 0.2)"
+            },
+            {
+                "label": "volkswagen model 111",
+                "value": 60.0,
+                "color": "rgba(114, 237, 168, 0.2)"
+            },
+            {
+                "label": "volvo 145e (sw)",
+                "value": 112.0,
+                "color": "rgba(122, 72, 5, 0.2)"
+            },
+            {
+                "label": "plymouth horizon tc3",
+                "value": 70.0,
+                "color": "rgba(244, 235, 255, 0.2)"
+            },
+            {
+                "label": "amc hornet sportabout (sw)",
+                "value": 110.0,
+                "color": "rgba(114, 221, 58, 0.2)"
+            },
+            {
+                "label": "buick skylark 320",
+                "value": 165.0,
+                "color": "rgba(33, 55, 69, 0.2)"
+            },
+            {
+                "label": "chevrolet nova",
+                "value": 100.0,
+                "color": "rgba(86, 192, 201, 0.2)"
+            },
+            {
+                "label": "ford futura",
+                "value": 139.0,
+                "color": "rgba(242, 126, 33, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Weight (lbs)",
+        "data": [
+            {
+                "label": "ford country squire (sw)",
+                "value": 4054,
+                "color": "rgba(238, 148, 12, 0.2)"
+            },
+            {
+                "label": "datsun 210 mpg",
+                "value": 1975,
+                "color": "rgba(124, 50, 174, 0.2)"
+            },
+            {
+                "label": "plymouth satellite",
+                "value": 3436,
+                "color": "rgba(201, 252, 49, 0.2)"
+            },
+            {
+                "label": "oldsmobile vista cruiser",
+                "value": 4499,
+                "color": "rgba(122, 228, 245, 0.2)"
+            },
+            {
+                "label": "mazda glc 4",
+                "value": 1985,
+                "color": "rgba(186, 44, 203, 0.2)"
+            },
+            {
+                "label": "chevrolet citation",
+                "value": 2725,
+                "color": "rgba(229, 71, 4, 0.2)"
+            },
+            {
+                "label": "chrysler new yorker brougham",
+                "value": 4735,
+                "color": "rgba(40, 166, 145, 0.2)"
+            },
+            {
+                "label": "saab 99e",
+                "value": 2375,
+                "color": "rgba(64, 65, 17, 0.2)"
+            },
+            {
+                "label": "pontiac sunbird coupe",
+                "value": 2740,
+                "color": "rgba(23, 229, 207, 0.2)"
+            },
+            {
+                "label": "datsun 210",
+                "value": 2020,
+                "color": "rgba(16, 137, 34, 0.2)"
+            },
+            {
+                "label": "ford granada",
+                "value": 3525,
+                "color": "rgba(8, 2, 156, 0.2)"
+            },
+            {
+                "label": "dodge colt",
+                "value": 2255,
+                "color": "rgba(132, 201, 140, 0.2)"
+            },
+            {
+                "label": "pontiac phoenix",
+                "value": 2556,
+                "color": "rgba(75, 126, 175, 0.2)"
+            },
+            {
+                "label": "honda accord",
+                "value": 2290,
+                "color": "rgba(42, 27, 81, 0.2)"
+            },
+            {
+                "label": "renault 5 gtl",
+                "value": 1825,
+                "color": "rgba(201, 125, 235, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Weight (lbs)",
+        "data": [
+            {
+                "label": "ford pinto",
+                "value": 2565,
+                "color": "rgba(75, 141, 144, 0.2)"
+            },
+            {
+                "label": "chevrolet chevette",
+                "value": 2155,
+                "color": "rgba(59, 115, 65, 0.2)"
+            },
+            {
+                "label": "volkswagen dasher",
+                "value": 1963,
+                "color": "rgba(243, 152, 41, 0.2)"
+            },
+            {
+                "label": "plymouth valiant custom",
+                "value": 3264,
+                "color": "rgba(3, 6, 218, 0.2)"
+            },
+            {
+                "label": "mazda glc custom",
+                "value": 1970,
+                "color": "rgba(65, 138, 62, 0.2)"
+            },
+            {
+                "label": "ford galaxie 500",
+                "value": 4154,
+                "color": "rgba(246, 96, 234, 0.2)"
+            },
+            {
+                "label": "datsun 210 mpg",
+                "value": 1975,
+                "color": "rgba(201, 4, 93, 0.2)"
+            },
+            {
+                "label": "renault 5 gtl",
+                "value": 1825,
+                "color": "rgba(165, 31, 77, 0.2)"
+            },
+            {
+                "label": "datsun f-10 hatchback",
+                "value": 1945,
+                "color": "rgba(39, 0, 113, 0.2)"
+            },
+            {
+                "label": "plymouth satellite custom",
+                "value": 3439,
+                "color": "rgba(241, 49, 228, 0.2)"
+            },
+            {
+                "label": "chevrolet monte carlo landau",
+                "value": 4165,
+                "color": "rgba(105, 233, 83, 0.2)"
+            },
+            {
+                "label": "mazda 626",
+                "value": 2635,
+                "color": "rgba(137, 79, 114, 0.2)"
+            },
+            {
+                "label": "buick skylark 320",
+                "value": 3693,
+                "color": "rgba(106, 37, 1, 0.2)"
+            },
+            {
+                "label": "toyota corona",
+                "value": 2702,
+                "color": "rgba(38, 195, 102, 0.2)"
+            },
+            {
+                "label": "toyota corolla tercel",
+                "value": 1968,
+                "color": "rgba(121, 60, 119, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "line",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "dodge aspen 6",
+                "value": 16.6,
+                "color": "rgba(146, 247, 197, 0.2)"
+            },
+            {
+                "label": "chevrolet impala",
+                "value": 9.0,
+                "color": "rgba(133, 200, 60, 0.2)"
+            },
+            {
+                "label": "volkswagen 1131 deluxe sedan",
+                "value": 20.5,
+                "color": "rgba(55, 51, 131, 0.2)"
+            },
+            {
+                "label": "vw rabbit c (diesel)",
+                "value": 21.7,
+                "color": "rgba(20, 94, 21, 0.2)"
+            },
+            {
+                "label": "mercury grand marquis",
+                "value": 13.2,
+                "color": "rgba(188, 81, 155, 0.2)"
+            },
+            {
+                "label": "dodge aspen",
+                "value": 18.7,
+                "color": "rgba(102, 72, 124, 0.2)"
+            },
+            {
+                "label": "chevrolet chevelle concours (sw)",
+                "value": 14.0,
+                "color": "rgba(125, 234, 5, 0.2)"
+            },
+            {
+                "label": "dodge challenger se",
+                "value": 10.0,
+                "color": "rgba(210, 149, 114, 0.2)"
+            },
+            {
+                "label": "dodge dart custom",
+                "value": 11.0,
+                "color": "rgba(229, 103, 236, 0.2)"
+            },
+            {
+                "label": "toyota corolla",
+                "value": 15.2,
+                "color": "rgba(1, 146, 47, 0.2)"
+            },
+            {
+                "label": "dodge colt m/m",
+                "value": 15.9,
+                "color": "rgba(202, 69, 7, 0.2)"
+            },
+            {
+                "label": "saab 99le",
+                "value": 14.0,
+                "color": "rgba(171, 100, 82, 0.2)"
+            },
+            {
+                "label": "amc matador",
+                "value": 18.0,
+                "color": "rgba(207, 44, 237, 0.2)"
+            },
+            {
+                "label": "renault lecar deluxe",
+                "value": 17.3,
+                "color": "rgba(24, 153, 108, 0.2)"
+            },
+            {
+                "label": "peugeot 504",
+                "value": 21.9,
+                "color": "rgba(31, 69, 106, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "amc rebel sst",
+                "value": 12.0,
+                "color": "rgba(247, 203, 132, 0.2)"
+            },
+            {
+                "label": "volvo 244dl",
+                "value": 14.5,
+                "color": "rgba(0, 124, 234, 0.2)"
+            },
+            {
+                "label": "ford fiesta",
+                "value": 14.4,
+                "color": "rgba(70, 229, 191, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Price (USD)",
+        "data": [
+            {
+                "label": "chevrolet impala",
+                "value": 40000.0,
+                "color": "rgba(233, 248, 53, 0.2)"
+            },
+            {
+                "label": "ford pinto",
+                "value": 40000.0,
+                "color": "rgba(94, 214, 62, 0.2)"
+            },
+            {
+                "label": "ford pinto",
+                "value": 40000.0,
+                "color": "rgba(56, 87, 57, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "honda civic cvcc",
+                "value": 17.5,
+                "color": "rgba(32, 250, 242, 0.2)"
+            },
+            {
+                "label": "pontiac catalina",
+                "value": 10.0,
+                "color": "rgba(214, 100, 63, 0.2)"
+            },
+            {
+                "label": "plymouth cricket",
+                "value": 20.5,
+                "color": "rgba(175, 122, 74, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Price (USD)",
+        "data": [
+            {
+                "label": "plymouth arrow gs",
+                "value": 30000.0,
+                "color": "rgba(255, 172, 207, 0.2)"
+            },
+            {
+                "label": "amc concord d/l",
+                "value": 25625.9722,
+                "color": "rgba(163, 192, 15, 0.2)"
+            },
+            {
+                "label": "amc matador",
+                "value": 20000.0,
+                "color": "rgba(100, 132, 155, 0.2)"
+            },
+            {
+                "label": "mercury grand marquis",
+                "value": 13073.58541,
+                "color": "rgba(140, 16, 44, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Weight (lbs)",
+        "data": [
+            {
+                "label": "volkswagen jetta",
+                "value": 2190,
+                "color": "rgba(193, 16, 23, 0.2)"
+            },
+            {
+                "label": "toyota corolla liftback",
+                "value": 2265,
+                "color": "rgba(241, 218, 141, 0.2)"
+            },
+            {
+                "label": "ford escort 4w",
+                "value": 2045,
+                "color": "rgba(44, 202, 155, 0.2)"
+            },
+            {
+                "label": "plymouth fury iii",
+                "value": 4135,
+                "color": "rgba(78, 239, 115, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "ford futura",
+                "value": 139.0,
+                "color": "rgba(56, 176, 207, 0.2)"
+            },
+            {
+                "label": "vw rabbit",
+                "value": 76.0,
+                "color": "rgba(218, 184, 37, 0.2)"
+            },
+            {
+                "label": "ford pinto",
+                "value": 85.0,
+                "color": "rgba(129, 105, 133, 0.2)"
+            },
+            {
+                "label": "audi 4000",
+                "value": 78.0,
+                "color": "rgba(133, 42, 202, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "amc hornet",
+                "value": 100.0,
+                "color": "rgba(34, 250, 23, 0.2)"
+            },
+            {
+                "label": "volkswagen dasher",
+                "value": 67.0,
+                "color": "rgba(174, 139, 166, 0.2)"
+            },
+            {
+                "label": "dodge dart custom",
+                "value": 150.0,
+                "color": "rgba(249, 44, 15, 0.2)"
+            },
+            {
+                "label": "oldsmobile cutlass ciera (diesel)",
+                "value": 85.0,
+                "color": "rgba(192, 9, 225, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Mileage (miles per gallon)",
+        "data": [
+            {
+                "label": "opel 1900",
+                "value": 28.0,
+                "color": "rgba(169, 250, 225, 0.2)"
+            },
+            {
+                "label": "capri ii",
+                "value": 25.0,
+                "color": "rgba(29, 98, 50, 0.2)"
+            },
+            {
+                "label": "dodge aspen",
+                "value": 18.6,
+                "color": "rgba(214, 17, 218, 0.2)"
+            },
+            {
+                "label": "amc matador",
+                "value": 14.0,
+                "color": "rgba(27, 219, 80, 0.2)"
+            },
+            {
+                "label": "toyota celica gt",
+                "value": 32.0,
+                "color": "rgba(91, 207, 154, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Weight (lbs)",
+        "data": [
+            {
+                "label": "peugeot 604sl",
+                "value": 3410,
+                "color": "rgba(35, 233, 126, 0.2)"
+            },
+            {
+                "label": "amc hornet sportabout (sw)",
+                "value": 2962,
+                "color": "rgba(13, 65, 199, 0.2)"
+            },
+            {
+                "label": "chevrolet chevette",
+                "value": 2155,
+                "color": "rgba(109, 37, 45, 0.2)"
+            },
+            {
+                "label": "chevrolet caprice classic",
+                "value": 3840,
+                "color": "rgba(161, 148, 165, 0.2)"
+            },
+            {
+                "label": "amc ambassador dpl",
+                "value": 3850,
+                "color": "rgba(213, 3, 199, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Weight (lbs)",
+        "data": [
+            {
+                "label": "dodge colt (sw)",
+                "value": 2164,
+                "color": "rgba(233, 207, 217, 0.2)"
+            },
+            {
+                "label": "datsun 200-sx",
+                "value": 2405,
+                "color": "rgba(247, 78, 213, 0.2)"
+            },
+            {
+                "label": "plymouth valiant custom",
+                "value": 3264,
+                "color": "rgba(39, 15, 225, 0.2)"
+            },
+            {
+                "label": "volvo 145e (sw)",
+                "value": 2933,
+                "color": "rgba(19, 181, 11, 0.2)"
+            },
+            {
+                "label": "chevrolet chevelle malibu classic",
+                "value": 3781,
+                "color": "rgba(235, 248, 221, 0.2)"
+            },
+            {
+                "label": "plymouth satellite",
+                "value": 3436,
+                "color": "rgba(164, 33, 24, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "pontiac phoenix",
+                "value": 13.2,
+                "color": "rgba(141, 76, 74, 0.2)"
+            },
+            {
+                "label": "plymouth 'cuda 340",
+                "value": 8.0,
+                "color": "rgba(30, 248, 188, 0.2)"
+            },
+            {
+                "label": "plymouth valiant",
+                "value": 16.5,
+                "color": "rgba(134, 229, 15, 0.2)"
+            },
+            {
+                "label": "toyota corona",
+                "value": 16.5,
+                "color": "rgba(39, 223, 85, 0.2)"
+            },
+            {
+                "label": "vw rabbit",
+                "value": 14.7,
+                "color": "rgba(146, 16, 40, 0.2)"
+            },
+            {
+                "label": "chevrolet nova",
+                "value": 16.0,
+                "color": "rgba(185, 22, 234, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "ford fairmont (auto)",
+                "value": 85.0,
+                "color": "rgba(4, 22, 118, 0.2)"
+            },
+            {
+                "label": "dodge omni",
+                "value": 75.0,
+                "color": "rgba(185, 168, 38, 0.2)"
+            },
+            {
+                "label": "toyota celica gt",
+                "value": 96.0,
+                "color": "rgba(111, 25, 253, 0.2)"
+            },
+            {
+                "label": "chevrolet citation",
+                "value": 115.0,
+                "color": "rgba(16, 89, 109, 0.2)"
+            },
+            {
+                "label": "chevrolet chevette",
+                "value": 70.0,
+                "color": "rgba(160, 198, 117, 0.2)"
+            },
+            {
+                "label": "amc ambassador brougham",
+                "value": 175.0,
+                "color": "rgba(35, 220, 208, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "amc gremlin",
+                "value": 15.0,
+                "color": "rgba(121, 200, 93, 0.2)"
+            },
+            {
+                "label": "volkswagen 411 (sw)",
+                "value": 18.0,
+                "color": "rgba(138, 178, 251, 0.2)"
+            },
+            {
+                "label": "cadillac seville",
+                "value": 12.1,
+                "color": "rgba(108, 182, 242, 0.2)"
+            },
+            {
+                "label": "chevrolet chevelle malibu classic",
+                "value": 17.0,
+                "color": "rgba(227, 136, 230, 0.2)"
+            },
+            {
+                "label": "dodge charger 2.2",
+                "value": 13.0,
+                "color": "rgba(183, 98, 125, 0.2)"
+            },
+            {
+                "label": "volvo 144ea",
+                "value": 15.5,
+                "color": "rgba(108, 221, 250, 0.2)"
+            },
+            {
+                "label": "chevrolet impala",
+                "value": 14.0,
+                "color": "rgba(120, 217, 69, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Price (USD)",
+        "data": [
+            {
+                "label": "datsun 200-sx",
+                "value": 47709.82064,
+                "color": "rgba(11, 55, 79, 0.2)"
+            },
+            {
+                "label": "dodge diplomat",
+                "value": 40000.0,
+                "color": "rgba(227, 46, 146, 0.2)"
+            },
+            {
+                "label": "datsun 610",
+                "value": 20000.0,
+                "color": "rgba(40, 168, 0, 0.2)"
+            },
+            {
+                "label": "vw rabbit",
+                "value": 48911.31371,
+                "color": "rgba(22, 253, 155, 0.2)"
+            },
+            {
+                "label": "dodge dart custom",
+                "value": 40000.0,
+                "color": "rgba(201, 251, 94, 0.2)"
+            },
+            {
+                "label": "datsun b210",
+                "value": 30000.0,
+                "color": "rgba(111, 254, 204, 0.2)"
+            },
+            {
+                "label": "fiat 124 tc",
+                "value": 24285.00304,
+                "color": "rgba(148, 120, 177, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "chevrolet impala",
+                "value": 14.0,
+                "color": "rgba(109, 209, 251, 0.2)"
+            },
+            {
+                "label": "buick century special",
+                "value": 15.8,
+                "color": "rgba(26, 143, 81, 0.2)"
+            },
+            {
+                "label": "chevrolet impala",
+                "value": 12.0,
+                "color": "rgba(98, 203, 151, 0.2)"
+            },
+            {
+                "label": "plymouth horizon",
+                "value": 13.2,
+                "color": "rgba(133, 102, 226, 0.2)"
+            },
+            {
+                "label": "mercedes-benz 280s",
+                "value": 16.7,
+                "color": "rgba(167, 198, 207, 0.2)"
+            },
+            {
+                "label": "datsun pl510",
+                "value": 14.5,
+                "color": "rgba(142, 166, 32, 0.2)"
+            },
+            {
+                "label": "toyota mark ii",
+                "value": 13.5,
+                "color": "rgba(252, 63, 189, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Mileage (miles per gallon)",
+        "data": [
+            {
+                "label": "chevrolet vega",
+                "value": 20.0,
+                "color": "rgba(100, 197, 19, 0.2)"
+            },
+            {
+                "label": "plymouth reliant",
+                "value": 30.0,
+                "color": "rgba(253, 89, 151, 0.2)"
+            },
+            {
+                "label": "volkswagen super beetle",
+                "value": 26.0,
+                "color": "rgba(230, 218, 169, 0.2)"
+            },
+            {
+                "label": "mercury monarch",
+                "value": 15.0,
+                "color": "rgba(88, 7, 184, 0.2)"
+            },
+            {
+                "label": "ford granada l",
+                "value": 22.0,
+                "color": "rgba(87, 203, 3, 0.2)"
+            },
+            {
+                "label": "honda civic cvcc",
+                "value": 33.0,
+                "color": "rgba(119, 243, 232, 0.2)"
+            },
+            {
+                "label": "mercury cougar brougham",
+                "value": 15.0,
+                "color": "rgba(146, 42, 39, 0.2)"
+            },
+            {
+                "label": "mazda glc custom",
+                "value": 31.0,
+                "color": "rgba(141, 163, 177, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "saab 99le",
+                "value": 14.0,
+                "color": "rgba(111, 97, 213, 0.2)"
+            },
+            {
+                "label": "datsun 510",
+                "value": 14.7,
+                "color": "rgba(64, 249, 171, 0.2)"
+            },
+            {
+                "label": "ford granada gl",
+                "value": 17.1,
+                "color": "rgba(201, 36, 63, 0.2)"
+            },
+            {
+                "label": "plymouth satellite",
+                "value": 11.0,
+                "color": "rgba(153, 139, 240, 0.2)"
+            },
+            {
+                "label": "datsun 610",
+                "value": 16.5,
+                "color": "rgba(175, 249, 105, 0.2)"
+            },
+            {
+                "label": "dodge st. regis",
+                "value": 15.2,
+                "color": "rgba(219, 71, 255, 0.2)"
+            },
+            {
+                "label": "toyota corolla",
+                "value": 16.4,
+                "color": "rgba(123, 28, 79, 0.2)"
+            },
+            {
+                "label": "honda civic cvcc",
+                "value": 17.5,
+                "color": "rgba(178, 26, 100, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Mileage (miles per gallon)",
+        "data": [
+            {
+                "label": "dodge colt",
+                "value": 28.0,
+                "color": "rgba(204, 75, 193, 0.2)"
+            },
+            {
+                "label": "amc gremlin",
+                "value": 19.0,
+                "color": "rgba(122, 214, 119, 0.2)"
+            },
+            {
+                "label": "ford fairmont futura",
+                "value": 24.0,
+                "color": "rgba(198, 98, 156, 0.2)"
+            },
+            {
+                "label": "volkswagen dasher",
+                "value": 25.0,
+                "color": "rgba(143, 1, 231, 0.2)"
+            },
+            {
+                "label": "amc pacer d/l",
+                "value": 17.5,
+                "color": "rgba(98, 249, 190, 0.2)"
+            },
+            {
+                "label": "volkswagen rabbit",
+                "value": 29.5,
+                "color": "rgba(239, 215, 70, 0.2)"
+            },
+            {
+                "label": "buick century limited",
+                "value": 25.0,
+                "color": "rgba(74, 80, 145, 0.2)"
+            },
+            {
+                "label": "ford pinto (sw)",
+                "value": 22.0,
+                "color": "rgba(81, 252, 186, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Mileage (miles per gallon)",
+        "data": [
+            {
+                "label": "chevrolet nova",
+                "value": 18.0,
+                "color": "rgba(48, 95, 231, 0.2)"
+            },
+            {
+                "label": "peugeot 504",
+                "value": 27.2,
+                "color": "rgba(18, 231, 193, 0.2)"
+            },
+            {
+                "label": "dodge aspen se",
+                "value": 20.0,
+                "color": "rgba(65, 116, 224, 0.2)"
+            },
+            {
+                "label": "volkswagen 411 (sw)",
+                "value": 22.0,
+                "color": "rgba(156, 70, 141, 0.2)"
+            },
+            {
+                "label": "toyota tercel",
+                "value": 37.7,
+                "color": "rgba(101, 143, 83, 0.2)"
+            },
+            {
+                "label": "chevrolet monte carlo landau",
+                "value": 19.2,
+                "color": "rgba(74, 164, 210, 0.2)"
+            },
+            {
+                "label": "chevroelt chevelle malibu",
+                "value": 16.0,
+                "color": "rgba(151, 52, 236, 0.2)"
+            },
+            {
+                "label": "subaru",
+                "value": 26.0,
+                "color": "rgba(35, 104, 94, 0.2)"
+            },
+            {
+                "label": "oldsmobile vista cruiser",
+                "value": 12.0,
+                "color": "rgba(48, 19, 34, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Price (USD)",
+        "data": [
+            {
+                "label": "dodge rampage",
+                "value": 47800.0,
+                "color": "rgba(165, 24, 183, 0.2)"
+            },
+            {
+                "label": "ford galaxie 500",
+                "value": 20000.0,
+                "color": "rgba(241, 70, 127, 0.2)"
+            },
+            {
+                "label": "dodge omni",
+                "value": 24166.91123,
+                "color": "rgba(92, 117, 230, 0.2)"
+            },
+            {
+                "label": "audi 100ls",
+                "value": 36717.9042,
+                "color": "rgba(172, 254, 39, 0.2)"
+            },
+            {
+                "label": "buick estate wagon (sw)",
+                "value": 26608.32842,
+                "color": "rgba(97, 118, 57, 0.2)"
+            },
+            {
+                "label": "ford ltd",
+                "value": 36489.40106,
+                "color": "rgba(214, 114, 7, 0.2)"
+            },
+            {
+                "label": "pontiac astro",
+                "value": 30000.0,
+                "color": "rgba(243, 139, 12, 0.2)"
+            },
+            {
+                "label": "chevrolet monte carlo landau",
+                "value": 50024.68887,
+                "color": "rgba(185, 40, 171, 0.2)"
+            },
+            {
+                "label": "mazda glc custom l",
+                "value": 44607.86606,
+                "color": "rgba(254, 58, 177, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "toyota corolla liftback",
+                "value": 18.2,
+                "color": "rgba(151, 1, 55, 0.2)"
+            },
+            {
+                "label": "datsun 280-zx",
+                "value": 11.4,
+                "color": "rgba(164, 172, 134, 0.2)"
+            },
+            {
+                "label": "plymouth horizon tc3",
+                "value": 14.9,
+                "color": "rgba(102, 160, 100, 0.2)"
+            },
+            {
+                "label": "audi 5000",
+                "value": 15.9,
+                "color": "rgba(248, 48, 37, 0.2)"
+            },
+            {
+                "label": "ford maverick",
+                "value": 16.5,
+                "color": "rgba(139, 99, 162, 0.2)"
+            },
+            {
+                "label": "mercury grand marquis",
+                "value": 13.2,
+                "color": "rgba(72, 144, 153, 0.2)"
+            },
+            {
+                "label": "audi 100 ls",
+                "value": 14.5,
+                "color": "rgba(75, 222, 129, 0.2)"
+            },
+            {
+                "label": "ford gran torino",
+                "value": 14.5,
+                "color": "rgba(23, 91, 138, 0.2)"
+            },
+            {
+                "label": "mercury marquis brougham",
+                "value": 11.5,
+                "color": "rgba(252, 77, 115, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "amc hornet",
+                "value": 100.0,
+                "color": "rgba(69, 201, 228, 0.2)"
+            },
+            {
+                "label": "datsun 810 maxima",
+                "value": 120.0,
+                "color": "rgba(215, 214, 106, 0.2)"
+            },
+            {
+                "label": "chevrolet vega",
+                "value": 75.0,
+                "color": "rgba(60, 45, 242, 0.2)"
+            },
+            {
+                "label": "chrysler lebaron medallion",
+                "value": 92.0,
+                "color": "rgba(192, 117, 236, 0.2)"
+            },
+            {
+                "label": "mercury capri v6",
+                "value": 107.0,
+                "color": "rgba(42, 226, 185, 0.2)"
+            },
+            {
+                "label": "amc gremlin",
+                "value": 100.0,
+                "color": "rgba(188, 77, 171, 0.2)"
+            },
+            {
+                "label": "vw rabbit",
+                "value": 76.0,
+                "color": "rgba(166, 194, 177, 0.2)"
+            },
+            {
+                "label": "dodge colt",
+                "value": 79.0,
+                "color": "rgba(79, 201, 84, 0.2)"
+            },
+            {
+                "label": "dodge d200",
+                "value": 210.0,
+                "color": "rgba(207, 52, 176, 0.2)"
+            },
+            {
+                "label": "buick opel isuzu deluxe",
+                "value": 80.0,
+                "color": "rgba(125, 195, 129, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Price (USD)",
+        "data": [
+            {
+                "label": "fiat 124b",
+                "value": 23790.82939,
+                "color": "rgba(243, 212, 95, 0.2)"
+            },
+            {
+                "label": "subaru",
+                "value": 26414.50827,
+                "color": "rgba(192, 255, 198, 0.2)"
+            },
+            {
+                "label": "buick century",
+                "value": 43913.81789,
+                "color": "rgba(198, 10, 178, 0.2)"
+            },
+            {
+                "label": "fiat strada custom",
+                "value": 30000.0,
+                "color": "rgba(208, 27, 86, 0.2)"
+            },
+            {
+                "label": "pontiac phoenix",
+                "value": 49548.62273,
+                "color": "rgba(153, 188, 196, 0.2)"
+            },
+            {
+                "label": "vokswagen rabbit",
+                "value": 30000.0,
+                "color": "rgba(132, 246, 96, 0.2)"
+            },
+            {
+                "label": "audi 5000s (diesel)",
+                "value": 44494.54404,
+                "color": "rgba(168, 7, 8, 0.2)"
+            },
+            {
+                "label": "toyouta corona mark ii (sw)",
+                "value": 30000.0,
+                "color": "rgba(30, 135, 152, 0.2)"
+            },
+            {
+                "label": "mercury marquis brougham",
+                "value": 30000.0,
+                "color": "rgba(192, 105, 16, 0.2)"
+            },
+            {
+                "label": "datsun 210",
+                "value": 30000.0,
+                "color": "rgba(250, 74, 11, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Mileage (miles per gallon)",
+        "data": [
+            {
+                "label": "toyota corona liftback",
+                "value": 29.8,
+                "color": "rgba(219, 130, 199, 0.2)"
+            },
+            {
+                "label": "dodge colt",
+                "value": 26.0,
+                "color": "rgba(28, 8, 86, 0.2)"
+            },
+            {
+                "label": "toyota corona",
+                "value": 25.0,
+                "color": "rgba(195, 94, 130, 0.2)"
+            },
+            {
+                "label": "plymouth horizon 4",
+                "value": 34.7,
+                "color": "rgba(54, 51, 189, 0.2)"
+            },
+            {
+                "label": "amc ambassador brougham",
+                "value": 13.0,
+                "color": "rgba(11, 89, 26, 0.2)"
+            },
+            {
+                "label": "chevrolet monte carlo landau",
+                "value": 15.5,
+                "color": "rgba(176, 243, 48, 0.2)"
+            },
+            {
+                "label": "mercedes-benz 240d",
+                "value": 30.0,
+                "color": "rgba(199, 137, 153, 0.2)"
+            },
+            {
+                "label": "dodge st. regis",
+                "value": 18.2,
+                "color": "rgba(161, 176, 159, 0.2)"
+            },
+            {
+                "label": "toyota corona",
+                "value": 27.5,
+                "color": "rgba(167, 238, 185, 0.2)"
+            },
+            {
+                "label": "datsun 210 mpg",
+                "value": 37.0,
+                "color": "rgba(33, 42, 134, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "honda accord cvcc",
+                "value": 68.0,
+                "color": "rgba(40, 136, 70, 0.2)"
+            },
+            {
+                "label": "toyota celica gt liftback",
+                "value": 95.0,
+                "color": "rgba(77, 108, 68, 0.2)"
+            },
+            {
+                "label": "amc ambassador brougham",
+                "value": 175.0,
+                "color": "rgba(83, 126, 213, 0.2)"
+            },
+            {
+                "label": "toyota corolla",
+                "value": 75.0,
+                "color": "rgba(197, 240, 26, 0.2)"
+            },
+            {
+                "label": "fiat x1.9",
+                "value": 67.0,
+                "color": "rgba(87, 86, 29, 0.2)"
+            },
+            {
+                "label": "buick estate wagon (sw)",
+                "value": 155.0,
+                "color": "rgba(8, 214, 101, 0.2)"
+            },
+            {
+                "label": "chevrolet monte carlo landau",
+                "value": 145.0,
+                "color": "rgba(215, 155, 112, 0.2)"
+            },
+            {
+                "label": "audi 100 ls",
+                "value": 90.0,
+                "color": "rgba(249, 21, 124, 0.2)"
+            },
+            {
+                "label": "ford maverick",
+                "value": 72.0,
+                "color": "rgba(136, 119, 62, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Price (USD)",
+        "data": [
+            {
+                "label": "ford fairmont (auto)",
+                "value": 30000.0,
+                "color": "rgba(6, 28, 95, 0.2)"
+            },
+            {
+                "label": "dodge diplomat",
+                "value": 40000.0,
+                "color": "rgba(183, 0, 54, 0.2)"
+            },
+            {
+                "label": "ford granada l",
+                "value": 22973.01943,
+                "color": "rgba(62, 179, 110, 0.2)"
+            },
+            {
+                "label": "chevrolet impala",
+                "value": 40000.0,
+                "color": "rgba(248, 127, 186, 0.2)"
+            },
+            {
+                "label": "mercury marquis",
+                "value": 16223.26834,
+                "color": "rgba(67, 13, 32, 0.2)"
+            },
+            {
+                "label": "ford galaxie 500",
+                "value": 30000.0,
+                "color": "rgba(118, 166, 74, 0.2)"
+            },
+            {
+                "label": "toyota corolla 1600 (sw)",
+                "value": 35088.02866,
+                "color": "rgba(120, 236, 35, 0.2)"
+            },
+            {
+                "label": "honda civic (auto)",
+                "value": 30000.0,
+                "color": "rgba(230, 255, 206, 0.2)"
+            },
+            {
+                "label": "volkswagen 411 (sw)",
+                "value": 40000.0,
+                "color": "rgba(225, 197, 68, 0.2)"
+            },
+            {
+                "label": "dodge challenger se",
+                "value": 30000.0,
+                "color": "rgba(147, 248, 167, 0.2)"
+            },
+            {
+                "label": "ford maverick",
+                "value": 33726.80756,
+                "color": "rgba(186, 247, 239, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Weight (lbs)",
+        "data": [
+            {
+                "label": "volkswagen jetta",
+                "value": 2190,
+                "color": "rgba(230, 24, 139, 0.2)"
+            },
+            {
+                "label": "pontiac catalina",
+                "value": 4385,
+                "color": "rgba(67, 222, 174, 0.2)"
+            },
+            {
+                "label": "pontiac phoenix",
+                "value": 2556,
+                "color": "rgba(80, 220, 140, 0.2)"
+            },
+            {
+                "label": "amc gremlin",
+                "value": 2634,
+                "color": "rgba(248, 181, 146, 0.2)"
+            },
+            {
+                "label": "peugeot 604sl",
+                "value": 3410,
+                "color": "rgba(68, 129, 56, 0.2)"
+            },
+            {
+                "label": "volkswagen rabbit l",
+                "value": 1980,
+                "color": "rgba(193, 171, 58, 0.2)"
+            },
+            {
+                "label": "dodge diplomat",
+                "value": 3735,
+                "color": "rgba(72, 250, 65, 0.2)"
+            },
+            {
+                "label": "ford pinto (sw)",
+                "value": 2395,
+                "color": "rgba(147, 110, 198, 0.2)"
+            },
+            {
+                "label": "pontiac catalina",
+                "value": 4668,
+                "color": "rgba(111, 32, 215, 0.2)"
+            },
+            {
+                "label": "plymouth grand fury",
+                "value": 4498,
+                "color": "rgba(42, 232, 127, 0.2)"
+            },
+            {
+                "label": "mazda rx-7 gs",
+                "value": 2420,
+                "color": "rgba(209, 230, 230, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "datsun 280-zx",
+                "value": 132.0,
+                "color": "rgba(139, 236, 231, 0.2)"
+            },
+            {
+                "label": "toyota celica gt liftback",
+                "value": 95.0,
+                "color": "rgba(1, 23, 1, 0.2)"
+            },
+            {
+                "label": "plymouth cricket",
+                "value": 70.0,
+                "color": "rgba(69, 65, 96, 0.2)"
+            },
+            {
+                "label": "dodge d100",
+                "value": 150.0,
+                "color": "rgba(36, 140, 19, 0.2)"
+            },
+            {
+                "label": "volkswagen rabbit l",
+                "value": 74.0,
+                "color": "rgba(244, 46, 247, 0.2)"
+            },
+            {
+                "label": "honda civic",
+                "value": 53.0,
+                "color": "rgba(233, 161, 89, 0.2)"
+            },
+            {
+                "label": "volkswagen rabbit custom",
+                "value": 78.0,
+                "color": "rgba(133, 171, 105, 0.2)"
+            },
+            {
+                "label": "vw rabbit custom",
+                "value": 71.0,
+                "color": "rgba(49, 53, 34, 0.2)"
+            },
+            {
+                "label": "volkswagen dasher",
+                "value": 71.0,
+                "color": "rgba(209, 74, 215, 0.2)"
+            },
+            {
+                "label": "audi 100ls",
+                "value": 91.0,
+                "color": "rgba(154, 97, 104, 0.2)"
+            },
+            {
+                "label": "pontiac grand prix",
+                "value": 230.0,
+                "color": "rgba(101, 131, 191, 0.2)"
+            },
+            {
+                "label": "dodge aries se",
+                "value": 84.0,
+                "color": "rgba(24, 214, 229, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "ford maverick",
+                "value": 16.5,
+                "color": "rgba(206, 217, 95, 0.2)"
+            },
+            {
+                "label": "dodge colt hatchback custom",
+                "value": 14.4,
+                "color": "rgba(126, 135, 229, 0.2)"
+            },
+            {
+                "label": "toyota celica gt",
+                "value": 13.9,
+                "color": "rgba(244, 58, 3, 0.2)"
+            },
+            {
+                "label": "chevrolet monte carlo landau",
+                "value": 13.2,
+                "color": "rgba(13, 215, 243, 0.2)"
+            },
+            {
+                "label": "chevrolet monza 2+2",
+                "value": 13.5,
+                "color": "rgba(234, 221, 158, 0.2)"
+            },
+            {
+                "label": "toyota corona",
+                "value": 14.2,
+                "color": "rgba(31, 164, 112, 0.2)"
+            },
+            {
+                "label": "renault 12tl",
+                "value": 15.3,
+                "color": "rgba(230, 178, 34, 0.2)"
+            },
+            {
+                "label": "ford gran torino",
+                "value": 14.0,
+                "color": "rgba(221, 89, 206, 0.2)"
+            },
+            {
+                "label": "audi fox",
+                "value": 16.5,
+                "color": "rgba(184, 65, 102, 0.2)"
+            },
+            {
+                "label": "dodge magnum xe",
+                "value": 13.7,
+                "color": "rgba(195, 56, 129, 0.2)"
+            },
+            {
+                "label": "chevrolet vega (sw)",
+                "value": 19.0,
+                "color": "rgba(252, 31, 93, 0.2)"
+            },
+            {
+                "label": "chevrolet malibu",
+                "value": 13.0,
+                "color": "rgba(121, 42, 213, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Price (USD)",
+        "data": [
+            {
+                "label": "datsun pl510",
+                "value": 15802.23935,
+                "color": "rgba(8, 193, 217, 0.2)"
+            },
+            {
+                "label": "amc hornet",
+                "value": 13136.84754,
+                "color": "rgba(102, 228, 126, 0.2)"
+            },
+            {
+                "label": "amc hornet",
+                "value": 24260.62236,
+                "color": "rgba(217, 61, 23, 0.2)"
+            },
+            {
+                "label": "plymouth horizon 4",
+                "value": 30000.0,
+                "color": "rgba(150, 133, 105, 0.2)"
+            },
+            {
+                "label": "toyota corolla",
+                "value": 22682.07397,
+                "color": "rgba(87, 87, 34, 0.2)"
+            },
+            {
+                "label": "honda civic 1500 gl",
+                "value": 20000.0,
+                "color": "rgba(215, 118, 169, 0.2)"
+            },
+            {
+                "label": "buick skyhawk",
+                "value": 34085.80564,
+                "color": "rgba(186, 107, 246, 0.2)"
+            },
+            {
+                "label": "buick estate wagon (sw)",
+                "value": 24606.12234,
+                "color": "rgba(232, 65, 123, 0.2)"
+            },
+            {
+                "label": "mazda glc 4",
+                "value": 49150.57563,
+                "color": "rgba(169, 183, 155, 0.2)"
+            },
+            {
+                "label": "mercury capri 2000",
+                "value": 27435.39589,
+                "color": "rgba(209, 144, 76, 0.2)"
+            },
+            {
+                "label": "toyota corona hardtop",
+                "value": 40000.0,
+                "color": "rgba(127, 181, 181, 0.2)"
+            },
+            {
+                "label": "plymouth duster",
+                "value": 25211.02753,
+                "color": "rgba(231, 73, 106, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "renault 12tl",
+                "value": 15.3,
+                "color": "rgba(250, 113, 109, 0.2)"
+            },
+            {
+                "label": "dodge coronet custom (sw)",
+                "value": 13.5,
+                "color": "rgba(60, 62, 184, 0.2)"
+            },
+            {
+                "label": "amc hornet",
+                "value": 17.6,
+                "color": "rgba(55, 219, 59, 0.2)"
+            },
+            {
+                "label": "honda civic",
+                "value": 17.4,
+                "color": "rgba(165, 157, 29, 0.2)"
+            },
+            {
+                "label": "honda civic",
+                "value": 15.0,
+                "color": "rgba(218, 222, 229, 0.2)"
+            },
+            {
+                "label": "dodge magnum xe",
+                "value": 13.7,
+                "color": "rgba(192, 61, 243, 0.2)"
+            },
+            {
+                "label": "opel 1900",
+                "value": 14.0,
+                "color": "rgba(179, 110, 131, 0.2)"
+            },
+            {
+                "label": "honda accord cvcc",
+                "value": 18.5,
+                "color": "rgba(185, 157, 148, 0.2)"
+            },
+            {
+                "label": "ford gran torino",
+                "value": 12.8,
+                "color": "rgba(135, 217, 217, 0.2)"
+            },
+            {
+                "label": "ford granada l",
+                "value": 14.7,
+                "color": "rgba(237, 246, 237, 0.2)"
+            },
+            {
+                "label": "amc matador (sw)",
+                "value": 12.5,
+                "color": "rgba(27, 37, 229, 0.2)"
+            },
+            {
+                "label": "opel manta",
+                "value": 14.5,
+                "color": "rgba(189, 173, 214, 0.2)"
+            },
+            {
+                "label": "pontiac j2000 se hatchback",
+                "value": 16.2,
+                "color": "rgba(201, 128, 157, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "vw pickup",
+                "value": 24.6,
+                "color": "rgba(38, 25, 55, 0.2)"
+            },
+            {
+                "label": "datsun 810",
+                "value": 14.5,
+                "color": "rgba(166, 149, 79, 0.2)"
+            },
+            {
+                "label": "ford maverick",
+                "value": 17.0,
+                "color": "rgba(21, 76, 26, 0.2)"
+            },
+            {
+                "label": "mercury marquis",
+                "value": 11.0,
+                "color": "rgba(68, 39, 137, 0.2)"
+            },
+            {
+                "label": "chevrolet concours",
+                "value": 16.4,
+                "color": "rgba(45, 240, 29, 0.2)"
+            },
+            {
+                "label": "pontiac grand prix lj",
+                "value": 11.1,
+                "color": "rgba(189, 237, 124, 0.2)"
+            },
+            {
+                "label": "fiat 128",
+                "value": 15.5,
+                "color": "rgba(70, 165, 40, 0.2)"
+            },
+            {
+                "label": "chevrolet chevette",
+                "value": 17.0,
+                "color": "rgba(229, 146, 69, 0.2)"
+            },
+            {
+                "label": "opel 1900",
+                "value": 16.9,
+                "color": "rgba(31, 160, 166, 0.2)"
+            },
+            {
+                "label": "mazda glc 4",
+                "value": 16.0,
+                "color": "rgba(200, 88, 222, 0.2)"
+            },
+            {
+                "label": "mercedes-benz 240d",
+                "value": 21.8,
+                "color": "rgba(163, 142, 174, 0.2)"
+            },
+            {
+                "label": "plymouth champ",
+                "value": 16.4,
+                "color": "rgba(192, 137, 80, 0.2)"
+            },
+            {
+                "label": "pontiac phoenix",
+                "value": 18.0,
+                "color": "rgba(87, 10, 159, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Mileage (miles per gallon)",
+        "data": [
+            {
+                "label": "ford ranger",
+                "value": 28.0,
+                "color": "rgba(109, 249, 24, 0.2)"
+            },
+            {
+                "label": "chevrolet monza 2+2",
+                "value": 20.0,
+                "color": "rgba(175, 255, 137, 0.2)"
+            },
+            {
+                "label": "volkswagen 1131 deluxe sedan",
+                "value": 26.0,
+                "color": "rgba(25, 38, 95, 0.2)"
+            },
+            {
+                "label": "plymouth fury gran sedan",
+                "value": 14.0,
+                "color": "rgba(103, 5, 52, 0.2)"
+            },
+            {
+                "label": "honda civic",
+                "value": 33.0,
+                "color": "rgba(145, 225, 74, 0.2)"
+            },
+            {
+                "label": "fiat 124b",
+                "value": 30.0,
+                "color": "rgba(83, 192, 177, 0.2)"
+            },
+            {
+                "label": "renault 18i",
+                "value": 34.5,
+                "color": "rgba(11, 25, 4, 0.2)"
+            },
+            {
+                "label": "dodge aries se",
+                "value": 29.0,
+                "color": "rgba(132, 146, 58, 0.2)"
+            },
+            {
+                "label": "volkswagen rabbit custom",
+                "value": 29.0,
+                "color": "rgba(136, 120, 190, 0.2)"
+            },
+            {
+                "label": "plymouth reliant",
+                "value": 30.0,
+                "color": "rgba(70, 82, 161, 0.2)"
+            },
+            {
+                "label": "buick skyhawk",
+                "value": 21.0,
+                "color": "rgba(94, 249, 224, 0.2)"
+            },
+            {
+                "label": "dodge dart custom",
+                "value": 15.0,
+                "color": "rgba(7, 204, 151, 0.2)"
+            },
+            {
+                "label": "ford maverick",
+                "value": 18.0,
+                "color": "rgba(98, 223, 221, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Mileage (miles per gallon)",
+        "data": [
+            {
+                "label": "ford fiesta",
+                "value": 36.1,
+                "color": "rgba(253, 243, 85, 0.2)"
+            },
+            {
+                "label": "amc hornet",
+                "value": 18.0,
+                "color": "rgba(65, 48, 190, 0.2)"
+            },
+            {
+                "label": "volkswagen scirocco",
+                "value": 31.5,
+                "color": "rgba(198, 251, 56, 0.2)"
+            },
+            {
+                "label": "dodge colt",
+                "value": 26.0,
+                "color": "rgba(142, 74, 59, 0.2)"
+            },
+            {
+                "label": "buick century luxus (sw)",
+                "value": 13.0,
+                "color": "rgba(0, 63, 225, 0.2)"
+            },
+            {
+                "label": "plymouth grand fury",
+                "value": 16.0,
+                "color": "rgba(152, 128, 136, 0.2)"
+            },
+            {
+                "label": "ford mustang ii",
+                "value": 13.0,
+                "color": "rgba(79, 58, 251, 0.2)"
+            },
+            {
+                "label": "buick estate wagon (sw)",
+                "value": 16.9,
+                "color": "rgba(173, 2, 204, 0.2)"
+            },
+            {
+                "label": "toyota corolla",
+                "value": 29.0,
+                "color": "rgba(243, 147, 211, 0.2)"
+            },
+            {
+                "label": "toyota corolla 1200",
+                "value": 32.0,
+                "color": "rgba(206, 197, 41, 0.2)"
+            },
+            {
+                "label": "plymouth cricket",
+                "value": 26.0,
+                "color": "rgba(161, 170, 57, 0.2)"
+            },
+            {
+                "label": "ford mustang gl",
+                "value": 27.0,
+                "color": "rgba(142, 155, 132, 0.2)"
+            },
+            {
+                "label": "volkswagen type 3",
+                "value": 23.0,
+                "color": "rgba(83, 83, 78, 0.2)"
+            },
+            {
+                "label": "dodge challenger se",
+                "value": 15.0,
+                "color": "rgba(147, 188, 66, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Horsepower",
+        "data": [
+            {
+                "label": "cadillac seville",
+                "value": 180.0,
+                "color": "rgba(53, 153, 171, 0.2)"
+            },
+            {
+                "label": "chevrolet caprice classic",
+                "value": 130.0,
+                "color": "rgba(34, 134, 129, 0.2)"
+            },
+            {
+                "label": "oldsmobile omega",
+                "value": 180.0,
+                "color": "rgba(39, 7, 41, 0.2)"
+            },
+            {
+                "label": "oldsmobile cutlass ls",
+                "value": 105.0,
+                "color": "rgba(214, 151, 205, 0.2)"
+            },
+            {
+                "label": "mercury marquis brougham",
+                "value": 198.0,
+                "color": "rgba(75, 12, 36, 0.2)"
+            },
+            {
+                "label": "plymouth valiant",
+                "value": 105.0,
+                "color": "rgba(15, 35, 55, 0.2)"
+            },
+            {
+                "label": "honda prelude",
+                "value": 75.0,
+                "color": "rgba(202, 102, 139, 0.2)"
+            },
+            {
+                "label": "plymouth volare premier v8",
+                "value": 150.0,
+                "color": "rgba(182, 195, 56, 0.2)"
+            },
+            {
+                "label": "amc hornet sportabout (sw)",
+                "value": 110.0,
+                "color": "rgba(243, 99, 34, 0.2)"
+            },
+            {
+                "label": "datsun 510 hatchback",
+                "value": 92.0,
+                "color": "rgba(105, 120, 253, 0.2)"
+            },
+            {
+                "label": "bmw 320i",
+                "value": 110.0,
+                "color": "rgba(70, 118, 215, 0.2)"
+            },
+            {
+                "label": "vw pickup",
+                "value": 52.0,
+                "color": "rgba(64, 132, 136, 0.2)"
+            },
+            {
+                "label": "bmw 2002",
+                "value": 113.0,
+                "color": "rgba(147, 82, 162, 0.2)"
+            },
+            {
+                "label": "toyota tercel",
+                "value": 62.0,
+                "color": "rgba(152, 60, 245, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Price (USD)",
+        "data": [
+            {
+                "label": "chevrolet citation",
+                "value": 34799.28206,
+                "color": "rgba(132, 91, 178, 0.2)"
+            },
+            {
+                "label": "buick century limited",
+                "value": 25289.83381,
+                "color": "rgba(167, 173, 221, 0.2)"
+            },
+            {
+                "label": "pontiac sunbird coupe",
+                "value": 22768.36337,
+                "color": "rgba(86, 31, 99, 0.2)"
+            },
+            {
+                "label": "saab 99le",
+                "value": 17080.97861,
+                "color": "rgba(50, 14, 187, 0.2)"
+            },
+            {
+                "label": "chrysler cordoba",
+                "value": 20000.0,
+                "color": "rgba(6, 32, 19, 0.2)"
+            },
+            {
+                "label": "chrysler lebaron salon",
+                "value": 23723.77532,
+                "color": "rgba(206, 36, 160, 0.2)"
+            },
+            {
+                "label": "audi 5000s (diesel)",
+                "value": 44494.54404,
+                "color": "rgba(185, 151, 198, 0.2)"
+            },
+            {
+                "label": "fiat 128",
+                "value": 30000.0,
+                "color": "rgba(153, 140, 157, 0.2)"
+            },
+            {
+                "label": "ford fairmont (man)",
+                "value": 40000.0,
+                "color": "rgba(142, 254, 60, 0.2)"
+            },
+            {
+                "label": "chevrolet malibu classic (sw)",
+                "value": 26157.23515,
+                "color": "rgba(252, 216, 2, 0.2)"
+            },
+            {
+                "label": "datsun 810",
+                "value": 42883.25641,
+                "color": "rgba(127, 74, 248, 0.2)"
+            },
+            {
+                "label": "buick century",
+                "value": 25571.46894,
+                "color": "rgba(125, 170, 116, 0.2)"
+            },
+            {
+                "label": "amc matador",
+                "value": 20000.0,
+                "color": "rgba(87, 255, 239, 0.2)"
+            },
+            {
+                "label": "oldsmobile cutlass salon brougham",
+                "value": 33062.12043,
+                "color": "rgba(60, 172, 236, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Price (USD)",
+        "data": [
+            {
+                "label": "buick skylark",
+                "value": 20000.0,
+                "color": "rgba(40, 224, 37, 0.2)"
+            },
+            {
+                "label": "renault lecar deluxe",
+                "value": 32650.65157,
+                "color": "rgba(33, 146, 253, 0.2)"
+            },
+            {
+                "label": "fiat x1.9",
+                "value": 8068.231747,
+                "color": "rgba(19, 176, 71, 0.2)"
+            },
+            {
+                "label": "chevrolet nova",
+                "value": 44633.99433,
+                "color": "rgba(197, 24, 72, 0.2)"
+            },
+            {
+                "label": "chevrolet malibu",
+                "value": 20000.0,
+                "color": "rgba(34, 113, 214, 0.2)"
+            },
+            {
+                "label": "vw rabbit",
+                "value": 48911.31371,
+                "color": "rgba(106, 201, 37, 0.2)"
+            },
+            {
+                "label": "plymouth duster",
+                "value": 20000.0,
+                "color": "rgba(251, 50, 241, 0.2)"
+            },
+            {
+                "label": "ford escort 2h",
+                "value": 20000.0,
+                "color": "rgba(95, 62, 85, 0.2)"
+            },
+            {
+                "label": "chevrolet vega",
+                "value": 33019.20813,
+                "color": "rgba(99, 184, 246, 0.2)"
+            },
+            {
+                "label": "renault 5 gtl",
+                "value": 20000.0,
+                "color": "rgba(146, 103, 53, 0.2)"
+            },
+            {
+                "label": "toyota corolla",
+                "value": 30000.0,
+                "color": "rgba(223, 207, 26, 0.2)"
+            },
+            {
+                "label": "ford gran torino (sw)",
+                "value": 30000.0,
+                "color": "rgba(197, 0, 118, 0.2)"
+            },
+            {
+                "label": "peugeot 504 (sw)",
+                "value": 16035.29706,
+                "color": "rgba(152, 3, 185, 0.2)"
+            },
+            {
+                "label": "ford f108",
+                "value": 20000.0,
+                "color": "rgba(140, 103, 77, 0.2)"
+            },
+            {
+                "label": "amc concord",
+                "value": 30000.0,
+                "color": "rgba(30, 74, 169, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "toyota corolla 1200",
+                "value": 21.0,
+                "color": "rgba(83, 250, 140, 0.2)"
+            },
+            {
+                "label": "chevrolet nova",
+                "value": 17.0,
+                "color": "rgba(115, 89, 122, 0.2)"
+            },
+            {
+                "label": "datsun 710",
+                "value": 17.0,
+                "color": "rgba(51, 122, 201, 0.2)"
+            },
+            {
+                "label": "datsun b-210",
+                "value": 17.0,
+                "color": "rgba(97, 123, 251, 0.2)"
+            },
+            {
+                "label": "amc ambassador brougham",
+                "value": 11.0,
+                "color": "rgba(123, 45, 48, 0.2)"
+            },
+            {
+                "label": "volvo 264gl",
+                "value": 13.6,
+                "color": "rgba(73, 90, 190, 0.2)"
+            },
+            {
+                "label": "plymouth custom suburb",
+                "value": 13.0,
+                "color": "rgba(87, 30, 179, 0.2)"
+            },
+            {
+                "label": "amc ambassador sst",
+                "value": 11.5,
+                "color": "rgba(49, 105, 142, 0.2)"
+            },
+            {
+                "label": "cadillac seville",
+                "value": 12.1,
+                "color": "rgba(50, 9, 66, 0.2)"
+            },
+            {
+                "label": "mazda glc",
+                "value": 17.9,
+                "color": "rgba(114, 180, 58, 0.2)"
+            },
+            {
+                "label": "chevrolet vega 2300",
+                "value": 15.5,
+                "color": "rgba(245, 218, 237, 0.2)"
+            },
+            {
+                "label": "toyouta corona mark ii (sw)",
+                "value": 14.5,
+                "color": "rgba(9, 170, 190, 0.2)"
+            },
+            {
+                "label": "amc matador (sw)",
+                "value": 15.5,
+                "color": "rgba(87, 116, 181, 0.2)"
+            },
+            {
+                "label": "peugeot 604sl",
+                "value": 15.8,
+                "color": "rgba(46, 247, 189, 0.2)"
+            },
+            {
+                "label": "toyota corolla",
+                "value": 16.4,
+                "color": "rgba(33, 194, 137, 0.2)"
+            }
+        ]
+    },
+    {
+        "chart_type": "pie",
+        "chart_title": "Cars' Acceleration (time to speed)",
+        "data": [
+            {
+                "label": "ford maverick",
+                "value": 16.0,
+                "color": "rgba(49, 106, 176, 0.2)"
+            },
+            {
+                "label": "plymouth sapporo",
+                "value": 16.7,
+                "color": "rgba(67, 120, 136, 0.2)"
+            },
+            {
+                "label": "datsun 510",
+                "value": 14.7,
+                "color": "rgba(69, 116, 232, 0.2)"
+            },
+            {
+                "label": "mazda glc deluxe",
+                "value": 19.4,
+                "color": "rgba(25, 104, 36, 0.2)"
+            },
+            {
+                "label": "datsun 200-sx",
+                "value": 14.9,
+                "color": "rgba(28, 2, 86, 0.2)"
+            },
+            {
+                "label": "dodge rampage",
+                "value": 11.6,
+                "color": "rgba(138, 70, 212, 0.2)"
+            },
+            {
+                "label": "amc hornet",
+                "value": 16.0,
+                "color": "rgba(142, 224, 97, 0.2)"
+            },
+            {
+                "label": "ford gran torino",
+                "value": 12.8,
+                "color": "rgba(127, 228, 154, 0.2)"
+            },
+            {
+                "label": "toyota corolla 1200",
+                "value": 19.0,
+                "color": "rgba(12, 81, 119, 0.2)"
+            },
+            {
+                "label": "oldsmobile starfire sx",
+                "value": 17.6,
+                "color": "rgba(198, 117, 64, 0.2)"
+            },
+            {
+                "label": "chevrolet monte carlo s",
+                "value": 13.0,
+                "color": "rgba(22, 209, 52, 0.2)"
+            },
+            {
+                "label": "chevrolet chevelle malibu classic",
+                "value": 13.0,
+                "color": "rgba(9, 24, 184, 0.2)"
+            },
+            {
+                "label": "cadillac seville",
+                "value": 12.1,
+                "color": "rgba(241, 241, 175, 0.2)"
+            },
+            {
+                "label": "amc concord d/l",
+                "value": 15.1,
+                "color": "rgba(87, 210, 98, 0.2)"
+            },
+            {
+                "label": "buick century limited",
+                "value": 16.4,
+                "color": "rgba(58, 69, 233, 0.2)"
+            }
+        ]
+    }
+]
