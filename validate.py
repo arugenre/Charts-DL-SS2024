@@ -1,5 +1,8 @@
 import json
 from typing import List
+import ast
+
+import pandas as pd
 
 from data.common.schemas import Chart
 from data.common.utils import convert_json_to_chart_objects
@@ -80,18 +83,14 @@ def validate_single_item(chart: Chart, prompt: str) -> bool:
     for label in chart.data:
         label_index = find_label_index_in_prompt(label=label.label, prompt=prompt)
         if label_index == -1:
-            print("if label_index == -1: ", label.label)
             return False
         if label_index < labels_indexes[-1]:
-            print("if label_index < labels_indexes[-1]: ", label.label)
             return False
 
         value_index = find_value_index_in_prompt(value=str(label.value), prompt=prompt)
         if value_index == -1:
-            print("if value_index == -1: ", label.value)
             return False
         if value_index < values_indexes[-1]:
-            print("value_index < values_indexes[-1]: ", label.value)
             return False
 
         labels_indexes.append(label_index)
@@ -100,33 +99,33 @@ def validate_single_item(chart: Chart, prompt: str) -> bool:
     return True
 
 
-def validate(chart_jsons: List[dict], prompts: List[str]):
+def validate(chart_jsons: List[dict], prompts: List[str]) -> List[bool]:
     charts = convert_json_to_chart_objects(chart_jsons=chart_jsons)
 
     c = 0
+    validation_bools = []
+
     for i, chart in enumerate(charts):
         is_valid = validate_single_item(chart=chart, prompt=prompts[i])
         if is_valid:
             c += 1
-        print(is_valid)
-        if not is_valid:
-            print(chart_jsons[i], prompts[i])
-        print("----")
 
-    print(c)
+        validation_bools.append(is_valid)
+
+    print("Number of valid LLM prompts: ", c)
+
+    return validation_bools
 
 
 def main():
-    prompts = []
-    chart_jsons = []
-
-    with open("final_prompts.json", "r") as f:
-        prompts = json.loads(f.read())
-
-    with open("final.json", "r") as f:
-        chart_jsons = json.loads(f.read())
-
-    validate(chart_jsons=chart_jsons, prompts=prompts)
+    """
+    adds column about validity of LLM generated prompt
+    """
+    df = pd.read_csv("final.csv")
+    chart_jsons = [ast.literal_eval(chart_json) for chart_json in df["Data in JSON"]]
+    validation_bools = validate(chart_jsons=chart_jsons, prompts=df["LLM Generated"])
+    df["LLM generated prompt is valid"] = validation_bools
+    df.to_csv("final_validated.csv", index=False)
 
 
 if __name__ == "__main__":
